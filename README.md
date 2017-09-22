@@ -1,5 +1,10 @@
 # info-retrieval-reuters
 
+## Questions
+1. How should we 'retrieve' documents? Should we just return the ID? The full body + title of the doc? The raw data?
+
+
+
 Objectives: Implement SPIMI. Implement rudimentary information retrieval using your SPIMI indexer. Test and
 analyze your system, discuss how your design decisions influence the results.
 
