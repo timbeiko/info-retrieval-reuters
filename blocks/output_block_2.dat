@@ -1,13 +1,15 @@
 'll 339 
 're 306 
 ****** 283 298 
--cocoa 275 
+-fa 371 
 -has-34-p 366 
 -laval 302 
 -re 370 
 -seeks-to 369 
+-signs-licen 373 
+-to-sel 379 
 -u.s.-set-to-be 342 
-/author 278 295 306 308 311 316 319 335 339 340 342 354 362 367 
+/author 278 295 306 308 311 316 319 335 339 340 342 354 362 367 372 382 
 /mknote 327 
 0.10 337 
 0.2 330 
@@ -18,10 +20,14 @@
 0.9 357 
 0011 298 
 0014 283 
+0032 373 
 0034 343 
 0035 332 
 0038 336 
+0048 376 
+0060 378 
 0061 304 
+0063 379 
 0064 299 
 0074 341 
 0081 294 
@@ -39,25 +45,24 @@
 0097 356 
 0098 310 351 
 0099 278 284 
-0100 276 295 350 358 359 
+0100 295 350 358 359 375 
 0101 340 369 
-0102 282 328 355 363 
+0102 282 328 355 363 372 
 0105 288 345 362 
 0106 286 290 314 316 360 
-0107 303 
+0107 303 374 381 
 0108 279 311 312 370 
 0109 305 334 353 366 
-0110 308 319 325 335 348 349 365 
+0110 308 319 325 335 348 349 365 380 
 0111 342 361 
-0112 275 292 317 
+0112 292 317 382 
 0113 320 339 346 347 
 0114 331 352 
-0115 293 300 302 309 368 
+0115 293 300 302 309 368 377 
 0116 281 337 
 0118 329 
 0119 323 
-01:28:24.65 275 
-01:41:24.21 276 
+0126 371 
 01:59:56.87 277 
 02:01:55.38 278 
 02:04:30.58 279 
@@ -66,7 +71,6 @@
 02:35:00.83 282 
 02:48:11.01 283 
 02:51:49.82 284 
-03-02 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 
 03:40:32.85 285 
 03:44:22.83 286 
 03:45:48.48 287 
@@ -154,6 +158,17 @@
 08:25:56.49 369 
 08:26:22.18 370 
 08:26:35.85 371 
+08:29:05.15 372 
+08:38:57.06 373 
+08:40:10.61 374 
+08:40:58.33 375 
+08:41:41.32 376 
+08:42:00.68 377 
+08:43:02.74 378 
+08:43:25.91 379 
+08:43:41.94 380 
+08:43:56.94 381 
+08:47:06.03 382 
 1,000 301 305 311 325 
 1,084 317 
 1,100 305 
@@ -169,33 +184,29 @@
 1.05 361 
 1.06 364 
 1.08 303 
-1.1 327 330 
-1.15 275 
+1.1 327 330 375 
 1.19 356 
 1.2 327 335 
-1.208 274 
 1.25 362 
 1.28 299 
-1.3 275 
+1.3 374 
 1.30 356 
-1.35 274 313 
+1.35 313 
 1.38 313 
 1.4 306 327 330 
 1.40 299 
-1.5 274 306 330 334 
-1.6 274 327 330 
+1.5 306 330 334 
+1.6 327 330 
 1.61 307 
 1.62 356 
 1.75 330 
 1.775 278 
 1.79 329 
-1.87 276 
 1.9 327 
 1.94 364 
 1/2 301 325 329 
 10,00 301 
 10,000 281 
-10,284 275 
 10,400 313 
 10-13/16 341 
 10-7/8 341 369 
@@ -212,6 +223,7 @@
 106,000 311 
 109,561 340 
 11-21 299 
+11.03 378 
 11.4 317 
 11.6 317 340 
 113,000 313 
@@ -223,12 +235,10 @@
 12-bank 347 
 12-inch 367 
 12.6 302 
+12.8 378 
 122,819 285 
-123,000 275 
 124,100 313 
 124.6 323 
-12458 275 
-12459 276 
 12460 277 
 12461 278 
 12462 279 
@@ -269,7 +279,6 @@
 12497 314 
 12498 315 
 12499 316 
-125,000 275 
 12500 317 
 12501 318 
 12502 319 
@@ -324,15 +333,29 @@
 12551 369 
 12552 370 
 12553 371 
+12554 372 
+12555 373 
+12556 374 
+12557 375 
+12558 376 
+12559 377 
+12560 378 
+12561 379 
+12562 380 
+12563 381 
 12564 356 
+12565 382 
 13,761 311 
 13-inch 367 
 13-nation 353 
+13.00 378 
 13.1 327 
 13.37 319 
 13.50 297 
 13.6 354 
 13.80 297 
+13.83 378 
+13.88 378 
 136.42 319 
 137,200 313 
 139,800 313 
@@ -373,20 +396,19 @@
 1971 337 
 1974 364 
 198,000 327 
-1980 275 
-1984 302 316 335 340 358 367 
-1984/85 319 
-1985 274 275 277 279 288 311 313 314 316 323 327 331 335 340 356 357 364 
-1985/86 275 293 303 319 327 
-1986 274 275 277 282 297 299 302 303 306 311 312 313 314 315 323 327 334 335 340 356 361 362 364 370 
-1986/87 275 293 303 317 319 
-1987 275 282 288 297 305 306 310 311 312 328 329 331 335 340 345 348 355 356 359 361 365 370 
-1987/88 275 279 303 317 319 
+1984 302 316 335 340 358 367 381 
+1984/85 319 374 
+1985 277 279 288 311 313 314 316 323 327 331 335 340 356 357 364 
+1985/86 293 303 319 327 374 
+1986 277 282 297 299 302 303 306 311 312 313 314 315 323 327 334 335 340 356 361 362 364 370 371 375 378 381 
+1986/87 293 303 317 319 
+1987 282 288 297 305 306 310 311 312 328 329 331 335 340 345 348 355 356 359 361 365 370 371 375 382 
+1987/88 279 303 317 319 
 1987/92 350 
-1988 274 275 279 288 294 295 303 305 308 335 354 
+1988 279 288 294 295 303 305 308 335 354 375 
 1988/92 350 
-1989 294 329 344 360 
-1990 301 314 335 339 
+1989 294 329 344 360 375 
+1990 301 314 335 339 375 
 1991 329 
 1992 278 282 305 325 340 
 1994 291 305 
@@ -399,37 +421,42 @@
 2,500 308 
 2,697 285 
 2,899 367 
-2-mar-1987 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 
 2.1 327 357 
 2.12 313 
 2.14 289 
 2.15 348 
 2.16 313 
+2.21 378 
+2.25 378 
 2.3 330 
-2.32 276 
 2.4 280 
+2.49 378 
 2.5 335 340 355 
 2.50 297 
+2.61 378 
+2.70 374 
 2.71 293 
 2.75 313 
 2.77 340 
 2.795 277 
-2.80 276 
 2.81 293 
 2.82 313 
+2.96 374 
 20,000 311 320 
 200,000 309 329 
 200-foot 368 
-2002 325 
+2002 325 372 
 201,000 327 
 201,400 313 
 21,000 311 
+213,567 380 
 216,000 327 
 217,000 327 
 22.19 364 
 22.7 314 
 22.88 364 
 227,500 313 
+228-room 379 
 23,085 340 
 23.18 364 
 23.5 356 
@@ -437,7 +464,7 @@
 23.71 364 
 24,516 311 
 24,636 311 
-24-hour 276 328 
+24-hour 328 
 240,000 287 297 
 241,000 293 
 25,100 366 
@@ -468,6 +495,7 @@
 3.3 316 
 3.32 313 
 3.39 322 
+3.4 374 
 3.46 293 
 3.47 313 
 3.5 355 362 
@@ -476,21 +504,20 @@
 3.64 322 
 3.66 293 
 3.7 330 335 
-3.8 319 
+3.8 319 374 
 3.802 277 
+3.86 374 
 3.9 289 
 300,000 297 303 361 
 308,200 313 
-31,000 275 
+30s 372 
 31,500 311 
 31-1/4 337 
 31.2 327 
 32,000 313 
-32,378 275 
 32.5 356 
 325,000 327 
 325,900 313 
-33,000 275 
 33.13 316 
 338,800 313 
 34.1 302 
@@ -498,7 +525,7 @@
 342,900 313 
 345,800 313 
 348.2 356 
-35,000 275 
+35.125 372 
 35.8 327 
 36.4 282 
 36.5 319 
@@ -507,7 +534,6 @@
 362,500 313 
 371,700 313 
 375,000 303 
-38,000 275 
 39.8 304 
 399,000 327 
 4,000 293 
@@ -516,21 +542,23 @@
 4.03 355 
 4.1 330 
 4.2 317 
+4.25 380 
 4.34 310 
 4.4 317 
 4.5 340 356 
 4.6 345 
 4.65 312 
-4.67 275 
 4.7 357 
-4.8 275 296 
+4.8 296 
 4.9 304 
 400,000 327 
 408,000 327 
 409,000 327 
+420,000 371 
 422.3 316 
 425,000 303 
 43.8 335 
+44,000 377 
 445,400 313 
 448.8 316 
 456,968 366 
@@ -544,7 +572,6 @@
 5-1/2 362 
 5-1/8 291 
 5-3/4 278 
-5.0 275 
 5.15 289 
 5.2 330 
 5.3 296 335 
@@ -554,16 +581,13 @@
 5.6 315 
 5.75 366 
 5.768 277 
-5.77 275 
-5.8 275 
 5.983 277 
 5/8 291 347 350 
 5/8ths 347 
-50,000 275 311 
-50-cent 276 
+50,000 311 
 50.1 331 
 50.70 319 
-500,000 300 
+500,000 300 374 380 
 51.46 283 284 
 51.48 342 
 51.5 327 
@@ -596,27 +620,27 @@
 68000 367 
 68020 367 
 683,400 313 
-695,000 274 
 7,000 311 313 
 7-1/4 329 
 7-3/8 301 
 7.1 327 
 7.25 352 
 7.431 277 
+7.5 378 
 7.6 327 
-7.7 335 
+7.7 335 374 
 70,000 311 339 
 70,306 285 
 700p 304 
 709,200 313 
 71.25 288 
-720,000 274 
 729,000 327 
 73,200 313 
 737,987 310 
 737-400s 294 
 747-300 344 
 747-400 344 
+75,000 380 
 757-200 294 
 757s 294 
 760,000 313 
@@ -632,7 +656,6 @@
 82.9 365 
 826,000 327 
 833,000 344 
-85,000 275 
 85,500 313 
 852.13 319 
 855,000 315 
@@ -647,12 +670,12 @@
 9.22 284 
 9.5 361 
 9.6 327 
-90,000 275 
 900,000 276 
 92,800 313 
+928,0000 380 
 94,900 313 
 948,000 353 
-95,000 275 297 
+95,000 297 
 95.50 316 
 96,000 293 311 
 967,000 327 
@@ -666,7 +689,7 @@
 983.6 299 
 99-1/2 278 
 993,000 293 
-`` 274 275 278 286 292 295 303 306 308 309 316 319 327 335 339 340 342 347 348 350 352 353 354 355 357 358 359 362 367 370 
+`` 278 286 292 295 303 306 308 309 316 319 327 335 339 340 342 347 348 350 352 353 354 355 357 358 359 362 367 370 372 382 
 aapl 367 
 ab 302 
 abandon 342 
@@ -674,8 +697,8 @@ abnn.a 324
 abolish 278 295 
 abolished 278 
 abolishes 295 
-abolition 274 318 
-abroad 312 314 335 342 350 
+abolition 318 
+abroad 312 314 335 342 350 374 
 absolutely 350 
 abu 349 
 accept 278 295 300 306 
@@ -696,26 +719,25 @@ achieve 303 350
 achieved 311 347 
 achievements 340 
 acknowledged 350 
-acq 298 302 304 315 331 334 361 362 366 369 371 
+acq 298 302 304 315 331 334 361 362 366 369 371 372 376 379 
 acquire 302 334 
-acquired 337 361 
-acquisition 331 362 366 
+acquired 337 361 371 372 
+acquiring 372 
+acquisition 331 362 366 372 
 acquisitions 355 
 act 300 
 action 308 342 350 
 actions 362 
-active 276 
 activities 302 340 356 
 activity 278 358 
 actual 313 
 acuires 361 
 acute 319 
-add 307 
-added 274 288 306 308 311 316 323 335 339 345 362 
+add 307 372 
+added 288 306 308 311 316 323 335 339 345 362 380 
 adding 278 348 350 
 addition 307 367 
 addresses 278 
-adequate 276 
 adequately 316 
 adherence 311 
 adhering 352 
@@ -728,7 +750,7 @@ admitted 342
 adopting 338 
 adr 345 
 advance 347 
-advanced 276 294 
+advanced 294 
 advances 296 337 
 advani 319 
 advantage 319 
@@ -742,22 +764,22 @@ africa 309 338
 african 309 338 
 after-tax 356 362 
 afternoon 278 
-ag 333 
+ag 333 378 381 
 aged 340 
 agencies 288 331 359 
 agency 280 281 288 314 337 349 352 
 agents 280 
 aggarwal 319 
-aggregate 319 
+aggregate 319 372 
 aging 308 
 ago 316 330 331 367 
 agree 337 350 
-agreed 276 288 295 306 311 318 331 333 352 
-agreement 276 281 286 288 290 334 340 342 349 350 354 360 
+agreed 288 295 306 311 318 331 333 352 372 379 380 
+agreement 281 286 288 290 334 340 342 349 350 354 360 373 376 
 agrees 318 334 
 agricole 326 
-agricultural 327 
-agriculture 275 303 327 
+agricultural 327 374 
+agriculture 303 327 
 aground 368 
 ahead 312 338 355 
 aid 350 
@@ -765,7 +787,7 @@ aided 350
 aim 357 
 aimed 289 295 296 311 318 360 367 
 aims 335 
-air 294 
+air 294 372 
 aircraft 282 344 
 aires 348 
 airline 282 
@@ -776,14 +798,17 @@ ajoy 319
 al-khalifa 353 
 al-qabas 353 
 al-sabah 353 
+al.n 377 
 alabama 370 
 alaska 337 
+alcan 377 
 alexander 286 369 
 alfa 302 
 alfs 302 
 algemene 324 
 ali 353 
 alice 278 
+alkan 377 
 all-purpose 367 
 all-time 284 
 allegations 346 
@@ -793,36 +818,43 @@ allocation 310
 allowed 311 319 
 alltest 369 
 alternative 288 308 347 
+alum 377 
+aluminium 377 
+aluminiumwerke 377 
 am-macintosh 367 
 am-oil-saudi 352 
 ambitious 362 
 amc 360 
 amendments 300 
+america 382 
 american 286 320 342 360 362 
 amid 308 342 
 amin 318 
 amo 360 
-amount 278 300 370 
+amount 278 300 370 372 379 
 amounted 302 342 
 amounts 296 370 
 amp 365 367 
 amplifier 339 
 amsterdam 296 
+anaesthetic 375 
 analogue 339 
 analyst 278 316 367 
-analysts 302 308 316 319 339 353 362 
+analysts 302 308 316 319 339 353 362 372 
 andres 316 
 andrew 354 
 angeles 344 367 
 angrily 340 
 animal 313 327 
+annesthetic 375 
 announce 344 367 
-announced 310 326 355 356 363 365 
+announced 310 326 355 356 363 365 372 
 announcements 305 
 announces 310 
-annual 275 281 287 303 309 316 319 325 345 369 370 
+annual 281 287 303 309 316 319 325 345 369 370 377 381 
 annually 342 350 
 annum 322 325 
+anthony 382 
 anti-apartheid 309 
 anti-dumping 346 
 anti-piracy 339 
@@ -841,13 +873,12 @@ appointed 316 319
 appointment 316 
 appreciation 308 
 approached 362 
-approval 276 300 309 
+approval 300 309 375 
 approve 311 
-approved 321 335 369 
+approved 321 335 369 375 
 approves 308 
-approximately 361 
+approximately 361 375 
 april 295 297 300 305 308 320 322 329 335 344 
-april-march 275 
 april/january 319 
 arab 288 349 
 arabes 288 
@@ -867,15 +898,18 @@ arthaxan 321
 arthritis 321 
 asea 302 
 asia 300 344 
-asian 276 
 asked 311 335 348 350 352 353 358 359 
 assemblies 308 
 assembly 360 
+asset-back 382 
+asset-backed 382 
 assets 315 334 356 365 
 assistance 341 
 associate 316 
-association 276 293 311 358 365 
+associates 380 
+association 293 311 358 365 
 association. 304 
+assumed 380 
 assurance 319 
 assured 316 
 asts 302 
@@ -895,14 +929,13 @@ audio 339
 august 346 358 
 auspices 342 
 austerity 335 
-australia 276 311 344 
+australia 311 344 
 australian 344 
-author 278 295 306 308 311 316 319 335 339 340 342 354 362 367 
+author 278 295 306 308 311 316 319 335 339 340 342 354 362 367 372 382 
 authoritative 347 
-authorities 276 335 
-authority 276 300 346 
-auto 360 
-automated 276 
+authorities 335 
+authority 300 346 
+auto 360 372 
 automatic 295 359 
 autorama 287 
 average 285 300 317 350 
@@ -913,50 +946,58 @@ awarded 300
 axp 362 
 b. 319 
 ba 344 
+bac 382 
 bac.n 306 
 back 295 302 308 339 340 350 
 back-up 337 
-backed 316 
+backed 316 382 
 backing 338 
 bad 319 340 
+baden 378 381 
 baghdad 288 
-bags 275 
 bahrain 288 349 352 
 baker 348 
 balance 308 315 324 340 350 
 balances 307 
+bales 374 
 balladur 355 357 
 balo 305 326 
 band 341 
 bangkok 282 310 311 324 
-bank 276 277 278 281 284 288 289 292 295 296 300 306 307 312 316 319 322 324 330 331 335 336 341 347 350 351 359 365 366 
-bankamerica 306 
+bank 277 278 281 284 288 289 292 295 296 300 306 307 312 316 319 322 324 330 331 335 336 341 347 350 351 359 365 366 372 382 
+bankamerica 306 382 
 banker 316 
-bankers 278 288 306 307 
-banking 276 278 288 300 306 324 359 
+bankers 278 288 306 307 382 
+banking 278 288 300 306 324 359 376 
 bankrupcty 335 
 bankrupcy 335 
-banks 278 288 292 294 295 306 322 323 324 337 340 347 348 350 359 
+banks 278 288 292 294 295 306 322 323 324 337 340 347 348 350 359 382 
 banning 339 
 banque 301 324 326 
 banques 288 
+barbara 376 379 
 barclays 306 
 bargaining 342 
 barrel 352 
 barrels 353 
 base 300 
 based 280 295 297 310 317 319 358 361 
-bases 275 
 basic 335 
 basis 304 313 319 331 337 350 
 basking 340 
+bbc 378 381 
+bbcz.z 378 381 
+bc- 371 
 bc-alaska-housing-has-15 337 
+bc-alcan-to-close-west-g 377 
 bc-american-motors-break 360 
 bc-argentine-debt-negoti 348 
 bc-atpc-members-find-way 311 
 bc-balladur-expects-impr 357 
+bc-bbc-ag-brown-boveri-u 378 
 bc-beecham-unit-launches 321 
 bc-black-miners-support 309 
+bc-brown-boveri-omits-di 381 
 bc-caecl-issues-12-billi 291 
 bc-carlton-communication 345 
 bc-cheung-kong- 299 
@@ -965,6 +1006,7 @@ bc-china-signs-world-ban 281
 bc-chinese-banks-to-issu 292 
 bc-coloroll-agrees-to-bu 334 
 bc-creditors-allow-teck 324 
+bc-dh-technology- 380 
 bc-digital-audio-tape-pl 339 
 bc-dutch-animal-feed-usa 327 
 bc-dutch-oilseeds/fats-i 313 
@@ -974,19 +1016,20 @@ bc-estimated-drop-in-jap 317
 bc-exco-buys-u.s.-govern 331 
 bc-february-u.s.-purchas 358 
 bc-fiat-unit-issues-100 329 
+bc-financial-santa-barba 376 
 bc-funaro-says-brazil-ne 359 
 bc-german-eurobond-marke 278 
 bc-gulf-arab-deputy-oil 349 
 bc-hoechst-to-research-d 333 
 bc-hutchison-sees-higher 356 
 bc-ico-talks-on-coffee-q 290 
+bc-imperial-chemical- 375 
 bc-india-buys-46,000-ton 320 
 bc-india-to-hold-white-s 343 
 bc-indian-budget-deficit 319 
 bc-indian-sugar-output-r 293 
 bc-indonesia's-exports-d 277 
 bc-indonesian-soybean-im 303 
-bc-indonesian-tea 275 
 bc-international-leisure 294 
 bc-iraq-defers-payments 288 
 bc-japan 342 
@@ -1003,11 +1046,14 @@ bc-lebanese-president-ag 318
 bc-ll/e-royalty- 370 
 bc-manila-officials-spli 350 
 bc-manila-said-to-offer 347 
+bc-marriott- 379 
 bc-merrill-lynch-issues 301 
+bc-ncr- 373 
 bc-new-dutch-advances-to 296 
 bc-nobel/financiere-robu 305 
 bc-oecd-says-japan-resol 351 
 bc-oil-kuwait 353 
+bc-pakistan-cotton-outpu 374 
 bc-pakistan-to-tender-fo 332 
 bc-penril- 369 
 bc-philadelphia-port-clo 368 
@@ -1021,7 +1067,6 @@ bc-scientific-micro-syst 361
 bc-shultz-visit-to-mosco 286 
 bc-shv-says-it-making-te 298 304 
 bc-simex-trading-volume 285 
-bc-singapore-exchange-se 276 
 bc-sino-u.s.-venture-in 280 
 bc-sncf-issuing-three-bi 326 
 bc-south-korea-to-hold-c 312 
@@ -1040,20 +1085,22 @@ bc-u.k.-confirms-january 330
 bc-u.k.-money-market-def 307 
 bc-u.k.-money-market-rec 341 
 bc-u.k.-money-market-sho 336 
+bc-u.s.-corporate-financ 382 
 bc-wallenbergs-fight-bid 302 
 bcom.l 331 
 bcs.l 306 
-beans 275 297 303 
+beans 297 303 
 bear 289 
 bearing 330 
 beecham 321 
-begin 287 309 342 370 
+begin 287 309 342 370 372 
 beginning 278 295 317 335 
 behave 316 
 beirut 318 
 belgium 346 
 believed 320 
 believes 344 
+belive 372 
 beloit 365 
 below-cost 346 
 bentsen 342 
@@ -1063,32 +1110,32 @@ berths 281
 bessmertnykh 286 
 bham.l 321 
 bharatiya 319 
-bid 281 300 302 316 361 
+bid 281 300 302 316 361 372 
 bidders 300 
 bidding 342 
 bids 296 300 
 bigger 311 
-biggest 275 
 bilateral 342 350 
 bill 300 342 
-billion 277 278 279 283 284 288 289 291 292 296 299 300 304 306 307 312 316 319 323 326 327 330 331 335 337 340 342 344 347 348 350 354 355 356 359 362 364 
+billion 277 278 279 283 284 288 289 291 292 296 299 300 304 306 307 312 316 319 323 326 327 330 331 335 337 340 342 344 347 348 350 354 355 356 359 362 364 375 378 
 bills 300 307 308 341 
+biltmore 379 
 bit 359 
 bk.n 331 
 bkn 366 
-black 275 309 340 
+black 309 340 
 blah 283 298 
 bleached 332 
 blinkered 340 
 blocked 363 
 bluffton 369 
 bnpp.p 324 
-board 312 313 316 322 347 365 366 369 
+board 312 313 316 322 347 365 366 369 380 
 boeing 294 344 
 boesze 335 
 bolivia 311 
 bombay 319 
-bond 278 291 295 300 305 325 326 328 329 347 
+bond 278 291 295 300 305 325 326 328 329 347 381 
 bonds 278 292 295 300 305 319 335 347 
 bonus 299 356 
 books 299 
@@ -1102,11 +1149,12 @@ bop 312
 borrowers 278 
 borrowing 282 317 319 330 335 366 
 borrowings 278 323 344 
-boston 300 325 
+boston 300 325 382 
 bottom 367 
 bought 297 331 
 boulder 333 
 bourse 340 355 
+boveri 378 381 
 bowes 358 
 boy 340 
 boycott 338 
@@ -1121,7 +1169,7 @@ breaks 360
 breathing 278 
 bretz 358 
 brewery 316 
-bridge 348 350 
+bridge 348 350 372 
 bridging 350 
 briefing 367 
 briefly 284 
@@ -1131,7 +1179,7 @@ bringing 289
 britain 340 344 356 359 
 british 331 356 
 broad 330 
-broadening 362 
+broadening 362 382 
 brodersohn 348 
 broke 360 
 broken 308 
@@ -1141,6 +1189,7 @@ brokers 319 331
 broking 331 
 brothers 362 
 brought 278 364 
+brown 378 381 
 browne 354 
 bruce 367 
 brull 339 
@@ -1161,38 +1210,43 @@ bunya-ananta 282
 buoyancy 319 
 buoyant 345 
 burden 350 
-bus 276 
-business 279 302 317 320 331 334 346 347 358 367 
+burdett 371 
+business 279 302 317 320 331 334 346 347 358 367 372 
 businesses 317 
-buy 319 324 329 331 334 337 342 344 356 366 
+buy 319 324 329 331 334 337 342 344 356 366 372 
 buyer 324 349 
 buyers 302 319 
 buying 284 297 302 331 339 342 343 
+buyout 372 
 buys 297 315 320 331 
+bv 373 
 c. 340 
 cabinet 308 318 319 
 caecl 291 
 caisse 291 326 
 cale 370 
-calendar 275 277 278 303 310 311 323 327 
-calif. 366 
-california 361 
+calendar 277 278 303 310 311 323 327 
+calif. 366 371 376 
+california 361 371 
 call 295 363 
 callable 325 
-called 295 308 
+called 295 308 375 
 calls 340 
 calrsson 338 
 camdessus 348 
-canada 340 356 
+canada 340 356 377 
+canadian 372 
 candidates 308 
 cank 359 
 capable 278 
-capacity 281 292 359 
+capacity 281 292 359 377 
 capita 335 
-capital 276 279 300 301 302 304 305 315 319 324 337 340 355 362 
+capital 279 300 301 302 304 305 315 319 324 337 340 355 362 372 380 
 capitalises 304 
+caps 372 
 capture 346 
 car 360 
+card 382 
 cargoes 343 
 carlo 340 
 carlsson 338 
@@ -1203,11 +1257,12 @@ carrier 282
 carries 337 367 
 carry 305 308 328 347 
 carrying 348 368 
+carryover 374 
 cars 287 
 carve 339 
 case 308 340 
 cases 346 
-cash 292 295 315 347 362 364 
+cash 292 295 315 347 362 364 372 
 cassette 339 
 cat 340 
 categories 364 
@@ -1217,13 +1272,12 @@ cd 289 322
 cebeco-handelsraad 327 
 ceiling 295 322 352 
 central 277 289 292 296 322 335 341 359 
-centres 276 
 cents 299 356 
 certificate 322 
-certificates 289 322 347 355 
+certificates 289 322 347 355 381 
 cesare 340 
 chairing 306 
-chairman 311 316 331 344 345 355 356 358 367 
+chairman 311 316 331 344 345 355 356 358 367 374 380 
 chairmen 362 
 change 340 357 
 channel 300 
@@ -1235,18 +1289,19 @@ chatrachai 282
 cheaper 339 
 cheapest 339 
 check 340 
-chemical 280 
+chemical 280 375 
 chemicals 302 355 
 chemins 326 
 chemistry 355 
 cheung 299 
-chicago 297 
-chief 311 319 335 348 350 362 367 
+chicago 297 379 
+chief 311 319 335 348 350 362 367 372 380 
 china 280 281 292 297 303 311 314 342 356 
 chinese 281 292 297 303 
 chip 339 
 choice 347 367 
 christian 318 
+cie 378 381 
 cif 320 
 circuitry 339 
 circulated 362 
@@ -1259,26 +1314,28 @@ citicorp 300
 citruspulp 327 
 civil 318 
 ckgh.hk 299 
-claim 316 319 
-claims 309 
+claim 316 319 371 
+claims 309 371 
 clarification 340 
 clarify 359 362 
 classified 347 
 clear 306 316 340 
 clear-cut 306 
+clearances 372 
 clifford 369 
-close 276 278 290 299 311 316 362 
-closed 302 361 365 368 
+close 278 290 299 311 316 362 377 
+closed 302 361 365 368 372 
 closely 309 
-closure 327 
+closing 377 
+closure 327 372 
 co-lead 301 
 co-led 326 
 co-operative 327 
 coal 309 
 coast 368 
-cocoa 275 
 coconut 316 
-coffee 275 290 324 
+coffee 290 324 
+cofounder 380 
 coin 330 
 cojuangco 316 
 coke 281 
@@ -1291,52 +1348,52 @@ color 367
 colorado 333 365 
 coloroll 334 
 colors 367 
-combined 291 301 317 329 334 
+combined 291 301 317 329 334 375 
 comibol 311 
-coming 275 
+commencement 372 
 comment 311 316 324 362 
-commerce 310 
-commercial 288 295 300 306 347 350 359 
-commission 316 346 
+commerce 310 372 
+commercial 288 295 300 306 347 350 359 382 
+commission 316 346 372 374 
 commissioned 295 
 commitment 337 350 352 
-committed 366 
+committed 366 372 
 committee 295 306 319 326 347 348 358 
 commodities 313 324 
 commodity 313 
-common 361 366 
+common 361 366 371 372 
 commonwealth 331 
-communication 276 
 communications 345 
 communists 308 
 community 310 331 340 346 359 363 
 compact 339 
-company 276 279 281 282 302 305 311 316 323 324 326 331 333 334 355 356 362 366 367 369 
-compared 278 282 312 317 356 
+company 279 281 282 302 305 311 316 323 324 326 331 333 334 355 356 362 366 367 369 371 372 375 376 378 380 381 
+compared 278 282 312 317 356 374 
 compares 341 
 compensation 363 
 competition 279 295 339 362 363 
-competititve 275 
 competitive 295 300 
+competitor 372 
 competiveness 340 
 complain 278 
 complained 342 359 
 complaint 346 
 complaints 342 
 complement 355 
-complete 340 
+complete 340 372 
 completed 282 345 
-completely 278 
+completely 278 377 
 completing 366 
 completion 304 315 
 complex 360 
 complicated 308 
-component 275 313 
+complications 375 
+component 313 
 components 358 
 composite 328 358 
 comprised 320 
 comprising 340 341 
-computer 276 331 339 342 361 367 
+computer 331 339 342 361 367 
 computers 342 367 
 comsumption 364 
 concentrate 369 
@@ -1347,7 +1404,8 @@ concession 291 301 325 329
 concessions 360 
 condemns 342 
 conditional 334 
-conditions 276 278 309 345 
+conditioned 372 
+conditions 278 309 345 372 
 conference 282 286 338 351 355 363 367 
 confident 311 348 
 confirm 330 362 
@@ -1358,7 +1416,8 @@ confronting 351
 confusion 359 
 congress 342 
 congressional 342 
-consecutive 358 
+consecutive 358 381 
+consent 380 
 consequences 340 
 considerable 347 
 considerably 367 
@@ -1370,6 +1429,7 @@ construction 317
 consultative 350 
 consumer 335 342 
 consumers 339 
+consumption 374 
 contact 290 
 contacted 362 
 contacts 286 
@@ -1377,7 +1437,7 @@ container 356
 containers 281 
 contentious 316 
 continental 304 
-continue 275 303 346 
+continue 303 346 
 continued 345 350 358 359 360 
 continuing 286 288 
 contract 280 285 
@@ -1390,7 +1450,7 @@ contributed 362
 contribution 330 
 control 302 309 359 
 controlled 316 
-controls 275 316 340 
+controls 316 340 
 controversial 308 339 
 convene 290 
 conventional 339 
@@ -1401,7 +1461,7 @@ convertible 295 319 325 366
 convertibles 295 
 cool 306 
 cooperate 311 350 
-cooperation 340 349 351 
+cooperation 340 349 351 377 
 coordinating 306 
 coordination 349 
 copco 302 
@@ -1413,13 +1473,14 @@ core 302
 corn 327 
 cornfeedmeal 327 
 cornglutenfeed 327 
-corp 279 287 295 300 306 316 324 331 333 337 344 360 366 369 
-corporate 295 308 317 
-corporation 320 
-corporations 295 317 
+corporate 295 308 317 382 
+corporation 320 374 
+corporations 295 317 371 
+correspond 381 
 correspondents 311 340 
 cost 295 302 344 370 
-costs 311 317 340 346 360 370 
+costs 311 317 340 346 360 370 377 
+cotton 374 
 council 290 295 311 338 349 354 
 councils 335 
 counted 340 
@@ -1428,13 +1489,13 @@ countries 281 309 311 335 339 340 342 349
 country 292 311 316 319 335 340 347 348 350 359 
 coupon 278 295 305 325 
 coupons 278 
+courier 372 
 cover 319 
 covered 346 
 covering 296 324 
-cpo 274 
 crash 368 
-created 276 340 362 
-credit 288 300 306 325 326 342 348 359 
+created 340 362 
+credit 288 300 306 325 326 342 348 359 382 
 creditor 288 306 324 348 350 359 
 creditors 306 324 347 350 
 credits 306 335 
@@ -1443,20 +1504,17 @@ crisis 311 335 350
 criteria 295 342 
 criticised 354 
 criticism 356 
-crop 297 
+crop 297 374 
 crowd 309 
 crowns 302 
 crude 277 349 352 353 368 
-crushed 275 
 crushers 297 
 crushing 297 303 
-ctc 275 
 culprits 342 
 curb 311 
 curbing 289 
-curled 275 
 currency 319 329 335 
-current 282 293 303 304 311 312 317 318 327 340 344 345 346 367 
+current 282 293 303 304 311 312 317 318 327 340 344 345 346 367 374 
 curtailments 335 
 customs 311 
 cut 295 311 319 322 323 335 346 352 354 
@@ -1467,9 +1525,11 @@ d'aide 291
 d-mark 278 
 d. 319 
 daily 292 353 
+dale 371 
+dale-burdett-inc 371 
 dam 311 
-damage 308 
-damages 316 
+damage 308 371 
+damages 316 371 
 dampen 358 
 dangerous 335 
 danske 278 
@@ -1478,16 +1538,17 @@ dat 339
 data 311 330 340 357 
 david 335 
 day 278 331 342 347 350 
-days 295 325 342 362 
+days 295 325 342 362 372 
 de 288 324 326 
 deadline 360 
 deal 288 294 302 325 363 
 dealer 320 
-dealers 276 278 284 296 300 
-dealing 276 
+dealers 278 284 296 300 
+deals 382 
 dean 367 
 debenture 319 
-debt 282 288 306 323 324 330 335 347 348 350 356 359 364 369 
+debentures 372 
+debt 282 288 306 323 324 330 335 347 348 350 356 359 364 369 372 382 
 debt/equity 347 
 debut 339 
 dec 315 
@@ -1495,13 +1556,13 @@ decade 340
 decades 316 
 december 295 312 324 327 330 335 352 
 decide 316 338 362 
-decided 322 335 338 350 
+decided 322 335 338 350 377 
 decision 290 308 344 346 348 356 362 
 decisions 295 324 
 declaration 295 
 declared 309 
 decline 278 317 
-declined 311 316 324 358 367 
+declined 311 316 324 358 367 377 
 declining 325 358 
 decrease 279 
 decree 338 
@@ -1514,6 +1575,7 @@ deferrment 288
 defers 288 
 deficit 292 307 312 319 335 340 342 356 364 
 deficits 314 340 342 
+definitive 376 
 delaware 368 
 delayed 300 339 
 delegates 290 
@@ -1522,8 +1584,8 @@ delhi 293 319
 delicate 342 
 deliveries 358 
 delivering 368 
-delivery 294 339 344 
-demand 297 309 311 317 322 342 347 351 
+delivery 294 339 344 372 
+demand 297 309 311 317 322 342 347 351 374 
 demanded 309 339 340 
 demanding 363 
 demands 288 
@@ -1535,12 +1597,11 @@ denominated 278 305
 denomination 322 
 denominations 291 301 305 325 329 
 deodorised 332 
-department 311 
+department 311 371 
 departments 278 
 dependence 340 
 depending 347 367 
 depends 300 359 
-deploy 276 
 deposed 316 
 deposit 289 316 322 
 deposits 322 330 
@@ -1552,32 +1613,36 @@ des 291 326
 designed 344 347 367 
 desposits 365 
 detailed 324 
-details 276 280 282 292 306 326 333 347 355 369 
-determine 276 370 
+details 280 282 292 306 326 333 347 355 369 
+determine 370 
 determined 370 
 detroit 360 
 deutsche 278 
-devaluation 274 
-development 279 333 340 350 351 354 355 356 359 367 
+development 279 333 340 350 351 354 355 356 359 367 371 
 developments 328 
-develops 275 
 devices 367 
+dh 380 
 dhabi 349 
+dhl 380 
+dhtk 380 
+diabetic 375 
 diary 302 
 dictate 335 
-difference 339 364 
+diego 380 
+difference 339 364 371 
 difficult 335 350 
 difficulty 311 
 digital 339 
 digits 340 
 dilson 359 
 dinesh 319 
-dip 275 359 
+dip 359 
 diplomats 314 
+diprivan 375 
 directions 367 
 directive 340 
 directly 300 
-director 276 300 331 340 351 358 369 
+director 300 331 340 351 358 369 
 directors 316 369 
 directorship 316 
 disagreement 316 
@@ -1595,7 +1660,7 @@ discouraged 297
 discretion 311 
 discs 333 
 discuss 324 349 
-discussing 276 324 349 
+discussing 324 349 
 discussion 335 
 discussions 286 340 342 359 362 
 disease 303 
@@ -1611,13 +1676,12 @@ distributes 334
 distributor 287 
 ditch 290 
 div 299 
-diversify 275 
 divided 362 
-dividend 299 356 
+dividend 299 356 381 
 dividends 356 
-division 335 369 
+division 335 369 372 
 divisions 362 
-dlr 276 281 288 306 329 335 337 348 350 356 362 
+dlr 281 288 306 329 335 337 348 350 356 362 
 doctors 321 
 documents 311 347 
 doha 349 
@@ -1625,8 +1689,8 @@ dokkyo 308
 dollar 282 284 317 340 364 
 dollar-based 342 
 dollars 352 359 
-domestic 282 293 295 297 300 303 305 323 326 335 340 342 351 356 
-domm 362 
+domestic 282 293 295 297 300 303 305 323 326 335 340 342 351 356 374 
+domm 362 372 
 donors 350 
 double 282 295 314 319 340 361 
 doubled 319 327 331 
@@ -1641,8 +1705,10 @@ drive 361
 drop 277 317 370 
 dropped 277 327 
 drove 362 
-drug 321 
-due 284 287 288 291 301 303 306 311 323 325 329 342 344 355 357 365 369 370 
+drug 321 375 
+drugs 375 
+dub 382 
+due 284 287 288 291 301 303 306 311 323 325 329 342 344 355 357 365 369 370 372 374 
 duesseldorf 278 
 dumping 346 
 dutch 296 313 327 
@@ -1650,10 +1716,11 @@ duties 339
 duty 364 
 dwindling 359 
 e.f 362 
+e.f. 372 
 eager 339 
-earlier 286 293 324 335 356 367 
-early 276 290 300 303 320 339 
-earn 279 299 317 335 345 356 
+earlier 286 293 324 335 356 367 372 377 
+early 290 300 303 320 339 
+earn 279 299 317 335 345 356 378 381 
 earnings 299 317 331 344 356 359 362 
 ease 320 
 easily 335 342 359 
@@ -1675,8 +1742,9 @@ eduardo 316
 effect 279 295 322 370 
 effective 322 
 effectively 295 335 
-effort 275 288 290 
+effort 288 290 
 efforts 335 364 
+efh 372 
 eight-year 305 
 elaborate 311 
 elaborating 335 
@@ -1685,28 +1753,29 @@ election 308 316
 elections 308 
 electric 344 356 
 electrical 302 369 
-electronic 276 367 
+electricity 377 
+electronic 367 
 electronics 344 
 eligibility 295 
 embark 335 
-embassy 275 303 359 
+embassy 303 359 
 emergency 309 353 
 emirates 349 
 emphasizing 342 
 empire 302 
 employed 331 
 employee 339 
-employees 362 
+employees 362 377 
 employment 335 358 
 enable 281 
 enables 295 
 encourage 300 311 312 335 340 351 
-end 276 284 308 309 327 339 340 347 
+end 284 308 309 327 339 340 347 377 
 end-february 284 
 end-january 284 293 
 end-week 342 
 ended 360 364 
-ending 279 290 317 318 319 334 364 
+ending 279 290 317 318 319 334 364 374 
 endorse 309 
 endorsed 350 
 energy 311 340 
@@ -1721,13 +1790,12 @@ enhanced 344 362
 enhancement 361 
 enlarged 334 
 enquiry 346 
-ensure 276 311 318 
+ensure 311 318 
 enter 366 
 entered 334 
 enterprises 335 340 
 enthusiastic 306 
 entire 356 
-entities 276 
 entitle 329 347 
 entitled 370 
 entity 337 
@@ -1735,6 +1803,7 @@ entrants 279
 entree 367 
 envisage 357 
 equal 311 315 356 358 
+equally 375 
 equilibrium 359 
 equipment 281 292 302 
 equipped 367 
@@ -1742,6 +1811,7 @@ equity 319 328
 equivalent 323 
 era 339 
 erik 302 
+eschborn 377 
 escrow 370 
 escrowed 370 
 establish 300 342 
@@ -1749,8 +1819,8 @@ established 337
 estate 317 
 estates 369 
 estimate 314 319 336 341 367 370 
-estimated 275 288 303 311 317 319 334 340 353 359 370 
-estimates 274 317 370 
+estimated 288 303 311 317 319 334 340 353 359 370 372 
+estimates 317 370 
 euphoria 340 
 euro-commercial 337 
 eurobond 278 291 301 325 329 
@@ -1774,29 +1844,29 @@ exceeded 335
 exceeds 325 
 excess 311 
 excessive 311 340 
-exchange 276 284 285 289 295 317 323 344 354 356 361 
+exchange 284 285 289 295 317 323 344 354 356 361 371 
+exchanged 371 
 exchanging 351 
 exchequer 307 
-excluded 299 340 356 
+excluded 299 340 356 381 
 excluding 288 308 317 
 exclusion 340 
 exco 331 
-executive 282 367 
+executive 282 367 372 380 
 executives 367 
 exemption 319 
 exemptions 311 
 exercisable 329 
 exercised 329 
-existed 276 
-existing 305 306 
+existing 305 306 375 381 
 expand 282 358 362 
 expandable 367 
 expanded 335 
 expanding 340 358 367 
 expansion 281 282 319 367 
-expect 276 278 295 296 
+expect 278 295 296 
 expectations 340 357 
-expected 276 278 279 288 295 297 303 306 311 316 317 335 357 364 367 
+expected 278 279 288 295 297 303 306 311 316 317 335 357 364 367 375 
 expects 278 279 282 311 356 357 361 
 expedite 359 
 expenditure 335 
@@ -1807,22 +1877,25 @@ expensive 367
 experience 319 
 expertise 340 
 experts 340 
+expiration 372 
+expire 372 
 expired 366 
 expires 335 
 exploration 370 
-export 274 288 290 293 310 311 335 354 359 
+explosively 382 
+export 288 290 293 310 311 335 354 359 374 
 export-earners 354 
 export-led 356 
-exported 311 
+exported 311 374 
 exporter 311 
 exporters 342 
 exporting 349 
-exports 274 275 277 311 313 314 327 351 354 
+exports 277 311 313 314 327 351 354 
 exposure 306 
 express 362 
 expressed 319 367 
 extend 290 
-extended 306 344 
+extended 306 344 372 
 extending 324 360 
 extension 290 
 extent 306 335 
@@ -1874,8 +1947,18 @@ f0293 367
 f0300 368 
 f0301 369 
 f0304 370 
-f0611 275 
-f0619 276 
+f0305 371 
+f0315 372 
+f0353 373 
+f0354 374 
+f0357 375 
+f0358 376 
+f0360 377 
+f0361 378 
+f0362 379 
+f0363 380 
+f0364 381 
+f0375 382 
 f0633 277 
 f0635 278 
 f0638 279 
@@ -1926,17 +2009,19 @@ f0991 323
 f0996 324 
 face 349 355 
 faced 342 
+faces 371 
 facility 296 350 
 facing 340 342 
 factor 340 
 factors 279 307 364 
 factory 293 
 fail 350 
-failed 292 
+failed 292 377 
 failure 319 
 failures 365 
-fairly 276 
-fall 275 279 303 307 316 317 330 335 339 352 370 
+falk 380 
+falks 380 
+fall 279 303 307 316 317 330 335 339 352 370 
 falling 364 
 falls 358 
 families 309 
@@ -1956,7 +2041,7 @@ fear 350
 fears 339 
 feature 367 
 features 367 
-february 276 278 283 284 285 310 322 325 330 344 357 358 
+february 278 283 284 285 310 322 325 330 344 357 358 371 
 fed 347 362 
 federal 331 347 348 365 
 fee 337 
@@ -1976,29 +2061,29 @@ fields 342
 fight 302 338 
 figure 292 319 358 364 
 figures 311 312 314 327 330 335 370 
-filling 276 
+filters 372 
 final 299 308 325 360 
-finance 281 282 284 295 316 329 335 337 340 347 350 355 357 359 364 
+finance 281 282 284 295 316 329 335 337 340 347 350 355 357 359 364 382 
 financed 292 335 344 
 finances 364 
-financial 276 295 317 328 331 345 346 348 362 364 
+financial 295 317 328 331 345 346 348 362 364 374 376 
 financier 302 
 financiere 305 
-financing 288 335 350 359 
+financing 288 335 350 359 372 
 find 311 340 359 
 finger 342 
 finish 350 
 fire 335 
-firm 302 317 323 339 340 344 350 356 361 362 
-firms 276 281 292 295 312 317 333 335 340 347 
-fiscal 319 342 361 
+firm 302 317 323 339 340 344 350 356 361 362 372 380 
+firms 281 292 295 312 317 333 335 340 347 
+fiscal 319 342 361 374 
 fishoil 313 
 fitted 294 339 
 five-day 296 
 five-year 278 288 
 fixed 278 352 
 flat 297 
-fleet 282 344 
+fleet 282 344 372 
 flexible 295 
 flight 344 
 flights 344 
@@ -2008,19 +2093,21 @@ fob 297 320
 focus 340 
 focused 362 
 follow 316 348 362 
-force 308 309 338 
+force 308 309 338 375 
 forced 302 
 forcing 342 346 
 ford 287 
-forecast 274 275 303 307 317 335 336 340 356 357 364 
-forecasts 275 279 
+forecast 303 307 317 335 336 340 356 357 364 
+forecasts 279 
 foreign 284 286 288 289 302 306 323 324 340 342 344 348 350 351 354 359 
 foresee 278 317 
 forfeiture 316 
 forget 340 
 forints 335 
-form 288 338 345 
-formed 308 
+form 288 338 345 372 
+formed 308 372 
+forming 375 
+forms 375 
 fortunes 340 
 forvaltnings 302 
 forward 345 
@@ -2037,7 +2124,7 @@ francaise 326
 francaises 288 
 france 305 326 340 355 357 359 
 francisco 359 367 
-francs 305 355 364 
+francs 305 355 364 378 381 
 frankfurt 278 333 
 frederik 302 
 free 295 302 352 356 
@@ -2046,12 +2133,13 @@ freeze 335
 freezing 350 
 french 305 326 355 357 
 fresh 306 310 348 
-friday 276 278 302 316 320 359 360 361 362 366 367 
+friday 278 302 316 320 359 360 361 362 366 367 372 
 frigyes 335 
 fringe 302 
 front 309 
 frustrated 342 
 frustration 342 
+fsb 376 
 fuel 340 344 
 fueling 319 
 fujitsuka 339 
@@ -2064,16 +2152,16 @@ functions 367
 fund 319 335 347 348 350 359 
 fundamental 340 
 funding 350 
-funds 292 359 366 370 
-future 308 340 370 
+funds 292 359 366 370 372 
+future 308 340 370 372 
 futures 297 
 g-5 340 
 gain 350 356 364 
 gains 299 319 356 
 gamut 342 
 gandhi 319 
-gap 276 350 
-gas 277 298 304 370 
+gap 350 
+gas 277 298 304 370 372 
 gatt 342 
 gauge 278 350 
 gave 280 292 304 314 335 338 369 
@@ -2085,12 +2173,14 @@ general 342 344 351 367
 generally 347 358 
 generous 354 
 george 286 342 
-german 278 
-germany 321 340 359 
+german 278 377 
+germany 321 340 359 377 
 giant 362 
+gibb 380 
 give 278 282 306 318 325 333 347 355 356 362 367 
 giving 305 
 global 362 
+gmbh 377 
 gmt 290 
 gnp 350 
 goal 303 
@@ -2100,9 +2190,8 @@ goldie 331
 good 278 316 335 350 
 goods 351 359 
 gorbachev 286 
-gordon 276 
-government 275 276 278 282 288 292 300 308 311 312 316 319 323 330 331 335 337 338 342 347 350 356 357 363 364 
-government-owned 276 344 
+government 278 282 288 292 300 308 311 312 316 319 323 330 331 335 337 338 342 347 350 356 357 363 364 
+government-owned 344 
 governor 351 
 governors 308 
 grace 288 
@@ -2114,27 +2203,30 @@ graphics 367
 gray 367 
 great 339 
 greater 342 
-green 275 345 
-grew 330 356 
+green 345 
+grew 330 356 382 
 grievances 363 
 gros 359 
 gross 300 335 340 350 356 
 grossing 300 
+ground 372 
 groundnut 313 
 groundnut-oil 313 
-group 276 290 294 302 311 316 321 334 340 348 350 355 362 
+group 290 294 302 311 316 321 334 340 348 350 355 362 372 375 378 382 
 growing 302 319 339 342 361 
 grown 334 
+grows 382 
 growth 289 330 335 340 348 350 354 356 358 359 362 
 guarantee 340 
-guaranteed 329 347 
+guaranteed 329 347 372 
 guard 368 
 guideline 322 
 guilders 296 327 
 gulf 288 349 
+h. 380 
 h.k 299 
 hague 313 
-half 288 309 323 327 332 339 350 354 357 
+half 288 309 323 327 332 339 350 354 357 377 
 half-point 322 
 halving 331 
 hambrecht 367 
@@ -2147,22 +2239,23 @@ hard 335 339 342 367
 hardship 311 
 hardware 339 
 harming 346 
-head 276 340 348 
-heads 308 
+head 340 348 
+heads 308 382 
 healthy 345 
-heart 302 
+heart 302 375 
 heavy 278 339 340 346 
 hectic 319 
 heilongjiang 314 
 held 302 305 340 342 348 350 361 
+helmut 380 
 helped 340 
 hesitated 339 
 hfag.f 333 
-high 276 285 292 311 335 339 340 344 354 357 367 368 
+high 285 292 311 335 339 340 344 354 357 367 368 372 377 
 high-level 342 
 high-performance 367 
 high-ranking 351 
-higher 274 278 282 344 356 357 358 364 
+higher 278 282 344 356 357 358 364 
 highly 362 
 hilton 356 
 hisham 352 
@@ -2177,12 +2270,12 @@ hoechst 333
 hoffman 369 
 hold 312 331 332 343 346 
 holder 329 347 
-holding 302 304 319 329 331 357 
-holdings 276 299 328 330 331 356 
+holding 302 304 319 329 331 357 373 
+holdings 299 328 330 331 356 
 holds 304 308 316 331 
 holiday 278 
 home 342 365 
-hong 276 299 354 356 
+hong 299 354 356 
 hong-kong 299 354 356 
 hongkong 356 
 hoogovens 278 
@@ -2191,8 +2284,8 @@ hoped 335 368
 hopes 342 366 367 
 hostels 309 
 hostile 366 
-hotel 356 
-hotels 280 
+hotel 356 379 
+hotels 280 379 
 hours 290 
 house 295 308 
 houses 295 
@@ -2204,50 +2297,54 @@ hungary 335
 hurting 359 
 husky 356 
 hutchison 356 
-hutton 362 
+hutton 362 372 
 hwhh.hk 356 
 hyo.to 356 
+hypertension 375 
 ibm 367 
 ic 298 304 
 iceland 278 
 icgs.l 304 
+ici 375 
 ico 290 
 ico-coffee 290 
-idea 276 
 ideas 290 
+idsal 372 
 ignore 350 
 ignoring 342 
 ii 367 368 
 ill. 369 
+im 375 
 imbalance 342 
 imf 335 348 359 
+imp 375 
 impasse 347 
-imperial 304 
+imperial 304 375 
 implementation 308 349 
 implications 342 
 implies 358 
 import 287 320 332 354 359 
 important 364 
 imported 292 293 340 
-importer 275 
 importers 297 
 importing 287 
 imports 303 312 313 327 340 342 346 359 363 
 imposed 288 359 
 imposing 339 
 impossible 308 335 
-improve 275 309 335 362 
+improve 309 335 362 
 improved 317 348 356 357 358 362 364 
 improvement 340 357 364 
+improvements 379 
 inc. 315 333 
 incentive 302 
 incentives 335 
 include 342 367 
-including 278 279 293 297 313 335 342 364 
+including 278 279 293 297 313 335 342 364 375 
 income 308 311 316 319 331 364 370 
 incorporates 344 
-increase 274 275 284 303 304 312 324 345 346 355 
-increased 275 279 302 319 359 370 
+increase 284 303 304 312 324 345 346 355 374 
+increased 279 302 319 359 370 
 increases 295 303 357 364 
 increasing 317 342 
 increasingly 319 342 
@@ -2259,14 +2356,14 @@ indian 293 319 320
 indicator 358 
 indirect 318 
 individual 324 
-indonesia 275 277 303 311 
-indonesian 275 303 
+indonesia 277 303 311 
+indonesian 303 
 indosuez 300 
 industrial 280 340 348 355 358 
 industrialised 340 
 industrialists 340 
 industrier 302 
-industries 280 317 324 340 347 
+industries 280 317 324 340 347 375 
 industry 279 311 314 339 345 346 
 inefficient 292 335 
 infinite 339 
@@ -2274,11 +2371,11 @@ inflammation 321
 inflation 319 335 340 357 364 
 inflexible 278 
 informal 342 
-information 276 328 340 
+information 328 340 
 informed 288 
 ing 340 
 ingvar 338 
-initial 276 278 319 356 
+initial 278 319 356 
 initially 357 
 inject 319 
 injection 324 370 
@@ -2293,6 +2390,7 @@ instalment 288
 instalments 288 315 
 instinct 316 
 institute 317 
+institutional 382 
 institutions 306 317 342 359 
 instrument 369 
 instruments 300 331 
@@ -2306,28 +2404,31 @@ intends 366
 intent 295 
 intention 342 
 interbank 288 337 347 350 359 
-interest 276 285 288 289 292 296 307 315 316 317 322 330 335 336 340 341 347 348 350 356 359 364 369 370 
+interest 285 288 289 292 296 307 315 316 317 322 330 335 336 340 341 347 348 350 356 359 364 369 370 371 
 interested 346 
+interesting 382 
 interests 302 316 356 
 interface 367 
 internal 319 359 362 
-international 274 275 282 285 288 290 291 294 306 315 324 329 331 335 340 347 348 353 356 359 362 367 
+international 282 285 288 290 291 294 306 315 324 329 331 335 340 347 348 353 356 359 362 367 
 internazionale 329 
+interstate 372 
 intervention 284 359 
 interview 353 
 interviewer 357 
-introduce 276 295 335 364 
+introduce 295 335 364 375 
 introduced 279 308 321 335 342 367 
 introducing 308 
 introduction 295 
 inventories 358 
-invest 340 
+invest 340 379 
 invested 347 
-investment 280 300 312 316 342 350 355 
+investment 280 300 312 316 342 350 355 382 
 investments 279 356 364 
-investor 276 302 325 
-investors 319 337 
-involved 306 331 
+investor 302 325 
+investors 319 337 382 
+invite 381 
+involved 306 331 377 
 involving 308 
 iraq 288 
 irreparable 308 
@@ -2335,9 +2436,9 @@ irresponsible 308
 irritated 342 
 island 323 354 
 issuance 295 
-issue 278 292 295 299 301 305 308 311 325 326 329 335 345 355 356 
-issued 276 289 295 302 304 330 362 
-issuers 295 
+issue 278 292 295 299 301 305 308 311 325 326 329 335 345 355 356 381 
+issued 289 295 302 304 330 362 382 
+issuers 295 382 
 issues 278 289 291 295 300 301 319 325 329 342 
 issuing 291 292 295 300 301 305 325 326 329 356 
 istvan 335 
@@ -2348,12 +2449,12 @@ items 335 354
 jailed 309 
 jaime 316 347 350 
 jaimie 311 
-jakarta 275 277 303 
+jakarta 277 303 
 james 348 
 james-baker 348 
 janata 319 
 jane 340 
-january 278 279 283 284 293 295 305 308 311 312 330 340 355 357 358 367 370 
+january 278 279 283 284 293 295 305 308 311 312 330 340 355 357 358 367 370 371 
 japan 279 283 284 287 295 297 306 308 317 322 323 328 333 339 340 342 351 
 japanese 279 295 297 306 308 323 328 339 342 351 362 
 jay 370 
@@ -2361,20 +2462,22 @@ jean-claude 351
 jean-rene 355 
 jeffrey 362 
 jersey 368 
+jersey-based 372 
 jiji 328 
 jim 344 
 jobs 346 
-john 367 
+john 367 382 
 joined 363 
 joint 280 308 333 362 
 jr. 369 
 july 278 327 
 jump 282 
-june 299 305 309 327 334 344 
+june 299 305 309 327 334 344 374 377 381 
 k.k 300 
 ka-shing 356 
 kansas 365 
-keeping 311 316 
+karachi 374 
+keeping 311 316 372 
 kenosha 360 
 kerdix 333 
 key 302 318 365 
@@ -2382,12 +2485,12 @@ keyboards 367
 kick 342 
 kiichi 295 
 kilo 311 
-kilograms 275 
+kilos 374 
 kim 312 
 kind 347 359 
 kingdom 304 352 
 kms 344 
-kong 276 299 354 356 
+kong 299 354 356 
 koppabergs 302 
 korea 312 354 
 kremlin 286 
@@ -2403,17 +2506,19 @@ la 311
 labor 360 
 labour 309 335 
 lacy 331 
+lagging 372 
 lagos 311 
 lal 319 
 land 370 
 lane 362 
 language 328 356 
 large 278 289 302 314 319 322 356 
-largely 356 
+largely 356 372 
+larger 375 
 largest 302 309 314 331 335 340 
 largest-ever 284 
 larry 362 
-late 288 290 295 297 300 317 335 362 
+late 288 290 295 297 300 317 335 362 375 
 latest 277 295 327 340 344 
 launch 295 300 321 339 355 
 launched 278 300 321 
@@ -2422,9 +2527,10 @@ law 295 316 335
 lawrence 300 
 lawyer 316 
 lay 342 
+lbo 372 
 ldp 308 
 leach 340 
-lead 274 288 291 301 325 329 
+lead 288 291 301 325 329 
 lead-managership 295 
 leader 286 309 318 
 leaders 308 309 318 363 
@@ -2445,7 +2551,7 @@ leisure 294
 lend 350 
 lender 366 
 lenders 359 
-lending 330 350 359 
+lending 330 350 359 376 
 leslie 344 
 letter 316 
 letters 288 
@@ -2461,6 +2567,8 @@ liberal 308
 liberalisation 322 354 
 libor 288 347 350 
 licences 311 
+license 373 
+licensed 373 
 life 360 
 lifted 331 
 light 320 
@@ -2472,18 +2580,13 @@ limiting 354
 limits 353 
 line 322 323 367 368 
 lines 359 368 
-link 276 
-linking 276 
-links 276 
 liquefied 277 
 liquicia 316 
-liquidity 276 300 307 319 330 
+liquidity 300 307 319 330 
 lire 340 
 list 342 
-listed 276 291 301 317 325 326 329 339 356 
+listed 291 301 317 325 326 329 339 356 
 listen 350 
-listing 276 
-listings 276 
 live 309 
 living 335 
 ll 370 
@@ -2492,15 +2595,15 @@ lloyd 342
 llx 370 
 load 369 
 loan 281 288 304 337 348 365 366 
-loans 288 292 306 312 319 335 359 
-local 276 300 308 311 335 337 353 356 
+loans 288 292 306 312 319 335 359 372 
+local 300 308 311 335 337 353 356 
 locales 291 
 lodged 368 
 lokken 367 
-london 276 288 290 291 294 301 304 307 315 320 321 325 328 329 330 331 332 334 336 337 341 343 345 347 350 
+london 288 290 291 294 301 304 307 315 320 321 325 328 329 330 331 332 334 336 337 341 343 345 347 350 
 london-based 302 
 long 342 359 
-long-term 319 364 
+long-term 319 364 372 
 longer 346 
 looked 290 345 
 looming 350 
@@ -2508,17 +2611,17 @@ los 344 367
 losing 354 
 loss 339 346 
 losses 324 340 346 
-lost 342 368 
+lost 342 368 372 
 lot 300 340 
 louisiana 370 
-low 278 284 297 335 340 364 
+low 278 284 297 335 340 364 377 
 lower 295 308 317 340 358 360 
 lowered 322 
 lowering 322 
 lowest 300 
 lows 278 
 lrt 370 
-lse 276 
+ludwigshafen 377 
 luigi 340 
 luiss 340 
 lump-sum 295 
@@ -2537,27 +2640,26 @@ mac 367
 machine 339 354 
 machines 339 342 367 
 macintosh 367 
-macklin 276 
-made 287 288 292 295 304 324 331 335 339 340 342 347 354 
+made 287 288 292 295 304 324 331 335 339 340 342 347 354 381 
 madrid 363 
 magneto-optical 333 
 mahn-je 312 
 mail 367 
-main 275 303 307 313 342 352 354 
+main 303 307 313 342 352 354 
 mainstream 367 
 maintain 300 335 
 major 279 288 295 316 317 340 356 362 
-majority 306 
-make 279 280 295 306 309 311 335 339 342 347 350 355 356 
+majority 306 372 
+make 279 280 295 306 309 311 335 339 342 347 350 355 356 376 
 makers 300 339 344 
-makes 308 362 
+makes 308 362 372 
 making 298 299 302 304 356 359 
 malaysia 311 
 malaysian 320 
 managed 302 
-management 288 291 301 316 325 329 335 358 362 365 
-manager 278 291 295 301 319 325 329 358 
-managers 278 295 358 
+management 288 291 301 316 325 329 335 358 362 365 372 
+manager 278 291 295 301 319 325 329 358 382 
+managers 278 295 358 372 
 managing 300 331 340 
 mandela 309 
 manhattan 324 
@@ -2567,21 +2669,21 @@ manufacturers 294
 manufactures 334 
 manufacturing 287 317 
 mar 331 
-march 275 276 277 278 279 280 281 282 284 285 286 287 288 289 290 291 292 293 294 295 296 297 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 
 march/april 343 
 marcos 316 
 margarine 313 
 margin 288 366 
 mario 348 
 mark 278 
-market 275 276 278 295 296 300 302 307 319 320 322 331 334 336 337 339 341 342 345 346 347 349 352 356 361 362 364 367 
+market 278 295 296 300 302 307 319 320 322 331 334 336 337 339 341 342 345 346 347 349 352 356 361 362 364 367 377 382 
 market-oriented 295 
 marketing 282 349 
-markets 295 301 319 328 337 339 342 354 
+markets 295 301 319 328 337 339 342 354 374 
 marks 278 329 
 maronite 318 
+marriott 379 
 marseillaise 326 
-mas 276 300 
+mas 300 
 massive 284 
 match 302 
 materials 313 340 358 
@@ -2602,13 +2704,14 @@ meaningful 366
 means 292 340 344 
 meant 278 342 
 measure 330 
+measured 371 
 measures 311 317 319 335 356 
 mechanism 359 
 medicine 321 
 medium-range 286 
 medium-term 350 
 meet 288 290 292 303 306 342 348 349 350 362 
-meeting 276 288 290 306 308 309 322 324 340 345 353 369 
+meeting 288 290 306 308 309 322 324 340 345 353 369 381 
 meetings 340 
 megabyte 367 
 megabytes 367 
@@ -2618,16 +2721,20 @@ memory 333 367
 mention 319 
 mercury 346 
 merge 282 
+merger 372 
 merrill 301 337 
+messenger 372 
 met 296 324 351 
 metals 311 346 
 method 295 
 methods 295 
+mhs 379 
 miami-based 334 
 michel 348 
 michigan 287 
 micro 361 
 microprocessor 367 
+mid 372 375 
 mid-1988 333 
 mid-january 310 
 midday 278 290 
@@ -2645,11 +2752,11 @@ mineral 281 311
 miners 309 311 
 mines 309 311 
 mineworkers 309 
-minimum 322 329 366 
+minimum 322 329 366 372 
 mining 281 311 
 minister 286 295 308 311 312 318 319 335 338 351 352 353 355 357 359 
 ministers 340 349 
-ministry 275 279 284 295 310 311 327 335 364 
+ministry 279 284 295 310 311 327 335 364 
 minute 290 340 
 minutes 342 
 miracle 340 
@@ -2663,13 +2770,11 @@ mknote 327
 mmcs 322 
 mmuc 287 
 model 344 
-modelled 276 
 models 367 
 moderate 319 
-modest 274 
 modify 308 
 monday 278 
-monetary 276 285 300 335 340 347 348 359 
+monetary 285 300 335 340 347 348 359 
 money 289 292 296 306 307 319 322 328 330 336 341 350 359 
 money-fx 296 307 336 341 
 money-supply 330 
@@ -2677,7 +2782,7 @@ monitor 311 328 367 370
 monochrome 367 
 monsod 350 
 monsoon 319 
-month 276 284 295 297 309 335 350 357 358 
+month 284 295 297 309 335 350 357 358 
 month-end 295 
 monthly 284 357 359 
 months 278 282 288 289 293 311 318 319 331 342 345 
@@ -2685,6 +2790,7 @@ mood 340
 morgan 329 
 mori 295 
 morning 290 341 356 
+mortgage 376 
 mortgages 337 
 moscow 286 
 moses 311 
@@ -2692,11 +2798,12 @@ motor 287
 motorola 367 
 motors 360 
 mountain 361 
-move 276 355 362 
+move 355 362 
 moved 327 
 movements 309 340 
 moves 295 302 309 318 
 mps 308 
+mulling 372 
 multilateral 342 350 
 multiple 331 
 municipal 337 
@@ -2713,10 +2820,8 @@ nakamikado 308
 nakasone 308 351 
 napm 358 
 narrow 330 354 
-nasdaq 276 
-nasdaq/london 276 
 nation 284 306 342 359 
-national 276 300 309 310 311 335 350 358 
+national 300 309 310 311 335 350 358 
 nationale 324 326 
 nationalist 309 
 nationally 340 
@@ -2724,6 +2829,7 @@ nations 340 348
 natural 277 316 370 
 nature 335 
 nazer 352 
+ncr 373 
 near-perfect 339 
 necessarily 350 
 necessity 370 
@@ -2741,13 +2847,14 @@ negotiator 348 350
 negotiators 306 360 
 nelson 309 
 nervousness 319 
-net 299 315 316 331 335 350 359 361 362 364 370 
-netherlands 275 296 313 327 339 
+net 299 315 316 331 335 350 359 361 362 364 370 378 
+netherlands 296 313 327 339 
 network 287 
 news 280 281 286 314 328 338 349 351 355 
 newsletter 327 
 newspaper 347 353 356 
 newspapers 340 
+niaz 374 
 niche 339 
 nigeria 306 311 
 nigerian 306 
@@ -2760,6 +2867,7 @@ nitrogen 370
 nobel 302 305 
 nobel/financiere 305 
 nobl 302 
+nolex 371 
 nominal 304 305 335 
 nominee 316 
 nominees 316 
@@ -2779,13 +2887,14 @@ non-metal 281
 non-oil 277 
 non-seasonally 330 
 non-stop 344 
+non-voting 381 
 noon 290 
 normal 278 
 north 280 340 
 northeast 314 
 nosedived 340 
-note 299 307 
-noted 275 304 345 370 
+note 299 307 382 
+noted 304 345 370 
 notes 300 319 330 331 337 347 369 
 november 297 317 
 ntt 278 279 
@@ -2805,33 +2914,36 @@ ocbm.s 324
 ocbm.si 300 
 occured 350 
 occurring 340 
-october 275 288 311 340 346 
+october 288 311 340 346 
 october/september 293 303 
 oecd 340 351 
-offer 298 304 324 328 331 347 362 366 
+offer 298 304 324 328 331 347 362 366 372 
 offered 288 337 347 350 
-offering 276 328 337 344 
+offering 328 337 344 382 
 offers 344 
 office 308 331 
-officer 362 367 
+officer 362 367 372 380 
 offices 331 
-official 286 289 292 305 306 307 318 322 323 324 326 335 340 342 349 352 359 
+official 286 289 292 305 306 307 318 322 323 324 326 335 340 342 349 352 359 374 
 officially 319 
-officials 282 286 290 306 311 316 324 342 348 349 350 351 359 367 
+officials 282 286 290 306 311 316 324 342 348 349 350 351 359 367 375 
 offset 314 
 offsetting 307 
 offtake 293 
 ohio 369 
-oil 274 277 288 313 320 332 340 349 352 353 356 357 364 368 370 
+oil 277 288 313 320 332 340 349 352 353 356 357 364 368 370 
 oil-bearing 313 
 oils 313 320 
 oilseed 297 303 313 327 
 oilseeds/fats 313 
 olein 320 
 olivetti 340 
+omit 381 
+omits 381 
 once-a-day 321 
 one-for-four 299 356 
 one-year 311 322 
+onex 372 
 ongpin 316 347 350 
 onslaught 278 
 opec 349 352 353 
@@ -2840,10 +2952,10 @@ open-market 300
 opened 346 
 opening 311 350 
 opens 346 
-operate 292 311 367 
+operate 292 311 367 375 
 operating 340 362 
 operation 305 
-operations 279 300 356 
+operations 279 300 356 372 376 
 operators 300 
 opportunities 355 
 oppose 308 
@@ -2851,16 +2963,16 @@ opposing 316
 opposite 368 
 opposition 308 319 
 optimism 340 345 
-optimistic 276 300 345 348 
+optimistic 300 345 348 
 option 302 325 350 
 optional 367 
-options 294 362 
+options 294 362 372 
 order 295 344 
-orders 358 
+orders 358 378 
 ordinary 304 315 
 ores 281 
 organiaation 349 
-organisation 275 340 
+organisation 340 
 organisations 363 
 organization 290 351 
 organizations 335 
@@ -2870,41 +2982,43 @@ originally 288 302
 originated 337 
 oscillate 340 
 osteoarthritis 321 
+oth 375 
 ousted 302 
 outflow 307 
 outlook 317 
-output 275 293 303 311 314 352 
+output 293 303 311 314 352 374 
 outright 341 
 outstanding 288 306 324 
 outstripped 335 
 overbought 297 
 overcome 306 
 overhanging 342 
+overnight 372 
 overproducing 311 
 oversea-chinese 300 324 
 overseas 295 300 324 
 overshot 335 
-oversubscribed 276 
 owed 359 
 owes 324 340 
 owing 278 
-owned 287 316 366 
-owner 370 
-owners 309 311 316 
+owned 287 316 366 372 
+owner 370 372 
+owners 309 311 316 371 
 ownership 316 
-owns 366 
+owns 366 380 
 ozadisc 333 
 pace 346 358 
 pacific 331 
 package 306 308 329 
 pact 352 
-paid 288 302 315 335 356 359 370 
+paid 288 302 315 335 356 359 370 372 381 
 pain 321 
-pakistan 332 
-palm 274 313 320 332 
+pakistan 332 374 
+palm 313 320 332 
 palm-oil 313 320 332 
 paper 278 292 300 337 
-par 278 305 325 
+par 278 305 325 381 
+parent 378 
 paribas 301 324 
 paris 305 324 326 355 357 
 paris-based 288 
@@ -2912,18 +3026,18 @@ parliament 308 318 319 335 364
 parliamentary 300 
 part 286 288 306 362 369 370 
 participants 295 
-participation 300 
+participation 300 381 
 parties 308 346 
 partly 281 307 308 356 
 partner 354 
-partners 331 
+partners 331 377 379 
 party 308 319 337 338 
 passed 285 
 passenger 282 
 passive 278 
-past 282 292 331 359 360 
+past 282 292 331 359 360 372 
 pattern 303 
-patti 362 
+patti 362 372 
 paul 348 
 paulsboro 368 
 pause 278 
@@ -2931,7 +3045,7 @@ pave 295 342
 pay 302 303 325 344 356 
 payable 299 
 paye 351 
-paying 288 291 301 315 316 325 358 
+paying 288 291 301 315 316 325 358 372 
 payload 344 
 payment 291 301 305 324 325 329 347 359 
 payments 288 335 340 347 348 350 359 
@@ -2939,7 +3053,8 @@ payout 356
 pays 291 301 329 
 paz 311 
 pbi 358 
-pc 367 
+pc 367 372 
+pcc 372 
 pcgg 316 
 peace 318 
 peak 285 
@@ -2969,43 +3084,44 @@ pest 303
 peter 331 
 petitioning 316 
 petroleum 349 370 
-pharmaceuticals 321 
+pharma 375 
+pharmaceuticals 321 375 
 phase 358 360 
 philadelphia 368 
 philippine 316 350 
 philippines 316 347 350 
 philips 339 
 physical 370 
+picinich 382 
 picture 306 
 pin 350 
 piracy 339 
 pitney 358 
-place 276 321 362 
+place 321 362 
 placement 278 
 placements 295 
 placing 370 
-plan 276 279 295 311 318 335 347 350 362 369 
+plan 279 295 311 318 335 347 350 362 369 
 planes 294 
-planned 282 303 308 335 355 364 
+planned 282 303 308 335 355 364 381 
 planner 350 354 
 planners 288 
 planning 278 312 350 354 355 
-plans 275 276 279 282 295 300 306 312 314 323 335 353 354 362 
-plant 287 303 360 368 
-plantations 275 
+plans 279 282 295 300 306 312 314 323 335 353 354 362 375 377 381 
+plant 287 303 360 368 377 
 planted 303 
 planters 316 
-plants 275 
 platinum 309 
 play 339 
 player 339 
 players 339 
 plays 278 
-plc 294 306 315 321 325 328 331 334 345 356 
+plc 294 306 315 321 325 328 331 334 345 356 375 
 pledge 308 
 pledged 311 
 pledging 350 
 plunged 335 
+pm-purolator 372 
 pm-shearson 362 
 pnl 369 
 point 288 322 
@@ -3029,13 +3145,13 @@ positioning 362
 positions 362 
 positively 306 347 
 possibility 308 
-possibly 276 339 
-post 279 356 362 
+possibly 339 
+post 279 356 362 380 
 posted 315 316 
 postponed 300 
-potential 342 
+potential 342 377 
 potentially 316 
-pounds 344 
+pounds 344 374 
 power 311 323 338 356 366 367 368 
 power-sharing 318 
 powers 286 
@@ -3045,6 +3161,8 @@ pramual 311
 pratt 344 
 preceding 278 
 predators 302 
+predecessor 371 
+predicted 372 
 prefer 278 303 
 preferential 305 355 
 preferred 366 
@@ -3053,10 +3171,10 @@ premium 297 303
 prepared 295 300 
 prescription 321 
 presence 316 345 
-present 275 276 278 292 305 319 335 370 
+present 278 292 305 319 335 370 
 presented 282 347 
 presenting 319 
-president 276 282 311 316 318 319 359 362 
+president 282 311 316 318 319 359 362 372 380 
 presidential 316 
 press 311 328 350 352 363 367 
 pressed 339 
@@ -3066,41 +3184,38 @@ pretax 315 334
 prevailing 322 
 prevent 300 302 311 312 339 
 previous 284 285 297 310 327 334 356 
-previously 276 302 362 
-price 278 302 305 311 325 335 347 357 362 367 
+previously 302 362 372 
+price 278 302 305 311 325 335 347 357 362 367 372 377 380 
 priced 291 301 305 325 337 347 367 
-prices 274 278 288 297 311 319 335 339 346 349 352 353 357 358 364 370 
+prices 278 288 297 311 319 335 339 346 349 352 353 357 358 364 370 374 
 pricing 347 350 
 primary 300 
 prime 308 318 319 335 338 351 
 principal 288 347 
-principle 276 318 331 
-printers 276 
+principle 318 331 
 prints 319 
 priority 338 
 private 278 282 295 300 306 316 317 330 340 350 359 
 privately 361 
 privatised 355 
-probable 275 
-problem 276 306 340 347 
+problem 306 340 347 
 problems 303 306 340 342 351 359 
 procedure 346 
 procedures 340 342 359 
 proceeds 347 
 process 295 342 
-processing 275 
 processors 303 
-produce 280 333 
-produced 275 311 
+produce 280 333 373 
+produced 311 374 
 producer 311 314 
 producers 346 
 produces 311 
-producing 275 311 
+producing 311 
 product 335 340 350 356 367 
-production 274 275 287 303 311 314 358 360 370 
-products 275 327 339 354 361 367 
+production 287 303 311 314 358 360 370 374 
+products 327 339 354 361 367 373 
 professor 308 340 
-profit 315 334 361 
+profit 315 334 361 378 
 profitable 324 339 362 367 369 
 profits 279 317 339 340 356 
 proforma 331 
@@ -3108,7 +3223,7 @@ program 337 347 350 355
 progress 342 
 prohibiting 316 
 project 281 
-projected 275 279 295 317 319 350 
+projected 279 295 317 319 350 375 
 projection 356 
 projections 311 356 
 prolonged 319 
@@ -3117,10 +3232,10 @@ promote 322
 prompt 348 
 pronounced 352 
 properties 370 
-property 302 356 
+property 302 356 379 
 proposal 282 286 295 306 309 319 342 347 360 
 proposals 295 318 319 324 
-proposed 276 295 306 308 309 319 337 350 356 364 
+proposed 295 306 308 309 319 337 350 356 364 
 prospects 319 340 358 
 protect 302 
 protected 316 
@@ -3130,7 +3245,7 @@ protest 363
 protests 363 
 prove 335 
 proved 370 
-provide 281 300 306 366 
+provide 281 300 306 366 372 
 provided 328 331 341 359 
 providentia 302 
 province 314 
@@ -3141,20 +3256,22 @@ psbr 330
 psl2 330 
 pson.l 356 
 pt 311 
-pte 276 324 
-public 276 295 308 330 342 356 357 362 
+pte 324 
+public 295 308 330 342 356 357 362 
+publications 371 
 publish 314 
 published 319 
 pump-priming 350 
 pumping 353 
 punish 292 
 punishment 308 
-purchase 294 297 320 344 
-purchased 315 320 337 341 
+purchase 294 297 320 344 376 379 
+purchased 315 320 337 341 372 
 purchasers 358 
 purchases 297 344 
 purchasing 358 
 pure 335 
+purolator 372 
 pursue 355 
 pursuing 324 
 purulkar 319 
@@ -3165,21 +3282,22 @@ puzzling 362
 qantas 344 
 qatar 349 
 quadrupling 335 
-quality 275 303 339 340 
+qualified 371 
+quality 303 339 340 
 quarter 288 328 358 
 quarters 340 
 question 359 
 questionnaire 342 
-questions 276 286 358 
+questions 286 358 
 quick 348 350 
-quickly 295 312 339 359 
+quickly 295 312 339 359 382 
 quieter 278 
 quist 367 
 quota 310 311 353 
-quotas 275 290 311 354 
-quotation 276 
+quotas 290 311 354 
 quoted 278 292 353 
 quoting 347 
+radiators 372 
 rafidain 288 
 raid 302 
 railway 326 
@@ -3210,26 +3328,27 @@ rationalisation 317
 raw 313 340 
 rb211-535e4 294 
 rbd 320 332 
-re-introduction 275 
 reach 335 339 
-reached 276 340 362 
+reached 340 362 374 
+reaches 374 
 reaction 288 
 readily 278 
 reading 358 
 ready 367 
 real 300 317 335 367 
-realistic 274 
 reallocated 311 
+realty 379 
 reason 278 350 357 369 
 rebuffed 362 
 receipts 364 
-receive 306 356 359 
-received 347 359 366 370 
+receivables 382 
+receive 306 356 359 372 
+received 347 359 366 370 378 
 receives 341 
 receiving 337 
 receivorship 365 
 recent 297 314 319 340 346 352 353 
-recently 340 
+recently 340 372 
 reception 278 
 recieved 370 
 reciprocal 342 
@@ -3267,6 +3386,7 @@ regulate 278
 regulating 278 
 regulation-free 322 
 regulators 347 
+regulatory 375 
 rei 308 
 reiterated 352 
 reiterates 352 
@@ -3285,12 +3405,13 @@ relifex 321
 reluctantly 306 
 rely 319 359 
 relying 351 
-remain 276 297 322 342 
+remain 297 322 342 380 
 remainder 288 331 
 remained 303 358 362 
-remaining 288 300 340 356 
+remaining 288 300 340 356 380 
 remains 288 356 
 remedial 311 
+rename 379 
 renegotiate 354 
 renewal 359 
 reopen 347 
@@ -3300,11 +3421,11 @@ repay 292 312
 repayment 306 330 
 repayments 288 324 347 350 
 replace 340 
-replaced 309 365 
+replaced 309 365 372 
 replacements 316 
 replaces 296 
 replied 342 359 
-report 274 275 277 282 303 319 358 
+report 277 282 303 319 358 
 reported 349 356 358 359 361 
 reporters 312 316 347 350 359 
 reporting 278 
@@ -3315,6 +3436,7 @@ representatives 347
 represented 316 345 
 representing 304 306 
 reproduction 367 
+repurchased 380 
 reputation 308 
 request 288 306 359 
 requested 278 
@@ -3329,7 +3451,7 @@ reserve 335 347 348
 reserves 283 284 289 323 335 354 359 370 
 resign 308 316 
 resignation 288 
-resigned 316 369 
+resigned 316 369 380 
 resistance 349 
 resolved 351 
 resource 350 
@@ -3338,10 +3460,10 @@ respectable 358
 responded 306 
 response 306 366 
 responsible 335 
-rest 287 303 
+rest 287 303 372 
 restricted 302 
 restructuring 347 
-result 275 289 342 346 356 
+result 289 342 346 356 371 
 resulted 290 
 results 335 356 
 resume 290 
@@ -3349,6 +3471,7 @@ resumed 358
 retail 335 367 
 retailers 339 
 retain 331 
+retains 372 
 retaliatory 342 
 retire 364 
 return 308 347 348 352 
@@ -3356,6 +3479,7 @@ revenue 282 361 367
 revenues 364 370 
 reversal 340 
 review 295 311 342 
+reviewing 372 
 revised 319 336 341 
 revision 295 357 
 revitalising 295 
@@ -3368,19 +3492,20 @@ rich 342
 richard 331 
 rid 278 
 rift 350 
-rights 302 305 318 
+rights 302 305 318 381 
 rigid 340 
+ring 373 
 ringgit 311 
 rinsing 280 
-rise 274 275 279 282 303 317 319 330 335 340 342 357 
+rise 279 282 303 317 319 330 335 340 342 357 374 
 risen 346 
 rises 293 335 357 
 rising 312 313 340 350 
 risk 340 
 risks 311 
 risky 356 
+rivals 372 
 river 368 
-rm 276 277 278 281 283 284 285 286 288 289 291 292 295 296 300 301 305 306 307 308 312 314 317 318 319 322 323 325 326 328 329 330 331 335 336 337 338 340 341 350 354 357 364 
 rmj 331 
 roads 363 
 roared 309 
@@ -3398,8 +3523,8 @@ ropk 366
 rosario 316 
 rose 278 284 293 297 311 313 314 319 323 327 330 335 
 rothschilds 304 
-rotterdam 327 
-roughly 311 
+rotterdam 327 373 
+roughly 311 381 
 round 354 
 route 344 
 routed 339 
@@ -3413,7 +3538,6 @@ rumors 362
 run 292 347 367 
 running 292 340 
 rupees 319 
-rupiah 274 
 s. 309 338 
 s.p.a. 340 
 s/l 365 
@@ -3422,12 +3546,13 @@ sabhavasu 311
 sacking 311 
 sacrificing 278 
 sagging 342 
-sale 315 339 356 367 
-sales 279 282 287 308 316 317 334 339 342 346 367 
+sale 315 339 356 367 372 
+sales 279 282 287 308 316 317 334 339 342 346 367 372 375 378 
 salesman 339 
 salvage 290 
-san 316 367 
+san 316 367 380 
 sanctions 338 
+santa 376 379 
 satisfaction 340 
 satisfactory 356 
 satisfy 369 
@@ -3451,9 +3576,10 @@ screen 367
 sculley 367 
 se 367 
 seapride 368 
-season 293 327 
+season 293 327 374 
 seasonal 330 
 seasonally 330 358 
+seasons 379 
 seats 308 316 
 second-rate 340 
 secondary 300 347 
@@ -3462,44 +3588,43 @@ section 317
 sector 317 330 340 350 357 
 secure 302 
 secured 288 
-securities 276 295 300 328 331 362 
+securities 295 300 328 331 362 372 382 
 security 286 331 338 
 seeds 303 
-seek 276 306 359 
-seeking 276 316 340 348 350 369 
+seek 306 359 
+seeking 316 340 348 350 369 
 seeks 369 
 sees 356 
 seizaburo 308 
 seize 309 
 seized 316 355 
 seizure 316 
-selected 276 347 
+selected 347 
 selective 354 
 self-imposed 353 
 self-preservation 316 
 self-sufficiency 303 
-sell 302 347 352 356 369 
+sell 302 347 352 356 369 372 373 379 380 
 sellers 320 342 
 selling 291 301 314 319 320 325 329 362 
-sells 367 
+sells 367 380 
 semi-annual 297 
 sen 319 
 senate 342 
 senator 342 
 send 350 
 sending 350 
-senior 276 286 306 335 342 354 367 
+senior 286 306 335 342 354 367 
 sense 362 367 
 seoul 312 
-separate 286 305 
+separate 286 305 375 
 separately 356 
-september 274 282 285 287 288 297 335 340 344 370 
+sept/march 374 
+september 282 285 287 288 297 335 340 344 370 
 sequestered 316 
 series 288 335 344 366 
-service 276 328 359 
-services 328 331 362 
-ses 276 
-sesdaq 276 
+service 328 359 
+services 328 331 362 373 
 session 290 341 
 set 280 285 311 319 322 325 335 342 353 357 
 setting 278 295 311 342 
@@ -3510,13 +3635,14 @@ seventh 358
 severe 335 
 sex 309 
 shades 367 
+shafi 374 
 shake 335 
 shandong 314 
 shanghai 280 
-share 299 302 303 304 305 315 325 331 350 356 
+share 299 302 303 304 305 315 325 331 350 356 372 381 
 shared 350 
-shareholders 302 305 356 369 
-shares 276 298 302 304 305 316 319 345 355 356 361 366 
+shareholders 302 305 356 369 372 381 
+shares 276 298 302 304 305 316 319 345 355 356 361 366 371 372 380 
 sharp 317 339 
 sharply 340 353 
 shearon 362 
@@ -3547,6 +3673,7 @@ showing 345
 shown 342 
 shr 299 
 shultz 286 
+shut 377 
 shv 298 304 
 side 347 359 
 sides 342 
@@ -3554,16 +3681,16 @@ sight 330
 signal 339 
 signalled 335 
 signature 288 
-signed 280 281 288 354 
+signed 280 281 288 354 376 
 significant 335 358 370 
-significantly 275 367 
-signs 281 342 
+significantly 367 
+signs 281 342 373 
 silent 362 
 simex 285 
 similar 362 
 simplification 295 
 simultaneously 321 
-singapore 276 285 300 324 
+singapore 285 300 324 
 single 309 335 340 
 singled 342 
 sino-u.s. 280 
@@ -3583,30 +3710,30 @@ skilled 308
 skps 302 
 slash 340 342 
 slashed 340 
-slightly 275 358 
+slightly 358 375 
 slot 316 
 slow 319 
 slowed 295 358 
 slower 358 
 slowing 358 
 sluggish 308 
-small 276 302 319 335 
+small 302 319 335 
 smbs 302 
 smc 316 
+smelter 377 
 smelting 311 
 sms 331 
 smsi 361 
 sncf 326 
-snp 276 
-so-called 295 340 346 
+so-called 295 340 346 372 
 social 335 338 
 societe 326 
 society 308 
 soft 288 
 softening 350 
 software 331 367 
-sold 297 302 331 339 346 
-sole 311 
+sold 297 302 331 339 346 372 380 382 
+sole 311 382 
 solid 340 
 solita 350 
 solved 340 359 
@@ -3617,7 +3744,7 @@ soriano 316
 sought 316 
 sound 339 367 
 source 370 
-sources 276 288 292 295 297 300 306 311 314 318 320 324 339 
+sources 288 292 295 297 300 306 311 314 318 320 324 339 374 
 south 309 312 320 338 340 354 356 
 south-africa 309 338 
 south-korea 312 354 
@@ -3658,20 +3785,20 @@ spin-off 356
 spinning 362 
 spinoff 362 
 spiral 340 
-split 299 350 356 
+split 299 350 356 375 
 spoils 342 
 spoken 308 
-spokesman 279 287 311 316 333 360 362 364 368 
+spokesman 279 287 311 316 333 360 362 364 368 372 377 
 sponsored 331 
 spot 297 
 spotlight 335 340 
 spread 347 350 
 spring 367 
 spurt 358 
-sse 276 
 st 302 
 stabilize 352 
 stable 297 
+staff 372 
 stage 305 
 staged 363 
 stake 302 304 315 331 356 362 
@@ -3682,18 +3809,21 @@ standard 300 324 339
 standards 335 
 stands 355 367 
 stanley 329 
-start 276 300 333 363 370 
+stant 372 
+stanwell 376 
+start 300 333 363 370 
 started 311 319 345 
-starting 366 
+starting 366 371 
 state 286 292 309 311 320 326 335 337 340 342 346 368 
-state-owned 282 288 311 319 323 355 
+state-owned 282 288 311 319 323 355 374 
 stated 309 
 statement 285 302 304 317 324 333 344 362 
 states 280 311 340 348 349 354 
+statil 375 
 statistics 342 
 status 340 
 ste 326 
-steadily 275 303 
+steadily 303 
 steel 311 339 358 
 steering 306 348 368 
 stemming 308 
@@ -3706,13 +3836,14 @@ stick 311
 sticking 347 
 stiff 349 
 stimulate 342 351 
-stock 276 285 304 310 311 316 317 319 356 361 362 
+stock 285 304 310 311 316 317 319 356 361 362 372 381 
 stockbroker 319 
 stockbrokers 319 
+stockholders 381 
 stockholm 302 338 
 stockmarket 340 
 stockpiles 311 
-stocks 275 276 293 316 
+stocks 293 316 
 stood 323 
 stop-over 342 
 stopped 288 
@@ -3723,7 +3854,7 @@ strain 288 319
 strategic 362 
 strategic-metal 309 346 
 strategy 350 355 362 
-stream 275 303 
+stream 303 
 street 362 
 stress 340 
 stressed 350 
@@ -3732,19 +3863,21 @@ striving 342
 strong 309 340 356 
 structural 340 342 
 structures 342 
+stuart 375 
 studio 367 
 study 340 
 studying 282 362 
 stunned 359 
 sub-cabinet 342 
 subdued 358 
+subject 372 
 submitted 279 
 subordinated 369 
 subroto 311 
-subscribe 305 
-subscription 305 
+subscribe 305 381 
+subscription 305 381 
 subscriptions 296 
-subsidiary 287 294 321 324 331 369 
+subsidiary 287 294 321 324 331 369 372 377 
 subsidies 335 
 substantial 357 
 substantially 354 
@@ -3752,9 +3885,10 @@ subsystems 361
 success 300 339 
 successful 304 335 
 successfully 345 
+successor 371 
 suffer 335 
 suffered 308 363 
-sufficient 276 363 
+sufficient 363 
 sugar 293 343 
 suggest 316 
 suggested 335 367 
@@ -3777,8 +3911,8 @@ supermac 361
 supplier 303 361 
 supplies 358 
 supply 289 303 319 330 340 
-support 276 306 308 309 311 335 351 
-supported 276 309 317 
+support 306 308 309 311 335 351 
+supported 309 317 
 supporting 368 
 supports 335 
 supposed 300 
@@ -3794,8 +3928,8 @@ suspicion 316
 sweden 302 338 
 swedish 302 
 swings 340 
-swiss 364 
-switzerland 359 364 
+swiss 364 378 381 
+switzerland 359 364 378 381 
 sy 316 
 sydney 344 
 syndicate 278 288 
@@ -3804,25 +3938,27 @@ syndication 278
 syria 318 
 syrian 318 
 syrian-brokered 318 
-system 276 278 295 307 309 318 340 341 359 367 
-systems 276 295 361 367 
+system 278 295 307 309 318 340 341 359 367 
+systems 295 361 367 
+ta 380 
 tackle 335 340 
 tactics 350 
 tadashi 351 
+taggart 372 
 taipei 289 323 354 
 taiwan 289 323 354 
 taiwanese 354 
 take-off 344 
 take-up 307 
-takeover 309 362 
-takes 276 
+takeover 309 362 372 
 taking 295 300 357 
 talk 340 
 talking 344 
-talks 290 306 342 347 348 350 353 354 360 
+talks 290 306 342 347 348 350 353 354 360 377 
 tambang 311 
 tangible 315 335 
 tanker 368 
+tanks 372 
 tap 337 
 tape 339 
 tapioca 310 327 
@@ -3831,29 +3967,27 @@ targets 348 350
 targetted 340 
 tariff 354 
 tariffs 342 354 
-tax 274 279 308 311 319 335 364 
+tax 279 308 311 319 335 364 
 tax-reform 308 
 taxable 300 
 taxation 335 
 taxes 308 319 364 
-tea 275 
 team 306 350 
 teams 335 
-teas 275 
 technologies 344 
-technology 328 344 361 367 
+technology 328 344 361 367 373 380 
 teck 324 
 telecommunications 279 
 telegraph 278 279 295 
 telephone 278 279 295 360 
 television 345 357 
 telex 359 
-temasek 276 
 temporarily 335 
-tender 296 298 304 320 332 343 366 
+tender 296 298 304 320 332 343 366 372 
+tendered 372 
 tendering 304 
 terminals 356 
-terms 295 304 325 348 354 
+terms 295 304 325 348 354 376 
 terumi 339 
 tesco 325 
 teutong 311 
@@ -3864,64 +3998,65 @@ thailand 282 310 311
 thamnoon 282 
 thing 347 
 third-largest 359 
+thirds 372 
 thought 288 308 367 
 thousands 309 
 thre 302 
 threat 342 
 threaten 346 
 threatening 346 
-three-centre 276 
 three-year 288 
-thursday 348 355 362 
+thursday 348 355 362 372 
 tianjin 281 
 tide 368 
 tight 358 359 
 tight-fisted 342 
 tighten 340 
-tightened 275 335 
+tightened 335 
 tightness 296 
 tilney 315 
 timah 311 
-time 276 281 285 295 308 322 335 340 342 358 363 
-times 276 339 358 367 
+time 281 285 295 308 322 335 340 342 358 363 372 
+times 339 358 367 
 tin 311 
 today 278 290 300 307 308 316 324 339 340 341 349 367 368 369 
+token 373 
 tokyo 279 284 287 295 297 306 308 317 322 331 333 339 340 342 351 
-told 276 282 286 289 308 311 312 316 319 331 335 338 345 347 350 351 354 357 359 367 
+told 282 286 289 308 311 312 316 319 331 335 338 345 347 350 351 354 357 359 367 
 toll 365 
 tomorrow 306 332 342 350 354 
 tonnage 311 
 tonne 281 297 310 311 320 
-tonnes 274 275 281 293 297 303 310 311 313 314 320 327 332 346 
+tonnes 281 293 297 303 310 311 313 314 320 327 332 346 377 
 tools 354 
 top 340 
 top-level 342 
-torn 275 
+toronto 379 
 toshiba 339 
 total 277 279 280 289 293 296 304 311 331 334 340 350 352 356 362 365 370 
 totaling 359 
 totalled 278 297 364 
-totalling 288 296 364 
+totalling 288 296 364 371 
 totally 342 
 tougher 339 
 tour 359 
 tower 368 
 town 308 
-toyko 276 
-trade 275 276 288 297 300 312 314 323 329 335 338 340 342 354 356 359 
+trade 288 297 300 312 314 323 329 335 338 340 342 354 356 359 
 traded 276 278 300 316 320 
 trader 324 
-traders 332 343 353 
-trading 276 278 285 300 320 340 354 355 356 
+traders 332 343 353 374 
+trading 278 285 300 320 340 354 355 356 
 traditional 338 340 
 tranches 326 
-trans-island 276 
+transaction 371 372 
 transactions 307 364 
-transfer 276 350 359 
+transfer 350 359 
 transferred 365 
 transfers 335 
 transmission 368 
 treasury 300 307 347 348 
+treatment 375 
 trend 340 
 trends 311 
 trickle 295 
@@ -3936,7 +4071,8 @@ tsco.l 325
 tuesday 278 347 
 tune 340 
 turn 295 342 
-turnover 276 331 334 
+turning 372 
+turnover 331 334 
 turnround 335 
 turns 295 
 two-day 306 
@@ -3947,8 +4083,8 @@ type= 283 298
 u.k 307 321 330 336 341 
 u.k. 321 330 
 u.n 338 
-u.s 287 297 303 331 334 337 342 345 354 355 356 359 
-u.s. 275 276 286 287 303 315 323 331 333 334 342 347 348 354 358 360 365 
+u.s 287 297 303 331 334 337 342 345 354 355 356 359 372 382 
+u.s. 286 287 303 315 323 331 333 334 342 347 348 354 358 360 365 372 375 382 
 u.s.-made 287 
 u.s./japan 342 
 uae 349 
@@ -3965,6 +4101,7 @@ unaware 306
 uncertain 306 319 
 uncertainty 308 319 
 unchanged 288 
+und 378 381 
 underground 340 
 understand 359 
 understandable 316 
@@ -3974,15 +4111,15 @@ underway 288
 underwrite 300 
 underwriters 295 
 underwriting 291 295 301 325 329 
-undisclosed 316 
+undisclosed 316 376 379 
 unemployed 335 
 unemployment 340 
 unidentified 324 
 unilateral 338 
 union 288 300 309 319 346 360 
-unit 321 329 331 344 362 
+unit 321 329 331 344 362 372 375 376 382 
 united 280 300 304 309 316 324 340 344 348 349 354 360 
-units 304 305 339 369 
+units 304 305 339 369 372 375 
 universities 342 
 university 308 340 
 unlike 339 
@@ -4010,13 +4147,14 @@ usingprices 370
 ussr 286 346 
 utx 344 
 vacant 362 
-valued 316 331 
-variety 342 
+valued 316 331 372 
+values 371 
+variety 342 382 
 veg-oil 313 320 332 
 vegetable 313 320 
 vehicle 360 
 vendor 358 
-venture 280 333 
+venture 280 333 379 380 
 versatile 367 
 vice 282 
 vice-chairman 354 
@@ -4031,6 +4169,7 @@ villalobos 311
 violated 340 
 violent 340 
 visit 286 
+vms 379 
 volcker 348 
 volume 278 285 
 volumes 331 
@@ -4061,9 +4200,10 @@ war 288 318
 warn 340 
 warned 340 
 warns 340 
-warrant 295 329 
-warrants 305 329 
-washington 276 342 347 354 359 365 
+warrant 295 329 372 381 
+warrants 305 329 372 
+warren 372 
+washington 342 347 354 359 365 
 wave 340 
 ways 311 324 366 
 weak 342 364 
@@ -4073,7 +4213,7 @@ weakness 353
 wealth 364 
 weather 319 
 wednesday 343 362 
-week 278 296 306 309 310 319 331 340 350 353 359 362 
+week 278 296 306 309 310 319 331 340 350 353 359 362 382 
 weekend 282 286 363 
 weeks 278 335 339 
 weight 313 344 
@@ -4081,61 +4221,65 @@ weks 330
 welcomed 311 
 well-known 316 
 well-thought-out 342 
-west 278 321 340 359 
-west-germany 278 333 
+west 278 321 340 359 377 
+west-germany 278 333 377 
 western 288 306 314 335 339 
+westminster 371 
 whampoa 356 
 white 343 
 whitney 344 
 wholesale 319 
-wholly 287 
-wholly-owned 276 362 
+wholly 287 372 
+wholly-owned 362 
 wide-ranging 295 
 widened 312 
 wider 300 
 widespread 339 
-william 300 
-willingness 276 
+willemijn 373 
+william 300 372 380 
 winglets 344 
 wings 344 
 wisconsin 360 
 withdrawing 286 
+withdrawn 372 
 won 281 
 wong 300 
 work 281 309 340 
-worked 276 288 340 
+worked 288 340 
 worker 340 
 workers 309 311 335 342 360 
 working 316 370 
 workstation 367 
 workstations 367 
-world 275 281 288 311 339 340 345 347 348 351 352 353 359 
+world 281 288 311 339 340 345 347 348 351 352 353 359 377 
 worldbank 281 
 worldwide 333 345 362 
 worrying 340 
 worse 358 
 worst 308 
-worth 296 300 334 364 
+worth 296 300 334 364 372 
 wrested 302 
 writing 340 
 wrong 359 
+wrongly 372 
 xie 292 
+yarn 374 
 yasuhiro 308 351 
-year 274 275 279 281 282 284 285 288 289 293 297 299 300 303 311 312 314 315 317 319 322 330 334 335 337 339 340 342 344 345 346 350 354 355 356 357 359 362 363 364 367 
 year-long 311 
 year-on-year 330 
-years 288 289 292 297 300 302 314 315 316 322 325 331 334 335 340 344 346 347 350 359 364 
+years 288 289 292 297 300 302 314 315 316 322 325 331 334 335 340 344 346 347 350 359 364 372 375 
 yen 279 282 284 291 308 317 322 339 342 
 yeo 300 
 yesterday 290 363 
 yield 300 303 325 
 yields 303 
-york 276 331 347 348 350 358 361 362 
+york 331 347 348 350 358 361 362 372 373 375 382 
 yoshiko 295 
 yuan 281 292 
+yuear 371 
 yuko 308 
 zaire 311 
 zero-coupon 347 
+zestril 375 
 zoltan 335 
-zones 276 
 zurich-based 302 

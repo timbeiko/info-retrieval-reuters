@@ -1,12 +1,7 @@
 # info-retrieval-reuters
 
 ## Questions
-1. How should we 'retrieve' documents? Should we just return the ID? The full body + title of the doc? The raw data?
-2. When should we remove stop words? 
-3. Can we open all blocks simultaneously to merge them into memory? 
-4. What is the difference between tasks 1 & 2? 
-
-
+1. What is the difference between tasks 1 & 2? 
 
 Objectives: Implement SPIMI. Implement rudimentary information retrieval using your SPIMI indexer. Test and
 analyze your system, discuss how your design decisions influence the results.

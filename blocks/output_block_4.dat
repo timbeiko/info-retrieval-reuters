@@ -1,26 +1,27 @@
 're 714 
-****** 571 593 600 607 608 625 632 636 648 663 665 675 689 694 709 713 
+****** 593 600 607 608 625 632 636 648 663 665 675 689 694 709 713 
 -2nd 586 
 -2nd-q 726 
 -4 715 
 -4t 592 
 -4th 581 
+-acqui 745 
 -ado 732 
 -air-bag-prog 629 
 -and-uni 631 
 -arrang 585 
 -ast- 669 
 -begin 676 
--cedel 567 582 
--complete 558 
+-cedel 582 
 -completes 604 
 -debt 645 
 -debt-u 618 
--euroclea 567 582 
+-euroclea 582 
 -februar 670 
 -has-hom 623 
--i 556 
+-has-mi 738 
 -inb-talk 679 
+-ma 753 
 -makes 662 
 -makes-u 666 
 -na 587 
@@ -29,35 +30,33 @@
 -raising 652 
 -reje 733 
 -renews-c 650 
--s 661 
+-s 661 741 
 -sales 612 
 -says-steps 660 
 -secon 617 
 -seeks-gains 730 
--set 554 
+-sees-flat 743 
 -sets-t 599 
+-three-co 760 
 -to 613 616 664 
 -to-accep 657 
 -to-b 729 
 -to-expa 584 
--to-form 565 
--to-make-ac 551 
 -to-phas 685 
 -to-proc 682 
 -to-re 706 
 -to-restruc 674 
+-to-sell-so 762 
 -transa 611 
 -u.s.-says-tin-d 688 
 -unit-sel 678 
--votes 555 
--won't-pa 568 
+-unit-w 755 
 .590 652 
-/author 634 635 660 704 714 
+/author 634 635 660 704 714 748 759 
 0.1 711 
 0.7 711 
 0006 636 
 0007 689 
-0009 571 
 0011 608 675 
 0012 709 713 
 0013 625 648 663 
@@ -66,105 +65,104 @@
 0016 607 
 0017 665 
 0022 722 
-0023 554 575 
 0026 580 698 707 
 0027 638 
-0029 699 
+0029 699 756 758 
 0032 690 
 0033 700 
-0034 691 692 695 701 702 
+0034 691 692 695 701 702 738 
 0035 693 
-0038 686 
+0038 686 745 
 0039 611 
 0040 610 
 0041 579 601 664 
-0042 560 586 647 
+0042 586 647 
 0043 594 595 606 649 676 
-0044 568 655 
-0045 558 572 
-0046 578 
+0044 655 
 0047 687 
 0048 598 620 673 
 0049 588 729 
+0050 757 
 0051 592 614 642 658 734 
 0052 605 
-0053 728 
+0053 728 764 
 0054 624 670 
-0056 552 
-0057 557 576 
-0058 615 
+0056 750 
+0058 615 763 
 0059 584 
 0062 596 616 726 
-0063 619 
+0063 619 751 
 0064 685 
 0065 621 
 0066 680 
-0068 591 679 
-0069 590 617 666 
-0070 569 
-0071 662 708 
+0068 591 679 767 
+0069 590 617 666 739 
+0071 662 708 741 
 0072 643 644 
-0073 553 604 641 682 683 733 
-0074 555 653 661 
+0073 604 641 682 683 733 747 
+0074 653 661 
 0075 589 
 0076 735 
-0077 559 667 703 
-0078 710 
-0079 573 712 
-0080 565 585 587 646 706 
+0077 667 703 
+0078 710 740 755 
+0079 712 
+0080 585 587 646 706 
 0082 581 
 0083 725 
 0084 635 654 
-0085 599 639 719 731 
+0085 599 639 719 731 761 
 0086 612 
-0091 603 668 
-0092 623 
-0094 660 715 
-0096 577 609 674 720 
+0087 766 
+0091 603 668 752 753 
+0092 623 748 
+0094 660 715 743 
+0096 609 674 720 
 0097 640 
 0098 650 716 
-0099 556 
-0100 561 613 681 717 
-0101 551 566 583 737 
+0100 613 681 717 
+0101 583 737 
 0102 677 736 
 0103 602 704 723 
 0104 626 630 671 
-0105 574 657 678 
-0106 631 
-0107 562 597 669 
-0108 570 622 634 652 714 732 
+0105 657 678 
+0106 631 762 
+0107 597 669 754 768 
+0108 622 634 652 714 732 
 0109 618 627 659 730 
-0110 563 637 
-0111 564 582 
-0112 567 645 711 
+0110 637 
+0111 582 742 
+0112 645 711 746 
 0113 633 
 0114 651 684 696 
 0116 724 
-0117 629 697 
+0117 629 697 759 
 0118 628 
-0120 727 
+0120 727 765 
 0123 721 
-0125 705 
+0124 744 
+0125 705 760 
+0130 749 
 0132 718 
 0139 656 
 0140 672 688 
-03-02 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578 579 580 581 582 583 584 585 586 587 588 589 590 591 592 593 594 595 596 597 598 599 600 601 602 603 604 605 606 607 608 609 610 611 612 613 614 615 616 617 618 619 620 621 622 623 624 625 626 627 628 629 630 631 632 633 634 635 636 637 638 639 640 641 642 643 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660 661 662 663 664 665 666 667 668 669 670 671 672 673 674 675 676 677 678 679 680 681 682 683 684 685 686 687 688 689 690 691 692 693 694 695 696 697 698 699 700 701 702 703 704 705 706 707 708 709 710 711 712 713 714 715 716 717 718 719 720 721 722 723 724 725 726 727 728 729 730 731 732 733 734 735 736 737 
 1,000 677 
 1,038,000 588 
-1,048,000 557 
 1,062,234 654 
 1,079,893 624 
 1,101,000 649 686 
 1,105,000 619 
 1,157,883 699 
 1,181,424 579 
+1,226,597 756 
 1,248 710 
 1,250,000 647 
 1,268,000 601 
 1,271,000 644 
 1,287,000 605 
 1,317,000 624 
+1,327,016 756 
 1,336,000 596 
+1,343,000 739 
 1,356,000 601 
 1,400,000 642 
 1,404,878 621 
@@ -174,6 +172,7 @@
 1,460,000 596 
 1,465,700 646 
 1,492,0000 640 
+1,500 758 
 1,520,797 580 
 1,565,000 715 
 1,710,655 621 
@@ -184,58 +183,51 @@
 1,806,323 621 
 1,846,670 610 
 1,867,892 579 
-1,870,000 557 
 1,880,376 654 
 1,906,095 598 620 
 1,914,388 598 620 
+1,976,000 739 
 1-1/2-year 629 
 1-1/4 714 
 1.04 610 
 1.06 642 
 1.069 687 
 1.07 696 
-1.08 626 630 
+1.08 626 630 743 
 1.1 730 
 1.10 706 
 1.11 708 
 1.15 708 
-1.16 569 624 
-1.2 577 672 713 716 
-1.20 569 
+1.16 624 
+1.2 672 713 716 
 1.25 714 
-1.32 560 572 
 1.35 610 
 1.36 621 
-1.40 572 
 1.41 594 624 
-1.45 573 728 
-1.5 730 
+1.45 728 
+1.5 730 749 
 1.5340 613 
 1.5475 613 
 1.5930 613 
 1.60 647 
 1.65 644 
-1.73 557 619 
-1.78 560 
+1.73 619 
 1.8 644 
 1.86 655 
 1.90 615 
-1.99 557 
+1.91 748 
 10,000 654 
-10-1/4 568 
-10-7/8 568 
 10-year 613 667 
-10.1 573 728 
+10.1 728 755 
 10.15 585 
 10.2 644 
 10.3 644 
-10.5 551 594 601 
+10.5 594 601 
 10.8 708 
 100,000 629 705 729 
-1000 567 582 
+1000 582 
 101.1 617 726 
 102,000 621 
-107.0 569 
 107.6 598 
 107.7 620 
 11,000 629 
@@ -248,44 +240,16 @@
 119.2 596 
 12,000 629 
 12,955,562 734 
-12-1/2 555 707 
-12.2 573 728 
-12.3 569 
+12-1/2 707 
+12.2 728 
 12.32 708 
 12.50 714 
 12.7 715 
 12.9 642 
+120,000 750 
 120.2 596 
 123,174 646 
 125,000 623 
-12734 551 
-12735 552 
-12736 553 
-12737 554 
-12738 555 
-12739 556 
-12740 557 
-12741 558 
-12742 559 
-12743 560 
-12744 561 
-12745 562 
-12746 563 
-12747 564 
-12748 565 
-12749 566 
-12750 567 
-12751 568 
-12752 569 
-12753 570 
-12754 571 
-12755 572 
-12756 573 
-12757 574 
-12758 575 
-12759 576 
-12760 577 
-12761 578 
 12762 579 
 12763 580 
 12764 581 
@@ -446,34 +410,37 @@
 12918 735 
 12919 736 
 12920 737 
-12:28:20.58 551 
-12:28:27.30 552 
-12:28:34.05 553 
-12:28:40.39 554 
-12:29:31.43 555 
-12:29:45.60 556 
-12:30:15.90 557 
-12:30:22.84 558 
-12:30:29.21 559 
-12:30:53.35 560 
-12:33:08.74 561 
-12:34:30.65 562 
-12:37:46.47 563 
-12:39:51.02 564 
-12:39:56.89 565 
-12:40:09.75 566 
-12:40:44.04 567 
-12:42:29.11 568 
-12:45:15.72 569 
-12:47:25.91 570 
-12:48:50.97 571 
-12:49:41.30 572 
-12:50:07.90 573 
-12:51:30.71 574 
-12:51:34.27 575 
-12:52:26.32 576 
-12:52:57.90 577 
-12:53:03.20 578 
+12921 738 
+12922 739 
+12923 740 
+12924 741 
+12925 742 
+12926 743 
+12927 744 
+12928 745 
+12929 746 
+12930 747 
+12931 748 
+12932 749 
+12933 760 
+12934 750 
+12935 751 
+12936 752 
+12937 753 
+12938 754 
+12939 755 
+12940 756 
+12941 757 
+12942 758 
+12943 759 
+12944 761 
+12945 762 
+12946 763 
+12947 764 
+12948 765 
+12949 766 
+12950 767 
+12951 768 
 12:53:08.20 579 
 12:53:17.45 580 
 12:53:55.25 581 
@@ -492,7 +459,7 @@
 13.8 586 
 13.81 708 
 13.9 603 731 
-130,000 573 728 
+130,000 728 
 132,151 579 
 139,000 715 
 13:05:01.81 591 
@@ -567,8 +534,11 @@
 13:55:04.22 660 
 14,000 715 
 14,070 694 
+14-bank 759 
+14.0 739 
 14.1 581 715 
 14.6 734 
+14.8 743 
 140,000 728 
 147,000 581 
 14:01:56.28 661 
@@ -623,18 +593,16 @@
 14:56:20.30 710 
 14:57:28.84 711 
 14:58:53.79 712 
-15,000 635 
+15,000 635 746 
 15.3 680 
 15.5 617 
 15.8 597 681 
-150,000 551 573 728 
+150,000 728 
 150.00 732 
 150.3 617 726 
 151,000 621 715 
 153,680 614 
-154.8 572 
 156,726 699 705 
-156.0 560 
 15:02:08.53 713 
 15:02:49.77 714 
 15:07:03.41 715 
@@ -660,18 +628,46 @@
 15:42:29.51 735 
 15:43:03.73 736 
 15:43:37.81 737 
+15:44:15.36 738 
+15:44:53.31 739 
+15:45:31.60 740 
+15:45:38.79 741 
+15:46:40.19 742 
+15:53:45.09 743 
+15:53:57.26 744 
+15:54:16.76 745 
+15:57:31.72 746 
+15:59:04.30 747 
 16.0 617 644 
 16.18 614 
-16.4 569 
 16.5 681 
 16.8 603 731 
 161,000 715 
 161.7 619 
-163,932 552 
 164,000 640 
 167.7 617 
-169.3 560 
 169.9 619 
+16:00:28.60 748 
+16:01:01.69 749 
+16:04:26.65 750 
+16:04:50.43 751 
+16:05:07.05 752 
+16:06:20.44 753 
+16:06:47.27 754 
+16:07:49.52 755 
+16:10:32.40 756 
+16:14:15.98 757 
+16:16:29.07 758 
+16:17:00.20 759 
+16:18:47.13 760 
+16:19:06.54 761 
+16:19:21.48 762 
+16:19:28.52 763 
+16:19:33.34 764 
+16:20:19.83 765 
+16:20:33.93 766 
+16:21:29.63 767 
+16:23:27.39 768 
 17.3 586 
 17.5 617 621 
 173,000 644 
@@ -679,25 +675,23 @@
 178,000 644 
 18.6 594 
 180.9 615 
-184.8 572 
-188,000 573 728 
+188,000 728 
 189.6 617 726 
 19,175,931 734 
 19.6 714 
 19.8 657 681 
-1900 562 628 
+1900 628 
 192,000 588 
-193.5 569 
 194,000 606 
-1965 550 
 1970 714 
 1976 721 
 1978 627 
-1983 563 654 
+1982 740 759 
+1983 654 759 
 1984 607 637 717 
-1985 550 573 588 629 640 644 654 660 671 696 706 715 717 728 
-1986 557 559 568 569 581 597 612 614 615 616 633 634 635 640 644 649 651 680 686 696 703 706 708 715 717 725 730 
-1987 552 569 613 616 629 650 652 681 685 696 708 717 724 730 
+1985 588 629 640 644 654 660 671 696 706 715 717 728 749 760 
+1986 581 597 612 614 615 616 633 634 635 640 644 649 651 680 686 696 703 706 708 715 717 725 730 739 743 755 
+1987 613 616 629 650 652 681 685 696 708 717 724 730 743 755 
 1987-model 629 
 1988 590 627 681 
 1989 639 660 674 681 730 
@@ -705,8 +699,8 @@
 1991 633 674 
 1992 677 678 
 1994 716 
-1997 568 716 
-1st 569 579 606 620 624 638 698 699 
+1997 716 
+1st 579 606 620 624 638 698 699 758 
 2,033,457 646 
 2,106,000 606 
 2,220,000 642 
@@ -718,15 +712,13 @@
 2,389,000 605 
 2,391,638 610 
 2,446,100 734 
-2,463,000 573 728 
-2,566,680 573 728 
-2,584,000 560 
+2,463,000 728 
+2,566,680 728 
 2,617,995 580 
-2,637,000 557 
 2,649,000 706 
 2,650,000 715 
 2,735,000 601 
-2,764,544 573 728 
+2,764,544 728 
 2,800 626 630 717 
 2,800,000 609 
 2,817,439 598 620 
@@ -735,30 +727,25 @@
 2,917,000 601 
 2,954,488 734 
 2,961,718 598 620 
-2- 557 
 2-1/2 714 
-2-mar-1987 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578 579 580 581 582 583 584 585 586 587 588 589 590 591 592 593 594 595 596 597 598 599 600 601 602 603 604 605 606 607 608 609 610 611 612 613 614 615 616 617 618 619 620 621 622 623 624 625 626 627 628 629 630 631 632 633 634 635 636 637 638 639 640 641 642 643 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660 661 662 663 664 665 666 667 668 669 670 671 672 673 674 675 676 677 678 679 680 681 682 683 684 685 686 687 688 689 690 691 692 693 694 695 696 697 698 699 700 701 702 703 704 705 706 707 708 709 710 711 712 713 714 715 716 717 718 719 720 721 722 723 724 725 726 727 728 729 730 731 732 733 734 735 736 737 
 2.05 644 
 2.10 619 
 2.12 644 
-2.2 627 
-2.25 563 
+2.2 627 761 
 2.3 670 
 2.5 652 714 
 2.50 714 
-2.57 572 
 2.61 644 
 2.66 644 
 2.67 644 
 2.75 644 
 2.78 615 
 2.8 717 
+20,000 746 
 20,349 694 
 20-25 616 
-20.2 569 
 20.9 621 
 200,000 650 
-2001 568 
 2011 716 
 202,628 614 
 203,000 606 
@@ -770,7 +757,6 @@
 22,995 652 
 22-3/4 714 
 22.2 717 
-223,000 557 
 226.5 717 
 228.7 717 
 23,910 652 
@@ -784,6 +770,7 @@
 24.8 640 
 242.8 594 
 247,000 603 731 
+25,000 749 
 25.3 644 
 25.6 610 
 250,000 634 
@@ -792,50 +779,45 @@
 26.25 657 
 261,560 579 
 27,840 652 
-27.5 572 
 28.6 610 
 286.4 594 
-287.5 557 
 29,665 652 
 29.1 649 686 
 29.4 670 
 29.5 596 
-295.3 557 
 2nd 579 586 598 606 620 726 
 3,023,000 619 
-3,029,930 573 728 
+3,029,930 728 
 3,062,000 619 
 3,129,000 698 
 3,133,446 592 
-3,244,000 560 
 3,342,000 603 
 3,342,0000 731 
 3,418,000 698 
 3,431,669 646 
 3,444,000 594 
 3,498,780 638 
+3,624,000 739 
 3,669,602 638 
-3,680,000 557 
 3,688,890 592 
-3,718,000 573 728 
+3,718,000 728 
 3,769,347 680 
 3,845,438 680 
 3,849,659 592 
 3,945,000 606 
+3,957 758 
 3,994,347 680 
 3-1/2 660 
 3-1/4 593 613 
 3.0 644 
-3.00 572 
 3.1 717 
 3.25 714 
-3.3 577 
+3.5 749 
+3.5-inch 763 
 3.6 602 651 708 
 3.9 696 
-3/8 660 
+3/8 660 768 
 30,850 652 
-30.55 562 
-30.8 572 
 30.9 640 
 300.1 670 
 30386 635 
@@ -846,12 +828,14 @@
 31.2 596 
 31.6 588 
 318,000 603 731 
+32-bit 746 
 32.9 686 
 323.2 612 
 328,000 592 
 33.0 649 
 339,000 601 
 34,915 652 
+34-3/4 768 
 34.0 644 
 35.2 588 
 35.6 711 
@@ -872,11 +856,11 @@
 4,165,000 644 
 4,218,754 646 
 4,249,221 646 
-4,307,000 557 
 4,347,000 680 
 4,348,127 646 
 4,470,275 680 
 4,472,0000 658 
+4,693,000 739 
 4,846,000 621 
 4,869,000 596 
 4,900 656 688 
@@ -898,7 +882,6 @@
 41.3 711 
 41.4 646 
 41.7 612 
-413,021 552 
 42,525 652 
 433,000 640 
 44,000 586 
@@ -908,36 +891,32 @@
 46,725 652 
 464.6 644 
 47,895 652 
-47.5 573 667 728 
+47.5 667 728 
 47.6 644 
 481,189 610 
 482,000 640 
-49,000 605 
+49,000 605 739 
 49.1 715 
-4th 557 560 572 573 581 592 594 596 601 603 605 610 621 625 640 642 644 646 715 728 731 734 
+4th 581 592 594 596 601 603 605 610 621 625 640 642 644 646 715 728 731 734 739 
 5,000 627 
 5,041,000 621 
-5,235,000 557 
 5,268,486 580 
 5,342,353 598 620 
 5,500,000 642 
 5,847,000 644 
-5,910,000 557 
-5.06 572 
-5.25-inch 661 
-5.38 572 
-5.4 570 
+5,921,828 756 
+5.25-inch 661 763 
 5.45 730 
-5.8 569 
+5.5 748 
 5.9 651 
 5/8 683 
-50,000 613 
+50,000 613 746 
 50-3/8 714 
 50.3 681 
-500,000 573 602 629 728 
+500,000 602 629 728 
 5000 685 
 503,000 586 
-52.4 573 728 
+52.4 728 
 52.6 603 731 
 524.5 611 
 53.5 615 
@@ -945,22 +924,20 @@
 54.2 711 
 54.3 581 
 54.7 715 
-541.0 560 
 55.3 670 
 555,989 638 
 56.0 581 
 56.4 619 
-564,000 557 
 58.5 619 
 58.7 598 
 58.8 620 
 581.0 611 
-585.6 560 
 59.3 594 
 5ess 604 
 6,342,353 598 620 
-6,359,000 557 
 6,500 660 
+6,598,580 756 
+6,778,000 739 
 6.1 610 701 
 6.3 696 
 6.4 610 
@@ -969,7 +946,6 @@
 6.8 644 693 
 6.9 692 
 60,000 581 
-600,971 552 
 602,000 624 
 61,750 652 
 61,970 652 
@@ -987,32 +963,29 @@
 636,000 605 
 647,000 644 
 661,780 646 
-665,800 552 
 67.5 603 731 
+672,000 739 
 69,000 586 
 69,300 652 
 697,381 610 
 7,000 603 731 
+7,034,000 739 
 7,107,000 586 
 7,148,000 640 
-7,164,000 560 
-7,318,000 557 
 7,337,000 619 
+7,372 758 
 7,472,000 680 
 7,535,000 606 
 7,981,022 734 
 7-5/8 678 
 7.1 592 690 700 702 
 7.22 734 
-7.5 559 
 7.50 714 
 7.645 687 
 7/8 714 
 700,000 640 
 71,035 652 
-72.2 557 
 720,000 596 
-73.5 557 
 734,000 731 
 74.9 598 620 
 76,500 652 
@@ -1027,16 +1000,14 @@
 8-1/2 716 
 8-1/4 716 
 8.13 678 
-8.5 570 
+8.5 759 
 8.50 714 
 80.0 617 
 81.7 594 
 815,167 734 
-823,387-share 570 
 836.0 611 615 
-841,887 570 
 85,000 680 
-850,000 556 642 
+850,000 642 
 867,000 715 
 87.4 617 
 88,000 603 731 
@@ -1044,9 +1015,9 @@
 9,500 614 
 9,500,000 642 
 9,603,000 586 
-9,733,000 560 
 9-3/4 633 
 9-5/8 633 
+9.1 752 
 9.4 585 
 9.5 672 
 9.6 670 
@@ -1070,261 +1041,276 @@
 968,4287 579 
 97,000 606 
 98,0000 606 
-`` 563 564 567 570 582 597 611 612 627 628 634 635 637 656 659 660 667 668 669 671 672 673 674 677 688 696 697 704 714 717 718 721 730 733 
+`` 582 597 611 612 627 628 634 635 637 656 659 660 667 668 669 671 672 673 674 677 688 696 697 704 714 717 718 721 730 733 737 740 742 743 744 747 748 759 760 
 a-plus 631 
 a.w 730 
 aa-minus 631 
 aapl 669 
-ability 568 682 
-abroad 724 
-abs 572 616 722 732 
-absb 559 679 
+ability 682 
+abroad 724 744 
+abs 616 722 732 
+absb 679 
 abuse 696 
+ac 766 
 academy 659 
-accelerated 696 
+accelerated 696 746 
 acceleration 581 
-accept 559 657 660 
+accept 657 660 
 acceptance 707 
-accepted 564 
-accepting 559 
 access 635 671 
 accommodate 637 
 accompany 714 
-accord 561 562 566 597 656 668 672 688 
+accord 597 656 668 672 688 
 account 730 
-accounting 569 588 640 
+accounting 588 640 
 accumulated 634 
 accumulating 634 
-accused 597 721 
+accused 597 721 749 
 achieve 631 
 achv 661 
 acid 718 
-acq 551 553 558 559 679 682 703 706 709 712 714 724 725 730 732 733 735 736 
-acquire 551 609 651 724 733 
-acquired 550 551 558 561 564 566 570 584 662 666 679 686 727 
+acq 679 682 703 706 709 712 714 724 725 730 732 733 735 736 741 745 748 757 762 764 767 768 
+acquire 609 651 724 733 
+acquired 584 662 666 679 686 727 752 764 
 acquirers 679 
-acquires 609 732 
-acquisition 551 558 644 655 658 666 706 712 724 730 735 
+acquires 609 732 745 764 
+acquiring 748 
+acquisition 644 655 658 666 706 712 724 730 735 745 748 757 768 
 acquisitions 662 714 730 
-act 730 
+acquitted 749 760 
+acreage 742 
+act 730 747 
 acted 634 
 acting 657 
-action 555 637 645 719 
+action 637 645 719 742 
 actions 651 660 
 active 660 710 
-activities 561 563 566 723 
+activities 723 
 activity 683 710 
-acts 719 
+acts 719 749 
 actual 641 
 add 704 724 
-added 634 708 718 723 
-adding 643 
+added 634 708 718 723 743 752 753 
+adding 643 759 
 addition 602 669 
-additional 567 582 653 681 
+additional 582 653 681 
 address 677 697 
-adds 583 643 
+adds 583 643 750 
 adhesives 685 
 adjusted 640 
-adjustment 650 
+adjustment 650 742 
 administration 696 730 
 administrative 629 637 654 
 admitting 637 
+adopt 759 
 adopted 659 714 732 
+adopting 740 
 adopts 732 
 adr 730 
 advanced 635 730 
 advantage 627 631 635 
 adverse 685 
 adversely 634 
-advertising 736 
-advised 563 733 
-advises 563 
+advertising 736 766 
+advised 733 
+advisors 743 
+advisory 759 
 aea 717 
 affair 697 
 affect 607 637 656 688 
-affected 634 674 685 714 
+affected 634 674 685 714 743 
 affects 608 
-affiliate 652 667 
+affiliate 652 667 738 
+affiliates 738 
 afford 634 
 africa 634 
 after-tax 595 663 674 
 aftermarket 727 
-ag 550 558 652 666 
+ag 652 666 
 again-montagu 697 
 age 736 
-agencies 567 582 
-agency 563 618 631 637 654 668 719 736 
+agencies 582 740 759 766 
+agency 618 631 637 654 668 719 736 
+agenda 742 
 agent 657 
 aggressive 721 
-ago 710 711 726 
+ago 710 711 726 740 
 agree 659 672 
-agreed 551 553 599 635 637 654 672 724 
+agreed 599 635 637 654 672 724 753 
 agreeing 637 654 
-agreement 551 556 561 562 566 583 589 628 650 656 660 661 667 671 672 681 688 703 712 718 719 
+agreement 583 589 628 650 656 660 661 667 671 672 681 688 703 712 718 719 741 742 754 762 767 
 agreements 597 660 730 
 agrees 632 654 
-agriculture 634 672 
+agriculture 634 672 742 
 ahead 730 
-ahp 559 
-aibd 567 582 
-aid 567 582 634 
+aibd 582 
+aid 582 634 
 aids 599 
-aim 597 
-aimed 656 672 688 718 
+ail 762 
+aim 597 742 
+aimed 656 672 688 718 740 
 aiming 627 
-air 564 590 596 629 639 676 
+aims 753 
+air 590 596 629 639 676 
 air-bag 629 
 air-bags 629 
 airbags 629 
-aircraft 584 639 659 685 
+aircraf 755 
+aircraft 584 639 659 685 755 
 aired 721 
 aires 708 
-airline 564 659 721 
+airline 659 721 
 airliner 659 
-airlines 564 584 659 721 
+airlines 584 659 721 
 airplanes 584 
 airport 584 
 akron 685 
 al 591 
 alamo 725 
 alberston 732 
-alberta 564 615 
-albertson 572 616 722 732 
-alcan 571 591 
+alberta 615 762 
+albertson 616 722 732 
+alcan 591 
 alerted 635 
-alex 559 679 
-allegations 563 
-allege 563 
+alex 679 
 allegedly 718 
+allowances 744 
 altered 672 
 alternate 600 
 alternative 660 
 alto 717 
-aluminium 571 591 
+aluminium 591 
 am-agreement 718 
 am-united 721 
 amc 600 660 
 amc-uaw 660 
+amca 762 
 amended 681 
-america 550 556 650 652 
-american 559 604 644 651 658 660 683 697 712 717 737 
-americus 559 
+america 650 652 
+american 604 644 651 658 660 683 697 712 717 737 748 
 amex 683 
-amgen 565 
-amgn 565 
+ami 748 
 amo 660 737 
-amount 634 714 
+amount 634 714 751 
 amounts 635 
 amusements 714 
-analyst 714 
-analysts 635 684 704 714 
+analyst 714 748 768 
+analysts 635 684 704 714 748 768 
 andriessen 672 
-angeles 552 585 650 667 669 674 682 699 705 725 
+angeles 585 650 667 669 674 682 699 705 725 
 animal 735 
 animals 735 
-ann 727 
+ann 727 763 
 annal 696 
-announced 599 609 629 637 641 669 677 704 725 730 
+announced 599 609 629 637 641 669 677 704 725 730 745 762 767 
 announces 732 
-annual 576 591 613 618 635 650 662 672 714 735 
+annual 591 613 618 635 650 662 672 714 735 
 annually 629 696 718 730 
 ans 658 
+answer 740 
 ansy 658 
 anti-trust 671 
 antibodies 599 
 aoi 581 
 apparent 597 
 appealed 656 688 
+appearance 749 
 appears 697 
 apple 669 
 appleton 596 
 application 635 
-applications 583 643 669 
+applications 583 643 669 761 763 
 applied 671 
-apply 567 582 
-appointed 564 653 719 727 
+apply 582 759 
+appointed 653 719 727 
 appointments 653 
 appreciates 627 
-approach 721 
+approach 721 759 
 approached 679 697 736 
-approval 551 576 591 595 599 696 725 730 
+approval 591 595 599 696 725 730 757 
 approvals 714 
 approve 696 714 
-approved 555 671 704 
-approximately 553 728 
-april 551 554 555 562 568 575 576 584 591 644 652 654 672 674 704 712 714 730 
+approved 671 704 757 
+approves 757 
+approximately 728 
+april 584 591 644 652 654 672 674 704 712 714 730 
 apron 639 
 arab 668 723 
 arabia 668 
 arbitrage 714 
 arbitrageur 714 
 arbitrageurs 714 
-arbor 598 620 727 
+arbor 598 620 727 763 
 arbr 598 620 
 archive 661 
 arctic 677 
-area 583 623 643 677 711 
-areas 634 
+area 583 623 643 677 711 750 761 
+areas 634 744 747 
 argentina 708 
 argentine 708 
 arlington 621 
 arms 697 
 arnst 635 
 arranged 585 657 
-arrangement 565 704 718 
+arrangement 704 718 
+arrangements 748 
 arranges 585 
 arsenal 714 
-arthur 573 728 
+arthur 728 
 arws 596 
-asked 563 570 660 
+asked 660 
 aspects 674 
+assault 751 
 assay 626 630 
 assays 626 630 
 assembly 631 660 
 assertion 718 
-assets 551 581 596 650 
+assessments 742 
+assets 581 596 650 762 
 assigned 589 
-associates 662 
-association 567 582 653 656 688 717 718 
+associates 662 742 
+association 582 653 656 688 717 718 742 
 assume 723 
 assurances 677 
 ast 669 
 asta 669 
+at-compatible 746 
 atlanta 584 641 674 676 681 712 
 atlanta-tokyo 676 
 atlantic 588 718 
 atpc 656 688 
 attacked 721 
-attempts 570 
 attend 628 
 attention-grabbing 635 
-attorney 563 
-attorneys 563 
+attitude 740 765 
 attributing 637 
 august 640 658 659 
-australia 634 
+austerity 740 
+australia 634 742 
+australian 742 
+australians 742 
 austria 627 
-author 634 635 660 704 714 
-authorized 576 599 729 
+author 634 635 660 704 714 748 759 
+authorization 749 
+authorized 599 729 752 
 authors 635 
 auto 703 737 
 automakers 660 
+automated 753 
 automatic 672 
+automation 753 763 
 automobile 660 
 automotive 629 727 
 availability 684 
 average 626 630 634 652 696 
-avg 557 569 573 592 598 614 620 621 644 646 680 728 
-aviation 564 
-aw 556 
-awarded 639 677 
-awcsa 556 
+avg 592 598 614 620 621 644 646 680 728 
+awarded 639 677 755 761 
 b-plus 618 
 b.f 675 685 
 ba-2 645 
 baa-1 678 
 baa-3 645 
-back 567 582 677 
+back 582 677 740 
 bad 607 
 badly 634 
 bags 629 634 
@@ -1332,26 +1318,31 @@ bahrain 668 723
 bahrain-based 668 
 balace 657 
 balance 681 697 714 
+ballistic 751 
+ballistics 751 
 baltimore 595 
 ban 659 
-bank 550 568 637 650 657 671 697 716 723 725 
+banc 738 
+bancorp 757 
+bank 637 650 657 671 697 716 723 725 738 740 749 759 767 
 bankeast 655 
-bankers 697 
-bankhaus 550 
-banking 718 
+bankers 697 759 
+banking 718 740 748 757 
+bankrupt 749 
 bankruptcy 719 
-banks 650 654 655 
+banks 650 654 655 740 759 765 
 banner 657 
 bargainers 660 
 bargaining 660 
 barrel 597 
 barrels 597 708 
 barriers 718 
-base 627 635 639 652 723 730 
-based 635 641 650 657 661 662 682 728 
+base 627 635 639 652 723 730 746 
+based 635 641 650 657 661 662 682 728 746 748 751 
 basically 597 730 
-basis 555 678 724 736 
-bates 736 
+basis 678 724 736 749 759 
+bass 748 
+bates 736 766 
 battle 622 
 battled 622 
 bayer 666 
@@ -1359,8 +1350,7 @@ bayry 666
 bb 618 
 bb-plus 633 
 bbb 678 
-bc- 558 611 615 652 679 682 688 720 
-bc-******alcan-aluminium 571 
+bc- 611 615 652 679 682 688 720 
 bc-******amc-says-steps 600 
 bc-******b.f.-goodrich-t 675 
 bc-******cont'l-illinois 607 
@@ -1374,26 +1364,25 @@ bc-******standard-oil-se 593
 bc-******triangle-indust 625 
 bc-/rospatch- 733 
 bc-/sears- 674 
-bc-aibd 567 582 
+bc-aibd 582 
 bc-air-wis-services-inc 596 
 bc-albertson's- 616 732 
-bc-albertson's-inc- 572 722 
+bc-albertson's-inc- 722 
 bc-alcan-aluminium-ltd- 591 
 bc-amc- 660 
+bc-amca- 762 
 bc-american-nursery- 658 
-bc-americus-trust- 559 
-bc-amgen- 565 
+bc-analysts-see-no-other 768 
 bc-aoi-coal-co- 581 
 bc-apple- 669 
 bc-arbor-drugs-inc- 598 620 
 bc-archive-corp- 661 
 bc-argentine-oil-product 708 
-bc-aw-computer- 556 
+bc-banc-one- 738 
 bc-bankeast-corp- 655 
 bc-banner- 657 
 bc-bayer- 666 
-bc-benetton-in-financial 561 566 
-bc-brt-realty-trust- 577 
+bc-brazil-criticises-adv 759 
 bc-buffets-inc- 592 
 bc-canada-launches-1.2-b 716 
 bc-ccr-video- 705 
@@ -1402,19 +1391,20 @@ bc-chemical-new-york- 723
 bc-chrysler- 678 
 bc-chrysler-to-market-ca 627 
 bc-churchill-to-market-w 589 
-bc-cincinnati-bell- 576 
-bc-cincinnati-bell-inc- 575 
 bc-citizens-financial-co 601 
+bc-coeur-d'alene-mines-c 739 
+bc-coffee-quoita-talkks 754 
 bc-cognitive-systems-inc 605 
 bc-combustion-engineerin 590 
 bc-commercial-credit- 595 
+bc-condor-computer-intro 763 
 bc-congress-video-group 680 
 bc-continental 637 673 
 bc-convergent-technologi 703 
-bc-cronus-industries-inc 553 
+bc-correction 760 
 bc-cuba-tell-traders-exp 684 
 bc-currencies-could-reas 697 
-bc-cynergy 570 
+bc-daisy-systems- 746 
 bc-dean-witter 654 
 bc-delta-air- 676 
 bc-diagnostic-products- 696 
@@ -1422,6 +1412,7 @@ bc-dot-rejects-smoking-b 659
 bc-dunkin'-donuts-inc- 698 
 bc-eagle-entertainment- 667 
 bc-ec-ministers-struggle 672 
+bc-edo-corp- 755 
 bc-electronic-control- 647 
 bc-embargoed-for-1500est 713 
 bc-epitope- 599 
@@ -1432,6 +1423,7 @@ bc-first-financial-manag 681
 bc-flanigan's-enterprise 624 
 bc-fluor-corp- 645 
 bc-fluor-downgrade 608 
+bc-foote-mineral- 741 
 bc-foothill- 585 
 bc-ford- 629 
 bc-franklin-california-t 695 
@@ -1442,19 +1434,18 @@ bc-franklin-michigan-ins 692
 bc-franklin-minnesota-in 691 
 bc-franklin-ohio-insured 701 
 bc-franklin-puerto-rico 700 
-bc-franklin-resources- 574 
+bc-funaro-rejects-u.k.-s 740 765 
 bc-g.d.-ritzy's-inc- 642 
+bc-gelco- 743 
+bc-glamis-gold-ltd- 756 
 bc-goodrich- 685 
 bc-government-bond-broke 671 
 bc-green-tree-acceptance 707 
 bc-gulf-arab-oil-meeting 668 
 bc-gulf-of-mexico-rig-co 711 
-bc-harley-davidson-inc- 557 
-bc-harnischfeger-industr 569 
 bc-health-mor-inc- 610 
 bc-hughes'-u.s.-rig-coun 710 
 bc-ici- 730 
-bc-ico-quota-talks-conti 562 
 bc-inspeech- 662 
 bc-int'l-hydron-corp- 731 
 bc-int'l-minerals- 735 
@@ -1462,30 +1453,28 @@ bc-integrated-generics- 683
 bc-international-hydron 603 
 bc-intrerface-flooring- 609 
 bc-j.p.-industries- 727 
-bc-jacobson- 555 
 bc-john-wiley-and-sons-i 619 
 bc-jwt- 736 
 bc-kevex-corp- 586 
+bc-little-prince-product 758 
 bc-lodgistix- 729 
-bc-mercury-entertainment 552 
 bc-midway- 584 
 bc-molecular-biosystems 641 
 bc-morrison-knudsen- 639 
-bc-morse-shoe-inc- 560 
 bc-murgold-resources- 630 
 bc-murgold-resources-has 626 
 bc-nacco-industries- 651 
+bc-national-early-warnin 751 
 bc-navistar- 618 
 bc-noland- 670 
 bc-north-american-group 712 
 bc-north-atlantic-indust 588 
 bc-nymex-will-expand-off 704 
 bc-opec-president-says-o 597 
-bc-osr- 551 
 bc-paccar- 631 
-bc-pacific-western-fuses 564 
 bc-packaging-systems-cor 640 
 bc-pall-corp- 617 726 
+bc-pesch-sees-shareholde 748 
 bc-polymeric-resources-c 606 
 bc-preferred-health-care 580 
 bc-proposed-offerings 602 
@@ -1493,8 +1482,9 @@ bc-qed-exploration-inc- 579
 bc-rex-noreco-inc- 638 
 bc-rospatch- 706 
 bc-s/p-may-downgrade-mac 633 
+bc-saatchi-and-saatchi- 766 
+bc-scott's-hospitality-a 764 
 bc-scotty's- 612 
-bc-sec-staff-advises-fra 563 
 bc-security-pacific- 725 
 bc-snet- 604 
 bc-spanish-farmers-battl 622 
@@ -1507,168 +1497,187 @@ bc-tandem- 623
 bc-technology 635 
 bc-technology-developmen 621 
 bc-tfc-teleservices-corp 614 
+bc-three-convicted-in-ho 749 
 bc-thunander-corp- 649 686 
 bc-triangle-industries-i 644 
 bc-tylan- 650 
 bc-u.s.-acts-to-protect 719 
+bc-u.s.-approves-buyout 757 
 bc-u.s.-delegation-plans 628 
 bc-u.s.-electronic-sales 717 
-bc-u.s.-intec-inc- 573 728 
+bc-u.s.-intec-inc- 728 
 bc-u.s.-says-tin-disposa 656 
+bc-u.s.-troops-get-cost- 744 
+bc-u.s.-wheat-groups-cal 742 
 bc-uaw-wants-to-revive-a 737 
-bc-unisys-corp- 554 
-bc-universal-health-real 578 
+bc-union-national- 767 
+bc-united-merchants- 752 
 bc-up-right-inc- 715 
+bc-utilicorp- 745 
 bc-valley-federal- 653 
+bc-vanguard-technologies 761 
 bc-versatile-to-build-po 677 
 bc-versatile-unit-has-le 665 
+bc-video-shopping-mall-a 750 
 bc-wavehill-internationa 724 
 bc-western-digital- 583 643 
+bc-western-tele-communic 747 
 bc-western-union- 587 
-bc-zapata- 568 
+bc-westinghouse- 753 
 bc-zimbabwe's-maize-moun 634 
 bdl 624 
 bear 585 650 
 beaverton 599 
-began 563 676 
-begin 584 627 677 714 
-beginning 564 
+began 676 759 
+begin 584 627 677 714 753 
+beginning 744 
 begins 676 
-begun 645 668 
+begun 645 668 748 
 behalf 668 
-belfast 570 
-believed 684 
-believes 733 
-bell 554 575 576 
+believed 684 740 
+believes 733 748 
 bellport 683 
-ben 574 
 benefit 719 728 
 benefits 685 
+benefitted 742 
 benequity 682 
-benetton 561 566 
 benh 655 
 berkeley 635 715 
 bernice 704 
-bethpage 551 
+bess 766 
 bh 682 
 biafora 653 
-bid 677 682 689 706 733 
-bidder 677 
+bid 677 682 689 706 733 748 768 
+bidder 677 768 
 bidders 677 
 bidding 714 
 bids 714 
-biggest 718 730 
-billion 563 572 635 637 644 708 713 714 716 717 718 730 
+big 740 
+biggest 718 730 748 
+billings 766 
+billion 635 637 644 708 713 714 716 717 718 730 740 748 759 765 
+binding 740 
 bingo 664 
 biosystems 641 
 bit 635 
 black 721 
 blacks 721 
-blah 571 593 600 607 608 625 632 636 648 663 665 675 689 694 709 713 
+blah 593 600 607 608 625 632 636 648 663 665 675 689 694 709 713 
 blamed 670 
-blue 554 
 bmd 649 686 
 bnr 657 
-board 555 570 576 578 591 599 634 653 729 732 733 
+board 591 599 634 653 729 732 733 749 752 757 
 bocb 592 
-boise 572 616 639 722 732 
-bond 563 567 582 671 713 716 
-bonds 563 574 645 667 716 
-book 553 
-boost 656 688 
+boise 616 639 722 732 
+bond 582 671 713 716 749 
+bonds 645 667 716 
+bongard 749 760 
+boost 656 688 748 
 boosted 730 
 boston 602 674 687 
-bought 570 634 684 730 
+bought 634 684 730 
 bpd 597 
 brains 635 
-branch 550 654 
-brazil 562 684 
+branch 654 
+branches 762 
+brazil 684 740 754 759 765 
+brazilian 740 754 765 
 brazilians 628 
-break 671 
+brazils 740 
+break 671 754 
 breakdown 660 
 breaker 677 
 breaking 597 
+bridge 762 
 briefing 627 
-bring 567 582 730 
-bringing 660 726 
+bring 582 730 
+bringing 660 726 738 
 brings 730 
-british 553 
+britain 740 759 765 
+british 740 756 759 
 broadcast 714 
 broadcasting 718 
 broaden 730 
 brodersen 635 
+broke 737 
 broker 671 
 brokerage 654 
 brokers 671 
 brookehill 706 
 brothers 602 678 
 brought 730 
-brown 559 679 
-brt 577 
+brown 679 
 brussels 672 
-bryson 570 
-btom.mi 561 566 
-budget 563 667 
+budget 667 
 budging 628 
 buenos 708 
 buffets 592 
-build 563 600 660 665 677 
+build 600 660 665 677 755 
 builders 612 
 building 718 
 buildings 622 
-built 563 604 
+built 604 
 bullion 697 
 bumper 634 
+burden 742 
 burnham 657 
+burton 749 760 
 bushels 694 
-business 553 591 635 657 666 667 671 685 712 720 727 730 733 
-businesses 645 675 685 730 
+business 591 635 657 666 667 671 685 712 720 727 730 733 741 743 748 750 
+businesses 645 675 685 730 762 
 butter 672 
-buy 650 664 671 703 712 716 732 
+buy 650 664 671 703 712 716 732 752 
 buyback 729 
 buyer 627 
 buyers 629 634 
 buying 635 684 736 
+buyout 748 757 
 buys 712 735 
+byron 748 
 cabin 659 
-cable 623 714 
+cable 623 714 747 
+cablevision 747 
 cabriolet 652 
 cal 714 
-calculated 562 714 
-calgary 564 611 615 
+calculated 714 
+calgary 611 615 
 calif 583 717 
-calif. 565 574 583 586 623 641 643 650 653 661 690 691 692 693 695 700 701 702 703 715 725 
+calif. 583 586 623 641 643 650 653 661 690 691 692 693 695 700 701 702 703 715 725 746 
 california 635 695 710 725 
-called 633 634 651 659 669 704 714 721 
-calling 634 684 
+call 742 
+called 633 634 651 659 669 704 714 721 766 
+calling 634 684 755 
 calls 681 684 714 
-campaign 570 672 
-canada 551 615 677 710 713 716 718 
-canadian 564 595 677 718 
+cambridge 741 
+campaign 672 
+canada 615 677 710 713 716 718 756 762 
+canadian 595 677 718 
 canadians 718 
 cancer 730 
-canton 560 
 capable 677 
-capacity 567 582 604 
+capacity 582 604 
 capco 651 
-capital 577 585 602 616 647 651 678 687 736 
+capital 585 602 616 647 651 678 687 736 740 764 765 
+capitals 740 765 
 capozza 704 
-card 550 
 cardiss 721 
 cards 664 
 care 580 
 cargoes 684 
+carried 750 
 carrier 584 676 
-carry 613 661 
+carry 613 661 750 
 carryforward 680 
 carryforwards 603 731 
 cars 627 629 652 
 carson 650 
-carty 564 
 carwin 730 
-case 570 
-cash 556 632 645 654 681 703 704 706 714 724 
+case-by-case 759 
+cash 632 645 654 681 703 704 706 714 724 748 751 762 
+cash-flow 740 
+caspar 744 
 category 635 
+catering 764 
 catherine 635 
 cautiously 697 
 cbs 714 
@@ -1678,15 +1687,15 @@ ccc-plus 618
 cccr 699 705 
 ccn 714 
 ccr 699 705 
-cedel 567 582 
+cedel 582 
 ceiling 597 
-celanese 558 
+celeste 749 
 censure 632 654 
-cent 603 718 
-center 648 674 
+cent 603 718 744 
+center 648 674 762 
 centerior 651 
-centers 674 
-centrale 550 
+centers 674 762 
+central 759 
 centralized 674 
 centralizing 723 
 century 704 
@@ -1695,26 +1704,28 @@ certificates 591
 cftc 704 
 ch 723 
 chain 616 
-chairman 564 587 653 656 668 669 671 688 704 721 730 736 
+chairman 587 653 656 668 669 671 688 704 721 730 736 742 766 
 chairman-elect 730 
-chairs 563 
 challenge 730 
 challenging 637 
-chance 714 
-chances 562 628 
-change 569 588 599 637 640 704 714 
+chance 714 748 
+chancellor 740 759 
+chances 628 
+change 588 599 637 640 704 714 
+changing 742 
+channel 750 
 channels 627 
 charecterized 637 
-charge 563 663 674 
-charged 563 654 660 
-charges 563 644 654 
+charge 663 674 
+charged 654 660 749 
+charges 644 654 743 749 760 
 charging 654 
-checking 567 582 
+checking 582 
 checks 719 
 chemical 685 723 730 735 
 chemicals 666 685 730 
-chicago 584 617 623 648 674 712 721 726 
-chief 564 587 653 696 706 714 718 
+chicago 584 617 623 648 674 712 721 726 748 
+chief 587 653 696 706 714 718 759 
 chiefly 718 
 china 590 
 chip 635 
@@ -1725,36 +1736,36 @@ chris 714
 chrysler 627 678 
 churchill 589 
 cil 637 673 
-cincinnati 575 576 
+cincinnati 749 760 
 circuit 635 
 circuits 635 
 cited 618 
 cities 584 
 citizens 601 
 citrus 622 
-city 586 604 622 674 
+city 586 604 622 674 745 
 claim 677 
 claiming 677 
 class 609 677 
 classes 581 
+clayton 742 
 clear 684 
-clearing 567 582 
+clearing 582 
 clements 730 
 cleveland 601 613 651 
 clevite 727 
+clients 766 
 cliffs 638 
 climbed 714 
-clinical 565 
 clnical 641 
 clone 635 
-close 591 635 648 657 660 674 704 714 723 
-closed 674 
+close 591 635 648 657 660 674 704 714 723 744 768 
+closed 674 740 745 749 762 
 closely 714 
 closer 718 
 closes 704 
 closing 595 674 712 720 723 
 closings 674 
-clothing 561 566 
 club 624 
 co-managed 678 
 co-operation 668 
@@ -1762,58 +1773,60 @@ co-ordination 668
 coal 581 651 
 coal-fired 590 
 coast 677 
-coffee 562 628 
+coastal 757 
+coeur 739 
+coffee 628 754 
 cognitive 605 
 cold 672 
-collapse 597 660 
+collapse 597 660 749 760 
+college 755 
 collins 721 
-colombia 562 
-colombian 562 
+colo. 747 
 colorado 710 
-columbus 642 674 
+columbia 756 
+columbus 642 674 738 
 column 641 
 combination 733 
-combined 551 657 724 
+combine 748 753 
+combined 657 724 766 
+combines 766 
 combustion 590 
 coming 674 
-comment 683 714 736 
+comment 683 714 736 748 
 commented 627 
-comments 563 683 
-commercial 564 595 634 645 
-commission 563 570 577 602 637 654 704 705 
+comments 683 
+commercial 595 634 645 740 759 765 
+commission 602 637 654 704 705 748 
 commissioner 672 
-commissioners 563 
 commissions 671 
-commitment 668 
-commitments 660 
+commitment 668 742 
+commitments 660 740 
+committee 759 
 committees 660 
 commodities 656 688 720 
 commodity 635 704 
-common 551 558 565 570 576 577 599 602 609 618 657 683 706 714 732 
-commonly 570 
-communicate 556 570 
+common 599 602 609 618 657 683 706 714 732 748 749 752 767 
 communications 589 669 714 
 community 622 672 
 compact 627 629 
-company 551 552 553 556 564 568 570 585 587 591 599 604 609 612 626 627 630 631 633 635 637 639 641 643 650 651 652 653 660 670 674 677 679 681 682 683 685 696 705 706 714 720 721 724 727 729 730 732 733 736 
+company 585 587 591 599 604 609 612 626 627 630 631 633 635 637 639 641 643 650 651 652 653 660 670 674 677 679 681 682 683 685 696 705 706 714 720 721 724 727 729 730 732 733 736 737 741 747 748 752 753 755 757 761 762 763 764 766 768 
 companys 703 
 comparable 660 678 
-compared 552 629 635 705 706 711 
+compared 629 635 705 706 711 748 
 compares 616 
-comparison 567 582 
+comparison 582 
 compatibility 669 
 compatible 661 
-compatibles 556 
 compensation 622 
 competing 635 677 
 competition 622 
-competitive 627 718 
+competitive 627 718 768 
 competitiveness 718 
 competitors 671 
 complaint 637 654 
 complete 643 657 714 
-completed 558 563 595 604 651 655 667 677 725 735 
-completes 558 604 645 655 725 
+completed 595 604 651 655 667 677 725 735 748 
+completes 604 645 655 725 
 completion 585 639 667 
 complex 660 704 
 compliance 654 
@@ -1821,12 +1834,13 @@ complications 730
 component 635 
 components 583 590 727 
 compound 696 
+compounded 759 
 comptroller 637 725 
-computer 556 583 623 635 664 669 724 
-computers 556 623 635 661 669 703 
-concede 562 
+computer 583 623 635 664 669 724 746 753 763 
+computer-aided 746 
+computers 623 635 661 669 703 
 concentration 659 
-concern 561 566 570 730 
+concern 730 748 
 concerns 718 
 concessionary 660 
 concessions 660 
@@ -1834,109 +1848,122 @@ concluded 659 668
 concluding 659 
 conclusions 659 
 condition 714 
-conditions 677 
-conference 561 566 635 
+conditions 677 752 
+condor 763 
+conference 635 
 confidence 697 706 718 
 confident 597 
 confined 659 
-confirmation 567 582 
-confirmed 567 582 
+confirmation 582 
+confirmed 582 
 congestive 730 
 conglomerates 635 
 congress 659 680 
 congressional 721 
 conn. 590 604 605 
-connection 563 
+connected 749 
 considerably 672 
 considered 635 660 
-consist 551 716 
+consist 716 
+consisting 747 
 consolidated 674 
 consolidation 674 
 constraints 634 
-construction 563 639 677 
+construction 639 677 
 consulting 667 
 consumer 612 623 635 
-consumers 562 583 629 643 
+consumers 583 629 643 754 
 consummated 714 
 consumption 634 
 cont'l 607 
-contact 723 
+contact 723 754 
 continental 637 673 
 contingencies 650 
-continue 562 628 645 685 721 730 
-continued 562 685 710 
-continuing 568 645 730 733 
-contract 590 639 660 677 681 704 
+continue 628 645 685 721 730 742 748 
+continued 685 710 
+continues 748 
+continuing 645 730 733 
+contract 590 639 660 677 681 704 737 755 761 
 contracted 711 
-contracts 684 
+contracts 684 755 
 contrary 733 
 contributed 651 
-control 570 590 639 645 647 714 
+control 590 639 645 647 714 748 
 controlled 623 714 
-controller 556 
-controllers 556 
 controversial 677 
 contruction 639 
 convenience 679 
 convergent 703 
+conversations 748 
+conversion 747 
+converted 767 
 convertible 602 627 714 
+converting 747 
+convicted 749 760 
+conviction 749 
+convictions 749 760 
 convinced 714 
-cooperate 567 582 
-cooperation 718 
+cooperate 582 
+cooperation 718 740 
+coordinates 759 
+coordination 761 
 copy 635 
 coral 724 
-core 645 
+core 645 762 
 corn 694 
-corp 551 552 554 558 561 564 566 568 570 583 585 586 587 589 590 595 597 601 602 603 604 606 608 611 614 615 617 618 621 623 627 631 633 635 637 639 640 643 644 645 649 650 651 655 660 661 664 666 669 671 677 678 681 682 686 696 699 703 705 706 709 712 714 719 723 724 725 726 731 733 735 
-corporate 574 723 
+corporate 723 
 corporation 587 733 
 corrected 615 
-correction 611 673 
-corrects 550 
-cost 563 631 635 
+correction 611 673 760 
+corrects 749 760 
+cost 631 635 
+cost-of-living 744 
 costa 661 
 costing 634 672 
 costly 672 
-costs 563 633 634 635 714 
+costs 633 634 635 714 743 748 
+cottage 751 
 cotton 634 
-council 562 628 668 718 
+council 628 668 718 754 
 count 657 710 711 
 counter 706 
-counties 574 
-countries 597 634 656 668 688 718 
-country 634 677 718 721 
+counterparts 744 
+countries 597 634 656 668 688 718 740 742 754 765 
+country 634 677 718 721 740 765 
+country'rate 759 
+counts 749 760 
+county 749 
 coupe 627 652 
 coupon 593 613 678 
-courier 583 643 
-court 721 
-covenant 568 
-cover 567 582 
-covered 565 
-covering 567 582 660 
-cp 564 
+cour 739 
+courier 583 643 768 
+court 721 749 
+cover 582 
+covering 582 660 
 craft 714 
 create 714 
 created 659 714 
-credit 550 573 595 613 637 650 657 715 
-credits 569 581 596 640 644 
+credibilty 748 
+credit 595 613 637 650 657 715 740 759 
+creditor 740 765 
+creditors 759 
+credits 581 596 640 644 
 creditwatch 633 
 crew 659 
-crg 570 
-criteria 562 
-critical 567 582 
-criticized 563 
-crns 553 
-cronus 553 
-crop 562 684 
+crisis 740 759 765 
+critchley 759 
+critical 582 
+criticises 759 
+crop 684 742 
 crops 634 
 crosbie 677 
 crosibie 677 
 crossborder 718 
 crude 668 704 708 
 csai 605 
-csn 575 576 
+csbk 757 
 csp 590 
-ct 581 586 624 731 
+ct 581 586 624 731 739 748 
 ctzn 601 
 cuba 684 
 cuban 684 
@@ -1946,188 +1973,207 @@ cultural 718
 cupertino 623 
 curb 634 
 curbs 718 
-currencies 697 
+currencies 697 744 
 currency 593 613 637 697 725 
-current 583 624 629 634 643 668 705 730 
+current 583 624 629 634 643 668 705 730 740 748 764 
 custom 635 
 custom-built 631 
+custom-crafted 751 
 customer 635 654 723 
-customers 589 635 723 727 
+customers 589 635 723 727 747 
 customize 635 
 customized 635 
-cut 626 630 645 656 671 672 675 688 
+cut 626 630 645 656 671 672 675 688 762 
 cuts 672 693 
 cvgi 680 
 cvgt 703 
 cx 651 
-cynergy 570 
-cz 558 
-d.f 570 
+d'alene 739 
 daily 584 676 720 
 dairy 672 
+daisy 746 
 daiwa 720 
 daiwa-securities-co 720 
 dal 676 
-dallas 553 646 674 
+dallas 646 674 
 damaging 634 
 danville 725 
-data 567 582 671 681 711 715 
+data 582 671 681 711 715 
+database 763 
 dataquest 635 
-date-plus-one 567 582 
+date-plus-one 582 
 dated 716 
-david 721 
-day 567 582 597 654 672 704 714 
-days 657 672 676 714 732 
+dauster 754 
+david 721 749 760 
+day 582 597 654 672 704 714 
+days 657 672 676 714 732 746 759 
 daytona 627 
+dazy 746 
 de 634 
-deadline 559 718 
-deal 622 623 678 
+deadline 718 
+deal 622 623 678 740 768 
 dealer 627 671 
-dealers 567 582 629 671 684 703 
-dealings 570 
+dealers 582 629 671 684 703 
 deals 634 
-dean 632 654 
+dean 632 654 748 
 death 653 
-debentures 568 633 
+debentures 633 
 debron 609 
-debt 585 595 602 608 609 618 631 633 644 645 697 703 714 
+debt 585 595 602 608 609 618 631 633 644 645 697 703 714 740 748 752 759 762 765 
 debt-protection 645 
+debtor 740 759 765 
 debut 704 
-dec 580 606 624 680 
-deceased 573 
-december 564 597 650 668 672 681 704 705 706 717 
-decided 570 682 
+dec 580 606 624 680 756 758 
+december 597 650 668 672 681 704 705 706 717 
+decided 682 
 decision 627 660 714 718 723 
 decisions 635 
 declare 684 
-declared 576 578 591 
-decline 660 697 717 
-declined 550 668 711 730 
+declared 578 591 
+decline 660 697 717 759 
+declined 668 711 730 
 declining 627 
 decrease 696 710 711 
-default 563 
-defaulted 563 
-defense 718 
-deferrals 568 
+decreased 744 
+defendant 760 
+defense 718 744 761 
 deficit 717 
-define 562 
-definitive 659 703 712 
+definitive 659 703 712 741 767 
 delayed 684 
 delegate 628 
-delegates 562 628 
+delegates 628 754 
 delegation 628 
-delivered 623 634 667 716 
+delivered 623 634 667 716 747 
 deliveries 634 
-delivery 567 582 590 684 
+delivery 582 590 684 
 delta 676 
-demand 563 622 672 684 
+demand 622 672 684 
 demanded 718 
-democrat 563 721 
+demands 740 
+democrat 721 
 demonstrates 660 
-denied 563 
 dent 634 
-denver 579 
+denver 579 747 
 denying 637 
 denys 730 
 departing 676 
-department 567 582 654 656 659 671 688 716 
-depending 696 
-deposit 637 654 
+department 582 654 656 659 671 688 716 737 757 
+departure 740 
+depending 696 752 
+deposit 637 654 749 
+deposited 759 
 deposits 654 
 depreciated 581 
 depreciation 581 
 deputy 668 
 describes 720 
-design 556 635 
-designed 567 582 635 
+design 635 753 
+designed 582 635 
+designer 751 
 designing 635 
 designs 635 
-desktop 669 
+desirable 748 
+desire 744 
+desktop 669 746 
 destination 684 
 detachable 613 
+detail 741 
 detailed 660 
-details 550 561 566 668 
+details 668 
 detection 641 
-determine 568 674 714 
-determined 602 
+determine 674 714 
+determined 602 743 
 detroit 629 660 737 
-develop 556 
-developer 570 
-developing 567 582 635 
-development 565 621 635 668 
+developed 740 765 
+developer 751 
+developing 582 635 742 
+development 621 635 668 755 
 developments 635 668 683 720 
 deviations 597 
 devices 669 
+dhb 766 
 diabetic 730 
 diablo 725 
 diagnostic 599 689 696 706 709 733 
+dictate 754 
 diego 641 
+diener/hauser/bates 766 
 difference 720 
 differential 704 
 difficult 635 
 difficulty 660 668 
 digital 583 635 643 
 diligence 712 
+dilson 740 759 765 
 diluted 644 649 
-dingell 563 
 diplomats 672 
 dipped 714 
 direct 677 684 
 direct-dealing 671 
 directly 589 671 
-director 573 656 688 730 
-directors 555 570 599 714 
+director 656 688 730 
+directors 599 714 749 
 disastrously 629 
 discipline 597 
-disclosed 565 570 654 658 703 712 733 735 
+disclosed 654 658 703 712 733 735 
+disclosure 742 
 discontinued 614 640 644 646 680 685 
 discounting 631 
-discuss 685 
-discussed 668 
+discuss 685 748 
+discussed 668 748 
 discussing 668 
-discussions 568 733 
+discussions 733 742 748 759 
 diseases 599 
+diskette 763 
 dismantling 718 
 display 669 
 disposals 656 688 
 disputed 677 
 disruptive 670 
+dissatisfaction 748 
 distance 589 
 distressed 637 
 distribute 661 
-distribution 551 627 636 648 658 659 674 732 
+distribution 627 636 648 658 659 674 732 747 
 distributions 687 
-distributor 551 661 
+distributor 661 
 distributors 627 714 
-div 554 573 575 690 691 692 693 695 700 701 702 
+div 690 691 692 693 695 700 701 702 
 diversification 634 
 dividednd 578 
-dividend 555 577 640 707 722 732 
-dividends 574 
-division 727 730 
+dividend 640 707 722 732 
+dividends 743 
+division 727 730 755 768 
 dj 669 
-dlr 556 565 573 604 615 635 637 650 657 663 665 671 674 677 713 716 
+dlr 604 615 635 637 650 657 663 665 671 674 677 713 716 748 749 761 768 
 dna 641 
 dna/rna 641 
 do-it-yourself 612 
+doable 748 
 doctors 730 
 documents 669 
 dodge 627 
-dollar 613 627 696 697 
+dollar 613 627 696 697 744 
 dollars 613 
 domes 685 
-domestic 595 634 659 718 
+domestic 595 634 659 718 740 
 dominate 671 
-donald 564 653 
+dominion 745 762 
+domm 748 
+donald 653 
+donaldson 748 
 donors 634 
 donuts 698 
 dot 659 
 dotted 634 
 double 721 730 
+doubt 748 
+doubted 768 
 dow 669 
 downgrade 633 
 downgraded 608 631 645 
 dpcz 696 
+draining 749 
 dram 635 
 dramatically 641 
 drawing 597 
@@ -2135,12 +2181,12 @@ drexel 657
 drilling 626 630 710 
 drive 661 669 
 driving 660 
-dropped 710 
+dropped 710 759 
 drs 706 733 
 drug 696 730 
 drugs 598 620 730 
 dubai 723 
-due 568 627 633 634 672 678 712 716 720 
+due 627 633 634 672 678 712 716 720 754 
 dumped 622 
 dunk 698 
 dunkin 698 
@@ -2149,39 +2195,47 @@ duties 622 718
 duty 633 718 
 dynamic 635 
 e-mail 583 
-e.f. 654 
+e.f. 654 748 768 
 eagle 667 
-earlier 633 637 670 671 705 706 
-early 564 590 639 644 674 714 717 
-earn 552 554 555 557 560 680 686 687 689 690 691 692 693 695 696 698 699 700 701 702 707 715 722 728 730 731 734 
-earnings 631 637 645 651 674 685 696 714 730 
+earlier 633 637 670 671 705 706 737 748 
+earliest 737 
+early 590 639 644 674 714 717 751 
+earn 680 686 687 689 690 691 692 693 695 696 698 699 700 701 702 707 715 722 728 730 731 734 739 743 756 758 
+earnings 631 637 645 651 674 685 696 714 730 743 748 
 east 647 
 easy 635 
-eaton 564 
 ec 622 672 
-economic 634 
-economically 718 
+economic 634 740 
+economically 718 742 
 economically-viable 634 
 economies 718 
 economists 634 
 economy 634 697 
 ecsiu 647 
+eden 743 
 edge 714 
 edison 651 
+edmonton 762 
+edo 755 
 eegl 667 
 effect 591 597 656 672 688 696 704 
 effective 728 730 
-effects 659 
+effects 659 743 
 efficiency 723 
-efforts 634 
+efficient 748 
+effort 740 748 
+efforts 634 740 754 
 efp 704 
+ega 746 
+ejection 755 
+elaborate 748 
 elected 587 
-election 570 
+electric 753 
 electrical 635 
 electronic 583 589 635 643 647 669 717 
-electronics 635 
+electronics 635 753 
 element 672 
-elements 567 582 
+elements 582 
 eligible 671 
 elimination 644 
 elite 671 
@@ -2189,6 +2243,7 @@ elkes 714
 elkhart 649 686 
 embarrassing 672 
 embassy 628 
+emerge 768 
 emirates 668 723 
 employees 648 685 719 
 employing 685 
@@ -2196,136 +2251,128 @@ employment 677 721
 enables 664 
 encountering 668 
 encouraged 672 
-end 569 627 634 685 696 705 714 717 737 
-ended 552 612 617 619 633 642 658 668 705 706 726 
+end 627 634 685 696 705 714 717 737 743 759 
+ended 612 617 619 633 642 658 668 705 706 726 743 748 758 
 ending 718 
 ends 668 680 
 energy 615 651 704 
-enforcement 563 
 engage 733 
 engaged 679 
 engine 727 
-engineering 553 590 635 677 
+engineering 590 635 677 746 
 engines 627 
-england 595 604 649 686 
-englewood 638 
-english 563 
+england 595 604 649 686 759 
+englewood 638 747 
 enjoyed 714 
 enormous 635 717 
 enquiry 723 
 enter 737 
-entered 567 582 719 
+entered 582 719 748 
 entering 704 
 enterprises 624 
-entertainment 552 667 714 
-entire 570 635 666 
+entertainment 667 714 
+entire 635 666 741 
+entities 742 
 entitle 732 
 entitling 613 
-entry 567 582 
+entity 766 
+entry 582 
+environment 748 
 environmental 602 659 
 environments 669 
-envisioned 563 
 epitope 599 
 epto 599 
-equal 569 651 
-equipment 553 581 727 
+equal 651 
+equipment 581 727 
 equipped 629 
-equity 570 574 633 714 
+equity 633 714 
 eroded 631 
 es 627 
 esi 646 
+esm 749 
 established 671 730 
 establishes 681 
-estimated 565 597 730 
-estimates 635 
-eurobond 567 582 
+estimated 597 730 759 
+estimates 635 748 
+eurobond 582 
 eurobonds 645 
-euroclear 567 582 
-europe 627 
-european 627 634 672 
+euroclear 582 
+europe 627 740 
+european 627 634 672 740 759 765 
 european-mediterranean 711 
 evaluate 674 
+evening 754 
 event 637 732 
 eventually 724 
 exacerbated 634 
-examine 562 
 examining 654 
+exceed 755 
 exception 705 
 excess 597 616 654 
-exchange 563 570 577 583 602 613 627 634 637 643 654 655 683 703 704 705 
+exchange 583 602 613 627 634 637 643 654 655 683 703 704 705 748 
 exchangeable 602 714 
-exclude 557 644 
+exchequer 740 759 
+exclude 644 
 excludes 581 603 640 644 646 731 
+excluding 743 
 exclusive 720 
 exco 671 
-executive 564 587 627 653 696 706 714 
+executive 587 627 653 696 706 714 
 executives 629 
 exercisable 613 732 
 exercise 651 
-existing 660 
+existing 660 759 
 exit 583 643 
-expand 561 566 584 635 671 704 724 725 730 
+expand 584 635 671 704 724 725 730 
 expanded 671 704 
 expansion 704 724 
 expect 685 696 730 
 expectations 645 
-expected 595 599 626 630 635 696 704 714 730 
-expects 551 552 657 679 696 730 
+expected 595 599 626 630 635 696 704 714 730 743 744 747 748 753 
+expects 657 679 696 730 743 
 expenditures 616 
 expense 618 
+expenses 743 
 expensive 635 730 
-experience 597 
+experience 597 753 
 experienced 631 
 experts 635 
-expire 568 682 
+expire 682 
 expired 657 
 expiring 681 
-explained 704 
+explain 740 765 
+explained 704 741 
 exploration 579 
 explore 679 
 explored 626 630 
-export 562 627 628 684 694 
-exporting 627 
+export 627 628 684 694 740 742 
+exporting 627 754 
 exports 622 656 684 688 696 718 
-exposure 659 730 
+exposure 659 730 759 
 express 669 
-extended 559 562 568 657 659 
+extended 657 659 
 extending 672 
-extends 559 589 
-extension 559 
-external 669 
+extends 589 
+external 669 740 765 
 extinguishment 644 
+exton 741 
 extra 634 
 extractor 641 
 extraordinary 615 624 633 705 715 
 extremely 670 
-f0275 551 
-f0276 552 
-f0277 553 
-f0279 554 
-f0281 555 
-f0282 556 
-f0283 557 
-f0285 559 
-f0287 560 
-f0295 561 
-f0303 562 
-f0321 563 
-f0333 564 
-f0334 565 
-f0336 566 
-f0338 567 
-f0344 568 
-f0355 569 
-f0358 570 
-f0364 571 
-f0366 572 
-f0367 573 
-f0368 574 
-f0369 575 
-f0371 576 
-f0375 577 
-f0376 578 
+f-15e 755 
+f0004 757 
+f0011 758 
+f0012 759 
+f0026 760 
+f0028 761 
+f0029 762 
+f0030 763 
+f0031 764 
+f0033 765 
+f0035 766 
+f0038 767 
+f0042 768 
 f0377 579 
 f0378 580 
 f0382 581 
@@ -2485,102 +2532,145 @@ f0920 734
 f0928 735 
 f0929 736 
 f0930 737 
+f0931 738 
+f0932 739 
+f0935 740 
+f0936 741 
+f0938 742 
+f0960 743 
+f0961 744 
+f0963 745 
+f0968 746 
+f0969 747 
+f0971 748 
+f0972 749 
+f0979 750 
+f0980 751 
+f0982 752 
+f0986 753 
+f0987 754 
+f0989 755 
+f0992 756 
+face 748 754 
 faced 668 672 
-facilitate 564 
-facilities 567 582 674 
+facilitate 740 765 
+facilities 582 674 761 
 facing 629 
-factor 684 697 
+factor 684 697 748 
+factors 752 
+factory 753 
 fail 600 660 
-failed 654 
+failed 654 754 
 failing 632 654 
-failure 634 660 697 730 
+failure 634 660 697 730 749 760 
+fair 759 
+fairfax 761 
 fairly 721 
 fall 635 
+falling 754 
 fallon 639 
 falls 711 
+family 744 746 748 
 far-reaching 671 
-farm 672 735 
+farm 672 735 742 
 farmer 672 
-farmers 622 634 672 
-fast 567 582 
+farmers 622 634 672 742 
+fast 582 
 faster 635 
 favorable 683 
 favourable 627 
 fearing 718 
-feasibility 570 
 feature 720 
+features 763 
 feb 611 
-february 550 568 597 612 629 634 645 670 678 704 733 
+february 597 612 629 634 645 670 678 704 733 740 748 759 765 
 fed 671 
-federal 563 629 637 653 654 665 671 719 
+federal 629 637 653 654 665 671 719 749 757 762 
 feed 634 
 feedstock 735 
-fees 671 
+feel 742 
+fees 671 743 
 feet 626 630 
+feinberg 748 
 fell 597 710 711 714 
+fellow 749 
+fenton 738 
 ferroalloy 656 688 
+fetch 768 
 ffmc 681 
 field 668 
 fifo 588 
 fig 615 
 figures 634 717 
 file 730 
-filed 577 602 609 719 
+filed 602 609 719 
 files 583 609 643 
-filing 570 637 654 705 
-film 551 667 
-films 551 714 718 
-final 627 635 660 687 
+filing 637 654 705 748 
+film 667 
+films 714 718 
+final 627 635 660 687 743 
 finalise 672 
-finance 609 634 657 703 716 730 
-financial 561 566 568 601 618 631 633 637 677 678 681 687 720 
+finalized 762 
+finance 609 634 657 703 716 730 740 759 765 
+financial 601 618 631 633 637 677 678 681 687 720 757 
 financially 677 
-financing 682 
-finanziario 561 566 
-find 634 
+financially-pressed 744 
+financing 682 748 
+find 634 740 748 
+finish 748 
+fire 751 
 fires 659 
-firm 589 635 645 654 671 697 712 714 
+firm 589 635 645 654 671 697 712 714 748 
 firmed 597 
-firms 654 656 671 688 717 
+firms 654 656 671 688 717 749 
+fiscal 743 748 
 fiscales 708 
-fla. 612 614 674 685 724 
+fla 750 
+fla. 612 614 674 685 724 749 751 
 flagging 629 
+flame 751 
 flanigan 624 
-flat 717 
+flat 717 743 
+flatly 740 765 
+flawed 742 
 fleet 629 
 flights 584 659 
 flooring 609 
+floppy 763 
+florida 750 
 flow 645 
+flows 740 765 
 flr 645 
 fluctuations 697 
 fluor 608 645 
-fly 584 676 
+fly 584 676 744 
 fmc 714 
 fnn 720 
 fnni 720 
+focus 762 
 foliage 658 
-follow 653 
+follow 653 755 
 follow-up 668 
-food 672 696 730 
+food 672 696 730 764 
+foote 741 
 foothill 585 
-force 567 582 634 730 
+force 582 634 730 
 ford 629 
 forecast 717 
-forecasts 563 
-foreign 634 697 704 
+foreign 634 697 704 742 744 759 
 forge 662 
 forged 668 
-form 565 635 
+form 635 748 753 766 
 formal 668 
-formally 562 
 formation 730 
-formed 559 574 727 
-forms 574 712 727 
-fort 614 
+formed 727 
+forms 712 727 
+fort 614 749 
+forthcoming 768 
 forum 635 
 forward 684 
 foster 586 
-found 635 654 
+found 635 654 749 760 
 four-door 627 
 four-part 716 
 fourth 611 654 714 
@@ -2588,61 +2678,67 @@ fourth-quarter 706 717
 fraction 714 
 fractional 714 
 franc 593 613 
+france 759 
 franchised 627 724 
 franchises 627 714 
+francisco 759 
 francs 613 
 frank 704 
-franklin 574 690 691 692 693 695 700 701 702 
+franklin 690 691 692 693 695 700 701 702 
 frans 672 
-fraud 563 
-free 574 718 
+free 718 
 free-trade 718 
-fresh 562 
-friday 657 660 
-friendly 736 
-frol 573 
-ft-70 556 
+freeze 759 
+friday 657 660 768 
+friendly 736 748 
+fte 741 
 fueled 684 
-full 562 627 628 668 711 
-fully 581 632 654 
+full 627 628 668 711 754 755 
+fully 581 632 654 768 
 fully-diluted 724 
+funaro 740 759 765 
 func 681 
-fund 565 574 690 691 692 693 695 700 701 702 
-funds 574 585 657 
-fuses 564 
-future 568 627 635 697 717 
+functions 763 
+fund 690 691 692 693 695 700 701 702 740 765 
+funds 585 657 749 760 
+future 627 635 697 717 742 748 
 futures 704 
 g.d 642 
 ga. 609 
 gables 724 
-gain 569 570 573 595 619 624 640 646 651 680 687 705 710 731 
-gains 557 596 644 730 
+gain 595 619 624 640 646 651 680 687 705 710 731 
+gaining 740 
+gains 596 644 730 743 
 game 597 656 664 688 
 games 664 
 gareth 727 
-gas 570 622 708 
+gas 622 708 739 
 gathering 668 
-gauge 562 628 
+gauge 628 
 gave 668 
 gcc 668 
-general 634 727 729 
-generate 651 677 
+gel 743 
+gelco 743 
+general 634 727 729 747 762 
+generate 651 677 762 
 generator 590 
 generics 683 
 geneva 627 
+geoffrey 759 
 georgia 681 712 
 gerald 727 
-german 550 
-germany 558 627 666 672 
+germany 627 666 672 744 759 
 gfi 585 
-gft-gruppo 561 566 
 gibson 653 
 gilroy 583 
-ginnie 574 
-give 550 551 567 582 597 634 671 
-giving 597 
+give 582 597 634 671 
+giving 597 759 
+glamis 756 
 glaxo 730 
+glgv 756 
+glgvf 756 
 glidden 730 
+global 742 
 globalization 704 
 glutted 634 
 gmb 634 
@@ -2651,31 +2747,37 @@ gna 668
 gnt 707 
 goal 629 
 goals 721 
-gold 626 630 697 
+gold 626 630 697 756 
 goldman 602 
+good 742 
 goodrich 675 685 
 goods 717 
-government 574 622 627 629 634 656 665 671 677 688 721 
+government 622 627 629 634 656 665 671 677 688 721 740 742 749 755 759 
+government-run 742 
+governments 759 
+governor 749 759 
 gr 685 
-grain 634 694 
+grain 634 694 742 
 grand 654 706 733 
 grant 659 
 graphic 669 
-great 577 
-greater 634 654 
+graphics 746 
+greater 634 654 741 
 green 707 
 greensboro 674 
 gregson 634 
 grocery 616 
+gros 759 
 groundnuts 634 
 grounds 718 
-group 551 553 561 566 570 585 602 609 647 651 654 656 671 680 688 706 712 714 718 727 732 736 
-groups 570 668 727 
+group 585 602 609 647 651 654 656 671 680 688 706 712 714 718 727 732 736 747 748 754 768 
+groups 668 727 742 
 grow 634 
-growers 622 634 
+growers 622 634 742 
 growing 717 
 grows 658 
-growth 696 
+growth 696 740 
+guage 748 
 guarantee 627 667 
 guaranteed 634 635 672 681 719 
 guaranteeed 635 
@@ -2683,92 +2785,97 @@ guarantees 667
 guaranty 719 
 guard 677 
 guest 597 
+guilty 749 760 
 gulf 668 711 723 
 hailed 672 
 half 579 606 617 620 634 637 638 671 714 
 halted 706 
+hamilton 749 
 hammes 627 
 handful 635 
 handle 674 
+handled 755 
 hanger 639 
 hanson 730 
 happened 597 
+happy 759 
 harare 634 
-hard 562 714 
+hard 714 
 harder 635 
-harley-davidson 557 
-harnischfeger 569 
+hardware 761 
 harvests 634 
 harvey-jones 730 
 hatchback 627 
 hauppauge 588 
 haven 604 605 612 
 hazards 659 
-hdi 557 
 headache 634 
 heading 736 
-headlined 611 
+headlined 611 760 
 headlund 653 
 headquartered 725 
-health 578 580 659 735 
+heads 737 
+health 580 659 735 748 
 health-mor 610 
 hearing 721 
 heart 730 
-heat 553 
 heavily 714 
 heavy 633 
 hedge 704 
 hedged 704 
 heini 658 
-held 551 589 668 714 732 
+held 589 668 714 732 748 
+helping 740 
 henderson 730 
-high 574 629 635 672 687 714 
+high 629 635 672 687 714 
 high-grade 626 630 
-high-yield 574 702 
-higher 708 730 
+high-volume 753 
+high-yield 702 
+higher 708 730 742 748 768 
 highest 730 
-highly 714 
+highly 714 748 
 hire 730 
 hiring 721 
-historical 562 
 hmi 610 
-hoechst 558 
-hoechst-ag 558 
 hold 609 704 
-holder 613 
-holders 568 570 576 578 657 714 
-holding 637 
+holder 613 748 
+holders 578 657 714 
+holding 637 759 
 holdings 671 682 714 730 
-holds 657 
-home 559 623 628 
+holds 657 748 
+home 623 628 744 749 760 
 honoured 684 
-hope 627 634 
+hope 627 634 742 
+hospitality 764 
+hospitals 748 
 host 669 
-hours 562 628 
-house 563 654 662 721 
-households 623 
-houston 568 710 711 
+hours 628 
+house 654 662 721 
+households 623 750 
+houston 710 711 
 houyse 662 
-hph 569 
-hpu 559 
+howe 759 
 huge 634 635 
 hughes 710 
 human 721 
 hundred 627 
 hungry 634 
+hurt 742 
 hurting 671 
-hutton 654 
+hutton 654 748 768 
 hy 731 
 hyd 603 731 
 hydron 603 731 
-ibm 556 635 661 669 
+ibc 754 
+ibm 635 661 669 746 
 ice 677 
 icebreaker 665 677 
 ici 730 
-ico 562 628 
-ico-coffee 562 
-idaho 572 616 639 722 732 
+ico 628 754 
+ico-coffee 754 
+idaho 616 639 722 732 739 
 identified 714 
+identify 748 
 ifsia 609 
 igl 735 
 ign 683 
@@ -2776,57 +2883,59 @@ ii 669
 ill 637 673 
 ill. 610 673 735 
 illinois 607 637 721 
+imf 740 765 
 immediately 684 736 
 immunological 599 696 
 impact 685 
 impacted 717 
-impasse 660 737 
+impasse 660 737 754 
 imperial 730 
 implications 633 
 implied 637 
-import 590 
+import 590 740 
 importance 669 
 important 635 
+importing 754 
 imports 622 634 
 imposed 718 
 imposing 718 
-impossible 562 628 
-impression 597 
-improve 718 723 
-improved 552 
+impossible 628 
+impression 597 740 
+improve 718 723 740 747 748 765 
+improved 748 
 improvement 697 
 improvements 639 
 inb 679 
+inc. 749 
 incentive 729 
-include 565 567 574 582 627 644 645 649 650 686 715 
-included 718 
-includes 550 569 573 596 614 615 619 624 644 650 651 680 728 
-including 635 669 716 717 729 
-income 574 578 633 687 690 691 692 693 695 696 700 701 702 730 
-increase 555 576 585 616 704 717 721 
-increases 555 671 
+include 582 627 644 645 649 650 686 715 742 
+included 718 739 
+includes 596 614 615 619 624 644 650 651 680 728 746 
+including 635 669 716 717 729 742 743 748 763 
+income 633 687 690 691 692 693 695 696 700 701 702 730 
+increase 585 616 704 717 721 744 
+increases 671 744 
 increasing 684 
 increasingly 635 718 
 incurred 634 
 ind. 649 686 
-indebtedness 553 
+indefenitely 740 
+indefinitely 759 765 
 independent 667 714 733 
-indication 563 
-individual 626 630 710 
-individuals 570 
+individual 626 630 710 749 
 indoor 658 
-industries 553 569 588 625 644 645 646 651 657 666 714 718 727 730 
+industrial 753 
+industries 588 625 644 645 646 651 657 666 714 718 727 730 762 
 industry 597 618 631 635 668 704 717 
 inexpensive 635 
-influence 570 656 688 697 
-influencing 570 
+inflation 759 
+influence 656 688 697 
 informal 668 730 
-information 570 623 669 720 
+information 623 669 720 
 infuse 724 
 initial 578 590 647 
-initially 567 582 623 
+initially 582 623 
 initiate 660 704 
-initiative 562 
 inititally 714 
 ink 635 
 inland 710 
@@ -2835,54 +2944,59 @@ insisted 714
 insp 662 
 inspections 694 
 inspeech 662 
-installation 604 
+installation 604 761 
+institute 754 
 institutional 585 723 
-institutions 687 
+institutions 687 759 
+instruments 752 
 insulators 685 
-insurance 573 637 677 703 718 728 
+insurance 637 677 703 718 728 749 
 insured 690 691 692 693 695 701 702 
 int'l 731 735 
 intc 635 
-intec 573 728 
-integrated 564 635 683 
+intec 728 
+integrated 635 683 753 
 intel 635 
-intelligent 556 
-intend 567 568 582 
+intend 582 
 intended 732 
 intends 627 
-intent 565 665 677 
+intent 665 677 741 
 intention 583 635 725 
 interactive 623 
 interchangeable 635 
 interenational 734 
-interest 551 568 585 618 634 650 671 704 714 724 
+interest 585 618 634 650 671 704 714 724 740 759 765 
 interested 718 
-interests 733 
+interests 733 739 
 interface 609 
-internal 635 
-international 551 562 567 582 602 603 618 627 628 635 656 659 671 677 684 688 714 724 735 
+internal 635 748 
+international 582 602 603 618 627 628 635 656 659 671 677 684 688 714 724 735 740 742 748 759 761 762 765 
+interpreted 740 
 interruption 719 
-interview 563 671 
+interview 671 748 
 intest 714 
-intk 573 728 
+intiatives 740 765 
+intk 728 
 intrerface 609 
-introduce 567 582 629 664 
-introduced 641 669 
+introduce 582 629 664 
+introduced 641 669 746 
+introduces 746 763 
 introducing 664 
+inventories 762 
 inventory 588 629 674 
-investigation 563 565 
-investing 574 
-investment 615 640 644 685 706 
-investments 609 644 
-investor 714 
-investors 574 645 660 667 671 714 
-invests 574 
+investing 749 
+investment 615 640 644 685 706 743 748 
+investments 609 644 747 749 
+investor 714 747 748 
+investors 645 660 667 671 714 748 
+invoked 755 
 involve 703 
-involved 599 635 
+involved 599 635 742 762 
 involves 639 
+involving 759 
 iranian 697 
-ireland 570 672 
-irish 570 
+ireland 672 
+irregularities 749 
 irrigated 634 
 irritants 718 
 irritated 659 
@@ -2892,46 +3006,48 @@ issuance 618
 issue 613 659 678 713 714 716 718 721 
 issued 591 654 714 716 732 
 issues 685 718 
-italian 561 566 
-italy 561 566 
-item 550 635 637 673 
+italy 744 759 
+item 635 637 673 760 
 items 633 
 j.a 706 
 j.c. 623 
 j.p 727 
 j.p. 727 
-jackson 555 
 jacksonville 674 685 
-jacobson 555 
 jacoby 736 
+jailed 749 
 jamaica 597 
-james 570 
-jan 572 579 586 598 619 620 638 642 698 726 
-january 561 566 569 617 622 706 708 733 
-japan 676 717 
-japanese 635 660 
+jan 579 586 598 619 620 638 642 698 726 
+january 617 622 706 708 733 
+japan 676 717 744 753 759 
+japanese 635 660 759 
 javier 634 
-jcbs 555 
 jcp 623 
-jeans 551 
 jeep 600 660 
+jenkintown 750 
+jenrette 748 
 jersey 647 
+jim 742 
 job 639 
 jobs 660 721 
-john 563 587 619 669 677 730 
+john 587 619 669 677 730 
 johnson 735 
-join 567 582 
-joined 622 
-joins 635 
-joint 561 566 730 
+join 582 748 
+joined 622 747 
+joining 748 
+joins 635 747 
+joint 730 748 753 
 jointly 669 
 jones 669 
+jorio 754 
 jose 703 
 joseph 653 
+journalists 759 
 journey 677 
 jpi 727 
 jr 587 
-july 563 654 716 
+judge 749 
+july 654 716 743 
 june 591 716 
 jury 654 
 justice 671 
@@ -2939,26 +3055,25 @@ justified 659
 justify 685 
 jwt 736 
 kaiser 719 
-kansas 674 710 729 
+kane 749 
+kansas 674 710 729 745 
 keen 672 
 kenosa 660 
-kenosha 660 
+kenosha 660 737 
 kevex 586 
 kevx 586 
 key 672 721 
 keyboards 669 
 kg 634 
-king 570 578 
 kingdom 730 
 kingston 597 
 kits 641 669 696 
 klm 584 
-knew 563 
-knickerbocker 551 
+knowledge 753 
 knudsen 639 
 kuwait 668 
 l. 727 
-labor 660 
+labor 660 737 
 lacy 671 
 lag 697 
 lagrange 609 
@@ -2971,191 +3086,218 @@ landmark 672
 lands 634 
 language 684 
 lapse 627 
-large 561 566 634 635 656 685 688 
-largest 627 635 654 671 714 721 730 736 
+large 634 635 656 685 688 748 
+larger 748 
+largest 627 635 654 671 714 721 730 736 759 764 766 
+larry 748 
 las 664 
-late 563 629 634 671 714 
+late 629 634 671 714 
+latest 737 748 
 latin 697 
-lauderdale 614 
+lauderdale 614 749 
 launches 716 
 launder 654 
-laurel 556 
 law 654 719 
+lawrence 749 
 laws 671 696 
+lawson 740 759 
 lay 648 730 
 laying 685 
 layoffs 674 685 
+lbo 768 
 ldgx 729 
-lead 613 678 
+lead 613 678 740 
 leading 635 
 leasing 595 703 
 leave 628 
 leaving 705 
 lebaron 627 
-led 597 602 609 647 714 
-left 627 
+led 597 602 609 647 714 748 749 
+left 627 748 
+leg 740 765 
+legal 743 
+leigh-pemberton 759 
 lemons 622 
 len 662 
-lenders 568 585 667 
+lenders 585 667 
+lending 740 
 length 626 630 
+leroy 748 
 lessen 718 
 lets 669 
-letter 565 665 677 
+letter 665 677 741 742 
 level 597 668 718 
 levels 719 
 leventhal 587 
-leveraged 714 
-levied 574 622 
-liability 553 
+leveraged 714 748 
+levied 622 
 liberalized 718 
 licenses 714 
 licensing 583 730 
-life 573 678 728 
+lieu 749 
+life 678 728 
 lifo 588 
+lifted 749 
 light 602 
+lightweight 751 
 limit 656 688 
-limited 565 
 limiting 671 672 
 limits 672 
-line 611 650 
-lines 564 635 650 676 
+line 611 650 746 762 
+lines 635 650 676 759 
 liquidity 704 
-list 570 637 
+list 637 
 listed 637 
 litre 627 
 lloyd 660 
-loan 627 637 650 653 673 677 
-loans 607 637 
-local 550 583 622 628 643 660 723 
-locals 660 
+loan 627 637 650 653 673 677 749 
+loans 607 637 759 
+local 583 622 628 643 660 723 761 
+locals 660 737 
 location 660 
 locations 724 
 locking 721 
 lodgistix 729 
+logicial 746 
+logician 746 
 lombard 610 
-london 562 567 582 628 671 684 697 
-long 589 733 
+london 582 628 671 684 697 740 754 759 765 
+long 589 733 748 759 
 long-term 645 697 
-los 552 585 650 667 669 674 682 699 705 725 
+los 585 650 667 669 674 682 699 705 725 
 lose 660 
 loser 666 
-loss 550 552 603 605 614 615 621 625 633 635 637 640 642 644 646 673 680 699 705 706 715 731 734 
+loss 603 605 614 615 621 625 633 635 637 640 642 644 646 673 680 699 705 706 715 731 734 739 748 758 
 losses 640 
-lost 550 633 710 730 
+lost 633 710 730 
 louisiana 710 
 low 634 635 677 
 lower 635 660 677 728 
 lowered 645 
+ltlp 758 
 lube 666 
+lufkin 748 
 lukman 597 
 lumber 718 
 lump 654 
 lumping 637 
 lutz 627 
-lynch 577 602 678 
+lynch 602 678 
+lyng 742 
 m. 662 
 machine 635 
 macintosh 669 
 mack 633 
-made 563 627 629 634 654 659 660 681 721 723 730 
-mae 574 
+made 627 629 634 654 659 660 681 721 723 730 740 748 
 mahachi 634 
 mail 583 589 643 669 714 
 main 723 
+maine 757 
 mainstream 627 
 maintain 597 696 
 maintaining 660 
-maintenance 685 
+maintenance 685 761 
 maize 634 
-major 567 582 654 671 674 714 718 720 727 730 
-majority 558 
-make 551 634 671 683 685 724 
+major 582 654 671 674 714 718 720 727 730 740 742 
+majority 748 
+make 634 671 683 685 724 740 748 
 maker 666 730 
-makes 551 635 658 662 666 712 735 
+makes 635 658 662 666 712 735 
 making 635 671 685 714 
 malaga 622 
 malaria 641 
+mall 750 
 manage 613 667 
-managed 559 
-management 564 570 667 674 681 714 721 
-manager 550 577 678 727 
+management 667 674 681 714 721 748 761 763 764 768 
+management-led 748 
+manager 678 727 
+managers 768 
 manchester 655 
 manipulated 597 
 manipulators 597 
 mankowski 714 
-manufacture 556 627 635 
+manufactuerers 752 
+manufacture 627 635 
 manufactured 635 
 manufacturer 635 
 manufacturers 635 727 
 manufactures 635 696 
-manufacturing 685 
+manufacturing 685 753 
 mar 718 
-march 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 572 573 574 575 576 577 578 579 580 581 582 583 584 585 586 587 588 589 590 591 592 594 595 596 597 598 599 601 602 603 604 605 606 609 610 612 613 614 615 616 617 618 620 621 622 623 624 626 627 628 629 630 631 633 634 635 637 638 639 640 641 642 643 644 645 646 647 649 650 651 652 653 654 655 656 657 658 659 660 661 662 664 666 667 668 669 670 671 672 674 676 677 678 679 680 681 682 683 684 685 686 687 688 690 691 692 693 695 696 697 698 699 700 701 702 703 704 705 706 707 708 710 711 712 714 715 716 717 718 719 720 721 722 723 724 725 726 727 728 729 730 731 732 733 734 735 736 737 
+marc 737 
 margins 635 
 marine 685 
-market 562 567 582 583 589 597 627 631 633 635 656 668 671 672 688 696 697 704 718 720 727 730 
+market 582 583 589 597 627 631 633 635 656 668 671 672 688 696 697 704 718 720 727 730 752 754 
 marketing 634 668 672 
-marketplace 564 
-markets 567 577 582 602 612 634 635 647 670 678 684 704 718 724 727 
-marks 550 583 
+markets 582 602 612 634 635 647 670 678 684 704 718 724 727 747 
+marks 583 
 martkets 684 
+marvin 749 
 maserati 627 
+masontown 767 
 mass 635 718 
 mass-market 635 
-mass. 560 698 
+mass. 698 
 massachusetts 687 693 
 master 680 
-match 567 582 
-matched 567 582 717 
-matching 567 582 
-mateo 574 690 691 692 693 695 700 701 702 
+match 582 
+matched 582 717 
+matching 582 
+mateo 690 691 692 693 695 700 701 702 
 material 714 
-matter 563 660 
+matsushita 753 
+matter 660 
 maturities 716 
 maturity 716 
 matushita 635 
-maximum 716 
+maximum 716 749 
+mc 753 
+mccaw 747 
 mccullagh 595 
+mcdonnell 755 
 mcfadden 704 
 mcgrath 727 
 mci 669 
 mcic 669 
 mckiernan 704 
-mcry 552 
 mdwy 584 
-means 660 
+means 660 740 759 
+meant 740 
 measures 645 
-medical 696 
-medium 604 
-meet 563 568 672 677 684 705 
-meeting 551 562 576 591 628 668 714 730 
+medical 696 748 
+medium 604 759 
+meet 672 677 684 705 740 754 
+meeting 591 628 668 714 730 740 754 759 
+meetings 737 740 
 meets 705 
 megawatt 590 
 member 597 
-members 659 668 
-memorandum 564 
+members 659 668 744 748 
 memory 635 669 
 memphis 674 
+men 749 
 mercantile 704 
 merchandise 680 
-merchants 595 
+merchant 748 
+merchants 595 752 
 merck 730 
-mercury 552 629 
-merge 725 
-merger 564 657 714 725 
-merrill 577 602 678 
+mercury 629 
+merge 725 749 766 767 
+merger 657 714 725 767 
+merrill 602 678 
 mesa 661 
 message 684 
 messages 583 643 
+metallurg 741 
 metrers 708 
 metres 708 
 mexico 710 711 
 mg 630 
 mgdvf 630 
 miami 624 658 
-mich. 555 598 620 706 727 733 
-michael 550 627 
-michigan 563 692 710 
+mich. 598 620 706 727 733 763 
+michael 627 
+michigan 692 710 738 
 microamerica 661 
 microprocessor 635 
 microprocessors 635 
@@ -3163,37 +3305,41 @@ midafternoon 683 714
 midland 581 
 midst 683 
 midway 584 
-milan 561 566 
 mild 730 
+military 744 
 milk 672 
-milwaukee 557 569 660 
+miller 742 
+milwaukee 660 
 mimt.t 627 
+mineral 741 
 minerals 735 
+mines 739 
 minimizing 718 
 minimum 681 
 mining 581 651 
-minister 597 634 668 677 
+minister 597 634 668 677 740 759 765 
 ministerial 668 
 ministers 668 672 
 ministry 634 
 miniwagon 627 
-minn. 592 707 
+minn. 592 707 743 
 minneapolis 662 674 
 minneosta 691 
 minnesota 691 
 minor 597 
 minorities 721 
-minority 561 566 721 
+minority 721 
 minute 668 
+misapplication 749 760 
 misleading 637 
-mismatched 567 582 
+mismatched 582 
 missile 685 
 missiles 685 
 mitsubishi 627 
 mitsui 635 
 mln..correcting 611 
 mln..instead 611 
-mo. 674 
+mo. 674 745 
 mobay 666 
 mobi 641 
 mobile 711 
@@ -3204,44 +3350,41 @@ modernized 674
 molded 685 
 molecular 641 
 momentum 730 
+monetary 740 765 
+money 749 
 monitors 669 
 monoclonal 599 
 montagu 697 
-month 553 634 684 717 719 
-monthly 574 
-months 559 633 671 679 681 726 
+month 634 684 717 719 740 744 
+months 633 671 679 681 726 
 montreal 591 
-mood 562 
 moody 608 645 678 
+moratorium 740 749 765 
 morning 628 
 morrison 639 
-morse 560 
+motives 740 765 
 motor 627 629 
 motors 594 627 660 737 
-mount 556 570 
-mountain 634 672 
-move 672 685 
+mountain 634 672 746 
+move 672 685 737 
 movements 697 
 moven 634 
 mozambique 634 
 mrk 730 
 mrn 639 
-mrs 560 
 ms-dos 669 
 mthly 690 691 692 693 695 700 701 702 
-mths 560 586 594 598 601 619 621 680 728 
-mulling 570 
+mths 586 594 598 601 619 621 680 728 756 
 multi-million 604 
 multiple 654 669 
 murgold 626 630 
-murray 564 
-mutual 574 
-n't 568 607 634 635 656 688 
+n't 607 634 635 656 688 740 748 
 n.c. 674 679 685 
 n.e 622 
 n.h. 655 
-n.j. 556 558 587 606 638 647 
-n.y. 551 577 588 603 640 683 731 
+n.j. 587 606 638 647 
+n.y 755 
+n.y. 588 603 640 683 731 751 
 nacco 651 
 named 583 653 
 names 587 653 
@@ -3252,8 +3395,8 @@ narrow 626 630
 nas 659 
 nasdaq 705 
 nat-gas 708 
-national 590 639 644 659 714 
-nations 634 668 
+national 590 639 644 659 714 738 742 751 767 
+nations 634 668 740 742 759 765 
 nationwide 671 674 
 natl 588 
 natural 708 
@@ -3262,30 +3405,34 @@ nav 618
 naval 639 
 navistar 618 
 navy 639 
+nawg 742 
 nc 651 
 nec 635 
-neck 577 
 needed 659 677 718 
 negative 633 
-negotiate 704 
+negotiate 704 754 
 negotiated 660 
-negotiating 550 627 
+negotiating 627 
 negotiation 628 
-negotiations 550 628 672 737 
-negotiators 718 
+negotiations 628 672 737 740 754 765 
+negotiators 718 737 
 neighbouring 634 
-net 551 557 560 569 572 573 579 580 581 586 588 592 594 596 598 601 603 605 606 607 610 611 614 615 619 620 621 624 637 638 640 642 644 646 649 651 680 686 696 698 699 705 706 715 728 731 734 
-network 564 583 643 674 720 725 
+net 579 580 581 586 588 592 594 596 598 601 603 605 606 607 610 611 614 615 619 620 621 624 637 638 640 642 644 646 649 651 680 686 696 698 699 705 706 715 728 731 734 739 743 756 758 
+netlink 747 
+network 583 643 674 720 725 748 761 
 networks 643 
 nev. 652 734 
 nevada 639 
 newest 635 714 
 newly 714 732 
 newport 670 
-news 561 566 627 629 668 670 706 720 
+news 627 629 668 670 706 720 
 niche 631 
+niehaus 749 
+nigel 740 759 
 nigeria 597 
-nil 646 731 
+nil 646 731 758 
+nimocks 748 
 nipny 635 
 nippon 635 
 no-win 634 
@@ -3300,119 +3447,122 @@ north 588 651 652 712
 northard 660 
 northbrook 735 
 northeastern 622 
-northern 570 725 
-northwest 563 615 662 677 718 
+northern 725 
+northwest 615 662 677 718 
 norwood 685 
 not-prime 645 
-note 557 569 573 581 588 593 596 603 613 614 615 619 624 640 646 649 680 686 690 691 692 693 695 700 701 702 715 728 731 
-noted 631 633 635 705 714 
-notes 613 644 645 678 
+note 581 588 593 596 603 613 614 615 619 624 640 646 649 680 686 690 691 692 693 695 700 701 702 715 728 731 739 
+noted 631 633 635 705 714 757 
+notes 613 644 645 678 751 
 noticeable 697 
+noting 759 
 notion 718 
 nov 605 614 644 699 
-november 552 559 705 730 
-nuclear 563 
-number 626 630 671 679 710 711 721 
+november 705 730 
+number 626 630 671 679 710 711 721 738 752 
 nursery 658 
 nuys 653 
 nymex 704 
 o'donnell 656 688 
 oakleaf 703 
-oaks 565 
 oat 602 
 oats 602 
 objections 637 
-objective 564 
-obligations 568 
-obtain 682 
+obtain 682 749 
 obtained 657 
-occasions 563 
 occupied 622 
 occurred 637 
-october 556 718 730 
+october 718 730 
 odd 721 
 oec 651 
 off-hour 704 
-offer 558 570 609 647 657 669 671 677 682 706 709 714 716 732 733 
-offered 714 
-offering 577 602 609 647 669 678 714 
+offer 609 647 657 669 671 677 682 706 709 714 716 732 733 737 740 748 768 
+offered 714 748 751 
+offering 602 609 647 669 678 714 748 763 
 offerings 602 
 offers 641 714 
-office 637 654 723 
+office 637 654 723 761 
 officer 587 696 
-officers 653 
+officers 653 749 
 offices 654 725 
-official 563 637 656 665 668 688 713 
-officials 627 660 685 704 
-offset 704 
+official 637 656 665 668 688 713 740 
+officially 740 
+officials 627 660 685 704 759 
+offset 704 743 
 offshore 710 711 
-ohio 613 642 651 674 685 701 
-oil 570 593 597 613 666 668 697 704 708 
+ohio 613 642 651 674 685 701 738 741 749 
+oil 593 597 613 666 668 697 704 708 739 
 oilseed 694 
 oilseeds 634 
 okla. 658 
 oman 668 
+omega 751 
 on-going 672 
 one-fifth 714 
-one-time 557 
+one-time 739 
+one-year 761 
 onshore 710 
 ontario 626 630 
 opec 597 668 697 
-open 616 635 704 
+open 616 635 704 752 
 opened 718 
 opening 720 
 openings 616 
 opens 704 
-oper 557 581 603 625 640 644 646 715 731 
-operate 672 685 
+oper 581 603 625 640 644 646 715 731 
+operate 672 685 764 
 operates 612 679 714 
-operating 583 603 637 644 660 727 728 731 
-operation 550 623 685 712 
-operations 563 614 627 640 644 646 660 674 680 682 686 721 
+operating 583 603 637 644 660 727 728 731 743 
+operation 623 685 712 
+operations 614 627 640 644 646 660 674 680 682 686 721 753 761 762 
 operator 714 
-operators 684 
-opinions 562 628 
+operators 684 747 
+opinions 628 
+opportunity 750 
 opposed 672 
-optimistic 562 
-option 651 
+option 651 755 
+optional 761 
 options 589 652 
 orange 647 
-order 604 721 
+order 604 721 740 765 
+ordered 744 749 
 ordering 674 
 orders 617 717 726 
 ore. 599 
-organisation 550 627 
+organisation 627 
 organisers 622 
-organization 562 597 628 
+organization 597 628 
+organizations 742 
 original 681 727 
-originally 550 563 637 
-osr 551 
-osrc 551 
-ottawa 677 716 
+originally 637 
+ottawa 677 716 764 
 ounce 626 630 
 ounces 626 630 
-outcome 562 660 668 
+outcome 660 668 743 748 
 outline 672 
-outlined 561 566 
 outnumberd 635 
 output 597 629 672 708 
-outstanding 577 682 706 724 
+outright 740 
+outstanding 682 706 724 752 
 ov 714 
+overcome 740 
+overhaul 740 
+overseas 744 
 oversight 654 
-overstated 563 
 overwhelmed 718 
+owed 759 
+owes 759 
 owned 609 667 736 
-owners 551 
+owner 749 760 
 owns 627 635 714 
-pa. 554 578 662 
+pa. 662 741 750 767 
 paccar 631 
-pace 563 
 paces 624 
-pacific 563 564 677 725 
-package 583 643 660 714 
+pacific 677 725 748 
+package 583 643 660 714 740 763 
 packaging 640 644 
-pact 590 681 718 
-paid 555 577 634 671 714 
+pact 590 681 718 767 
+paid 634 671 714 740 768 
 paine 602 
 painewebbber 602 
 painewebber 609 
@@ -3420,62 +3570,70 @@ paints 730
 paks 640 
 pall 617 726 
 palo 717 
-panel 563 
 pantry 679 
 pantry-inc 679 
 paper 629 645 
 papers 635 
 par 613 678 
-paragraph 550 673 
+paragraph 673 
+paragraphs 760 
 parini 706 
-part 550 551 626 630 637 654 674 725 
+paris 740 
+paroducts 751 
+part 626 630 637 654 674 725 740 741 742 762 
 partial 626 630 
-participants 567 582 
+participants 582 
 parties 679 704 
 partners 718 
-partnership 565 
-parts 590 727 
+partnership 747 
+parts 590 727 755 
 party 704 
 passage 677 718 
 passengers 659 
-past 597 634 696 711 718 730 
+past 597 634 696 711 718 730 740 742 
 pathetic 721 
+patti 748 
 paul 707 
 paving 639 
-pay 554 568 574 575 671 690 691 692 693 695 700 701 702 707 714 722 
-payable 555 576 577 578 591 687 
-payble 555 
-paying 568 
-payment 567 568 582 613 657 
-payments 634 681 
-payout 555 577 578 687 690 691 692 693 695 700 701 702 
-pays 574 
+pay 671 690 691 692 693 695 700 701 702 707 714 722 
+payable 578 591 687 
+payment 582 613 657 
+payments 634 681 740 759 765 
+payout 687 690 691 692 693 695 700 701 702 
+pc 746 768 
 pc-at 669 
 pc-xt 669 
-pc/at 556 661 
+pc/at 661 
 pc/xt 661 
 pcar 631 
+pcc 768 
 pcs 661 
 pearl 640 
 pellets 622 
+pending 749 
 penetration 696 
 penney 623 
-pennsylvania 574 602 
+pennsylvania 602 
+pensacola 750 
 pension 719 
-pensions 569 719 
+pensions 719 
+pentagon 744 
 percentage 711 
 perconal 724 
 perez 634 
 perfect 635 
-performance 667 696 
-performing 677 
+performance 667 696 748 761 
+performing 677 749 
 period 612 633 637 706 717 718 
-periods 557 569 
+periods 761 
 peripherals 661 
 permission 677 730 
 permit 718 
 person 677 732 
-personal 556 564 661 724 
+personal 661 724 746 
+personnel 744 
+pesch 748 
+pessimistic 754 
 peter 634 
 petroleum 597 
 petroliferos 708 
@@ -3484,13 +3642,14 @@ peugeot 627
 peup.p 627 
 pgi 667 
 pharma 730 
-pharmaceutical 565 730 
+pharmaceutical 730 
 pharmaceuticals 730 
 phase 660 675 685 
 phaseout 685 
 phcc 580 
 philadelphia 674 
 physical 662 704 
+physician 748 
 piece 635 
 piles 634 
 pilots 721 
@@ -3498,35 +3657,36 @@ pioneer 712
 pipeline 730 
 pitman-moore 735 
 pitted 714 
-pittsburgh 666 
-place 553 660 684 
+pittsburgh 666 753 
+place 660 684 742 748 
 placement 585 657 
-plan 550 672 714 719 725 732 
-planned 563 567 582 618 627 674 725 
-planning 570 628 
-plans 563 616 628 657 677 713 724 
-plant 590 660 674 
+plan 672 714 719 725 732 740 741 743 748 765 
+planned 582 618 627 674 725 
+planning 628 
+plans 616 628 657 677 713 724 748 754 
+plant 590 660 674 737 741 
 planted 634 
-plants 563 631 658 660 
+plants 631 658 660 
 plastics 666 
 platinum 704 
-play 664 
+play 664 740 
+played 759 
 player 664 718 
 players 671 714 
 playing 597 
-plc 553 561 566 570 609 730 
+plc 609 730 
+pleas 749 
 pll 617 726 
 pls 611 
 plymouth 627 
-point 711 
-point-of-sale 556 
+point 711 742 748 755 
 point/viacom 714 
 pointed 631 
 points 678 
 polar 677 
 police 622 
-policies 570 672 
-policy 563 718 728 
+policies 672 740 
+policy 718 728 742 
 politically 718 
 pollutants 659 
 pollution 645 
@@ -3537,141 +3697,152 @@ pope 587
 population 718 
 porsche 652 
 porsche-ag 652 
-port 573 728 
+port 728 
 portion 714 
+portland 757 
 posed 659 
 poses 634 
 posing 634 
-position 564 568 570 704 
+position 704 740 748 
 positions 645 
 positive 696 717 
 possbile 679 
-possibility 570 736 
-post 555 564 653 
+possibility 736 
+post 653 
 post-war 718 
 postwar 718 
-potential 562 628 659 
-power 563 590 602 
+potential 628 659 
+power 590 602 744 745 
 powerful 635 677 
 ppl 602 
+prairie 743 
 pratt 604 
 pratt/whitney 604 
-pre-split 555 
-preclude 562 
+pre-tax 743 
 predicted 635 714 
 prediction 635 
 prefer 627 
-preferred 580 602 714 
+preferred 580 602 714 743 748 
 preliminary 657 
-premium 553 631 
-preparation 564 641 
+premium 631 
+preparation 641 
 prepare 677 
 prepared 671 685 
-present 634 683 
+present 634 683 740 
 presented 635 
-president 564 587 597 627 653 696 704 714 717 721 727 
+president 587 597 627 653 696 704 714 717 721 727 737 742 749 754 759 760 
 pressure 645 671 
 pressures 618 
-pretax 633 
-previous 567 577 582 626 630 673 733 
-previously 564 609 637 660 705 714 
-price 597 631 634 635 651 660 672 
-priced 678 
-prices 597 634 635 652 656 668 672 684 688 697 704 714 720 
+pretax 633 743 
+previous 582 626 630 673 733 748 
+previously 609 637 660 705 714 745 748 755 762 767 
+previously-announced 741 
+price 597 631 634 635 651 660 672 768 
+priced 678 746 
+prices 597 634 635 652 656 668 672 684 688 697 704 714 720 742 754 
 pricing 618 631 668 678 
 primary 671 
 prime 650 
 prime-3 645 
-principle 703 
+prince 758 
+principle 703 753 759 
 pringle 721 
 prinipal 587 
-prior 554 557 575 624 627 680 690 691 692 693 695 700 701 702 720 728 
+prior 624 627 680 690 691 692 693 695 700 701 702 720 728 
+prison 749 
 private 585 657 
 privately 589 
 privately-held 679 
+privately-insured 749 
+privatization 742 
 probable 597 
-probe 563 641 
+probe 641 
 probing 654 
-problem 634 635 659 672 
+problem 634 635 659 672 740 748 759 
+problems 759 
 procedure 704 
 proceed 682 
-proceeding 550 564 
-proceeds 563 609 728 
+proceeds 609 728 743 
 process 718 
 processes 589 
 processing 666 681 
 produce 597 635 717 
 produced 651 652 708 
-producer 562 735 
+producer 735 
 producers 667 
-producing 597 656 688 
-product 635 660 
-production 597 599 634 668 672 685 708 718 
+producing 597 656 688 742 
+product 635 660 763 
+production 597 599 634 668 672 685 708 718 742 755 
+productions 758 
 productivity 674 718 
-products 559 565 583 594 641 643 658 669 674 685 696 727 730 735 
+products 583 594 641 643 658 669 674 685 696 727 730 735 746 
 professional 612 
 professor 635 
-profit 550 603 621 625 635 644 680 699 705 706 731 734 
+profit 603 621 625 635 644 680 699 705 706 731 734 758 
+profitability 742 
 profitable 631 660 
 profitably 685 
 profits 635 671 730 
-program 627 629 704 720 729 
-programs 714 729 
-progress 562 628 721 
+program 627 629 704 720 729 740 762 
+programme 740 
+programming 747 761 
+programs 714 729 742 750 
+progress 628 721 
 projected 629 
 projects 616 639 
-promise 562 
-properties 551 
+proof 749 
 property 626 630 
-proposal 562 660 714 733 
-proposals 562 672 
+proposal 660 714 733 748 
+proposals 672 740 742 
 propose 659 
 proposed 602 660 672 704 732 
 proposes 672 
 proprietary 635 
+prosecutor 749 
 prospective 679 
 prostate 730 
-protect 719 732 
+protect 719 732 742 
 protest 622 
-provide 604 634 677 720 
-provided 568 
+provide 604 634 677 720 761 
+provided 748 
 providence 654 
-providing 704 
+providing 704 744 
 provision 637 704 
 provisions 673 
 proxy 714 
-prudential 561 566 
-prul.l 561 566 
-prussia 578 
-public 563 577 578 647 659 672 718 733 
-publicly 563 
+public 647 659 672 718 733 742 
 publishing 718 
 puerto 700 
 pull 597 
-purchase 565 649 651 714 729 736 
-purchased 585 658 671 
-purchases 634 
+purchase 649 651 714 729 736 751 
+purchased 585 658 671 752 
+purchases 634 752 
+purchasing 744 
 purification 641 
+purolator 768 
 purposes 729 
 pursue 721 
-put 714 
+put 714 740 
 pwj 602 609 
 qatar 668 
 qed 579 
 qedx 579 
 qic-40 661 
-qtly 554 573 575 707 722 
-qtr 557 560 569 572 573 579 581 586 592 594 596 598 601 603 605 606 610 619 620 621 624 625 640 642 644 646 680 698 699 715 726 728 731 734 
+qtly 707 722 
+qtr 579 581 586 592 594 596 598 601 603 605 606 610 619 620 621 624 625 640 642 644 646 680 698 699 715 726 728 731 734 739 758 
 quaker 602 
 quality 590 
 quantities 635 
-quarter 573 577 581 596 603 617 637 640 644 646 660 663 674 705 714 717 726 
-quarterly 554 555 575 577 578 
+quarantine 742 
+quarter 581 596 603 617 637 640 644 646 660 663 674 705 714 717 726 748 
+quarterly 578 
 quarto 651 
-quickly 564 
-quota 562 668 
-quotas 562 628 
+question 740 
+questioning 748 
+quota 668 
+quotas 628 754 
 r.i. 654 
+r/dhb 766 
 racquet 624 
 radically 672 
 radio 714 
@@ -3680,18 +3851,17 @@ rainfall 634
 rains 634 
 rainy 634 
 raise 652 718 
-raised 577 618 652 714 
-raises 575 577 722 
+raised 618 652 714 
+raises 722 
 raising 652 678 
 ralph 717 
 ramon 725 
-ran 550 
 randolph 698 
 random 635 
 range 639 
 rapids 706 733 
 rare 714 
-rate 555 613 650 711 714 728 730 
+rate 613 650 711 714 728 730 
 rated 678 
 rates 627 629 660 
 rating 618 631 
@@ -3700,61 +3870,62 @@ ravaging 634
 raw 684 
 re-enter 627 
 reach 627 672 
-reached 561 566 656 688 703 
-reaching 562 628 
+reached 656 688 703 
+reaches 750 
+reaching 628 
 reacted 660 
-reactions 697 
-read 611 673 
-ready 556 
+reactions 697 759 
+reactnng 740 
+read 611 673 760 
 reaffirmed 668 
 real 597 704 
 realized 718 
-realty 577 578 
-reasons 564 
 reassert 697 
+rebuttal 740 
 recapitalization 618 
-receive 657 671 684 719 724 732 
-received 559 595 681 684 
-recent 558 618 631 679 697 718 
-recently 564 578 602 629 654 727 
+receive 657 671 684 719 724 732 749 
+received 595 681 684 740 
+recent 618 631 679 697 718 742 
+recently 602 629 654 727 
+reception 747 
+recession 740 
 recharacterize 637 673 
 recharacterizes 607 
-recommend 563 
+recognition 742 
 recommendation 659 714 
-recommendations 563 
 recommended 659 
+recommends 737 
 reconvened 599 
-record 554 555 575 576 577 578 591 672 690 691 692 693 695 700 701 702 707 717 722 
-recording 567 582 
+record 578 591 672 690 691 692 693 695 700 701 702 707 717 722 
+recording 582 
 red 635 
 redemption 618 633 
 redice 682 
 redstone 714 
-reduce 567 582 
+reduce 582 742 
 reduced 588 644 
-reductions 631 
+reducing 748 
+reduction 742 
+reductions 631 742 
 reed 727 
 reference 597 
 refinanceing 705 
 reflect 581 684 
 reflecting 711 
 reflects 645 
-reform 672 
+reform 672 742 
 regard 660 
-region 563 
-regional 550 674 723 
-regions 674 
-register 556 
+regional 674 723 
+regions 674 759 
 registered 602 
-registration 577 
 regret 660 
+regulating 754 
 regulators 654 671 
 regulatory 595 629 714 
 rehabilitation 662 
-reintroduction 562 
-rejected 660 733 
-rejection 660 718 
-rejects 659 709 733 
+rejected 660 733 737 740 765 
+rejection 660 718 748 
+rejects 659 709 733 740 765 
 related 685 
 relates 728 
 relating 668 
@@ -3762,136 +3933,137 @@ relations 718
 relationship 635 
 relative 635 
 relax 629 
-release 553 706 
+release 706 755 
 released 656 669 683 688 
 releases 656 688 
-reliable 567 582 
+reliable 582 
 relocate 685 
 relocated 674 
-remain 563 587 618 
+remain 587 618 
+remained 749 
 remaining 657 
 remains 631 697 
 remodel 616 
 remodelings 616 
-remote 643 
+remote 643 747 
 ren 602 
 reneged 660 
+renew 754 
 renewal 589 
-renewed 650 737 
+renewed 650 737 759 
 renews 650 
 reno 652 734 
 renouf 682 
 renouf-corp 682 
 rental 724 
 reorganization 719 
-rep. 563 721 
+rep. 721 
 repair 727 
 repay 609 
 repayment 595 
-report 562 628 629 632 637 654 659 673 697 720 736 
-reported 552 634 635 637 654 660 705 706 710 714 717 
-reporters 597 668 730 
-reporting 567 582 654 
+replacing 748 
+report 628 629 632 637 654 659 673 697 720 736 763 
+reported 634 635 637 654 660 705 706 710 714 717 743 759 
+reporters 597 668 730 740 765 
+reporting 582 654 
 reports 597 637 
 represent 635 
-representation 570 
-representative 628 723 
+representation 748 759 
+representative 628 723 742 
 representatives 589 
 represented 721 
-representing 714 
-represents 555 629 634 717 
-repurchase 609 
-requested 570 706 
+representing 714 766 
+represents 629 634 717 
+republic 748 
+repurchase 609 752 
+requested 706 
 require 669 
-required 551 635 637 673 677 682 
+required 635 637 673 677 682 
 requirement 684 705 
 requirements 654 705 
-requires 635 654 
-requiring 567 582 
-resale 556 
-research 565 669 
+requires 635 654 757 
+requiring 582 
+research 669 
 researcher 635 
 reseller 661 
-reserve 671 
-reserves 651 
-residents 574 
-resigned 564 
-resigning 564 
+reserve 671 757 
+reserves 651 759 
+resist 748 
 resistance 629 668 
-resources 574 606 626 630 704 721 
+resistant 751 
+resolve 740 765 
+resolved 740 
+resources 606 626 630 704 721 745 
 respond 689 706 
 responded 706 
 response 659 683 706 723 733 
 responsibility 660 674 
-responsible 563 567 582 
+responsible 582 
 respresenting 724 
 rest 635 
 restate 637 
 restated 588 
 restatement 637 
+restore 742 
 restrict 656 688 
+restrictions 752 
 restructure 636 674 
 restructured 714 
-restructuring 550 633 663 674 730 
+restructuring 633 663 674 730 743 748 762 
 rests 660 
-result 550 637 645 660 696 714 723 
-resulted 581 684 705 
+result 637 645 660 696 714 723 
+resulted 581 684 705 742 
 resulting 674 
-results 552 557 568 581 588 626 630 637 644 649 686 714 728 730 
-resume 562 
+results 581 588 626 630 637 644 649 686 714 728 730 743 
 retail 725 
 retailer 674 
 retain 667 
-retained 570 
 retire 730 
 retirees 719 
-retirment 564 
 retrieval 706 709 733 
 retroactive 644 
 return 634 730 
 revamping 639 
-revenues 552 611 667 681 
+revenues 611 667 681 
 reverses 673 
-review 570 645 672 682 712 
-revised 681 
+review 645 672 682 712 
+revised 681 748 
 revises 681 
 revive 737 
 revolving 650 
-revs 557 560 569 579 580 581 594 596 601 605 610 611 614 615 619 621 638 642 646 680 698 699 715 728 731 734 
+revs 579 580 581 594 596 601 605 610 611 614 615 619 621 638 642 646 680 698 699 715 728 731 734 739 756 758 
 rex 657 
 rex-noreco 638 
 rexnord 657 
-reynolds 654 
+reynolds 654 748 
 rhein-chemie 666 
 rheinau 666 
-rhys 564 
-richard 660 671 
+richard 660 671 742 749 
 rico 700 
 rig 710 711 
-rights 551 732 
+rights 732 
 rigs 710 711 
 rilwanu 597 
-rise 726 
+rise 726 744 
 rising 684 
 risk 659 
-risks 567 582 
+risks 582 
 rit 642 
 ritz 642 
 ritzy 642 
 river 587 635 640 
-rm 567 568 597 608 613 618 631 633 645 671 678 713 716 717 723 
 rmj 671 
 rna 641 
 rnx 638 
 robert 587 627 635 653 736 
+robin 759 
 robinson-humphrey 609 
 rockwell 602 
 roebuck 654 674 
 rok 602 
-role 723 730 
+role 723 730 759 
 rollins 602 
-ron 563 
-rose 612 711 714 726 
+rose 612 711 714 726 766 
 rosemary 704 
 rospatch 689 706 709 733 
 rosptach 706 
@@ -3903,39 +4075,48 @@ rpch 706 733
 rpt 688 
 rubber 622 666 685 
 rubbr 666 
-rule 567 582 704 
-ruled 730 
-rules 567 582 660 672 705 
+rule 582 704 748 
+ruled 730 748 
+rules 582 660 672 705 
 rumours 597 
 run 590 669 
 runway 639 
+rural 747 
+russelsteel 762 
 s/p 618 631 633 
 sa 627 
-saatchi 736 
+saatchi 736 766 
 sachs 602 
+sachy 766 
 saddle 587 
 safety 629 
+said.. 744 
 salaried 685 
-sale 550 551 553 563 595 596 602 619 624 634 637 644 679 684 
-sales 572 573 586 588 592 598 603 606 612 617 620 624 629 635 640 644 649 658 662 670 672 686 696 703 717 718 726 727 730 735 
+sale 595 596 602 619 624 634 637 644 679 684 741 743 762 768 
+sales 586 588 592 598 603 606 612 617 620 624 629 635 640 644 649 658 662 670 672 686 696 703 717 718 726 727 730 735 742 
 salespeople 730 
 salomon 602 678 
 same-rated 678 
 sample 641 
 samples 641 
 samuel 697 
-san 574 641 690 691 692 693 695 700 701 702 703 725 
+san 641 690 691 692 693 695 700 701 702 703 725 
+sandy 759 
 sanford 679 
 saragossa 622 
-satellite 714 
+satellite 714 747 
 satisfactory 712 
 saudi 668 
 save 618 674 
-savings 653 
-schedule 667 
-scheduled 568 623 639 712 
+savings 653 749 
+sawdon 766 
+scale 755 
+schedule 667 740 
+scheduled 623 639 712 737 
 scheme 654 
+schiebel 749 760 
 sciences 659 
+scott 764 
 scotty 612 
 screens 671 
 sculley 669 
@@ -3943,100 +4124,105 @@ se 669
 sea 677 
 sears 636 648 654 663 674 
 season 634 
-sec 563 570 602 632 637 654 
-secretary 634 704 
-sector 561 566 717 
+sec 602 632 637 654 
+secretary 634 704 742 744 759 761 
+sector 717 
 sectors 672 
 secured 650 
-securities 563 570 574 577 602 637 654 671 678 705 720 
-security 647 725 
-seek 677 
-seeking 570 724 736 
-seeks 635 730 
-sees 552 671 696 
-segment 631 
-seibel 550 
-selected 623 
+securities 602 637 654 671 678 705 720 748 749 760 
+security 647 725 748 
+seek 677 740 748 765 
+seeking 724 736 
+seeks 635 730 751 
+sees 671 696 743 748 
+segment 631 748 
+selected 623 747 
 self-confidence 718 
-sell 551 553 583 589 613 627 629 635 671 672 714 
+self-improvement 750 
+sell 583 589 613 627 629 635 671 672 714 741 753 762 
 sellers 635 
-selling 563 583 629 668 730 
-sells 553 678 
-semi-annual 574 
+selling 583 629 668 730 
+sells 678 741 
 semi-custom 635 
 semiconductor 635 717 
 semiconductors 635 
 seminar 669 
 send 669 
-senior 553 564 585 618 631 633 645 717 721 727 
-separate 637 673 
+senior 585 618 631 633 645 717 721 727 754 
+sentencing 749 
+separate 637 673 759 764 
 sept. 686 
-september 562 567 582 633 649 725 
+september 582 633 649 725 
 series 602 687 
 serve 584 627 704 727 
 served 723 733 
-service 584 589 602 604 623 645 676 681 
-services 561 566 589 590 596 662 671 681 685 687 711 714 717 
+service 584 589 602 604 623 645 676 681 753 762 764 
+services 589 590 596 662 671 681 685 687 711 714 717 761 764 
+servicing 759 
 session 668 
-set 562 590 597 602 627 628 634 635 674 687 704 
-sets 554 571 576 590 591 593 599 690 691 692 695 700 701 702 707 
+set 590 597 602 627 628 634 635 674 687 704 749 753 
+sets 590 591 593 599 690 691 692 695 700 701 702 707 
 settle 654 
 settled 637 
 settlement 637 654 
-settlements 567 582 
+settlements 582 
 seven-member 656 688 
 seven-year 678 
 severance 685 
 severe 618 
 shadow 627 
-share 558 562 577 578 588 603 614 619 633 635 640 644 655 657 696 706 714 728 732 733 
-shareholder 570 591 599 732 
-shareholders 551 577 591 637 714 724 733 
-shares 551 558 559 570 574 576 577 602 609 618 650 655 657 714 724 729 736 
+share 578 588 603 614 619 633 635 640 644 655 657 696 706 714 728 732 733 743 748 767 768 
+shareholder 591 599 732 748 
+shareholders 591 637 714 724 733 748 
+shares 602 609 618 650 655 657 714 724 729 736 752 754 767 
 sharing 669 
+sharply 759 
 shb 612 
 sheet 714 
 shelby 627 
 shelf 602 
 shied 718 
+shieldalloy 741 
 shift 730 
 ship 677 
 shipbuilding 677 
-shipment 556 684 
+shipment 684 
 shipments 684 718 
 shipyard 677 
 shipyards 677 
 shirawi 668 
-shoe 560 
-shopping 623 
+shopping 623 750 
 short 626 630 
 shortage 684 
 shortens 681 
 shortly 634 679 
-show 627 718 
+show 627 718 749 
 shown 697 
-shr 557 560 569 572 573 579 580 581 586 588 592 594 596 598 601 603 605 606 610 614 615 619 620 621 624 625 638 640 642 644 646 649 680 686 698 699 715 722 728 731 734 
-shrs 557 569 573 592 598 614 620 621 644 646 680 728 
+shr 579 580 581 586 588 592 594 596 598 601 603 605 606 610 614 615 619 620 621 624 625 638 640 642 644 646 649 680 686 698 699 715 722 728 731 734 739 756 758 
+shrs 592 598 614 620 621 644 646 680 728 
 shut 631 
 shutdown 674 
 side 714 
 sides 714 
 sigi 696 
-sigler 564 
-sign 718 
-signed 556 565 583 589 661 667 
-significant 631 633 634 672 
-signs 661 684 
-silver 697 
+sign 718 748 
+signals 747 
+signed 583 589 661 667 741 750 767 
+significant 631 633 634 672 743 
+signs 661 684 767 
+silver 697 739 
+similar 740 
 similarly-equipped 629 
 simplifies 641 
+simply 740 
 simulated 664 
 simultaneously 637 654 
-sincerely 660 
-single 564 637 654 
+sincerely 660 742 
+single 637 654 
 single-plane 676 
 singling 673 
 sir 730 
+sit 748 
 site 600 685 
 sites 627 
 situation 634 714 
@@ -4044,11 +4230,11 @@ six-nation 668
 size 718 
 sized 604 
 slash 634 
-slight 553 
-slightly 562 717 
+slightly 717 768 
+slipped 768 
 slips 710 
-slow 563 710 
-small 550 635 671 718 
+slow 710 
+small 635 671 718 
 smoke 659 
 smoking 659 
 smp 594 
@@ -4057,102 +4243,113 @@ sne 635
 snet 604 
 sng 604 
 so-called 718 
+sof 760 
 software 583 643 669 
-sold 563 570 595 627 629 651 678 
-sole 577 
+sold 595 627 629 651 678 
 solid 635 
-somerville 558 
+solution 740 
+solvency 749 
 sonar 685 
-sons 559 619 679 
+sons 619 679 
 sony 635 
 sorghum 634 
+sort 748 
 source 714 
-sources 668 671 
+sources 668 671 740 768 
 south 634 
 southeastern 679 
 southern 604 622 634 
-southwestern 553 
 sovereignty 677 718 
 soviet 684 
-sowell 570 
 soybean 694 
 soybeans 634 694 
-spa 561 566 
-spain 622 
+spain 622 744 
 spanish 622 
 spc 725 
-special 562 
+special 749 
 specialist 634 
+specialized 750 
 specialty 666 730 
-specific 562 583 635 681 
-speculated 671 
+specific 583 635 681 740 
+speculated 671 768 
+speculation 768 
 speculative 618 
 speech 662 
 speed 669 
 spend 635 659 
-spent 634 635 
+spent 634 635 759 
 spirit 718 
-split 555 571 576 591 599 637 
+split 591 599 637 
 spoke 714 
-spokesman 628 660 674 685 705 736 
-spokeswoman 561 566 704 723 
+spokesman 628 660 674 685 705 736 748 
+spokeswoman 704 723 
 sports 660 
 sporty 627 
 spot 597 684 
 spreading 597 
+spring 740 
 spun 714 
 srd 613 
+ssbk 757 
 st. 707 
-staff 563 629 675 
+staff 629 675 
 stage 656 688 
-stake 561 566 570 635 706 714 736 
+stake 635 706 714 736 748 
 stamford 590 
-standard 551 593 594 613 618 631 633 634 635 661 678 
+standard 593 594 613 618 631 633 634 635 661 678 746 
 standard-equipped 629 
 standards 629 635 
 staple 634 
 start 672 679 685 
-started 656 688 
-starting 584 652 
+started 656 688 740 759 765 
+starting 584 652 742 
 starts 647 
-state 574 635 656 688 
+state 635 656 688 740 749 760 
+state-imposed 749 
+state-insured 749 
 state-owned 597 
-statement 567 577 582 660 683 
-statements 563 637 
+statement 582 660 683 740 744 748 
+statements 637 
 states 584 635 656 668 679 688 710 
+stateside 744 
 statil 730 
-station 639 
+station 639 750 
 stations 714 
 status 664 
 stay 627 
 steadily 597 
 steam 590 
-steel 719 
+steel 719 762 
 stem 635 
 step 672 
-steps 570 600 660 
+stephen 766 
+stepp 737 
+steps 600 660 
 stgm 664 
-stock 555 565 571 576 577 591 597 599 602 618 640 660 683 703 706 714 732 733 
+stock 591 597 599 602 618 640 660 683 703 706 714 732 733 743 748 751 752 767 768 
 stockholder 732 
 stockholders 732 
+stocking 742 
 stockpile 656 688 
-stocks 574 597 672 
+stocks 597 672 742 
 stones 622 
 stop 685 
-stopped 568 
 storage 634 669 
 store 616 672 
-stores 555 612 616 672 679 
+stores 612 616 672 679 
 stories 720 
 story 611 673 
 strategic 656 688 
-street 660 714 
+street 660 714 748 768 
 streets 622 
 stress 645 
-stressed 618 637 654 
+stressed 618 637 654 740 
+stressing 740 
 strikes 721 
 strong 645 
-structure 564 626 630 714 
+strongly 737 
+struck 768 
+structure 626 630 714 748 759 
 struggle 672 
 struggled 672 
 struggling 635 
@@ -4160,100 +4357,100 @@ stuart 730
 studied 659 
 study 659 718 
 subcommittee 721 
-subject 551 576 591 595 650 703 712 
-subordinated 568 585 618 
+subject 591 595 650 703 712 752 
+subordinated 585 618 
 subroto 656 688 
 subscribers 714 
 subsdiary 602 
-subsequent 657 
+subsequent 657 760 
 subsequently 704 
-subsidiary 553 587 639 654 666 677 723 
+subsidiary 587 639 654 666 677 723 741 745 747 766 
+subsidize 742 
 subsidized 718 
-substantial 651 
+substantial 651 748 
 succeed 635 
-succeeds 587 
-success 562 628 635 
-successfully 564 
+succeeds 587 748 
+success 628 635 
 suffered 622 
 sufficient 622 
+suffield 757 
 sugar 684 
 suggesting 671 
+suggestion 740 765 
 suggests 718 
 suisse 613 
-suitable 567 582 
+suitable 582 
+suitor 768 
 sum 654 
 summarized 637 
-summer 564 623 718 
+summer 623 718 753 
 sumner 714 
 sunday 668 
 superior 714 
 supplies 661 703 
-supply 556 563 590 597 629 684 720 
-support 635 685 
-surplus 634 656 672 688 
-surpluses 672 
+supply 590 597 629 684 720 742 
+support 635 685 740 748 761 765 
+surge 759 
+surplus 634 656 672 688 759 
+surpluses 672 742 
+suspended 740 759 765 
+sweetened 748 
 swiss 593 613 
 switch 604 634 635 
-switzerland 627 
+switzerland 627 759 
 syndicate 736 
 syne 734 
 syntech 734 
 syria 684 
-system 556 562 563 567 582 604 623 635 672 705 
-systems 556 567 582 590 605 609 639 640 659 706 709 733 
-tabled 562 
+system 582 604 623 635 672 705 763 
+systems 582 590 605 609 639 640 659 706 709 733 746 751 753 755 761 
 tahlequah 658 
-takeover 570 732 
+takeover 732 748 
 takes 730 
-taking 564 654 
-talk 668 
-talking 714 
-talks 562 600 628 660 668 679 718 737 
+taking 654 
+talk 668 748 
+talking 714 740 759 765 
+talks 600 628 660 668 679 718 737 740 754 
+tamarac 751 
 tandem 623 
 tape 661 
 targa 652 
-target 639 
-targeted 561 566 
-tax 569 573 581 596 640 644 680 696 728 
+target 639 742 
+tax 581 596 640 644 680 696 728 
 tax-free 690 691 692 693 695 700 701 702 
-taxes 574 696 
-tck 556 
+taxes 696 
 tdck 621 
 tear 622 
-tec 556 
 technical 590 
 technically 677 
-technologies 604 703 
+technologies 604 703 761 
 technology 621 
 technology/chip 635 
-ted 736 
+ted 736 766 
 telaction 623 
-telcom 551 
+tele-communications 747 
 telecommunications 604 718 
 telegraph 587 604 635 
-telephone 563 604 635 669 671 
+telephone 604 635 669 671 
 teleservices 614 
-television 551 623 714 
+television 623 714 747 
 telex 589 684 
 telexes 684 
 tells 684 
+telluride 747 
 tempo 629 
 tempos 629 
-ten 732 
-tender 558 570 609 657 684 706 714 732 
-tendered 559 657 
-tenders 559 684 
-term 650 733 
-terminal 556 
+ten 732 739 
+tender 609 657 684 706 714 732 
+tendered 657 
+tenders 684 
+term 650 733 759 
 terminate 682 719 
-terminated 563 
-terms 556 565 602 650 658 662 666 681 703 712 714 735 
+terms 602 650 658 662 666 681 703 712 714 735 742 762 764 
 terrence 714 
-tessile 561 566 
 test 597 623 696 
 tested 626 630 
-texas 570 573 581 621 710 
-textiles 561 566 
+texas 581 621 710 748 
 tfc 614 
 tfcs 614 
 tgc 646 
@@ -4261,124 +4458,131 @@ thdr 649 686
 theater 714 
 therapeutic 599 
 therapy 662 
-thirds 576 
 thomas 656 688 704 
 thomson 717 
 thous 694 
-thousand 565 
 thousands 622 
 threatened 672 
 three-for-one 599 
-three-for-two 555 591 
+three-for-two 591 
 thrift 687 
 thunander 649 686 
-thursday 561 566 
 tier 671 
-ties 718 
+ties 718 740 
 tighten 654 
-time 563 567 582 602 635 645 659 664 671 683 718 720 729 733 
-times 563 635 718 
-timing 714 
+time 582 602 635 645 659 664 671 683 718 720 729 733 737 740 748 752 
+times 635 718 
+timing 714 743 752 
 timmins 626 630 
 tin 656 688 
 tire 685 
 tires 685 
 tndm 623 
 tobacco 634 659 
-today 552 562 613 657 659 668 669 671 672 676 687 706 714 721 730 
+today 613 657 659 668 669 671 672 676 687 706 714 721 730 748 759 768 
 tokyo 676 720 
-told 563 570 597 627 635 660 668 684 730 
+told 597 627 635 660 668 684 730 754 759 
 tomorrow 628 714 716 
 ton 626 630 
 tonne 634 
 tonnes 622 634 656 672 688 
 tons 651 
 tool 710 
-top 730 
+top 730 768 
 topaz 629 
-toronto 626 630 
-total 616 635 654 706 710 711 714 717 730 
+toronto 626 630 762 764 
+total 616 635 654 706 710 711 714 717 730 742 766 
 totaled 612 635 654 
 totalled 708 717 
 totally 684 
+tour 740 765 
 tower 639 
-trade 567 582 629 706 717 718 
+trade 582 629 706 717 718 742 759 
 traded 622 714 
-trader 567 582 704 
+trader 582 704 
 traders 684 704 
-trades 567 582 704 
-trading 567 582 613 660 683 704 705 706 718 720 
-traditional 562 631 684 
+trades 582 704 
+trading 582 613 660 683 704 705 706 718 720 742 768 
+traditional 631 684 
 traffic 629 
 transa 615 
 transacted 704 
-transaction 585 671 703 704 724 
-transactions 551 567 582 632 654 671 
+transaction 585 671 703 704 724 748 
+transactions 582 632 654 671 
 transalta 611 615 
-transfer 553 666 
+transfer 666 
 transferred 674 
-transfers 550 
 transport 634 677 
 transportation 659 727 
+transports 744 
 treasuries 678 
 treasury 609 654 671 678 
+treated 759 
 treatment 721 730 
 tree 707 
 tremendous 721 
 trend 717 
 trenton 666 
-treviso 561 566 
 tri 644 
+trial 760 
 triangle 625 644 
+triggered 749 
+trio 749 
+troops 744 
 troy 598 620 
 trucking 618 631 
 trucks 633 
 true 714 
-trust 559 577 578 687 
+trust 687 767 
 trustee 719 
 tuesday 628 713 
 turbo 627 652 
 turn 635 730 
+turnaround 748 
 turnarouond 635 
-two-for-one 576 599 
+two-for-one 599 
 tylan 650 
 tyln 650 
-type= 571 593 600 607 608 611 625 632 636 648 663 665 673 675 689 694 709 713 
+type 742 748 
+type= 593 600 607 608 611 625 632 636 648 663 665 673 675 689 694 709 713 760 
 types 659 
-u.k. 561 566 730 
-u.s 573 574 627 628 629 635 639 656 660 671 688 694 710 717 719 728 730 
-u.s. 574 628 635 652 654 656 659 660 666 671 677 688 704 710 714 718 724 730 
+u.k 740 759 765 
+u.k. 730 740 759 
+u.s 627 628 629 635 639 656 660 671 688 694 710 717 719 728 730 742 744 757 
+u.s. 628 635 652 654 656 659 660 666 671 677 688 704 710 714 718 724 730 742 747 759 766 
 u.s.-canadian 718 
 uae 723 
 ual 721 
 uaw 600 660 737 
-uht 578 
-uis 554 
-uk 562 684 697 730 
+ucu 745 
+uhf 750 
+uk 684 697 730 740 754 759 765 
+umm 752 
 unanimously 660 
+unauthoriazed 749 
+unbc 767 
+unblock 740 
 underground 626 630 
 undermine 697 
+underserved 747 
 understands 669 
-understated 563 
 underwriters 609 647 
 underwriting 602 
-undisclosed 662 666 
+undisclosed 662 666 751 762 764 
 unfortunate 660 
-union 587 589 660 681 684 685 
-unisys 554 
-unit 553 561 564 566 585 595 604 618 623 631 633 635 651 654 665 678 682 721 730 735 
-united 584 604 634 635 655 656 660 662 668 685 688 721 723 730 737 
-units 550 565 647 674 682 
-universal 578 
+unilaterally 742 
+union 587 589 660 681 684 685 737 767 
+unit 585 595 604 618 623 631 633 635 651 654 665 678 682 721 730 735 755 762 764 766 767 
+united 584 604 634 635 655 656 660 662 668 685 688 721 723 730 737 745 752 
+units 647 674 682 743 755 766 
 university 635 
-unproc 611 673 
+unproc 611 673 760 
 unprofitable 634 730 
 unreported 654 
 unsold 602 629 
 unsolicited 733 
 unspecified 660 
 unwanted 672 
-unwillingness 562 
 up* 617 
 up-right 715 
 update 720 
@@ -4389,20 +4593,22 @@ upri 715
 upturn 717 
 upward 650 
 urged 629 634 
+user 761 
 users 583 643 669 
 ussr 684 
 utc 604 
+utilicorp 745 
 utilities 611 615 651 
 utility 639 660 
 utilization 711 
-va. 670 
-valley 653 662 
+va. 670 761 
+valley 653 662 751 
 value-added 661 730 
-valued 551 
+valued 768 
 van 653 
-vancouver 677 
+vancouver 677 756 
+vanguard 761 
 variation 733 
-varied 562 
 vary 628 
 vegas 664 
 vehicle 595 660 
@@ -4411,44 +4617,41 @@ vein 626 630
 vendor 669 
 vendors 635 
 ventilation 659 
-venture 561 566 736 
+venture 736 753 
 ventures 724 
 versatile 665 677 
-version 637 
+version 637 763 
 vessel 677 
 vfed 653 
 viacom 714 
-vice 587 627 653 717 721 727 
-vice-president 550 
-vice-presidents 564 
-video 664 680 699 705 
+vice 587 627 653 717 721 727 737 
+video 664 680 699 705 750 
 videotaped 720 
-view 597 
-viewed 659 
+view 597 746 748 
+viewed 659 740 
 viewers 720 
 violation 671 
-violations 597 637 
+violations 597 637 749 760 
+virginia 745 
 virtually 672 
-visa 550 
-vital 570 
-volatile 567 582 
+visit 759 
+volatile 582 
 volume 635 671 
 vote 706 714 
-voted 555 
-votes 555 
 voyager 627 
 vsd 579 
+vti 761 
 w. 727 
 waiting 597 717 
-waivers 568 
 walker 660 
-wall 660 714 
+wall 660 714 748 768 
 wanted 659 660 714 
 war 714 
-warner 714 
+warner 714 749 760 
+warning 751 
 warrant 613 
-warrants 565 593 613 650 714 
-washington 563 570 602 637 654 656 659 673 688 718 719 
+warrants 593 613 650 714 
+washington 602 637 654 656 659 673 688 718 719 740 742 744 759 767 
 washington-based 718 
 watches 635 
 water 677 
@@ -4464,19 +4667,24 @@ weaker 696
 weakness 631 
 weather 670 
 webber 602 
-week 564 570 597 599 627 635 660 676 684 710 711 714 
+wedge 748 
+week 597 599 627 635 660 676 684 710 711 714 740 759 
 weekend 634 656 660 688 714 
 weekly 613 
 weeks 599 612 685 
-west 550 558 624 627 666 672 
-west-germany 558 
-western 564 583 587 589 634 643 
-wheat 634 694 
+weinberger 744 
+west 624 627 666 672 744 745 759 
+west-germany 759 
+western 583 587 589 634 643 747 
+westinghouse 753 
+westlink 747 
+wheat 634 694 742 
 white 684 721 
 whitney 604 
 wholesale 627 658 
+wholly-owned 741 
 wichita 729 
-widely 562 628 671 
+widely 628 671 
 widen 583 
 widened 633 
 wider 671 721 
@@ -4484,48 +4692,55 @@ widespread 629
 width 626 630 
 wiley 619 
 willb 619 
+willful 749 760 
 win 714 
 window 669 
+wins 761 
 winter 612 670 
 wires 669 
-wis 596 
-wis. 557 569 596 
+wis 596 737 
+wis. 596 
 wisc. 660 
-wisconsin 660 
+wisconsin 660 737 
 withdrew 633 
-witter 632 654 
-wo 568 635 
+witter 632 654 748 
+wjtc-tv 750 
+wo 635 
 women 721 
 won 590 
 woodbury 603 731 
 word 714 
-work 567 570 582 626 627 630 639 660 677 685 711 
+work 582 626 627 630 639 660 677 685 711 
+worked 748 
 workers 660 674 685 737 
 working 635 660 710 711 
-world 627 634 635 656 677 684 688 704 718 720 736 
-worldwide 550 556 635 704 711 730 736 
+workstation 746 
+workstations 746 
+world 627 634 635 656 677 684 688 704 718 720 736 740 742 754 765 
+worldwide 635 704 711 730 736 766 
 worry 684 
 worrying 697 
-worth 590 639 655 705 714 
-wppss 563 
+worth 590 639 655 705 714 748 759 
+write-off 739 
 writedown 615 
+writer 763 
+wtlca 747 
 wu 587 589 
+wx 753 
 wyrough 666 
 xl 661 
 yacimientos 708 
-year 550 552 557 562 567 572 573 580 581 582 584 588 592 596 603 605 610 611 612 614 615 617 622 624 627 629 633 634 635 640 642 644 646 649 656 658 666 668 670 672 674 677 680 686 688 696 705 710 711 714 715 717 726 728 730 731 734 
 year-to-date 670 
-years 589 627 634 635 660 672 674 677 696 730 
+years 589 627 634 635 660 672 674 677 696 730 740 749 
+yeutter 742 
 yield 678 687 
 yielded 626 630 
-york 559 580 589 594 618 619 631 633 635 644 645 657 671 678 680 696 704 706 714 720 723 724 730 736 
+york 580 589 594 618 619 631 633 635 644 645 657 671 678 680 696 704 706 714 720 723 724 730 736 748 752 755 758 766 768 
 yousef 668 
 yr-ago 615 
-zapata 568 
 zealand 682 
 ziering 696 
 zimbabwe 634 
 zj 660 
 zoladex 730 
 zone 626 630 
-zos 568 

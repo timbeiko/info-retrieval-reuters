@@ -1,11 +1,10 @@
 'll 218 
 're 177 
 've 200 
-****** 171 189 261 
+****** 189 261 
 -4th-qt 210 
--banponc 170 
+-cocoa 275 
 -l 191 
--names-succ 173 
 -rese 211 
 -sets-two 214 
 -stock-mark 247 
@@ -30,7 +29,6 @@
 0.9 209 
 0013 261 
 0015 189 
-0016 171 
 0025 196 
 0036 186 
 0037 268 
@@ -39,7 +37,6 @@
 0046 184 
 0048 201 
 0049 185 
-0051 173 
 0054 204 
 0060 269 
 0064 191 
@@ -47,7 +44,6 @@
 0073 213 
 0075 194 
 0076 212 233 
-0077 170 
 0084 248 
 0086 214 250 255 
 0087 216 
@@ -64,9 +60,9 @@
 00:30:02.58 270 
 00:44:03.70 271 
 00:55:40.97 272 
-0100 218 249 
+0100 218 249 276 
 0101 211 227 252 
-0102 172 243 251 258 259 
+0102 243 251 258 259 
 0103 208 228 
 0104 179 203 
 0105 235 271 
@@ -76,7 +72,7 @@
 0109 217 257 262 263 270 
 0110 223 247 
 0111 175 190 246 
-0112 220 256 
+0112 220 256 275 
 0113 177 205 234 244 254 260 272 
 0114 222 245 
 0115 219 
@@ -89,14 +85,15 @@
 0143 197 
 01:05:49.72 273 
 01:25:47.73 274 
+01:28:24.65 275 
 01:30:29.50 230 
+01:41:24.21 276 
 01:41:26.47 231 
 01:49:03.52 232 
-02-26 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 
+02-26 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 
 02:02:38.54 233 
 02:07:44.88 234 
 03-01 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 
-03-02 269 270 271 272 273 274 
 03:09:07.13 235 
 03:25:46.85 236 
 03:39:14.63 237 
@@ -115,7 +112,6 @@
 1,150,633 201 
 1,177,786 183 
 1,328,634 201 
-1,358,000 169 
 1,500 243 
 1,564,605 201 
 1,566,000 202 
@@ -129,23 +125,27 @@
 1.03 203 
 1.075 235 
 1.1 213 273 
+1.15 275 
 1.17 210 
 1.2 236 273 
+1.208 274 
 1.25 179 266 
 1.26 274 
-1.3 213 274 
+1.3 213 274 275 
 1.30 267 
 1.32 267 
-1.35 235 
+1.35 235 274 
 1.45 235 274 
-1.5 177 209 223 235 254 
+1.5 177 209 223 235 254 274 
 1.50 203 251 
 1.56 274 
+1.6 274 
 1.69 179 235 254 
 1.7 209 244 
 1.71 179 
 1.75 179 227 
 1.8 259 
+1.87 276 
 1.9 235 273 
 1.91 212 
 1.94 271 
@@ -153,6 +153,7 @@
 1.99 259 
 1/16 270 
 1/8 242 
+10,284 275 
 10-year 193 217 225 233 
 10.03 196 
 10.05 233 
@@ -177,12 +178,16 @@
 12.3 198 
 120,000 229 
 120-150 221 
+123,000 275 
 12452 269 
 12453 270 
 12454 271 
 12455 272 
 12456 273 
 12457 274 
+12458 275 
+12459 276 
+125,000 275 
 126.7 183 
 13-member 242 
 13-nation 236 273 
@@ -226,10 +231,6 @@
 17.77 198 
 17.8 220 
 1700 192 
-17:46:34.09 170 
-17:48:58.95 171 
-17:50:20.87 172 
-17:51:17.75 173 
 17:51:29.26 174 
 17:55:36.88 175 
 17:57:05.23 176 
@@ -276,29 +277,29 @@
 18:46:50.23 208 
 18:50:30.59 209 
 19.2 216 
-19.3 169 
 190,000 229 
 1950s 192 
 1958 213 
 196.27 271 
 196.61 271 
 1978 247 
+1980 275 
 1980s 247 
 1983 192 270 
 1984 218 235 252 259 
-1985 174 177 179 187 198 199 202 206 208 210 211 213 223 235 246 248 253 256 270 274 
+1985 174 177 179 187 198 199 202 206 208 210 211 213 223 235 246 248 253 256 270 274 275 
 1985-90 238 
-1985/86 246 260 
-1986 174 177 179 187 199 202 210 218 220 223 224 235 237 251 254 258 259 266 267 272 274 
-1986/87 227 235 246 260 
-1987 174 176 179 193 203 209 235 237 254 256 259 267 270 274 
-1987/88 227 235 238 246 
-1988 173 177 209 219 226 233 274 
+1985/86 246 260 275 
+1986 174 177 179 187 199 202 210 218 220 223 224 235 237 251 254 258 259 266 267 272 274 275 
+1986/87 227 235 246 260 275 
+1987 174 176 179 193 203 209 235 237 254 256 259 267 270 274 275 
+1987/88 227 235 238 246 275 
+1988 173 177 209 219 226 233 274 275 
 1988/1989 176 
 1989 264 
 1990 206 
 1991 233 
-1992 170 182 270 
+1992 182 270 
 1995 233 
 1996 233 
 19:00:16.13 210 
@@ -309,15 +310,11 @@
 19:21:09.73 215 
 19:26:09.34 216 
 19:43:08.56 217 
-2,075,000 169 
 2,140 264 
 2,177,553 201 
 2,258,341 201 
 2,314,000 187 
-2,925,294 169 
-2,980,247 169 
 2-for-1 202 
-2-mar-1987 269 270 271 272 273 274 
 2.07 212 
 2.1 203 209 
 2.11 274 
@@ -327,6 +324,7 @@
 2.22 183 
 2.25 179 227 
 2.31 196 
+2.32 276 
 2.4 198 229 235 
 2.5 209 227 259 273 
 2.6 209 
@@ -334,6 +332,7 @@
 2.75 179 
 2.766 246 
 2.8 209 
+2.80 276 
 2.90 258 
 2.98 260 
 20-year 270 
@@ -385,15 +384,15 @@
 23:43:44.86 266 
 23:58:46.85 267 
 23:58:50.02 268 
+24-hour 276 
 24-industrial 179 
 241.2 216 
 242.7 216 
 242.9 216 
 25,559 258 
 25.53 198 
-25.9 169 
 250,000 210 
-26-feb-1987 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 
+26-feb-1987 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 
 26.3 235 
 26.58 235 
 26.7 235 
@@ -402,15 +401,12 @@
 27.52 198 
 27.8 270 
 277,834 201 
-28.3 172 
 28.30 198 
 285,000 236 246 
 290,000 254 
 292,000 202 
-295,000 169 
 295.6 216 
 3,020,000 202 
-3,141,217 169 
 3,178,115 201 
 3,339,000 210 
 3,651,000 202 
@@ -438,18 +434,22 @@
 30.7 220 
 300.0 216 
 30s 200 
+31,000 275 
 31.4 234 
 31.6 183 
 31.9 234 
+32,378 275 
+33,000 275 
 33.5 257 
 34.7 202 
-35,000 272 
+35,000 272 275 
 35.4-meter 207 
 35.6 234 
 36-year 257 
 362.7 216 
 362.9 216 
 379.1 216 
+38,000 275 
 39.4 202 
 390,000 254 
 3rd 201 
@@ -476,7 +476,9 @@
 4.37 221 
 4.38 221 
 4.6 177 
+4.67 275 
 4.77 198 
+4.8 275 
 4.85 233 
 41.3 260 
 41.9 260 
@@ -489,6 +491,7 @@
 5,011,000 187 
 5,057,292 183 
 5-3/4 242 
+5.0 275 
 5.03 198 
 5.075 217 
 5.1 270 
@@ -498,10 +501,13 @@
 5.5 225 
 5.50 266 
 5.65 233 
-5.8 225 270 
+5.77 275 
+5.8 225 270 275 
 5.9 199 
 5/8 230 240 270 
 5/8ths 230 240 
+50,000 275 
+50-cent 276 
 50.7 244 
 500,000 253 
 501,000 212 
@@ -514,10 +520,6 @@
 556,874 228 
 57,450 228 
 57.3 187 
-5713 170 
-5714 171 
-5715 172 
-5716 173 
 5717 174 
 5718 175 
 5719 176 
@@ -603,7 +605,7 @@
 658,999 228 
 66.6 177 
 689,038 228 
-695,000 235 
+695,000 235 274 
 7-1/8 242 
 7-3/8 242 
 7.0 235 
@@ -612,14 +614,12 @@
 7.33 271 
 7/8 270 
 70,000 229 
-720,000 235 
+720,000 235 274 
 73,000 210 
 747-300 264 
 747-400 261 264 
 79,014 228 
 79,448 228 
-8.2 172 
-8.25 170 
 8.4 199 
 8.88 196 
 80,498 228 
@@ -664,27 +664,28 @@
 8352 267 
 8353 268 
 84,960 228 
+85,000 275 
 870,000 264 
 9-1/4 204 
-9.6 172 
 9.7 246 
 9.80 233 
-90,000 229 
+90,000 229 275 
 90-120 221 
 90-day 258 
 91,000 210 
 948,000 236 
+95,000 275 
 965.04 271 
 980,000 235 
 99.50 217 
 99.7 213 
-`` 175 176 177 178 179 180 181 190 193 200 203 208 209 215 218 220 223 227 230 232 235 236 237 238 240 245 246 247 248 252 256 257 259 263 
+`` 175 176 177 178 179 180 181 190 193 200 203 208 209 215 218 220 223 227 230 232 235 236 237 238 240 245 246 247 248 252 256 257 259 263 274 275 
 abdul-aziz 246 
 ability 207 236 273 
 abolish 225 
 abolished 256 
 abolishing 225 
-abolition 209 
+abolition 209 274 
 aboout 209 
 abroad 236 
 absence 247 257 
@@ -705,24 +706,25 @@ achieve 181 209
 achieved 230 240 
 achievement 209 
 acq 185 186 199 260 
-acquisitions 170 214 
+acquisitions 214 
 acreage 197 
 act 195 
 acting 200 
 action 177 181 203 263 
 actions 175 190 266 
-active 200 223 
+active 200 223 276 
 actively 180 247 
 activities 223 
 activity 179 220 237 242 252 
 acute 203 
 ad 232 
 adapting 179 
-added 176 179 200 203 208 209 223 224 225 236 241 246 247 250 265 
+added 176 179 200 203 208 209 223 224 225 236 241 246 247 250 265 274 
 addison 199 
 addition 247 
 additional 203 214 270 
 addresses 178 
+adequate 276 
 adherence 248 
 adhering 248 
 adjourn 249 
@@ -732,6 +734,7 @@ administration 177 180 192 209 218 231
 admitted 269 
 adopt 247 
 advance 228 230 240 
+advanced 276 
 advice 178 
 adviser 178 
 advisers 237 
@@ -750,11 +753,11 @@ agent 177
 aggression 238 
 ago 188 200 203 209 232 238 249 
 agree 176 232 249 
-agreed 177 180 185 186 188 208 209 219 226 236 248 253 262 
-agreement 175 190 208 225 232 248 249 253 270 273 
+agreed 177 180 185 186 188 208 209 219 226 236 248 253 262 276 
+agreement 175 190 208 225 232 248 249 253 270 273 276 
 agreements 203 
 agricultural 235 237 259 
-agriculture 177 180 193 197 235 237 241 246 254 263 267 274 
+agriculture 177 180 193 197 235 237 241 246 254 263 267 274 275 
 ahead 203 234 
 aid 177 256 
 aide 180 193 197 
@@ -771,7 +774,7 @@ al-khalifa 236 248
 al-qabas 236 248 
 al-sabah 236 248 
 al-thani 246 
-ala. 172 183 
+ala. 183 
 alain 209 
 alatenn 183 
 alberta-based 185 
@@ -821,7 +824,7 @@ announce 178 219 251 264
 announcecement 181 
 announced 181 209 237 238 246 
 announcing 181 195 
-annual 179 209 211 220 223 233 235 254 263 265 267 270 272 274 
+annual 179 209 211 220 223 233 235 254 263 265 267 270 272 274 275 
 annually 188 
 annuity 225 
 anti-nausea 192 
@@ -831,14 +834,15 @@ apparent 220 236 247 249
 apparently 178 236 
 appeals 192 
 appeared 178 179 273 
-appearing 170 
 appears 227 237 
 application 192 
 applies 263 
 appreciation 179 260 
+approval 276 
 approved 225 273 
 approving 181 
 april 173 177 188 203 209 229 232 236 237 263 264 272 
+april-march 275 
 aquino 270 
 ar 205 
 arab 236 242 247 248 
@@ -848,7 +852,7 @@ aramco 273
 architect 248 
 area 179 213 245 269 
 areas 177 237 269 
-argentina 171 175 181 190 254 
+argentina 175 181 190 254 
 argentine 175 181 190 
 ariz. 212 
 arms 178 180 255 
@@ -867,18 +871,17 @@ arsarco 205
 artifically 220 
 ascent 207 
 asia 224 237 264 
-asian 224 237 
+asian 224 237 276 
 asked 180 197 236 248 
 aspects 263 
 asserted 178 
 assesses 237 
 assessment 274 
-assets 172 224 
+assets 224 
 assign 203 236 
 assigned 246 
-association 188 200 252 
+association 188 200 252 276 
 associations 177 
-assumed 172 
 assuming 179 
 assurance 177 
 assured 177 
@@ -897,16 +900,17 @@ auction 256
 auctions 256 
 august 208 218 219 227 229 252 
 augusta 182 
-australia 223 227 254 264 265 
+australia 223 227 254 264 265 276 
 australian 227 261 264 265 
 author 176 178 200 203 209 223 232 237 270 
 authoritative 230 240 
 authorites 195 
-authorities 195 247 
-authority 195 
+authorities 195 247 276 
+authority 195 276 
 authorizerd 214 
 auto 208 
 autocratic 178 
+automated 276 
 automobile 174 
 autumn 209 
 availability 232 
@@ -914,7 +918,7 @@ average 179 200 203 221 270 271 273
 averaged 203 
 averaging 273 
 avery 214 
-avg 169 201 202 216 
+avg 201 202 216 
 avoid 219 230 240 
 avy 214 
 awaiting 192 
@@ -929,6 +933,7 @@ backed 256
 bacteria 241 
 bad 238 
 baghdad 245 
+bags 275 
 bahrain 242 247 248 273 
 bailing 200 
 baka 257 
@@ -939,17 +944,15 @@ balances 179 250
 ball 232 
 balladur 209 
 ban 235 
-bancshares 172 
 bangkok 228 
 bangladesh 244 
-bank 172 175 190 198 203 204 209 216 220 221 223 224 225 230 237 239 240 244 247 250 256 257 258 268 270 
+bank 175 190 198 203 204 209 216 220 221 223 224 225 230 237 239 240 244 247 250 256 257 258 268 270 276 
 banker 257 270 
 bankers 175 176 181 190 221 225 237 
-banking 179 203 224 265 
+banking 179 203 224 265 276 
 bankruptcy 263 
-banks 172 175 177 179 181 190 203 220 221 223 224 230 240 247 265 270 
+banks 175 177 179 181 190 203 220 221 223 224 230 240 247 265 270 
 bannon 203 
-banponce 170 
 banque 209 
 barbar 205 
 barnes 222 
@@ -958,6 +961,7 @@ barrels 236 246 248 273
 base 197 213 225 
 based 211 225 236 252 
 baseless 236 
+bases 275 
 basic 180 232 
 basis 176 246 265 
 basra 243 245 
@@ -966,9 +970,8 @@ battle 243
 bay 269 
 bbl 191 194 
 bc 216 
-bc- 170 187 196 
+bc- 187 196 
 bc-******texaco-canada-c 189 
-bc-******u.s.-treasury-s 171 
 bc-/banks-express-grave 190 
 bc-alatenn-resources-inc 183 
 bc-american-express-stud 266 
@@ -1006,6 +1009,7 @@ bc-indonesia-unlikely-to 267
 bc-indonesian-agricultur 235 
 bc-indonesian-palm-oil-o 274 
 bc-indonesian-sugar-outp 259 
+bc-indonesian-tea 275 
 bc-indonesian-wheat-impo 254 
 bc-iran-claims-new-victo 243 
 bc-iraq-says-it-repels-i 245 
@@ -1032,7 +1036,6 @@ bc-new-zealand-cancels-w 250
 bc-nippon-kokan-steel-af 260 
 bc-nippon-light-metal-co 272 
 bc-nyse-to-study-regulat 205 
-bc-olin- 173 
 bc-philippines-heads-con 270 
 bc-polish-banker-pleased 257 
 bc-poll-majority-disappr 231 
@@ -1048,6 +1051,7 @@ bc-saudi-february-crude 273
 bc-saudi-riyal-deposit-r 242 
 bc-share-trading-in-cheu 251 
 bc-shultz-likely-to-visi 255 
+bc-singapore-exchange-se 276 
 bc-sri-lankan-bank-offer 268 
 bc-strong-earthquake-hit 269 
 bc-swiss-economy-in-exce 179 
@@ -1057,16 +1061,14 @@ bc-thai-rice-exports-ris 228
 bc-tokyo-grain-exchange 229 
 bc-u.s.-farm-credit-resc 177 
 bc-u.s.-launches-weather 218 
-bc-u.s.-regulator-closes 172 
 bc-u.s.-treasury-part-of 181 
 bc-u.s.-wheat-bonus-to-s 180 
 bc-usda-said-unlikely-to 193 
 bc-versatile-to-sell-uni 185 
 bc-videotron-buys-into-e 186 
 bc-zambia-to-retain-curr 256 
-bdep 170 
 bean 229 
-beans 229 
+beans 229 275 
 bearing 204 
 beck 203 
 beesely 177 
@@ -1090,7 +1092,7 @@ bettino 219
 bid 182 200 
 bidders 256 
 big 209 232 263 
-biggest 238 
+biggest 238 275 
 bill 177 247 250 
 billington 177 
 billion 175 177 181 190 196 198 203 206 208 209 217 223 224 227 230 238 240 246 257 258 260 261 263 264 266 270 271 
@@ -1098,10 +1100,10 @@ billions 216
 bills 258 268 
 bin 246 
 birk 205 
-birmingham 172 
 birth 192 
 bit 237 
-blah 171 189 261 
+black 275 
+blah 189 261 
 blamed 209 
 blasted 207 218 
 blasts 207 
@@ -1143,7 +1145,7 @@ break 177
 brent 177 
 bretz 252 
 brian 209 
-bridge 171 181 
+bridge 181 
 bridges 269 
 briefly 248 
 brigades 243 
@@ -1178,6 +1180,7 @@ burden 246
 bureau 225 
 buried 269 
 burlington 176 
+bus 276 
 bushel 193 200 
 bushels 200 
 busiest 223 
@@ -1194,7 +1197,7 @@ cabot 176
 cairo 253 262 
 calculated 232 
 calculating 249 
-calendar 220 235 237 254 259 267 
+calendar 220 235 237 254 259 267 275 
 calif. 188 201 214 
 california 215 
 call 220 222 
@@ -1213,7 +1216,7 @@ candidate 178 222
 cane 259 
 capacity 179 237 272 
 cape 207 218 
-capital 170 176 177 223 238 247 265 266 
+capital 176 177 223 238 247 265 266 276 
 capitol 180 
 captured 243 
 car 208 269 
@@ -1237,8 +1240,9 @@ ccts 233
 cd 221 
 ceiling 209 221 236 246 248 
 cent 208 209 231 
-central 172 175 190 200 203 220 224 256 268 270 
+central 175 190 200 203 220 224 256 268 270 
 centralized 177 
+centres 276 
 centrist 222 
 cents 200 251 
 cereals 263 
@@ -1303,16 +1307,16 @@ clearing 258
 clever 236 
 clift 237 
 climate 181 
-close 178 219 
-closed 172 266 
-closes 172 
+close 178 219 276 
+closed 266 
 closing 238 268 
 clothing 213 
 cmw 182 
 co-operation 239 
 coalition 219 
 coast 232 
-coffee 232 235 249 
+cocoa 275 
+coffee 232 235 249 275 
 collapsed 270 
 collect 208 
 colombia 232 
@@ -1323,7 +1327,7 @@ columbia 184 185
 combat 241 
 combined 224 
 combining 179 
-coming 205 227 246 
+coming 205 227 246 275 
 commander 245 
 comment 195 266 
 commentary 238 
@@ -1339,23 +1343,26 @@ committee 175 190 203 205 226 230 236 240 252 270
 commodities 235 258 
 commodity 193 237 
 common 199 214 263 
+communication 276 
 communications 246 
 communique 245 
 communist-led 209 
 community 263 
-company 174 176 180 184 186 191 192 194 206 214 236 247 260 265 272 
+company 174 176 180 184 186 191 192 194 206 214 236 247 260 265 272 276 
 compared 179 203 211 213 220 233 246 260 273 
 compares 213 235 
 comparison 223 
 competition 266 
+competititve 275 
 competitive 179 
 complained 197 
 completed 205 211 
+component 275 
 components 216 252 
 composite 252 
 comprised 180 
 compromise 249 
-computer 238 
+computer 238 276 
 computerized 205 
 concentrate 223 
 concentrating 223 
@@ -1365,7 +1372,7 @@ conclude 253
 concluded 228 
 concrete 257 269 
 condition 179 269 
-conditions 248 
+conditions 248 276 
 conduct 250 
 conducted 231 234 
 conference 223 
@@ -1376,7 +1383,6 @@ confirmation 203
 congo 262 
 congress 177 180 197 
 congressional 177 203 
-conn. 173 
 conscience 178 
 consecutive 252 
 consequence 179 
@@ -1403,7 +1409,7 @@ container 239
 contentious 263 
 context 176 
 continuation 237 
-continue 173 177 179 197 200 203 220 227 236 249 253 272 
+continue 173 177 179 197 200 203 220 227 236 249 253 272 275 
 continued 178 227 249 252 273 
 continues 237 259 272 
 contract 176 182 188 191 194 200 
@@ -1414,7 +1420,7 @@ contributed 227 242 266
 contribution 179 227 
 control 178 181 209 255 
 controlled 223 
-controls 209 
+controls 209 275 
 controversial 195 226 
 converters 174 
 coodination 213 
@@ -1427,14 +1433,11 @@ copyright 215
 corazon 270 
 corn 193 197 235 
 corn/oats 197 
-corp 170 172 173 174 176 184 185 206 210 215 223 225 252 264 273 
 corp. 203 
-corporate 170 214 220 238 247 
+corporate 214 220 238 247 
 corporations 223 225 
 corps 245 
-corrected 170 
 correction 227 
-corrects 170 
 cost 176 200 213 263 264 
 costa 232 
 costs 209 213 272 
@@ -1444,7 +1447,7 @@ counter 237
 counterparts 180 223 224 
 countries 181 223 232 236 247 262 263 267 
 country 175 181 190 230 236 237 238 240 246 257 270 273 
-county 172 223 
+county 223 
 couple 223 
 coupled 237 247 263 
 coupon 204 217 225 233 
@@ -1459,6 +1462,7 @@ cpo 274
 crackdown 244 
 cracked 269 
 craxi 219 
+created 276 
 creation 179 
 credit 177 198 220 265 
 creditor 175 190 270 
@@ -1472,7 +1476,6 @@ criticism 178 238
 crop 197 200 241 249 
 cropland 193 
 crops 197 235 259 
-crosby 172 
 cross-country 244 
 crossbred 258 
 crossroads 237 
@@ -1480,13 +1483,15 @@ crosswinds 207 218
 crucial 207 237 
 crude 189 191 194 211 235 236 237 242 246 248 273 274 
 crush 200 
-crushed 200 
+crushed 200 275 
 crushing 235 
 csyi 199 
+ctc 275 
 cts/bbl 189 
 cultivators 185 
 cuomo 195 
 curb 238 
+curled 275 
 currencies 223 263 
 currency 203 216 223 237 247 256 263 
 current 176 200 220 227 232 238 242 256 260 264 
@@ -1507,7 +1512,6 @@ damaged 269
 damaging 209 
 dampen 252 
 dana 203 
-danger 172 
 daniel 176 
 darwin 203 
 data 187 203 208 210 
@@ -1520,7 +1524,8 @@ de 175 190
 de-centralizing 177 
 deadline 263 
 dealer 265 
-dealers 200 
+dealers 200 276 
+dealing 276 
 death 178 
 deaths 269 
 debate 232 
@@ -1577,10 +1582,11 @@ department 175 180 190 193 208
 departments 246 
 departure 178 
 depending 230 235 240 
+deploy 276 
 depos..300.3 216 
-deposit 172 221 224 225 242 
+deposit 221 224 225 242 
 depositors 225 
-deposits 172 225 242 
+deposits 225 242 
 depreciation 227 
 depreciations 227 
 depressed 177 
@@ -1590,20 +1596,21 @@ deregulate 237
 deregulation 179 209 223 237 
 designed 182 230 240 263 264 
 destroyed 218 243 
-details 178 230 239 240 
+details 178 230 239 240 276 
 detecting 182 
 detention 244 
 determination 246 
-determine 205 225 
+determine 205 225 276 
 determined 232 
 determining 222 
-devaluation 235 256 267 
+devaluation 235 256 267 274 
 devalue 237 
 develle 209 
 develop 247 
 developed 177 
 development 179 203 225 238 247 
 developments 179 
+develops 275 
 device 232 
 devise 208 
 dhabi 273 
@@ -1615,12 +1622,12 @@ differentials 236
 difficult 209 257 263 
 difficulties 236 
 difficulty 242 
-dillon 170 
 dilson 175 190 
 diminishing 249 
+dip 275 
 diplomatic 175 190 
 direction 237 247 
-director 175 190 223 
+director 175 190 223 276 
 director-general 176 
 directors 226 
 disappointing 203 
@@ -1636,6 +1643,7 @@ discount 203 230 240
 discounted 211 
 discuss 262 
 discussed 180 
+discussing 276 
 discussions 266 
 disease 235 241 
 diseases 241 
@@ -1653,18 +1661,18 @@ district 184 215
 districts 177 269 
 distrigas 176 
 diversified 247 
-diversify 223 
+diversify 223 275 
 diversion 178 
 divided 232 237 
 dividend 214 
 division 185 
 divisions 245 
 djibouti 262 
-dlr 171 193 194 203 204 207 208 218 239 257 265 270 271 273 
+dlr 193 194 203 204 207 208 218 239 257 265 270 271 273 276 
 documents 230 240 
 doha 246 
 dole 178 
-dollar 170 179 195 203 223 242 256 258 
+dollar 179 195 203 223 242 256 258 
 dollar/yen 271 
 dollars 224 236 
 domestic 176 179 200 203 225 227 235 237 247 265 272 
@@ -1693,13 +1701,13 @@ drought 232 249
 drove 266 
 drug 192 
 dry 241 
-due 170 182 200 209 213 219 223 227 235 237 242 246 257 264 270 
+due 182 200 209 213 219 223 227 235 237 242 246 257 264 270 
 duncan 177 
 duties 267 
 dwindling 223 247 
 e.h. 182 
 earlier 180 198 200 203 209 213 260 271 
-early 175 190 192 219 237 246 247 
+early 175 190 192 219 237 246 247 276 
 earn 183 187 196 201 202 210 212 214 
 earners 179 
 earnings 209 223 237 264 
@@ -1734,7 +1742,7 @@ eep 180
 effect 203 209 232 
 effective 191 194 214 225 227 229 
 effects 227 
-effort 208 
+effort 208 275 
 eggs 241 
 egypt 253 262 
 egyptian 253 
@@ -1745,11 +1753,11 @@ election 222
 elections 209 219 237 
 electric 251 264 
 electricity 209 246 
-electronic 174 
+electronic 174 276 
 electronics 182 264 
 eligible 188 197 
 elimination 181 
-embassy 235 237 253 254 259 267 274 
+embassy 235 237 253 254 259 267 274 275 
 embattled 178 
 emerged 178 
 emergency 195 236 242 248 269 
@@ -1764,7 +1772,7 @@ emulate 175
 enable 181 195 
 enabling 223 
 encouraged 177 
-end 176 177 178 195 205 230 240 248 254 260 263 
+end 176 177 178 195 205 230 240 248 254 260 263 276 
 end- 224 
 end-1985 254 
 end-1987 254 
@@ -1782,9 +1790,11 @@ enhanced 264
 enhancement 180 
 enlarged 234 
 enrolled 193 
+ensure 276 
 enter 182 
 enterprises 225 
 entire 218 
+entities 276 
 entitle 230 240 
 entitlements 273 
 entrepreneurs 244 
@@ -1805,8 +1815,8 @@ establish 247
 establishment 247 
 estate 247 
 estimate 209 211 235 236 248 259 
-estimated 179 198 208 235 259 260 
-estimates 211 235 246 
+estimated 179 198 208 235 259 260 275 
+estimates 211 235 246 274 
 ethiopia 262 
 eugene 223 
 eurobond 204 
@@ -1826,8 +1836,7 @@ excellent 179
 exceptional 209 263 
 excess 203 
 excessive 237 
-exchange 179 180 181 199 205 208 214 227 229 238 247 251 256 258 263 264 
-excludes 169 
+exchange 179 180 181 199 205 208 214 227 229 238 247 251 256 258 263 264 276 
 executive 173 175 177 178 190 205 
 executives 205 
 exemption 197 
@@ -1837,28 +1846,29 @@ exhausted 177
 exhibit 186 
 exhibits 186 
 exist 248 
+existed 276 
 existing 181 195 203 
 expand 252 
 expanded 184 
 expanding 227 252 
 expands 184 
 expansion 220 247 
-expect 203 
+expect 203 276 
 expectation 227 
 expectations 246 
-expected 176 178 179 181 200 203 209 220 222 223 225 227 235 236 238 246 249 250 254 257 260 263 273 274 
+expected 176 178 179 181 200 203 209 220 222 223 225 227 235 236 238 246 249 250 254 257 260 263 273 274 276 
 expects 227 250 
 expenditure 238 246 263 
 explain 175 190 
 explaining 175 190 
 exploded 218 
 exploiting 220 
-export 176 180 200 227 228 232 235 237 249 273 
+export 176 180 200 227 228 232 235 237 249 273 274 
 exportable 232 
 exported 228 
 exporter 232 249 
 exporters 228 232 
-exports 179 227 228 235 237 253 271 273 274 
+exports 179 227 228 235 237 253 271 273 274 275 
 exposures 270 
 express 175 190 234 238 266 
 expressed 175 176 181 190 
@@ -1871,10 +1881,6 @@ exxon 273
 eye 203 
 eyeing 223 
 eyes 218 
-f0244 170 
-f0245 171 
-f0247 172 
-f0249 173 
 f0250 174 
 f0252 175 
 f0255 176 
@@ -1973,6 +1979,8 @@ f0591 271
 f0598 272 
 f0600 273 
 f0609 274 
+f0611 275 
+f0619 276 
 face 200 
 faced 236 
 faces 179 209 270 
@@ -1983,15 +1991,13 @@ facing 209 232 237
 fact-finding 257 
 factors 205 
 factual 180 
-fail 172 
-failed 172 178 197 218 238 246 253 
-failing 172 
+failed 178 197 218 238 246 253 
 failure 244 
 failures 207 218 231 
 fair 232 
-fairly 203 
+fairly 203 276 
 falcon 215 
-fall 179 213 221 223 227 233 235 237 238 247 248 254 263 
+fall 179 213 221 223 227 233 235 237 238 247 248 254 263 275 
 fallen 273 
 falling 200 235 237 257 
 falls 252 
@@ -2001,24 +2007,22 @@ famous 212
 fams 212 
 farm 177 263 
 farmer 197 
-farmers 172 193 197 235 241 259 263 
+farmers 193 197 235 241 259 263 
 faster 179 
 fats 263 
 favor 180 192 
 favorable 180 
 favours 237 
 fca 177 
-fdic 172 
 fear 238 
 fears 203 
 feasible 176 219 
 feature 265 
-feb 170 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 
-february 181 203 217 221 225 228 229 252 258 264 271 272 273 
+feb 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 
+february 181 203 217 221 225 228 229 252 258 264 271 272 273 276 
 fed 203 230 240 
-federal 172 175 177 190 203 204 215 216 230 240 
+federal 175 177 190 203 204 215 216 230 240 
 federal-reserve-week 216 
-federally 172 
 federation 209 
 fee 265 
 feed 200 
@@ -2027,14 +2031,15 @@ felt 269
 fernando 236 
 fertile 235 
 fiery 207 
-figure 170 246 252 274 
+figure 246 252 274 
 figures 178 209 220 273 
 filed 192 
 filing 176 
+filling 276 
 final 178 266 
 finance 175 181 190 209 214 217 225 230 240 246 265 270 271 
 financed 264 
-financial 172 179 220 225 227 247 257 266 
+financial 179 220 225 227 247 257 266 276 
 financing 181 
 find 200 232 
 finding 200 
@@ -2044,7 +2049,7 @@ fine 203
 fired 180 
 firm 176 223 238 242 260 264 266 270 
 firmer 242 
-firms 208 223 230 240 247 260 
+firms 208 223 230 240 247 260 276 
 fiscal 179 226 227 246 
 fish 243 
 fisheries 241 
@@ -2074,9 +2079,9 @@ footwear 213
 force 207 208 209 
 forced 209 235 237 
 forces 243 248 
-forecast 179 209 227 235 254 259 260 267 
+forecast 179 209 227 235 254 259 260 267 274 275 
 forecasters 218 
-forecasts 203 209 227 250 
+forecasts 203 209 227 250 275 
 foreign 175 179 181 190 200 223 224 237 246 247 256 257 262 264 270 
 foreign-exchange 256 
 foremost 246 
@@ -2108,7 +2113,7 @@ freeing 178
 freeze 175 181 190 263 
 french 209 223 
 fresh 256 257 263 
-friday 175 190 234 251 266 
+friday 175 190 234 251 266 276 
 friend 178 
 front 238 243 
 frustration 175 190 
@@ -2120,18 +2125,19 @@ funaro 175 190
 fund 175 181 190 223 225 230 239 240 256 257 
 fundamentals 248 
 funds 203 223 225 256 263 
-future 170 178 179 180 203 209 211 232 249 
+future 178 179 180 203 209 211 232 249 
 futures 200 258 
-gain 169 200 210 235 
+gain 200 210 235 
 gains 187 223 235 238 
 gandhi 238 
+gap 276 
 gas 176 
 gasoline 213 
 gave 179 231 234 238 239 
 gcc 247 
 gdp 179 227 
 ge 264 
-general 170 174 222 223 237 245 264 
+general 174 222 223 237 245 264 
 generale 209 
 generally 230 238 240 252 273 
 geneva 236 
@@ -2144,7 +2150,6 @@ ghali 262
 gib 247 
 give 178 179 230 232 240 
 giving 193 
-glenmora 172 
 global 232 
 glut 248 
 gm 174 
@@ -2154,9 +2159,10 @@ goldman 223
 good 223 259 
 goods 174 
 gorbachev 255 
+gordon 276 
 governing 247 
-government 175 176 177 179 181 190 197 209 213 217 219 223 225 226 227 228 230 235 237 238 240 246 250 256 258 259 274 
-government-owned 264 
+government 175 176 177 179 181 190 197 209 213 217 219 223 225 226 227 228 230 235 237 238 240 246 250 256 258 259 274 275 276 
+government-owned 264 276 
 governments 209 247 
 governor 195 220 
 grade 189 191 194 
@@ -2168,12 +2174,12 @@ granted 180 215
 grassley 193 
 grave 175 190 
 greater 247 263 
-green 263 
+green 263 275 
 greenwich 222 234 
 grew 198 223 
 grip 203 
 gross 179 227 
-group 174 180 182 195 209 232 237 248 251 265 273 
+group 174 180 182 195 209 232 237 248 251 265 273 276 
 groupe 186 
 groups 180 193 
 grow 235 
@@ -2191,7 +2197,6 @@ guaranty 175 190
 guards 245 
 gulf 176 200 236 242 243 246 247 273 
 guttag 205 
-hale 172 
 half 179 209 
 halt 197 237 
 halting 200 242 
@@ -2206,13 +2211,11 @@ happen 176
 happened 252 
 hard 175 190 
 harris 234 
-hart 172 
 hashimoto 223 
-head 209 223 257 
+head 209 223 257 276 
 headed 181 
 heads 246 270 
 health 225 246 
-healthy 172 
 hear 175 190 
 hearing 177 
 heats 232 
@@ -2223,9 +2226,9 @@ helped 246
 hemisphere 248 
 henry 247 
 henske 173 
-high 203 220 223 236 258 259 264 272 273 
+high 203 220 223 236 258 259 264 272 273 276 
 high-speed 207 
-higher 176 200 209 242 252 264 
+higher 176 200 209 242 252 264 274 
 higher-than- 203 
 highly 237 
 highways 239 
@@ -2247,9 +2250,9 @@ hold-down 238
 holder 230 240 
 holders 177 199 223 
 holding 195 
-holdings 223 251 
+holdings 223 251 276 
 holier 238 
-hong 223 251 
+hong 223 251 276 
 hong-kong 223 251 
 hongkong 251 
 hope 237 
@@ -2279,6 +2282,7 @@ icch 258
 ico 232 249 
 ico-coffee 232 249 
 idaho 184 
+idea 276 
 identical 218 
 identify 253 
 iel 265 
@@ -2296,11 +2300,12 @@ implies 252
 import 174 176 237 238 267 
 importantly 178 
 imported 263 
+importer 275 
 importing 267 
 imports 174 176 179 215 235 237 254 271 
 impossible 225 256 
 impression 209 
-improve 236 239 266 
+improve 236 239 266 275 
 improved 252 
 improvement 227 237 
 improving 179 
@@ -2315,8 +2320,8 @@ incorporated 247
 incorporates 264 
 incorporating 232 239 
 incorporation 247 
-increase 170 179 188 205 208 214 223 224 227 229 235 238 263 267 274 
-increased 198 209 213 214 224 235 
+increase 179 188 205 208 214 223 224 227 229 235 238 263 267 274 275 
+increased 198 209 213 214 224 235 275 
 increases 235 238 267 
 increasingly 263 
 incurring 238 
@@ -2329,8 +2334,8 @@ indian 238
 indications 237 259 
 indicator 252 
 indicators 227 
-indonesia 232 235 237 254 259 267 274 
-indonesian 235 254 259 267 274 
+indonesia 232 235 237 254 259 267 274 275 
+indonesian 235 254 259 267 274 275 
 industrial 181 225 238 244 252 265 
 industrialists 244 
 industries 182 188 199 204 230 238 240 272 
@@ -2341,11 +2346,11 @@ inflation 179 181 209 227
 inform 178 
 informal 180 
 informally 177 180 217 
-information 208 
+information 208 276 
 infringement 215 
 infusion 177 
 inhibited 223 
-initial 175 190 206 220 
+initial 175 190 206 220 276 
 initially 227 
 initiative 178 180 
 injection 174 
@@ -2357,10 +2362,9 @@ insecticides 235
 insee 209 
 insider 205 
 institute 209 
-institutions 172 177 220 223 225 246 247 257 
+institutions 177 220 223 225 246 247 257 
 instruments 205 223 247 
-insurance 170 172 184 205 223 
-insured 172 
+insurance 184 205 223 
 insurers 223 
 integral 266 
 integrity 205 
@@ -2369,22 +2373,23 @@ intensification 259
 inter-institutional 220 
 interagency 180 
 interbank 175 190 230 240 242 270 
-interest 175 176 181 190 200 220 221 223 225 230 233 240 257 270 
+interest 175 176 181 190 200 220 221 223 225 230 233 240 257 270 276 
 interested 195 
 interim 271 
 intermediate 194 
 internal 266 
-international 175 179 181 188 190 203 215 223 230 232 234 236 237 240 247 248 249 256 257 258 263 266 
+international 175 179 181 188 190 203 215 223 230 232 234 236 237 240 247 248 249 256 257 258 263 266 274 275 
 interview 176 256 
 interviewed 180 
-introduce 225 
+introduce 225 276 
 introduced 192 
 introduction 247 
 inventories 252 
 invest 223 
 invested 223 230 240 
-investment 170 176 179 209 223 237 238 239 247 265 
+investment 176 179 209 223 237 238 239 247 265 
 investments 223 237 
+investor 276 
 investors 177 205 223 247 
 involved 257 
 involving 192 
@@ -2403,17 +2408,16 @@ island 195 269
 isn 232 
 isolated 269 
 issue 178 195 204 217 265 
-issued 192 247 257 265 
+issued 192 247 257 265 276 
 issues 233 247 253 255 262 
 issuing 244 
 italian 182 219 233 
 italy 219 233 
-item 170 
 ivory 232 
 j.s 203 
 jacques 209 
 jaime 230 240 270 
-jakarta 235 237 254 259 267 274 
+jakarta 235 237 254 259 267 274 275 
 jamaica 248 
 jamal 245 
 james 175 190 
@@ -2428,7 +2432,6 @@ jim 177 264
 job 179 219 
 john 173 200 
 johnson 203 
-johnstone 173 
 joining 182 
 joint 174 247 266 
 jolted 269 
@@ -2455,6 +2458,7 @@ key 178 222 232
 khalifa 246 
 khalil 245 
 killed 243 
+kilograms 275 
 kilometres 243 269 
 kind 230 240 265 
 king 182 
@@ -2465,13 +2469,12 @@ knell 178
 knock-on 209 
 kobuse 223 
 kokan 260 
-kong 223 251 
+kong 223 251 276 
 korea-based 174 
 korean 206 
 kremlin 255 
 kuwait 236 242 247 248 
 kwacha 256 
-la. 172 
 labeled 215 
 labor 188 
 labour 209 222 234 
@@ -2498,7 +2501,7 @@ launching 218
 law 177 225 247 
 laws 247 
 lawsuits 192 
-lead 179 195 204 234 237 263 
+lead 179 195 204 234 237 263 274 
 leader 177 178 209 219 222 255 
 leaders 209 219 
 leading 234 237 252 
@@ -2527,7 +2530,7 @@ libor 230 240 270
 licenses 195 
 licensing 195 
 lieutenant 245 
-life 170 184 205 223 
+life 184 205 223 
 lift 238 273 
 lifted 207 218 
 liftings 273 
@@ -2538,27 +2541,31 @@ likewise 230 240
 limit 246 
 limited 234 235 
 limits 236 
-lincoln 170 
 line 175 190 200 203 209 263 
 lines 175 190 243 
-links 269 
+link 276 
+linking 276 
+links 269 276 
 liquefied 176 
-liquidity 220 223 
+liquidity 220 223 276 
 lisa 232 
+listed 276 
+listing 276 
+listings 276 
 live 180 
 livestock 200 
 living 209 
 lloyds 175 190 
 lng 176 
 loadings 200 
-loan 171 181 237 239 244 
+loan 181 237 239 244 
 loaned 181 
 loans 175 177 181 190 239 244 247 
 loc 265 
-local 195 218 224 225 236 
+local 195 218 224 225 236 276 
 locally 247 
 lock 200 
-london 222 230 232 234 240 243 249 270 
+london 222 230 232 234 240 243 249 270 276 
 long 195 208 209 
 long-term 179 221 223 225 233 273 
 looms 219 
@@ -2570,7 +2577,7 @@ loss 179 202 209 210 212 218 260
 losses 177 235 260 
 lost 236 269 
 lot 200 229 257 
-louisiana 172 194 
+louisiana 194 
 low 179 200 217 225 237 272 
 low-fat 263 
 lower 181 213 223 226 227 236 248 252 273 
@@ -2578,6 +2585,7 @@ lower-yielding 235
 lowered 191 238 
 lowers 191 
 lowest 179 235 236 237 
+lse 276 
 luis 232 
 lukman 248 
 lull 242 
@@ -2591,10 +2599,11 @@ m-3 198 220
 m. 173 
 machinery 174 179 
 machinists 188 
+macklin 276 
 made 176 180 203 211 215 223 230 240 247 256 270 
 magazine 231 
 mail 201 238 
-main 222 248 254 273 
+main 222 248 254 273 275 
 mainstay 223 
 maintain 203 205 237 
 maintained 209 
@@ -2607,7 +2616,7 @@ makers 208 264
 making 200 247 265 
 mali 262 
 man 269 
-management 170 213 252 
+management 213 252 
 manager 204 223 252 
 managers 223 252 
 manages 223 
@@ -2619,7 +2628,6 @@ manitoba 204
 manufactures 185 
 marais 209 
 marathon 194 
-march 200 214 217 221 225 226 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 262 263 264 265 266 267 268 269 270 271 272 273 274 
 marconi 182 
 margaret 222 
 margarines 263 
@@ -2631,7 +2639,7 @@ mario 175 181 190 195
 marked 181 218 227 263 
 markedly 227 
 marker 236 
-market 176 177 179 192 203 205 208 220 221 223 225 230 232 234 238 240 242 247 248 250 251 263 265 273 
+market 176 177 179 192 203 205 208 220 221 223 225 230 232 234 238 240 242 247 248 250 251 263 265 273 275 276 
 market-related 225 
 marketing 184 236 263 
 markets 179 203 223 236 247 248 259 265 
@@ -2639,6 +2647,7 @@ markup 177
 marshals 215 
 marvin 177 
 maryland 184 
+mas 276 
 massive 223 
 matahina 269 
 matched 203 
@@ -2664,7 +2673,7 @@ mediate 219
 medical 213 
 medium 255 265 
 meet 175 176 190 219 256 257 262 263 266 
-meeting 195 203 209 219 226 227 232 236 242 248 249 262 
+meeting 195 203 209 219 226 227 232 236 242 248 249 262 276 
 meets 219 226 
 member 177 222 237 246 
 members 177 180 188 195 197 205 209 236 248 252 263 
@@ -2675,8 +2684,7 @@ mend 270
 mention 205 
 mer 205 
 merchants 238 
-merged 172 
-merger 172 260 
+merger 260 
 merrell 192 
 merrill 205 265 
 met 175 190 200 
@@ -2701,7 +2709,7 @@ minimum 223 225
 minister 175 181 190 209 219 222 236 246 248 262 273 
 ministers 263 
 ministries 219 225 238 
-ministry 209 217 225 228 241 262 269 271 
+ministry 209 217 225 228 241 262 269 271 275 
 minneapolis 202 
 minority 232 
 minus 225 246 
@@ -2719,22 +2727,23 @@ mmdas 216
 mob 273 
 mobil 273 
 model 264 
+modelled 276 
 moderate 209 227 
 moderately 227 
 moderation 209 
 modernisation 179 
-modest 179 235 
+modest 179 235 274 
 modify 209 
 mohammad 244 
 momentum 237 
-monetary 175 179 181 190 203 220 230 240 256 257 
+monetary 175 179 181 190 203 220 230 240 256 257 276 
 money 177 181 198 203 211 220 221 223 229 247 
 money-fx 221 247 256 
 money-losing 238 
 money-supply 198 203 216 220 
 monitor 208 
 monopolies 237 
-month 177 188 193 200 209 213 219 229 236 237 244 246 252 255 262 273 
+month 177 188 193 200 209 213 219 229 236 237 244 246 252 255 262 273 276 
 month-end 273 
 months 180 200 209 223 229 237 256 270 
 montreal 182 186 187 
@@ -2750,14 +2759,14 @@ mother 192
 motor 174 
 motors 174 
 mounted 244 
-move 175 178 190 220 223 225 259 
+move 175 178 190 220 223 225 259 276 
 moved 220 
 moves 175 225 237 244 247 
 moving 209 
 mr 203 
 ms-dos 215 
 msft 215 
-mths 169 183 201 
+mths 183 201 
 mud 269 
 multi-billon 195 
 multi-year 175 190 
@@ -2772,15 +2781,16 @@ n.z 198 220 250 258
 nailene 176 
 nalin 238 
 named 236 248 
-names 173 244 
+names 244 
 nancy 178 
 napm 252 
 narrowly 198 
 nasa 207 
+nasdaq 276 
+nasdaq/london 276 
 nat-gas 176 
-natchitoches 172 
 nation 178 179 238 
-national 170 172 177 178 200 203 209 218 243 252 257 263 
+national 177 178 200 203 209 218 243 252 257 263 276 
 nationals 247 
 nations 225 247 
 natural 176 
@@ -2799,7 +2809,8 @@ negotiations 176 219 253 270
 negotiator 175 190 
 negotiators 208 253 
 neighboring 181 
-net 169 183 187 196 201 202 203 210 211 212 223 227 250 266 
+net 183 187 196 201 202 203 210 211 212 223 227 250 266 
+netherlands 275 
 network 236 239 
 neutral 203 238 273 
 new-zealand 198 220 250 258 269 
@@ -2827,17 +2838,16 @@ normal 200
 north 224 241 269 
 northeast 239 269 
 northern 176 215 248 269 
-note 169 187 202 210 212 265 
+note 187 202 210 212 265 
 note/commercial 265 
-noted 179 180 181 
-notes 170 230 237 240 265 
+noted 179 180 181 275 
+notes 230 237 240 265 
 notice 200 209 
-notified 172 
 november 178 198 270 
 nrc 195 
 nuclear 195 
 nudged 180 
-number 172 177 180 200 252 
+number 177 180 200 252 
 numbers 203 
 nyse 205 
 nzfe 258 
@@ -2855,11 +2865,11 @@ obu 224
 occasions 257 
 oceanic 218 
 oct-sept 235 
-october 220 256 270 
+october 220 256 270 275 
 oecd 179 
 offer 180 193 195 214 230 240 
 offered 180 193 230 240 268 270 
-offering 180 200 264 
+offering 180 200 264 276 
 offerings 247 
 offers 223 264 268 
 office 178 180 
@@ -2875,7 +2885,6 @@ oilseed 200 229
 oilseeds 263 
 olin 173 
 olive 263 
-oln 173 
 oman 247 
 ominous 203 
 once-off 209 
@@ -2890,7 +2899,7 @@ opec 236 237 242 246 248 273
 open 208 218 250 257 
 open-ended 263 
 opened 208 
-oper 169 210 
+oper 210 
 operate 176 
 operates 206 218 
 operating 173 215 
@@ -2900,20 +2909,21 @@ operations 184 210 248 250
 opinion 234 
 opposed 178 
 opposition 222 226 234 238 
+optimistic 276 
 option 265 
 options 206 266 
 orbit 218 
 order 208 215 246 264 
 ordered 206 238 269 
 orders 206 208 252 
-organisation 179 236 242 262 
+organisation 179 236 242 262 275 
 organization 232 249 
 outbreak 235 
 outlays 238 
 outlet 263 
 outlining 246 
 outlook 179 209 237 259 
-output 200 232 235 246 248 259 272 273 274 
+output 200 232 235 246 248 259 272 273 274 275 
 outstanding 199 229 270 
 outstrip 179 
 outweighed 231 
@@ -2924,6 +2934,7 @@ overdue 244
 overnight 180 203 243 245 
 overruled 192 
 overseas 223 239 
+oversubscribed 276 
 overturned 192 
 owed 244 270 
 owing 272 
@@ -2954,7 +2965,7 @@ parliament 225
 parliamentary 222 226 234 
 part 180 181 195 225 257 266 273 
 partial 227 
-participate 171 181 
+participate 181 
 parties 219 226 
 partly 209 237 
 partners 219 257 263 
@@ -2980,7 +2991,6 @@ pel 176
 penchent 223 
 pending 192 
 pension 188 223 
-peoples 172 
 percentage 209 225 227 230 233 240 270 
 perception 208 
 perfidious 245 
@@ -3009,17 +3019,17 @@ phrase 175 190
 pick 227 
 pick-up 179 200 
 picked 179 247 
-place 205 255 
+place 205 255 276 
 plaintiffs 192 
-plainview 172 
-plan 195 230 232 238 240 
+plan 195 230 232 238 240 276 
 planned 174 236 248 
 planning 195 227 256 
-plans 175 182 190 214 219 236 239 242 246 247 248 272 
+plans 175 182 190 214 219 236 239 242 246 247 248 272 275 276 
 plant 179 195 197 235 237 241 259 272 
+plantations 275 
 planting 197 
 plantings 197 
-plants 188 195 200 
+plants 188 195 200 275 
 plastics 237 
 play 222 
 playing 238 
@@ -3060,6 +3070,7 @@ positions 178 242 245
 positive 227 237 246 
 positively 230 240 
 possibility 232 
+possibly 276 
 post-budget 238 
 postal 225 
 posted 191 194 
@@ -3080,12 +3091,12 @@ pregnancy 192
 premiums 200 
 prepared 238 
 preparing 175 190 
-present 211 227 237 
+present 211 227 237 275 276 
 presentation 175 190 
 presented 177 230 240 
 preserve 179 
 presidency 231 
-president 173 178 237 238 244 248 256 262 270 
+president 173 178 237 238 244 248 256 262 270 276 
 presidential 178 209 
 press 180 248 
 pressue 209 
@@ -3093,37 +3104,39 @@ pressure 203 209 236 248
 pressures 237 
 pretax 199 
 previous 177 180 203 209 213 221 223 228 232 245 246 258 
+previously 276 
 price 176 179 181 191 194 204 209 213 217 230 232 236 240 246 258 259 263 267 
 priced 230 240 
-prices 176 189 200 209 213 232 235 236 237 238 242 246 247 248 249 252 263 267 272 273 
+prices 176 189 200 209 213 232 235 236 237 238 242 246 247 248 249 252 263 267 272 273 274 
 pricing 230 236 240 248 
 primarily 237 
 primary 237 272 
 prime 209 219 222 225 258 
 principal 230 240 270 
-principle 185 257 
+principle 185 257 276 
+printers 276 
 prior 203 
 priority 209 
 private 179 180 198 209 220 227 228 256 
-privately 170 
+probable 275 
 probe 178 
-problem 225 230 240 
+problem 225 230 240 276 
 problems 203 
-proceeds 170 204 214 230 240 
+proceeds 204 214 230 240 
 process 180 
-processing 200 
+processing 200 275 
 processor 200 
 processors 200 
 produce 236 
-produced 263 
+produced 263 275 
 producer 232 236 237 248 249 263 
 producers 232 242 249 259 263 
-producing 232 236 248 
+producing 232 236 248 275 
 product 179 186 227 
-production 176 197 200 227 232 235 236 252 259 267 272 273 
+production 176 197 200 227 232 235 236 252 259 267 272 273 274 275 
 productions 176 
 productivity 209 238 
-products 174 263 273 
+products 174 263 273 275 
 profit 202 210 212 
 profitable 266 
 profitably 176 
@@ -3131,7 +3144,7 @@ profits 178 199 223 238
 program 178 180 181 193 197 218 219 230 240 259 
 progress 203 208 
 prohibiting 215 
-projected 238 246 274 
+projected 238 246 274 275 
 projection 246 274 
 projections 203 
 projects 246 
@@ -3151,7 +3164,7 @@ proper 247
 proportion 223 
 proposal 180 230 232 238 240 
 proposals 177 226 232 238 255 263 
-proposed 195 217 232 255 263 
+proposed 195 217 232 255 263 276 
 prospects 179 181 209 232 235 249 252 
 protect 178 205 209 246 
 protected 178 237 
@@ -3162,7 +3175,8 @@ proved 211 238
 provide 227 238 239 265 
 providing 181 
 provisional 274 
-public 195 209 225 238 246 247 266 
+pte 276 
+public 195 209 225 238 246 247 266 276 
 publish 246 
 published 234 236 246 248 
 pull 203 
@@ -3171,7 +3185,7 @@ purchase 206 208 253 264
 purchasers 252 
 purchases 208 223 264 
 purchasing 208 209 252 
-purposes 170 214 273 
+purposes 214 273 
 pursuing 247 
 push 209 
 pushed 200 263 
@@ -3180,23 +3194,26 @@ puts 274
 pyke 218 
 qantas 261 264 
 qatar 236 246 247 
-qtr 169 183 201 202 210 212 
+qtr 183 201 202 210 212 
 quadrant 215 
 quake 269 
 quakes 269 
 qualify 181 
+quality 275 
 quarter 209 220 252 
 quarterly 214 
 quarters 227 
 question 179 180 209 232 
 questioned 231 
 questionmark 179 
+questions 276 
 quickly 177 
 quiet 242 
 quietly 242 
 quo 232 
 quota 232 236 246 248 249 273 
-quotas 232 249 
+quotas 232 249 275 
+quotation 276 
 quoted 236 242 248 257 
 quotes 242 
 quoting 230 240 
@@ -3220,14 +3237,15 @@ rationalisation 179
 rationalise 246 
 ratios 200 
 raw 259 
+re-introduction 275 
 reach 192 
-reached 225 255 258 266 
+reached 225 255 258 266 276 
 reaction 232 238 
-read 170 
 reading 252 
 reaffirmed 236 
 reagan 178 180 231 
 real 179 227 237 238 247 263 273 
+realistic 274 
 reasonable 246 
 reassurance 203 
 rebels 178 
@@ -3279,8 +3297,8 @@ regular 203 250
 regulate 232 
 regulation 205 
 regulations 247 
-regulator 172 177 
-regulators 172 230 240 
+regulator 177 
+regulators 230 240 
 regulatory 195 238 
 rehearing 192 
 rein 238 
@@ -3305,7 +3323,7 @@ reluctance 235 247
 reluctant 242 247 259 
 reluctantly 209 
 relying 223 
-remain 217 223 229 237 242 247 
+remain 217 223 229 237 242 247 276 
 remainder 211 224 
 remained 179 231 232 252 253 266 273 
 remaining 177 192 
@@ -3324,7 +3342,7 @@ repelled 245
 repels 245 
 replace 182 218 
 replaced 245 256 
-report 178 179 205 235 237 252 254 257 259 267 274 
+report 178 179 205 235 237 252 254 257 259 267 274 275 
 reported 200 239 252 269 
 reportedly 181 
 reporters 178 203 230 240 244 262 
@@ -3377,7 +3395,7 @@ restraning 215
 restrict 197 
 restrictions 237 
 restructuring 230 240 
-result 200 209 222 227 232 235 273 
+result 200 209 222 227 232 235 273 275 
 resulting 209 
 results 187 234 251 
 resume 176 253 
@@ -3403,7 +3421,7 @@ revised 198 209 227
 revising 209 
 revision 225 
 revolutionary 245 
-revs 169 183 187 196 201 202 210 212 
+revs 183 187 196 201 202 210 212 
 rhodes 175 190 
 rhr 188 
 rica 232 
@@ -3412,7 +3430,7 @@ richard 180 193 197 205
 richter 269 
 rigour 209 
 rilwanu 248 
-rise 179 205 209 224 227 228 229 235 238 274 
+rise 179 205 209 224 227 228 229 235 238 274 275 
 rises 179 198 209 229 
 rising 175 190 198 209 235 
 risk 223 
@@ -3422,7 +3440,6 @@ river 269
 riverside 188 
 riyal 242 247 
 riyals 246 
-rm 171 175 177 179 181 195 198 203 204 209 213 216 217 219 220 221 222 223 224 225 226 227 230 231 233 234 236 237 238 239 240 242 243 244 245 246 247 248 250 252 255 256 257 258 261 262 263 264 265 266 268 269 270 271 273 
 road 239 
 roads 269 
 roadway 269 
@@ -3451,7 +3468,7 @@ rumours 266
 run 230 240 256 
 running 263 
 rupees 238 268 
-rupiah 235 267 
+rupiah 235 267 274 
 rushed 245 
 rushing 273 
 russell 220 
@@ -3500,17 +3517,18 @@ secondary 177 230 240
 secretary 175 178 180 190 193 197 230 240 255 270 
 sector 179 198 209 220 235 237 238 244 256 274 
 sectors 179 
-securities 205 214 223 238 247 
+securities 205 214 223 238 247 276 
 security 178 203 205 246 
 seeds 235 
-seek 236 
+seek 236 276 
+seeking 276 
 sees 220 
 seismologists 269 
 seixas 175 190 
 seize 215 
 seized 243 
 seizure 215 
-selected 230 240 
+selected 230 240 276 
 self-imposed 236 
 self-sufficiency 259 
 sell 185 223 230 236 238 240 248 263 266 273 
@@ -3518,16 +3536,18 @@ selling 180 223 236 238 242
 semi-independent 177 
 sen. 177 193 
 senate 177 178 
-senior 170 175 180 190 257 
+senior 175 180 190 257 276 
 separate 232 
 separated 255 
-september 209 213 220 232 233 235 237 249 264 
+september 209 213 220 232 233 235 237 249 264 274 
 serene 181 
 series 209 218 237 264 269 
 serve 176 178 
 served 178 209 
-service 179 182 188 206 
+service 179 182 188 206 276 
 services 246 266 
+ses 276 
+sesdaq 276 
 session 238 249 
 set 182 195 209 225 229 232 236 238 247 
 set-up 177 
@@ -3543,7 +3563,7 @@ shaken 238
 shamelessly 238 
 share 179 181 187 214 232 236 238 247 251 258 
 shareholder 214 
-shares 199 214 223 232 238 247 251 
+shares 199 214 223 232 238 247 251 276 
 sharing 219 
 sharp 179 200 237 238 247 
 sharply 200 271 
@@ -3569,11 +3589,11 @@ shoulder 246
 show 219 227 235 260 273 
 showed 203 220 234 248 
 shown 179 248 
-shr 169 183 187 196 201 202 210 212 
+shr 183 187 196 201 202 210 212 
 shrank 177 
 shrink 179 
 shrortly 214 
-shrs 169 201 202 
+shrs 201 202 
 shrugged 203 
 shultz 178 255 
 shuttle 218 
@@ -3585,6 +3605,7 @@ sight 232
 signal 178 
 signed 206 253 270 273 
 significant 177 223 227 235 252 
+significantly 275 
 signing 193 
 signs 179 220 246 
 sikorsky 182 
@@ -3592,6 +3613,7 @@ silent 266
 similar 209 223 
 similarly 203 
 simply 178 
+singapore 276 
 single 180 218 
 single-day 203 
 sinnificantly 232 
@@ -3606,7 +3628,7 @@ slated 174
 slide 232 249 
 sliding 247 
 slight 179 235 
-slightly 179 203 227 237 246 252 273 
+slightly 179 203 227 237 246 252 273 275 
 slip 269 
 slow 179 209 235 
 slowdown 179 
@@ -3615,7 +3637,7 @@ slower 209 220 252
 slowing 227 252 
 sluggish 223 227 
 slump 235 248 
-small 179 216 238 270 
+small 179 216 238 270 276 
 smaller 232 236 248 269 270 273 
 smallholder 259 
 smashed 243 
@@ -3623,6 +3645,7 @@ smelter 272
 smelting 272 
 smiles 223 
 smooth 218 
+snp 276 
 soared 232 249 
 social 219 222 234 246 
 socialist 209 219 
@@ -3638,8 +3661,8 @@ sophistication 247
 sought 178 
 sour 194 
 source 176 227 
-sources 176 180 217 219 225 232 236 242 260 262 273 
-south 172 194 200 
+sources 176 180 217 219 225 232 236 242 260 262 273 276 
+south 194 200 
 south-east 237 
 south-korea 206 
 southern 243 245 
@@ -3685,6 +3708,7 @@ spurred 223
 spurt 252 
 sri 268 
 sri-lanka 268 
+sse 276 
 stabilise 248 
 stability 179 223 270 
 stabilization 181 
@@ -3692,15 +3716,14 @@ stable 179 203 248 263
 staff 178 
 stagnates 235 
 stake 266 
-stamford 173 
 stand 257 
 stand-by 181 
 standards 195 247 
 staple 235 
-start 200 203 236 
+start 200 203 236 276 
 starting 221 
 starts 270 
-state 172 176 178 209 225 236 246 255 262 
+state 176 178 209 225 236 246 255 262 
 stategies 223 
 statement 181 195 198 203 208 220 246 250 264 265 266 
 statements 256 
@@ -3709,7 +3732,7 @@ station 207
 statistics 208 209 232 
 status 232 
 stay 229 
-steadily 200 
+steadily 200 275 
 steady 203 232 242 273 
 stearns 223 
 steel 237 252 260 
@@ -3722,17 +3745,18 @@ stick 219 248
 sticking 230 240 
 stiffer 266 
 stimulate 225 
-stock 199 202 205 214 223 238 247 251 266 
+stock 199 202 205 214 223 238 247 251 266 276 
 stocked 263 
 stockholders 238 
 stockmarkets 223 
-stocks 223 232 235 254 263 
+stocks 223 232 235 254 263 275 276 
 stop 193 232 249 272 
 stopped 272 
 storage 273 
 straight 218 252 
 strategist 178 
 strategy 223 227 266 
+stream 275 
 street 178 205 223 266 
 strength 223 
 strengthening 227 
@@ -3756,20 +3780,19 @@ submarines 182
 subsequent 175 190 
 subsidiary 176 
 subsidies 263 
-subsidized 172 180 
+subsidized 180 
 subsidy 180 
 substantial 179 
 substitution 237 
 succeed 173 242 
 success 179 218 
 successful 207 223 256 
-successor 173 
 sudden 223 
 suddenly 223 
 sue 178 
 suffer 177 237 
 suffering 236 
-sufficient 227 
+sufficient 227 276 
 sugar 235 259 
 sugarcane 235 259 
 suggest 203 
@@ -3786,8 +3809,8 @@ supplemental 176
 suppliers 208 254 
 supplies 176 200 252 269 272 
 supply 176 181 198 203 235 241 
-support 178 181 203 208 234 237 263 265 273 
-supported 182 
+support 178 181 203 208 234 237 263 265 273 276 
+supported 182 276 
 supporters 209 
 suppose 236 
 surge 200 209 
@@ -3814,8 +3837,8 @@ switzerland 179 204
 sydney 264 265 
 syndicate 217 
 syndicated 247 
-system 177 179 203 215 225 249 250 256 263 
-systems 174 199 239 
+system 177 179 203 215 225 249 250 256 263 276 
+systems 174 199 239 276 
 t-bill 250 
 t-bills 268 
 tabled 232 
@@ -3824,6 +3847,7 @@ taipei 224
 taiwan 224 
 taka 244 
 take-off 264 
+takes 276 
 taking 200 205 
 tala 245 
 talk 180 200 
@@ -3837,10 +3861,11 @@ target 203 209 230 240 259 263
 targets 209 
 tariffs 238 
 task 263 
-tax 169 209 226 238 263 
-tea 235 
+tax 209 226 238 263 274 
+tea 235 275 
 team 253 
 teams 257 
+teas 275 
 technically 177 
 techniques 205 
 technologies 264 
@@ -3849,6 +3874,7 @@ telecommunications 225
 telephone 234 269 
 television 176 
 telex 175 190 
+temasek 276 
 tempers 175 190 232 
 temporary 200 215 
 ten 188 
@@ -3859,10 +3885,8 @@ terminals 176 273
 terms 180 185 217 233 239 257 270 
 test 207 273 
 testing 174 
-tex 172 
-tex. 172 
 texaco 189 191 273 
-texas 172 194 
+texas 194 
 textron 182 
 thai 228 
 thailand 228 
@@ -3872,6 +3896,7 @@ thirds 232
 thomas 218 
 threat 241 
 threatened 175 190 241 
+three-centre 276 
 three-man 177 
 three-month 178 236 268 
 three-to-one 231 
@@ -3883,43 +3908,45 @@ tide 193
 tied-up 177 
 tight 179 252 
 tighten 176 220 
-tightened 203 
+tightened 203 275 
 tillage 185 
-time 176 177 180 181 200 203 209 216 218 227 245 252 257 
+time 176 177 180 181 200 203 209 216 218 227 245 252 257 276 
 timely 241 
-times 234 238 252 
+times 234 238 252 276 
 timing 178 
 tinkered 238 
 today 175 190 191 194 195 200 203 207 209 218 219 220 232 236 246 251 263 
 tokyo 213 217 221 223 225 226 229 260 271 272 
-told 175 176 178 190 203 209 219 223 224 230 238 240 244 255 256 257 262 
+told 175 176 178 190 203 209 219 223 224 230 238 240 244 255 256 257 262 276 
 tomorrow 200 219 270 
 ton 200 
 tonight 249 
 tonne 229 263 
-tonnes 180 228 235 253 254 259 263 267 272 274 
+tonnes 180 228 235 253 254 259 263 267 272 274 275 
 top 178 205 209 269 
-torn 207 
+torn 207 275 
 toronto 196 
 toshin 260 
 toss.t 260 
-total 172 174 177 181 206 211 227 248 266 273 
+total 174 177 181 206 211 227 248 266 273 
 totalled 223 
 totalling 239 270 
-totals 172 
 tough 178 
 tourism 179 
 tower 178 
 town 269 
+toyko 276 
 track 227 
-trade 175 180 190 208 209 237 263 271 
+trade 175 180 190 208 209 237 263 271 275 276 
 traded 258 
 trader 200 
 traders 236 242 248 
-trading 205 220 238 242 247 251 
+trading 205 220 238 242 247 251 276 
 traditional 208 242 247 
 traditionally 273 
 training 209 
+trans-island 276 
+transfer 276 
 translates 263 
 transport 209 246 
 travellers 184 
@@ -3928,7 +3955,7 @@ tread 203
 treassury 181 
 treasurer 227 
 treasuries 223 
-treasury 171 175 181 190 223 230 233 240 247 250 268 
+treasury 175 181 190 223 230 233 240 247 250 268 
 treat 192 
 tremors 269 
 trend 176 223 
@@ -3939,26 +3966,25 @@ trigger 263
 trip 175 190 255 
 triple 223 
 troops 243 245 
-troubled 172 
 troubles 177 
-trust 172 175 176 190 211 221 223 225 265 
+trust 175 176 190 211 221 223 225 265 
 tuesday 175 190 195 203 225 226 230 240 
 tulis 176 
 tumbled 232 
 turmoil 248 
 turn 178 
 turned 223 
-turnover 223 
+turnover 223 276 
 two-fold 273 
 two-point 234 
 two-thirds 249 263 
 two-week 203 
 tx 273 
 txc 191 
-type= 171 189 216 261 
+type= 189 216 261 
 types 223 235 
-u.s 171 172 177 180 181 197 208 218 223 224 229 255 259 265 
-u.s. 174 175 176 180 181 190 192 193 197 200 203 207 208 215 218 223 224 230 235 237 240 252 254 255 257 258 265 267 274 
+u.s 177 180 181 197 208 218 223 224 229 255 259 265 
+u.s. 174 175 176 180 181 190 192 193 197 200 203 207 208 215 218 223 224 230 235 237 240 252 254 255 257 258 265 267 274 275 276 
 u.s.-made 208 
 uae 247 273 
 uganda 262 
@@ -4053,7 +4079,6 @@ vote 195 234 238
 voted 195 203 
 voters 234 
 votes 195 222 
-w. 173 
 wage 181 209 227 
 wages 209 
 waikato 269 
@@ -4069,7 +4094,7 @@ warrants 244
 warrington 184 
 warsaw 257 
 wary 270 
-washington 172 174 175 177 178 180 181 190 193 195 197 208 230 240 257 
+washington 174 175 177 178 180 181 190 193 195 197 208 230 240 257 276 
 water 246 269 272 
 ways 247 266 
 wayward 203 
@@ -4098,6 +4123,7 @@ wheat 180 235 241 253 254 258
 wheat-producing 241 
 white 178 180 
 whitney 264 
+wholly-owned 276 
 wide 238 
 widely 209 
 widespread 269 
@@ -4105,7 +4131,7 @@ widest 223
 wiest 176 
 wife 178 
 william 175 190 
-willingness 181 
+willingness 181 276 
 window 203 
 wine 263 
 wing 209 
@@ -4125,12 +4151,13 @@ wood 222
 wool 258 
 word 203 
 workders 188 
+worked 276 
 workers 209 260 
 workforce 179 
 workhorse 207 
-working 170 177 272 
+working 177 272 
 works 225 
-world 209 230 232 236 237 239 240 246 248 249 256 257 259 272 
+world 209 230 232 236 237 239 240 246 248 249 256 257 259 272 275 
 worldbank 237 239 257 
 worldwide 175 190 223 266 
 worries 223 
@@ -4145,14 +4172,13 @@ written 209
 xon 273 
 yamaichi 223 
 yanbu 273 
-year 169 172 174 176 177 178 179 180 187 188 193 196 198 200 202 203 205 206 207 208 209 210 211 212 213 218 220 223 226 227 228 232 235 236 237 238 241 246 248 249 253 257 260 263 264 270 271 272 
 year-on-year 198 
 years 177 179 181 204 205 209 222 223 227 230 233 238 240 264 265 
 yen 217 221 223 229 260 
 yesterday 180 193 203 209 230 232 238 240 242 257 273 
 yield 217 
 yields 223 235 
-york 170 175 176 181 190 191 194 195 203 205 230 231 236 240 252 266 270 
+york 175 176 181 190 191 194 195 203 205 230 231 236 240 252 266 270 276 
 youcef 176 
 yousfi 176 
 yutaka 223 
@@ -4161,3 +4187,4 @@ zambia 256 262
 zealand 198 220 250 258 269 
 zero-coupon 230 240 
 zone 273 
+zones 276 
