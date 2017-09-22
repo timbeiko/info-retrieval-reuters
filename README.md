@@ -2,6 +2,9 @@
 
 ## Questions
 1. How should we 'retrieve' documents? Should we just return the ID? The full body + title of the doc? The raw data?
+2. When should we remove stop words? 
+3. Can we open all blocks simultaneously to merge them into memory? 
+4. What is the difference between tasks 1 & 2? 
 
 
 

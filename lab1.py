@@ -12,10 +12,11 @@ document_words.append([])
 for line in article_file:
 	token_line = nltk.word_tokenize(line)
 	token_line_lowcase = [token.lower() for token in token_line] # Make tokens lowercase
-	if "REUTERS" in token_line:	# Start a new document	 
+	if "NEWID=" in token_line:	# Start a new document	 
 		doc_index += 1
 		document_words.append([token_line_lowcase])
 	elif doc_index < 1:
+		print token_line
 		continue		# Skip everything until first document is created
 	document_words[doc_index].append(token_line_lowcase)
 	if "/REUTERS" in token_line:	# End of the document, merge all the token_line lists together
@@ -37,7 +38,7 @@ metadata__words = ['REUTERS', 'TOPICS=', 'YES', 'LEWISSPLIT=', 'TRAIN', 'CGISPLI
 		'>', '<', 'TEXT', '>', '<', 'TITLE', '>', '/TITLE', '>', '<', 'DATELINE', '>', '-', '<', '/DATELINE', 
 		'...', 'pct', 'BODY', 'lt', ';', 'cts', '/BODY', 'reuter', 'mln', 'dlrs',  '<', '/TEXT', '>', '<', '/REUTERS', 'reute']
 
-stop_word_file = open('stopwords.txt', 'r')
+stop_word_file = open('stop_words.txt', 'r')
 common_stop_words = stop_word_file.read().split()
 
 stop_words = metadata__words + common_stop_words

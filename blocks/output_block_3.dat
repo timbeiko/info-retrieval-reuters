@@ -1,0 +1,4409 @@
+'re 386 
+'ve 419 504 
+****** 383 392 396 398 400 418 430 431 433 440 445 455 459 511 519 
+-1st 534 
+-2 533 
+-2nd 483 530 
+-4th-qtr 466 
+-adds 446 
+-agrees 408 
+-arranges-m 492 
+-bankameri 505 550 
+-based 496 
+-calend 541 
+-calenda 439 
+-calendar 438 
+-changes-eu 499 
+-compl 498 
+-complete 547 
+-completes 447 
+-consolidat 542 
+-de 406 
+-dec 461 
+-declines 520 
+-fa 371 
+-fil 479 
+-for 507 
+-ge 454 
+-gets-penne 493 
+-hazlet 442 
+-in-gold 488 
+-in-t 532 
+-increases-2n 491 
+-introduc 487 
+-looks-to 504 
+-make 424 
+-pfizer- 472 
+-plans-lu 471 
+-receive 393 
+-report 491 
+-s 488 536 
+-signs-licen 373 
+-splits-st 480 
+-to 537 
+-to-ha 435 
+-to-offer-13 394 
+-to-sel 379 
+-tru 544 
+-unit 391 
+-unit-cut 543 
+-unit-s 503 
+-unit-to-offe 515 
+-unit-to-p 549 
+-year 484 
+/author 372 382 386 419 525 540 
+0.025 488 
+0.1 432 
+0.2 450 
+0.24 488 
+0.3 432 
+0.4 432 
+0.5 429 432 434 
+0.50 488 
+0.5165 440 442 
+0.523 408 
+0.6 432 
+0.7 432 
+0.8 448 
+0.9 430 434 450 
+0007 455 
+0009 392 
+0010 519 
+0011 383 398 
+0012 433 
+0013 400 430 431 440 511 
+0015 396 418 459 
+0016 445 
+0022 521 536 
+0023 506 517 
+0024 529 546 548 
+0025 423 461 509 
+0026 508 512 513 514 
+0029 410 539 
+0030 470 
+0032 373 
+0034 531 534 
+0035 406 464 
+0037 451 
+0038 438 439 
+0039 466 
+0040 405 
+0041 407 483 
+0042 397 484 528 535 
+0044 520 533 
+0045 393 
+0048 376 426 494 
+0051 385 487 542 
+0052 527 
+0053 456 541 
+0054 399 441 
+0055 452 530 
+0056 404 
+0057 401 
+0058 387 515 
+0060 378 422 467 522 
+0061 462 
+0063 379 
+0064 388 413 486 
+0065 416 
+0066 427 498 
+0067 480 
+0068 415 499 
+0069 532 
+0071 447 
+0072 538 
+0073 465 
+0074 476 
+0075 477 
+0079 403 
+0080 537 
+0082 412 
+0083 420 442 444 468 485 
+0084 460 
+0085 436 450 540 
+0086 449 501 
+0087 453 472 
+0088 432 543 547 
+0090 448 491 495 
+0091 518 
+0092 479 
+0093 497 510 
+0094 409 
+0095 434 504 
+0096 390 394 446 
+0097 469 474 503 
+0098 395 454 471 
+0099 386 457 481 502 
+0100 375 478 488 492 
+0101 384 425 
+0102 372 411 490 
+0103 525 
+0104 493 496 545 
+0105 437 549 
+0106 435 463 500 
+0107 374 381 524 526 
+0108 421 473 475 544 
+0110 380 414 507 523 
+0111 408 
+0112 382 391 
+0113 402 
+0115 377 424 
+0117 389 
+0118 419 458 505 
+0119 482 
+0121 443 
+0126 371 
+0127 429 
+0129 417 
+0130 550 
+0138 428 
+0147 516 
+0156 489 
+03-02 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409 410 411 412 413 414 415 416 417 418 419 420 421 422 423 424 425 426 427 428 429 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 478 479 480 481 482 483 484 485 486 487 488 489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 513 514 515 516 517 518 519 520 521 522 523 524 525 526 527 528 529 530 531 532 533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 
+08:29:05.15 372 
+08:38:57.06 373 
+08:40:10.61 374 
+08:40:58.33 375 
+08:41:41.32 376 
+08:42:00.68 377 
+08:43:02.74 378 
+08:43:25.91 379 
+08:43:41.94 380 
+08:43:56.94 381 
+08:47:06.03 382 
+08:50:09.11 383 
+08:55:29.53 384 
+09:01:31.06 385 
+09:02:11.51 386 
+09:02:51.89 387 
+09:03:08.11 388 
+09:03:18.94 389 
+09:03:35.84 390 
+09:04:40.79 391 
+09:15:11.93 392 
+09:16:08.70 393 
+09:19:07.47 394 
+09:19:23.20 395 
+09:20:19.86 396 
+09:21:31.84 397 
+09:24:13.35 398 
+09:24:34.15 399 
+09:25:42.34 400 
+09:28:21.66 401 
+09:28:48.30 402 
+09:28:54.43 403 
+09:31:07.69 404 
+09:31:27.97 405 
+09:31:36.26 406 
+09:31:58.00 407 
+09:33:32.93 408 
+09:34:10.64 409 
+09:35:01.76 410 
+09:35:41.47 411 
+09:36:05.24 412 
+09:36:46.03 413 
+09:37:12.60 414 
+09:38:05.80 415 
+09:38:13.72 416 
+09:39:50.97 417 
+09:42:34.14 418 
+09:43:38.51 419 
+09:43:47.96 420 
+09:47:04.97 421 
+09:48:03.02 422 
+09:49:36.74 423 
+09:49:48.14 424 
+09:52:30.13 425 
+09:52:48.60 426 
+09:54:01.45 427 
+09:55:14.04 428 
+09:57:01.54 429 
+1,000 391 453 515 
+1,037,690 533 
+1,100,000 532 
+1,140,000 466 
+1,165,000 490 
+1,199,000 449 
+1,232,000 456 
+1,270,460 533 
+1,325,755 483 
+1,353,000 490 
+1,434.0 444 
+1,478,000 538 
+1,500 523 
+1,506,756 535 
+1,520,797 535 
+1,522,000 420 435 
+1,532,431 528 
+1,590,000 466 
+1,600 485 524 
+1,640 485 
+1,700,000 388 437 
+1,756,000 538 
+1,770 524 
+1,785,000 449 
+1,817,000 420 435 
+1,826,858 399 
+1,837.2 444 
+1,886.8 444 
+1,924,000 449 
+1-1/4 414 421 453 481 
+1-1/8 520 
+1.0 430 434 470 
+1.04 416 
+1.05 516 
+1.08 388 
+1.09 422 
+1.1 375 434 
+1.16 466 
+1.19 399 
+1.25 454 540 
+1.27 459 
+1.28 390 
+1.3 374 408 
+1.37 399 
+1.4 434 
+1.43 511 
+1.45 399 
+1.46 399 422 
+1.48 490 
+1.5 500 519 522 
+1.50 494 496 543 
+1.58 490 
+1.60 416 
+1.65 494 
+1.7 409 431 432 444 
+1.72 389 
+1.79 382 
+1.80 422 
+1.9 432 
+1.91 545 
+1.95 500 
+1/2 415 427 
+1/8 460 
+10,000 446 448 453 540 
+10,500 501 
+10-1/4 391 
+10-13/16 411 
+10-3/4 411 
+10-7/8 411 
+10-year 468 
+10.1 533 
+10.3 484 
+10.4 530 
+10.53 416 
+10.6 434 449 
+10.77 395 
+100,000 473 537 
+100-1/4 415 427 
+100.25 394 
+101-1/4 453 
+101-3/4 414 421 
+107.18 391 
+10:01:38.70 430 
+10:01:42.80 431 
+10:02:26.35 432 
+10:02:31.29 433 
+10:04:24.87 434 
+10:04:49.78 435 
+10:06:32.63 436 
+10:12:12.79 437 
+10:13:07.54 438 
+10:13:14.78 439 
+10:17:14.61 440 
+10:20:41.80 441 
+10:29:07.31 442 
+10:30:23.83 443 
+10:31:49.20 444 
+10:34:38.00 445 
+10:35:55.65 446 
+10:36:04.57 447 
+10:36:13.53 448 
+10:36:32.92 449 
+10:39:16.09 450 
+10:39:20.23 451 
+10:39:41.75 452 
+10:39:58.92 453 
+10:40:44.23 454 
+10:40:46.58 455 
+10:44:16.31 456 
+10:44:32.03 457 
+10:44:46.86 458 
+10:44:49.67 459 
+10:45:08.29 460 
+10:45:36.41 461 
+10:47:27.01 462 
+10:48:41.45 463 
+10:49:30.79 464 
+10:49:46.90 465 
+10:50:28.00 466 
+10:50:34.12 467 
+10:52:37.95 468 
+10:54:08.40 469 
+10:54:21.31 470 
+10:54:29.30 471 
+10:54:36.46 472 
+10:59:16.80 473 
+10:59:28.36 474 
+11,754,251 410 
+11,800,000 388 
+11,950 501 
+11.03 378 
+11.3 490 
+11.5 484 
+11.8 409 
+11.9 382 
+110.0 466 
+11:03:46.46 475 
+11:04:07.61 476 
+11:08:38.38 477 
+11:09:06.82 478 
+11:09:13.77 479 
+11:09:35.98 480 
+11:10:22.72 481 
+11:10:36.96 482 
+11:10:41.60 483 
+11:10:45.64 484 
+11:17:05.35 485 
+11:17:27.95 486 
+11:19:06.23 487 
+11:19:44.98 488 
+11:20:05.52 489 
+11:20:13.54 490 
+11:20:39.84 491 
+11:20:53.95 492 
+11:21:31.19 493 
+11:21:58.83 494 
+11:23:10.34 495 
+11:23:31.27 496 
+11:23:45.24 497 
+11:24:06.09 498 
+11:24:11.76 499 
+11:25:38.57 500 
+11:26:14.33 501 
+11:28:26.03 502 
+11:28:55.29 503 
+11:29:26.84 504 
+11:30:19.81 505 
+11:30:44.04 506 
+11:32:35.88 507 
+11:33:17.43 508 
+11:34:52.00 509 
+11:36:19.06 510 
+11:37:24.38 511 
+11:38:51.73 512 
+11:38:56.02 513 
+11:39:00.38 514 
+11:40:25.88 515 
+11:40:59.07 516 
+11:41:35.88 517 
+11:41:56.31 518 
+11:42:05.20 519 
+11:42:14.82 520 
+11:43:22.42 521 
+11:44:41.93 522 
+11:49:17.45 523 
+11:52:24.47 524 
+11:53:16.43 525 
+11:53:24.26 526 
+11:53:38.63 527 
+11:58:00.63 528 
+11:58:12.69 529 
+11:58:29.88 530 
+11:59:18.60 531 
+11:59:34.49 532 
+11:59:42.98 533 
+11:59:47.00 534 
+11:59:53.24 535 
+12-year 394 415 427 
+12.1 422 
+12.2 422 
+12.5 389 
+12.8 378 
+12.9 538 
+123,000 446 
+12554 372 
+12555 373 
+12556 374 
+12557 375 
+12558 376 
+12559 377 
+12560 378 
+12561 379 
+12562 380 
+12563 381 
+12565 382 
+12566 383 
+12567 384 
+12568 385 
+12569 386 
+12570 387 
+12571 388 
+12572 389 
+12573 390 
+12574 391 
+12575 392 
+12576 393 
+12577 394 
+12578 395 
+12579 396 
+12580 397 
+12581 398 
+12582 399 
+12583 400 
+12584 401 
+12585 402 
+12586 403 
+12587 404 
+12588 405 
+12589 406 
+12590 407 
+12591 408 
+12592 409 
+12593 410 
+12594 411 
+12595 412 
+12596 413 
+12597 414 
+12598 415 
+12599 416 
+12600 417 
+12601 418 
+12602 419 
+12603 420 
+12604 421 
+12605 422 
+12606 423 
+12607 424 
+12608 425 
+12609 426 
+12610 427 
+12611 428 
+12612 429 
+12613 430 
+12614 431 
+12615 432 
+12616 433 
+12617 434 
+12618 435 
+12619 436 
+12620 437 
+12621 438 
+12622 439 
+12623 440 
+12624 441 
+12625 442 
+12626 443 
+12627 444 
+12628 445 
+12629 446 
+12630 447 
+12631 448 
+12632 449 
+12633 450 
+12634 451 
+12635 452 
+12636 453 
+12637 454 
+12638 455 
+12639 456 
+12640 457 
+12641 458 
+12642 459 
+12643 460 
+12644 461 
+12645 462 
+12646 463 
+12647 464 
+12648 465 
+12649 466 
+12650 467 
+12651 468 
+12652 469 
+12653 470 
+12654 471 
+12655 472 
+12656 473 
+12657 474 
+12658 475 
+12659 476 
+12660 477 
+12661 478 
+12662 479 
+12663 480 
+12664 481 
+12665 482 
+12666 483 
+12667 484 
+12668 485 
+12669 486 
+12670 487 
+12671 488 
+12672 489 
+12673 490 
+12674 491 
+12675 492 
+12676 493 
+12677 494 
+12678 495 
+12679 496 
+12680 497 
+12681 498 
+12682 499 
+12683 500 
+12684 501 
+12685 502 
+12686 503 
+12687 504 
+12688 505 
+12689 506 
+12690 507 
+12691 508 
+12692 509 
+12693 510 
+12694 511 
+12695 512 
+12696 513 
+12697 514 
+12698 515 
+12699 516 
+127.5 541 
+12700 517 
+12701 518 
+12702 519 
+12703 520 
+12704 521 
+12705 522 
+12706 523 
+12707 524 
+12708 525 
+12709 526 
+12710 527 
+12711 528 
+12712 529 
+12713 530 
+12714 531 
+12715 532 
+12716 533 
+12717 534 
+12718 535 
+12719 536 
+12720 537 
+12721 538 
+12722 539 
+12723 540 
+12724 541 
+12725 542 
+12726 543 
+12727 544 
+12728 545 
+12729 546 
+12730 547 
+12731 548 
+12732 549 
+12733 550 
+12:03:42.65 536 
+12:03:50.97 537 
+12:03:58.46 538 
+12:04:04.87 539 
+12:08:11.99 540 
+12:10:44.85 541 
+12:12:21.39 542 
+12:13:46.82 543 
+12:14:30.82 544 
+12:18:36.20 545 
+12:21:38.25 546 
+12:22:01.82 547 
+12:23:07.04 548 
+12:26:00.07 549 
+12:27:27.54 550 
+13,000 501 
+13-week 433 
+13.00 378 
+13.7 530 
+13.8 422 
+13.83 378 
+13.88 378 
+13.9 422 
+14-bank 419 
+14.168319 391 
+140,400 500 
+1430 411 
+15,000 501 
+15-18 489 502 
+15-year 492 
+15.26 525 
+154.40 485 
+154.7 541 
+16.0 528 
+16.35 543 
+16.8 528 
+163,932 539 
+1630 387 
+170,000 387 
+178.6 434 
+18.5 408 
+18.9 434 533 
+180.7 434 
+19.5 496 
+19.6 393 
+19.8 547 
+1919 432 
+195,000 449 
+1965 432 505 
+1972 413 
+1978/79 444 
+1982 419 
+1983 419 
+1984 381 469 
+1984/85 374 
+1985 382 390 429 432 434 449 490 505 
+1985/86 374 395 
+1986 371 375 378 381 382 388 389 390 409 410 420 424 425 432 434 438 439 444 448 454 481 490 494 516 530 541 
+1986-a 382 
+1986/87 395 
+1987 371 375 382 387 389 390 413 417 419 438 439 448 454 481 530 
+1987/88 524 
+1988 375 429 468 481 524 525 
+1989 375 386 
+1990 375 525 
+1991 429 468 
+1992 382 414 421 453 468 
+1993 415 427 
+1996 468 
+1st 392 420 534 
+2,000,732 528 
+2,136,000 538 
+2,319,376 533 
+2,369,000 484 
+2,437,914 483 
+2,452,3000 534 
+2,467,000 449 
+2,470,000 488 
+2,489,978 399 
+2,502,443 399 
+2,503,000 538 
+2,525,000 534 
+2,552,300 534 
+2,617,995 535 
+2,653,646 399 
+2,665,284 399 
+2,668,000 534 
+2,898 385 
+2,930,507 533 
+2-1/2 485 
+2-7/8 481 
+2-for-1 480 
+2-mar-1987 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409 410 411 412 413 414 415 416 417 418 419 420 421 422 423 424 425 426 427 428 429 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 478 479 480 481 482 483 484 485 486 487 488 489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 513 514 515 516 517 518 519 520 521 522 523 524 525 526 527 528 529 530 531 532 533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 
+2.1 432 
+2.2 431 432 
+2.21 378 
+2.25 378 
+2.275 496 
+2.3 432 
+2.49 378 
+2.57 422 
+2.58 544 
+2.61 378 
+2.69 544 
+2.7 432 444 
+2.70 374 
+2.8 432 
+2.9 444 
+2.90 425 
+2.95 496 
+2.96 374 
+2.978 464 
+20,000 449 
+20-point 471 
+20.2 422 
+20.9 456 
+200,000 388 
+2002 372 445 460 
+2009 391 
+203.4 541 
+20s 489 502 
+21.2 533 
+21.9 538 
+21.98 395 
+2114/pc 503 
+213,567 380 
+22,583 425 
+22.9 449 
+228-room 379 
+23.0 466 
+23.1 483 
+23.5 462 
+23.8 434 
+236.1 530 
+24.1 399 456 
+24.38 395 
+24.79 416 
+240,000 525 
+241,857 535 
+25,000 448 
+25,500 501 
+25,559 425 
+25.0 422 
+250-350 492 
+256.2 530 
+26.25 547 
+26.4 483 
+269,000 391 
+27.9 399 
+28.5 483 
+29.4 448 
+2nd 455 483 491 495 528 530 533 
+3,000 446 
+3,0077,000 490 
+3,100,000 466 
+3,143,000 530 
+3,150,185 399 
+3,372,000 449 
+3,424,729 401 
+3,426,000 456 
+3,499,000 538 
+3,501,000 420 435 
+3,611,802 399 
+3,660,273 483 
+3,698 385 
+3,779.2 439 
+3,801,7 438 
+3,808,000 449 
+3,898 385 
+3-1/8 485 
+3.035 464 
+3.06 416 
+3.1 496 
+3.10 416 
+3.2 496 
+3.20 422 
+3.3 432 541 
+3.30 481 
+3.4 374 432 530 
+3.43 422 
+3.5 432 434 
+3.6 432 434 509 
+3.8 374 
+3.86 374 
+3.87 422 
+3.95 541 
+30.3 444 
+30.64 416 
+300,000 388 473 
+300-page 386 
+304,000 449 
+30s 372 
+31.2 538 
+31.5 449 
+31.6 444 490 
+31.60 401 
+31.7 483 
+32,000 491 495 
+32.2 466 
+32.6 454 
+32.7 528 
+321,000 422 
+33-1/3 406 480 
+34.2 439 
+34.5 528 
+35.125 372 
+35.4 422 439 
+350,000 389 
+353,000 534 
+355.6 434 
+358,000 449 
+360,000 462 
+373.4 434 
+374.9 434 
+376.9 434 
+378.5 434 
+38.0 490 
+38.3 488 
+38.50 496 
+38.8 444 
+380,728 401 
+383,189 535 
+4,000 518 
+4,214.9 439 
+4,275.4 438 
+4,557,000 484 
+4,700 446 
+4,700,000 437 
+4,744,000 490 538 
+4,800 438 
+4,901,000 494 
+4,985,000 456 
+4-3/4 394 415 427 468 
+4.0 432 463 
+4.12 419 
+4.25 380 
+4.3 432 
+4.4 432 
+4.42 541 
+4.5 467 508 
+4.8 545 
+4.80 541 
+4.98 454 
+40.50 393 496 
+400,000 437 473 490 
+413,021 539 
+42,000 448 
+42.00 393 
+420,000 371 
+43-year 386 
+44,000 377 
+44.4 422 
+467,000 538 
+483,559 483 
+483.8 530 
+485,000 491 495 
+497,000 491 495 
+499,000 484 
+4th 399 422 431 449 456 466 490 535 538 
+5,000 463 540 
+5,153,000 456 
+5,200 439 
+5,200,000 420 
+5,220,000 530 
+5,268,486 535 
+5,300,000 466 
+5,328 524 
+5,370,000 494 
+5,498 385 
+5,506 524 
+5,551,000 490 
+5,609,000 456 
+5,919,000 490 
+5.1 422 432 434 464 
+5.28 481 
+5.4 496 
+5.5 545 
+5.6 530 
+5.85 481 
+5/8 414 421 453 
+50.5 387 
+500,000 374 380 501 523 
+515.5 530 
+52,000 491 495 
+52.8 399 
+531,896 528 
+54.5 538 
+54.86 389 
+541,000 534 
+55.8 408 
+551.7 390 
+58,300 467 
+586,000 449 
+6,500,000 538 
+6,881,800 496 
+6-1/16 475 
+6-1/8 475 
+6-3/16 522 
+6.0 422 
+6.02 475 
+6.10 438 
+6.62 395 
+6.90 382 
+6.91 438 
+6.95 382 
+60,000 448 
+600,971 539 
+62-1/2 391 
+62.2 399 
+621.2 541 
+636,000 449 
+64,000 490 
+665,800 539 
+68.0 434 
+7,024,000 449 
+7,300,000 437 
+7,700,000 388 
+7,814,000 420 
+7-7/8 414 421 
+7.2 434 
+7.3 470 513 
+7.5 378 
+7.50 393 481 496 
+7.69 433 
+7.7 374 395 409 512 
+7.8 448 494 530 
+7.82 433 
+70.58 391 
+71.2 434 
+711,192 473 
+717,000 494 
+721,000 494 
+727,781 528 
+739,146 410 473 
+75,000 380 
+75.2 434 
+750,000 422 
+77.9 456 
+793,459 535 
+8,142,000 490 
+8,158,000 530 
+8,612,000 408 
+8,919,000 530 
+8-1/3 531 
+8.00 393 
+8.4 494 
+8.5 419 
+8.50 393 
+81.3 390 
+82.0 538 
+834,000 456 
+85.4 466 
+86,000 449 
+86.3 420 
+86/87 395 
+9,215,836 533 
+9,800,000 388 
+9-5/8 453 
+9.2 537 
+9.5 454 500 
+9.8 409 
+9.91 395 
+90-day 425 
+900,000 473 
+91-1/4 481 
+91.8 401 
+92.4 456 
+928,0000 380 
+929,017 535 
+952,000 538 
+962,016 387 
+98.0 420 
+983.6 390 
+99.8125 382 
+99.95 471 
+996.4 422 
+`` 372 382 386 390 393 402 419 428 458 462 478 481 497 504 515 525 540 545 
+aaa 382 
+aaa-rated 382 
+aapl 385 487 
+aar 426 
+ab 474 
+abandoned 518 
+abc 386 
+ability 385 
+abroad 374 
+abrupt 386 
+absolute 540 
+accept 502 515 525 
+accepted 401 501 
+accepts 540 
+access 496 
+accomodate 493 
+accompanied 458 
+accord 458 
+account 432 540 
+accounts 503 525 540 
+achieve 419 454 
+acid 472 
+acid-based 472 
+acq 372 376 379 383 387 389 393 398 400 401 408 418 424 436 440 441 442 447 448 467 473 474 478 496 497 498 504 505 532 545 547 550 
+acquire 389 398 408 424 448 473 478 497 
+acquired 371 372 447 473 474 505 
+acquiring 372 
+acquisition 372 442 447 474 498 
+acquisitions 479 504 
+acreage 417 
+acres 417 467 
+act 540 
+acting 382 436 
+action 384 404 417 454 
+actions 540 
+activities 386 540 542 
+activity 520 526 
+ad 402 
+add 372 448 475 523 
+added 380 385 436 446 458 463 469 478 525 540 
+adding 385 419 544 
+addition 448 540 
+additional 385 412 488 
+additions 549 
+address 386 
+adds 446 522 
+adjust 525 
+adjusted 432 434 449 537 
+adjusting 390 
+adm. 386 
+administration 386 500 
+admits 386 
+admitted 386 
+adopt 419 
+advanced 385 
+adverse 540 
+adversely 454 
+adviser 386 
+advisory 419 540 
+affair 386 
+affairs 518 
+affecting 454 
+affects 397 
+affiliate 435 
+africa 462 
+african 462 
+afternoon 402 411 
+ag 378 381 453 505 
+aga 520 
+age 509 
+agencies 382 419 458 
+agency 386 441 450 
+agent 391 
+agents 403 
+aggregate 372 436 
+aggressively 382 
+ago 491 495 504 
+agree 540 
+agreed 372 379 380 408 428 441 448 454 472 473 478 496 497 518 532 
+agreemats 544 
+agreement 373 376 389 393 402 408 413 429 437 440 441 451 454 482 496 503 507 527 
+agreements 429 435 475 496 522 545 
+agrees 398 408 
+agricultural 374 
+agriculture 443 
+ahead 390 
+aid 504 
+aide 386 
+aides 386 
+aids 477 
+air 372 408 426 482 500 
+airgas 520 
+airlines 482 500 
+airport 390 482 
+airways 482 500 
+al.n 377 
+alabama 482 
+albany 482 
+alcan 377 
+alkan 377 
+all-cash 545 
+alleged 384 500 
+alleging 457 
+alleviate 417 540 
+almys 422 
+alows 463 
+alpine 437 
+alternative 525 
+alum 377 
+aluminium 377 
+aluminiumwerke 377 
+amapa 448 
+amax 488 
+ameican 386 
+amenable 488 
+amendment 452 
+america 382 397 412 474 478 496 505 550 
+american 467 500 545 
+americans 386 
+ami 545 
+amount 372 379 391 413 465 492 
+amusements 383 393 496 
+amx 488 
+anaesthetic 375 
+analyst 481 
+analysts 372 382 
+anastasios 469 
+angeles 385 391 397 420 435 537 539 543 
+angry 462 
+animal 443 
+ankara 444 
+annesthetic 375 
+announce 516 
+announced 372 422 442 465 507 
+announcement 460 
+announces 445 460 
+annual 377 381 405 407 408 432 434 462 494 504 518 525 549 
+annually 446 549 
+anr 507 
+ans 467 
+ansy 467 
+anthony 382 
+antibioticos 497 
+antigens 477 
+antonson 474 
+appearing 386 
+apple 385 487 
+applications 385 463 
+apply 419 
+appointment 386 
+approach 419 504 
+approaching 419 458 
+approval 375 389 408 424 473 540 547 
+approve 401 540 
+approved 375 386 404 452 498 
+approximately 375 
+april 391 393 402 404 415 420 423 427 460 461 462 473 517 521 531 536 548 
+april-june 491 495 
+arbitration 397 
+architecture 385 
+area 525 
+areas 393 443 471 542 
+argue 525 
+arguing 458 
+arm 414 421 
+armco 499 
+armed 386 
+arms 386 
+arrange 522 
+arranged 437 492 
+arrangement 458 
+arrangements 416 
+arranges 492 
+arranging 475 
+arrested 384 
+arrive 419 
+arsenal 393 496 
+artists 397 
+asked 386 419 462 
+aspen 489 502 
+assess 384 
+assessing 386 
+asset 382 436 
+asset-back 382 
+asset-backed 382 
+assets 436 454 
+assigned 386 
+assistance 411 
+assistants 397 
+associate 463 
+associates 380 
+association 452 492 504 
+assumed 380 
+assumption 447 
+assurance 393 
+assured 386 
+astro 448 
+at-compatible 503 
+ate 419 
+atlantic 447 
+attempt 412 458 
+attempting 510 
+attempts 458 
+attitude 458 504 
+attributed 382 390 
+auditor 384 
+august 420 
+august/july 395 
+austerity 458 
+austria 501 
+author 372 382 386 419 525 540 
+authorities 458 497 
+authorization 403 497 
+authorized 452 
+auto 372 382 
+auto/truckstops 471 
+automatic 540 
+automobile 382 
+automotive 491 495 515 
+average 382 433 448 462 540 544 
+averaged 475 
+averaging 488 
+avg 399 422 449 456 530 534 
+aviation 500 
+awaiting 497 
+bac 382 
+bac.n 505 550 
+bache 481 
+back 386 502 525 537 
+backed 382 523 
+baden 378 381 
+baker 386 458 
+bakery 549 
+balance 389 460 
+bales 374 
+bally 447 
+ban 540 
+band 411 
+bang 526 
+bangladesh 413 443 
+bank 372 382 394 401 403 411 415 416 419 425 427 441 445 454 458 460 468 473 476 496 505 550 
+bankamerica 382 505 550 
+bankers 382 419 
+bankhaus 505 
+banking 376 419 437 458 476 522 532 
+banknotes 416 
+bankruptcy 451 
+banks 382 416 419 458 475 
+banner 547 
+bar 549 
+barbara 376 379 478 
+barber 419 
+barley 395 501 
+barrel 489 502 543 
+barrels 489 502 
+base 411 417 444 474 482 
+based 429 474 499 544 545 
+bases 417 
+basic 502 
+basis 382 419 437 448 450 525 526 
+basle 394 
+bayley 469 
+bbc 378 381 
+bbcz.z 378 381 
+bc- 371 438 439 466 472 506 508 509 512 513 514 529 541 
+bc-******corning-to-offe 440 
+bc-******diagnostic/retr 400 
+bc-******fed-sets-1.5-bi 519 
+bc-******gelco-corp-2nd 455 
+bc-******petro-canada-cu 511 
+bc-******pittston-agrees 398 
+bc-******shell-canada-cu 459 
+bc-******u.s.-jan-constr 430 
+bc-******u.s.-non-farm-p 431 
+bc-******viacom-said-it 383 
+bc-******waste-managemen 396 
+bc-******whittaker-corp 392 
+bc-/-fed-adds-reserves-v 522 
+bc-/-fed-expected-to-add 475 
+bc-/gm- 515 
+bc-/oliver's-stores- 451 
+bc-/u.s.-construction-sp 434 
+bc-/u.s.-non-farm-produc 432 
+bc-/viacom- 393 
+bc-air-force-exercises-o 426 
+bc-airgas- 520 
+bc-alcan-to-close-west-g 377 
+bc-amax- 488 
+bc-american-nursery- 467 
+bc-ami 545 
+bc-apple-computer- 385 
+bc-armco- 499 
+bc-bally- 447 
+bc-bank-of-england-annou 445 460 
+bc-bank-of-new-york- 441 
+bc-banner- 547 
+bc-bbc-ag-brown-boveri-u 378 
+bc-black-south-african-m 462 
+bc-brazil-criticises-adv 419 
+bc-brenco-inc- 461 
+bc-brown-boveri-omits-di 381 
+bc-cambridge-medical- 477 
+bc-canada-industrial-pri 450 
+bc-canada-ruling-on-u.s. 516 
+bc-carbide- 504 
+bc-cargill-u.k.-strike-t 486 
+bc-cheung-kong-chairman 390 
+bc-cme-plans-rule-change 540 
+bc-coffee-quota-talks-co 402 
+bc-columbia-gas- 507 
+bc-commerzbank-unit-issu 453 
+bc-cons-tvx-mining-says 418 
+bc-cons-tvx-to-buy 448 
+bc-corning- 442 
+bc-corrected 505 550 
+bc-coupon-reduced-on-bes 485 
+bc-cronus-industries-inc 538 
+bc-davis-water- 406 
+bc-dh-technology- 380 
+bc-diagnostic- 424 
+bc-dow- 394 
+bc-dow-chemical-launches 415 427 
+bc-duro-test-corp- 528 
+bc-eagle-telephonics- 527 
+bc-ec-commission-given-p 525 
+bc-electronic-mail- 412 
+bc-esselte-business- 474 
+bc-faa-fines-delta- 500 
+bc-fed-industries-paper 465 
+bc-federal-industries 403 
+bc-financial-santa-barba 376 
+bc-first-mississippi-cor 517 
+bc-fnma- 492 
+bc-ford- 491 
+bc-ford-increases-2nd-qt 495 
+bc-four-seasons-buying-m 478 
+bc-french-13-week-t-bill 433 
+bc-french-estimated-86/8 395 
+bc-gelco-corp- 530 
+bc-health-experts-call-f 443 
+bc-howe-owners-federal- 452 
+bc-i.m.s.-international 546 
+bc-ilc-technology- 384 
+bc-imperial-chemical- 375 
+bc-internchange-financia 531 
+bc-japan's-ntt-forecasts 524 
+bc-jim-walter-corp- 423 521 
+bc-judge-rules-in-favor 457 
+bc-jutland-telephone-set 468 
+bc-k-tron-international 490 
+bc-kapok-corp- 484 532 534 
+bc-laroche-starts-bid-fo 387 
+bc-london-stock-exchange 526 
+bc-lotus- 487 
+bc-marriott- 379 
+bc-massachusetts-investo 464 
+bc-mci- 493 
+bc-medco-containment- 407 
+bc-mercury-entertainment 539 
+bc-mfs-managed-sectors-t 470 
+bc-miller-tabak-has-91.8 401 
+bc-mobil- 549 
+bc-montedison-concludes 497 
+bc-multi-step-products 410 
+bc-multi-step-to-sell 473 
+bc-mutual-of-omaha-inter 548 
+bc-ncr- 373 
+bc-ncr-corp- 503 
+bc-netherlands-grants-47 413 
+bc-newport-corp- 533 
+bc-nuclear-data- 454 
+bc-nueutrogena- 537 
+bc-occidental- 391 
+bc-pakistan-cotton-outpu 374 
+bc-panhandle's- 544 
+bc-pittston- 408 
+bc-pogo- 542 
+bc-porex-technologies- 405 
+bc-preferred-healthcare 535 
+bc-presidential-air- 482 
+bc-presidential-realty-c 494 
+bc-prime-computer- 463 
+bc-quaker-oats- 479 
+bc-quebec's-caisse-des-j 414 421 
+bc-r.j.r.-nabisco-unit-f 510 
+bc-record-n.z.-futures-v 425 
+bc-regency-cruises-inc- 469 
+bc-reuter-dealing-servic 476 
+bc-rotterdam-port-union 518 
+bc-s-k-i-ltd- 483 
+bc-sdc-sydney-developm't 388 
+bc-sdc-sydney-reviewing 409 
+bc-senior-engineering-ma 389 
+bc-sony-to-expand-u.k.-t 523 
+bc-stansbury-mining- 437 
+bc-stone- 480 
+bc-stop-and-shop-cos-inc 422 
+bc-strober-organization 456 
+bc-study-group-urges-inc 489 502 
+bc-swiss-sight-deposits 416 
+bc-taiwan-to-seek-higher 429 
+bc-tanzania-says-no-need 428 
+bc-temple-inland/int'l-p 481 
+bc-the-japan-fund- 436 
+bc-traders-detail-french 501 
+bc-tranzonic-cos- 536 
+bc-tuesday-morning-inc- 399 
+bc-turkish-retail-prices 444 
+bc-u.k.-money-market-off 411 
+bc-u.k.-says-has-no-role 458 
+bc-u.s.-corporate-financ 382 
+bc-unocal- 471 543 
+bc-usda-lifts-cross-comp 417 
+bc-utilicorp- 498 
+bc-viacom 496 
+bc-warwick-insurance-man 449 
+bc-waste-management- 404 
+bc-whittaker- 435 
+bc-whittaker-corp- 420 
+bc-writers-guild-of-amer 397 
+bc-xerox-corp- 446 
+beach 482 
+bear 492 
+befuddled 386 
+began 382 419 522 
+begin 372 386 462 549 
+beginning 395 468 
+beijing 476 
+belgium 525 
+believed 382 386 
+believes 545 
+belive 372 
+bell 527 
+benchmark 543 
+bendectin 457 
+benefit 419 
+benefits 417 502 
+benficiaries 473 
+benguet 541 
+benguet-corp 541 
+bennes 435 
+bergen 528 
+berne 394 
+bertram-trojan 435 
+bet 386 
+beyer 540 
+bhutan 443 
+bid 372 386 387 400 424 496 545 
+bidding 496 
+bids 383 496 503 
+big 434 526 
+biggest 382 523 
+bilion 439 
+billerica 477 
+billion 375 378 382 390 414 416 419 421 422 425 434 438 439 445 458 460 475 496 497 515 519 522 524 541 545 
+bills 411 425 
+biltmore 379 478 
+bipartisan 386 
+birmingham 482 
+birth 457 
+bk 441 
+black 462 
+blah 383 392 396 398 400 418 430 431 433 440 445 455 459 511 519 
+blame 386 
+blamed 386 
+blood 477 
+bluntly 386 
+bly 447 
+bnr 547 
+board 380 395 401 404 405 406 407 424 429 436 454 458 469 496 540 
+boards 408 
+bond 381 415 427 453 468 485 540 
+bonds 394 425 437 526 
+bonus 390 
+books 382 460 
+boost 462 549 
+boosts 396 
+borrower 414 421 
+borrowing 411 
+boston 382 422 452 464 470 472 
+botched 386 
+boveri 378 381 
+brad 540 
+branch 505 
+brazil 418 419 448 458 
+brazilian 458 
+bren 461 
+brenco 461 
+bridge 372 
+bridgend 523 
+bring 437 448 501 
+bringing 411 523 
+brings 543 
+brinkley 386 
+britain 419 
+british 388 390 409 419 437 441 
+broadening 382 
+broke 397 518 
+broker 441 540 
+brokerage 540 
+brokers 526 540 
+brook 404 493 531 
+brooks 426 
+brothers 382 479 492 
+brought 382 
+brown 378 381 
+brussels 525 
+btu 544 
+buick 515 
+build 390 491 495 
+building 434 
+buildings 390 
+buoyant 390 
+burden 419 
+burdett 371 
+bureaucrat 386 
+burlington 408 
+bushel 516 
+business 372 432 463 474 490 504 524 526 540 545 
+businesses 435 
+butler 499 
+buy 372 382 387 408 418 448 481 496 527 537 
+buying 478 
+buyout 372 436 
+buys 467 474 
+bv 373 
+ca 419 
+cadillac 426 
+caisse 414 421 
+calendar 438 439 541 
+calif. 371 376 384 506 508 509 512 513 514 529 533 
+california 371 382 478 508 
+call 415 416 419 427 475 493 
+called 375 393 397 443 468 489 496 502 540 
+calls 446 473 540 
+cambridge 477 487 
+camdessus 419 
+campaign 443 503 515 
+campaigns 443 
+canada 377 388 409 448 450 458 459 465 466 478 516 549 
+canadian 372 419 448 459 511 516 
+canandiagua 549 
+cancel 473 
+candy 549 
+capacity 377 385 446 523 525 
+capital 372 380 389 397 436 464 524 
+capitals 458 
+caps 372 
+car 382 
+carbide 504 
+card 382 385 505 
+care 545 
+career 386 
+cargill 486 
+cargo 426 518 
+carriers 500 
+carries 415 427 
+carry 394 
+carrying 525 
+carryover 374 
+cars 382 491 495 
+case 457 516 
+case-by-case 419 
+casey 386 
+cash 372 389 390 393 424 447 448 473 496 515 545 
+casino 447 
+catalyst 504 
+cattle 443 
+caused 457 
+cbs 397 
+ccb 397 
+ccm 428 
+cent 470 
+centers 471 
+central 386 411 419 458 
+centrale 414 421 505 
+cents 390 
+cereal 501 
+cereals 395 
+certificates 381 382 
+ceuta 501 
+cg 507 
+cgp 507 
+cha 428 
+chain 496 
+chairman 374 380 386 390 458 469 
+chama 428 
+chancellor 419 458 
+change 419 458 471 540 
+chaos 386 
+chaotic 540 
+chapter 451 
+charge 422 471 538 
+charged 384 
+charter 452 
+cheap 502 
+checking 386 
+chem 457 
+chemical 375 394 415 427 457 549 
+chemicals 504 
+cheung 390 
+chicago 379 397 447 454 471 479 480 540 545 
+chicago-based 478 
+chief 372 380 386 401 419 469 
+child 457 
+china 476 
+choice 419 
+chores 386 
+cie 378 381 
+circle 386 
+circuit 385 454 
+circulation 416 
+cited 454 502 
+citic 476 
+cities 482 
+cities/abc 397 
+citizen 545 
+city 447 474 498 
+civil 384 
+ckgh.hk 390 
+claim 371 
+claims 371 
+classes 492 
+clear 458 549 
+clearances 372 
+clearing 425 
+clearwater 484 532 534 
+cleveland 536 
+clinton 507 
+clive 469 
+close 377 415 427 465 473 526 547 
+closed 372 419 547 
+closely 382 545 
+closing 377 422 478 485 525 547 
+closure 372 525 
+closures 525 
+club 419 
+cm 477 
+cme 540 
+cmp 448 
+cmtc 477 
+co-manager 382 
+coal 450 
+coast 542 543 
+coastal 507 
+coffee 402 
+cofounder 380 
+coils 525 
+col. 386 
+collateral 382 
+cologne 499 
+colombian 402 
+colony 390 
+color 385 
+columbia 388 409 437 507 
+columbus 482 
+combined 375 414 421 453 482 
+command 487 
+commands 487 
+commence 397 
+commencement 372 
+comment 481 497 518 520 
+commerce 372 434 
+commercial 382 403 416 419 425 458 465 471 504 
+commerzbank 453 
+commission 372 374 386 479 496 498 501 525 540 544 545 
+commissioner 525 
+commitment 496 501 
+committed 372 496 
+committee 386 393 419 428 496 510 540 
+commodities 425 
+commodity 413 540 544 
+common 371 372 387 391 401 402 408 420 424 435 437 442 452 480 496 537 545 
+commonwealth 441 
+commun 501 
+communications 493 
+community 525 
+company 371 372 375 376 378 380 381 384 385 390 391 393 401 403 408 409 412 420 435 437 438 439 441 446 448 451 454 457 463 465 469 471 472 473 474 477 479 481 482 486 493 496 497 503 504 510 520 524 532 537 541 543 544 545 547 549 
+comparable 382 
+compared 374 390 395 444 485 491 495 
+compares 411 
+compatibility 385 
+compatible 446 
+compensation 432 501 
+compete 429 
+competing 496 526 
+competitive 540 
+competitor 372 
+complement 487 
+complete 372 471 540 
+completed 435 437 441 447 457 465 496 498 515 
+completely 377 
+completes 447 498 547 
+completing 496 
+completion 387 389 547 
+compliance 417 
+complications 375 
+component 472 544 
+components 523 
+compounded 419 
+comprising 411 
+computer 385 463 487 503 
+computer-aided-design 463 
+computerland 503 
+conable 419 
+concern 545 
+concession 414 421 453 
+concessions 501 
+concluded 497 
+concludes 497 
+condemn 386 
+conditional 389 
+conditioned 372 
+conditions 372 428 465 540 547 
+conducted 488 
+conference 462 497 
+confidant 386 
+confident 454 496 
+confidentiality 496 
+configure 385 
+confirmation 386 
+confirmed 386 
+confuse 540 
+congested 540 
+congressional 386 
+conn 535 
+conn. 408 412 
+connected 476 
+connection 479 
+connections 385 
+consecutive 381 
+consent 380 
+consideration 436 
+considered 540 
+consist 492 496 
+consisting 496 
+consolidated 418 448 541 542 
+consolidates 542 
+constant 434 
+construct 507 
+construction 430 434 507 
+consultants 525 
+consumers 402 
+consumption 374 458 489 502 
+contact 402 458 
+container 480 549 
+containers 549 
+containment 407 
+context 501 
+continental 482 
+continue 402 412 441 482 498 
+continued 402 
+continues 393 
+continuing 435 
+contra 386 
+contract 397 462 486 493 527 540 544 
+contracts 382 425 540 
+contras 386 
+contrast 382 
+contribute 496 
+contributed 541 
+contribution 496 
+contributions 390 
+control 409 473 496 545 
+controlled 525 545 
+controls 448 496 
+controversial 525 
+convenient 471 
+conventional 437 488 
+conversion 391 
+convert 391 437 
+converted 437 
+convertible 391 
+converting 391 437 
+convincing 458 
+cookies 549 
+cooperation 377 458 
+coordinates 419 
+corn 395 501 516 
+corning 440 442 
+corp 372 373 376 379 382 388 391 392 396 400 404 405 409 412 420 423 424 426 435 437 439 441 442 446 447 448 451 455 463 471 472 476 477 478 480 482 484 487 493 494 503 504 507 515 517 521 523 524 528 530 531 532 533 534 537 539 541 543 544 549 
+corporate 382 397 403 479 503 
+corporation 374 
+corporations 371 
+corrected 505 550 
+correspond 381 
+cos 422 536 
+cost 409 437 448 496 
+costas 469 
+costs 377 432 463 525 
+cotton 374 
+council 386 402 526 
+counsel 540 
+countries 443 458 501 525 
+country 419 458 
+county 457 507 
+coupon 382 394 414 415 421 427 485 492 
+courier 372 
+court 457 
+cover 454 467 
+covering 444 479 516 540 
+covers 454 503 
+cpi-u 432 
+creating 460 
+creation 445 
+credit 382 414 419 421 449 490 505 515 
+creditor 419 
+creditors 419 458 
+crisis 419 458 525 
+critchley 419 
+criticises 419 
+criticism 386 
+criticisms 386 
+crns 538 
+cronus 389 538 
+crop 374 417 
+crops 417 
+cross 417 
+cross-compliance 417 
+crossbred 425 
+crude 459 489 502 511 543 
+cruises 469 
+crushing 486 
+cs 530 
+ct 539 
+currency 530 
+current 374 388 394 462 515 538 545 
+customer 475 519 522 540 
+customers 463 515 525 540 
+cut 511 540 543 
+cuts 459 506 525 543 
+cyril 462 
+daewoo 439 
+daewoo-corp 439 
+daily 501 
+dal 500 
+dale 371 
+dale-burdett-inc 371 
+dallas 399 538 
+damage 371 386 
+damages 371 
+dampening 458 
+danish 454 
+dar 428 
+data 454 493 
+dates 435 
+david 386 387 
+davis 406 
+day 386 518 540 
+days 372 389 416 419 507 540 547 
+dayton 503 
+daytona 482 
+de 518 
+deadline 397 516 518 
+deal 382 386 389 424 436 477 485 489 496 502 547 
+dealers 411 460 522 
+dealing 411 476 526 
+dealings 460 
+deals 382 
+debentures 372 391 
+debt 372 382 394 403 419 435 451 454 458 473 479 496 
+debtor 419 
+debts 419 458 
+dec 410 430 534 
+decade 525 
+december 388 409 410 425 434 469 473 486 525 
+decided 377 451 516 526 
+declared 390 405 406 407 451 532 
+declares 406 461 
+decline 416 419 432 450 454 
+declined 377 419 432 497 505 520 
+declines 450 520 
+declining 415 427 468 
+decrease 417 
+dedham 496 
+deeply 386 
+default 451 532 
+defects 457 
+defer 435 
+defiance 507 
+definitive 376 435 
+deflator 432 
+del. 507 
+delaware 382 
+delayed 393 
+delegate 402 
+delegates 402 
+deliveries 395 
+delivery 372 
+delta 500 
+demand 374 390 462 525 549 
+demanded 397 451 
+demands 462 
+democracy 458 
+democrat 386 
+denki 485 
+denominations 453 
+department 371 422 432 434 476 499 
+departure 504 
+depends 465 
+deposited 419 
+deposits 416 
+deputy 417 
+des 414 421 
+descended 386 
+describing 458 504 
+design 477 
+designed 385 446 
+desirable 545 
+desjardins 414 421 
+desk 397 
+detail 501 
+detailed 382 
+details 386 496 505 
+detect 477 
+determination 516 
+determined 384 492 
+detroit 491 495 515 
+devaluation 428 
+devalued 428 
+developing 458 463 
+development 371 388 409 413 472 478 487 489 502 504 524 542 
+deviate 397 
+device 502 
+dh 380 
+dhaka 413 
+dhl 380 
+dhtk 380 
+diabetic 375 
+diagnostic 424 
+diagnostic/retrieval 400 
+diego 380 
+difference 371 
+difficult 429 540 
+difficulty 386 
+diligence 436 
+dilson 419 458 
+dilution 537 
+dimensional 463 
+diplomats 525 
+diprivan 375 
+direct 503 515 
+directed 457 
+directly 475 
+director 419 469 
+directors 401 404 436 469 540 
+disbursements 384 
+discharged 457 
+disclose 496 
+disclosed 386 493 527 
+discontinued 420 422 435 538 
+discount 411 515 
+discovered 540 
+discuss 402 525 
+discussed 419 545 
+discussion 419 458 
+discussions 419 545 
+disease 443 
+disliking 386 
+dismantling 416 
+display 385 
+displayed 526 
+disposable 549 
+disposition 435 
+dispute 501 518 
+disrupted 518 
+distribution 474 503 
+distrubute 503 
+disturbed 419 
+div 420 423 438 439 461 464 470 506 508 509 512 513 514 517 521 529 531 536 546 548 
+diverted 386 
+divest 454 
+divestiture 435 
+divestitures 435 
+dividend 381 391 396 404 405 406 407 420 423 461 470 480 506 530 
+dividends 390 
+division 372 474 499 503 515 542 549 
+divisions 542 
+dlr 389 400 401 419 425 435 449 473 485 490 496 519 545 547 
+dlrs/bbl 459 511 
+documents 496 
+dofascoxinc 435 
+dole 386 
+dollar 425 429 454 481 485 
+domestic 374 408 454 458 489 502 516 
+dominion 403 498 
+domm 372 
+donald 386 
+donaldson 540 
+doubling 523 
+douglas 469 
+dow 394 415 427 457 
+drawbacks 502 
+drawing 463 
+drawn 496 
+dredge 448 
+drilling 488 
+droit 501 
+drop 430 432 
+dropped 419 
+drs 424 
+drug 375 457 
+drugs 375 
+du 414 421 
+dual 540 
+dual-speed 503 
+dub 382 
+duck 386 
+due 372 374 389 391 436 453 460 476 486 516 526 532 
+dulles 482 
+dur 528 
+duro-test 528 
+dutch 413 518 
+duty 516 
+dwindling 526 
+dwws 406 
+dynamically 487 
+e.f. 372 
+eagle 527 
+earlier 372 377 390 409 432 440 458 465 473 496 497 516 
+early 411 422 500 515 
+earn 378 381 388 390 392 396 399 404 405 406 407 409 410 420 422 423 435 438 439 449 455 456 461 464 466 470 473 480 481 483 484 490 494 506 508 509 512 513 514 517 521 524 528 529 530 531 533 534 535 536 538 539 541 546 548 
+earned 408 448 481 
+earnings 390 435 448 481 530 541 
+easier 460 
+eastern 500 543 544 
+ec 525 
+economic 428 458 502 
+economists 475 
+economy 419 458 489 502 
+ecu 501 
+ecus 501 
+eden 530 
+editors 397 
+effective 459 498 511 537 543 544 
+effectively 432 
+effort 474 
+efforts 412 428 454 
+efh 372 
+egla 527 
+egypt 443 
+elaborate 403 
+elected 469 
+electric 390 
+electricity 377 
+electronic 412 474 527 
+elects 469 
+elements 463 
+eligibility 417 
+eliminate 409 
+elimination 409 540 
+eliminiate 540 
+elk 426 
+elmwood 407 
+eluvial 448 
+embargo 489 502 
+embezzlement 384 
+emca 412 
+emphasised 458 
+employee 384 537 
+employees 377 397 
+employers 518 
+enables 487 
+enble 474 
+encouraged 516 
+end 377 419 451 462 486 518 523 525 
+ended 388 408 409 435 454 473 518 
+ending 374 524 525 
+endorsed 428 
+energy 544 
+engage 540 
+engineering 389 437 
+engineers 437 
+england 411 419 445 460 
+enhance 448 478 
+enlgand 460 
+enlist 458 
+enter 475 540 549 
+entered 435 522 
+enterprises 387 
+entertainment 539 
+entire 443 446 503 
+entities 436 
+entitled 391 
+entry 540 
+environment 463 
+envisaged 419 
+equal 390 391 408 515 530 
+equally 375 
+equilibrium 419 
+equipment 389 
+equitable 393 
+equities 526 
+equity 435 485 496 
+equivalent 413 
+eradicate 443 
+eradication 443 
+erie 507 
+errors 540 
+es 428 
+esb 474 
+eschborn 377 
+esselte 474 
+est 547 
+est/2130 387 
+established 382 442 
+estate 447 478 
+estimate 395 402 434 
+estimated 372 382 395 419 443 488 496 516 
+ethics 540 
+eurobond 414 421 453 485 
+eurofer 525 
+europe 485 499 523 
+european 394 419 458 499 516 525 
+eventual 419 
+evidence 457 
+evident 540 
+exact 492 
+examining 402 
+excahnge 442 
+exceed 417 468 493 
+excess 417 
+exchange 371 394 398 408 416 425 442 446 476 479 485 496 520 526 540 545 
+exchangeable 393 
+exchanged 371 
+exchanging 390 
+exchequer 419 445 458 460 
+exclude 388 530 
+excluded 381 435 
+excludes 420 422 449 490 538 
+exclusive 477 
+execute 487 540 
+executing 540 
+execution 540 
+executive 372 380 382 386 401 428 469 510 525 540 
+exercise 485 
+exercised 426 
+exercises 426 
+exist 525 
+existing 375 381 394 403 419 
+exit 386 
+expand 385 523 
+expansion 412 523 
+expect 437 475 
+expectations 390 
+expected 375 389 390 401 417 419 441 442 448 465 473 475 478 493 501 516 524 540 
+expecting 390 
+expects 437 441 448 481 524 547 
+expenses 532 
+experts 443 
+expiration 372 
+expire 372 387 454 
+expired 401 
+expires 424 462 518 
+explain 458 
+explained 382 504 
+explanation 520 
+exploiting 504 
+exploration 489 502 542 
+explosively 382 
+export 374 402 429 501 
+exported 374 501 
+exports 390 419 429 458 516 
+exposure 419 
+express 408 482 
+extend 454 
+extended 372 504 
+extending 504 
+extension 454 
+extensions 397 454 
+extent 384 
+external 458 
+extraordinary 388 390 538 
+f. 387 
+f0000 507 
+f0004 508 
+f0014 509 
+f0022 510 
+f0027 511 
+f0036 512 
+f0037 513 
+f0038 514 
+f0044 515 
+f0045 516 
+f0048 517 
+f0050 518 
+f0051 519 
+f0052 520 
+f0059 521 
+f0060 522 
+f0073 523 
+f0079 524 
+f0083 525 
+f0084 526 
+f0086 527 
+f0104 528 
+f0105 529 
+f0106 530 
+f0112 531 
+f0114 532 
+f0116 533 
+f0117 534 
+f0118 535 
+f0136 536 
+f0137 537 
+f0138 538 
+f0140 539 
+f0167 540 
+f0182 541 
+f0195 542 
+f0206 543 
+f0209 544 
+f0228 545 
+f0242 546 
+f0245 547 
+f0253 548 
+f0262 549 
+f0268 550 
+f0305 371 
+f0315 372 
+f0353 373 
+f0354 374 
+f0357 375 
+f0358 376 
+f0360 377 
+f0361 378 
+f0362 379 
+f0363 380 
+f0364 381 
+f0375 382 
+f0391 383 
+f0396 384 
+f0406 385 
+f0407 386 
+f0411 387 
+f0413 388 
+f0414 389 
+f0416 390 
+f0422 391 
+f0446 392 
+f0448 393 
+f0464 394 
+f0465 395 
+f0467 396 
+f0469 397 
+f0473 398 
+f0475 399 
+f0478 400 
+f0482 401 
+f0483 402 
+f0484 403 
+f0489 404 
+f0490 405 
+f0491 406 
+f0492 407 
+f0501 408 
+f0505 409 
+f0507 410 
+f0509 411 
+f0511 412 
+f0515 413 
+f0516 414 
+f0519 415 
+f0520 416 
+f0524 417 
+f0529 418 
+f0530 419 
+f0531 420 
+f0542 421 
+f0545 422 
+f0553 423 
+f0554 424 
+f0571 425 
+f0573 426 
+f0576 427 
+f0578 428 
+f0581 429 
+f0591 430 
+f0592 431 
+f0595 432 
+f0596 433 
+f0612 434 
+f0616 435 
+f0625 436 
+f0635 437 
+f0641 438 
+f0642 439 
+f0648 440 
+f0657 441 
+f0682 442 
+f0684 443 
+f0686 444 
+f0700 445 
+f0708 446 
+f0709 447 
+f0710 448 
+f0713 449 
+f0730 450 
+f0731 451 
+f0734 452 
+f0736 453 
+f0743 454 
+f0744 455 
+f0760 456 
+f0761 457 
+f0762 458 
+f0763 459 
+f0765 460 
+f0768 461 
+f0778 462 
+f0788 463 
+f0794 464 
+f0796 465 
+f0801 466 
+f0802 467 
+f0805 468 
+f0815 469 
+f0817 470 
+f0818 471 
+f0819 472 
+f0832 473 
+f0833 474 
+f0842 475 
+f0845 476 
+f0878 477 
+f0882 478 
+f0883 479 
+f0887 480 
+f0891 481 
+f0893 482 
+f0894 483 
+f0895 484 
+f0921 485 
+f0922 486 
+f0929 487 
+f0934 488 
+f0937 489 
+f0938 490 
+f0940 491 
+f0941 492 
+f0943 493 
+f0946 494 
+f0954 495 
+f0955 496 
+f0956 497 
+f0958 498 
+f0959 499 
+f0962 500 
+f0966 501 
+f0976 502 
+f0978 503 
+f0981 504 
+f0985 505 
+f0987 506 
+faa 500 
+face 394 496 
+faces 371 
+facilities 411 467 507 
+facilties 411 
+facing 386 
+factors 454 
+factory 523 
+failed 377 386 397 451 
+fails 412 454 
+fair 405 419 
+fairly 475 
+falk 380 
+falks 380 
+fall 524 549 
+fallen 412 
+falling 450 525 
+falls 433 
+family 487 
+fannie 492 
+fao 443 
+fares 545 
+farm 417 516 
+farms 432 
+fast 408 
+faster 458 
+fastest 504 
+favor 457 
+favourable 429 
+feature 463 
+features 385 
+feb 417 543 547 
+february 371 393 395 416 419 425 442 444 454 458 464 470 505 
+fed 475 519 522 
+federal 403 450 451 452 458 465 475 492 500 512 522 544 
+fee 502 
+feet 467 
+fell 416 431 432 434 435 450 
+fenner 496 
+fighting 386 
+figure 435 
+figures 448 
+figuring 540 
+file 451 
+filed 384 479 
+files 451 479 
+filing 496 544 545 
+fill 540 
+filling 540 
+filters 372 
+final 393 397 419 465 516 518 
+finance 382 384 419 453 458 515 
+financed 389 
+financial 374 376 403 458 496 515 531 
+financing 372 401 412 414 419 421 436 437 454 458 496 515 
+find 436 488 
+fine 500 
+fined 500 
+fines 500 
+finest 478 
+finished 549 
+fired 386 
+firm 372 380 390 437 478 545 
+firmly 525 
+firms 418 428 525 
+fiscal 374 454 530 
+five-year 425 485 
+fla. 423 484 517 521 532 534 
+fleet 372 
+flexibly 385 
+floor 526 540 
+florida 467 482 
+floundered 481 
+flour 501 
+flow 448 
+fluids 472 
+fnm 492 
+fnma 492 
+fnv 518 
+focus 472 
+food 443 549 
+foray 382 
+force 375 426 
+forced 525 
+ford 491 495 
+forecast 395 411 
+forecasts 524 
+foreign 386 416 419 429 476 485 
+forest 481 
+form 372 507 510 545 
+formal 496 
+formally 487 
+formed 372 507 510 
+forming 375 
+forms 375 507 510 
+forum 504 
+forwarding 408 
+found 386 429 
+fountain 533 
+four-for-one 390 
+fourth 432 
+fraction 393 
+franc 415 427 468 
+franc-denominated 394 
+france 395 419 435 458 501 
+franchises 503 
+francisco 419 458 
+francs 378 381 416 
+frankfurt 505 550 
+franklin 506 508 509 512 513 514 529 
+franklin-age-high-in 509 
+franklin-california 508 
+franklin-federal-tax 512 
+franklin-gold-fund 506 
+franklin-new-york-ta 513 
+franklin-u.s.-govern 514 
+franklin-utilities-f 529 
+free 501 525 
+freehold 457 
+freeing 386 
+freely 386 
+freeze 419 
+freight 408 
+french 395 433 501 
+friday 372 401 417 458 475 501 
+frm 517 
+front-running 540 
+fsb 376 
+full 386 502 
+funaro 419 458 
+function 540 
+functions 385 
+fund 419 436 458 464 506 508 509 512 513 514 529 
+funded 443 
+funding 437 
+funds 372 384 416 435 475 522 
+future 372 386 402 489 502 525 537 545 549 
+futures 425 540 
+futures-options 540 
+ga 482 
+ga. 406 
+gain 388 435 441 484 490 494 530 
+gained 432 
+gains 390 435 449 450 464 481 
+galaxy 487 
+galetakis 469 
+garden 474 
+gas 372 507 542 544 
+gates 386 
+gave 382 
+gel 530 
+gelco 455 530 
+general 403 435 462 515 518 
+generates 408 
+geneva 394 
+genzyme 472 
+geoffrey 419 
+georgia 386 
+gerald 540 
+german 377 505 
+germany 377 419 458 499 
+gerrard 525 
+gibb 380 
+gilts 526 
+give 387 390 448 496 505 
+giving 419 
+glass 442 
+glw 442 
+gm 515 
+gmac 515 
+gmbh 377 
+gmt 387 411 
+gold 448 488 506 541 
+golden 447 
+goldman 382 479 
+government 386 390 416 419 425 428 441 475 514 516 522 526 
+governments 419 443 458 525 
+governor 419 
+graaf 518 
+grace 436 
+grade 448 543 
+grades 543 
+grading 488 
+grages 471 
+grain 395 417 425 501 516 
+grand 384 
+grant 413 501 
+granted 408 457 501 
+grantor 382 
+grants 413 523 
+graphic 397 463 
+greenhouses 467 
+greenwich 412 488 
+grew 382 
+grocery 549 
+gros 419 458 
+ground 372 402 
+grounds 457 
+group 372 375 378 382 389 393 402 414 421 489 496 502 515 516 525 527 545 
+groups 496 
+grove 426 
+grow 385 474 
+growers 516 
+growing 408 
+grows 382 
+growth 390 419 429 458 464 504 
+guaranteed 372 
+guard 489 502 
+guido 401 
+guild 397 
+guilder 518 
+gulf 542 
+gundy 403 
+gutted 397 
+h. 380 
+h.k 390 
+h.w 504 
+half 377 382 496 530 
+halted 486 
+handle 446 
+handling 386 
+hanover 451 
+happen 402 
+happy 419 
+harbour 390 
+hardrock 448 
+hart-scott-rodino 389 
+hauppauge 527 
+hawthorne 384 
+hazleton 440 442 
+head 386 476 
+headed 386 
+headquarters 397 476 
+heads 382 
+health 435 443 545 
+healthcare 535 
+heap 488 
+heart 375 
+heat 389 
+heinl 467 
+held 393 545 
+helmut 380 
+helpful 458 
+helping 384 
+hermann 469 
+hfsl 452 
+high 372 377 386 424 425 509 
+high-performance 385 
+high-risk 443 
+higher 411 429 432 434 
+highly 545 
+highway 434 
+highways 471 
+hilton 390 
+hiring 397 
+hirsch 401 
+historically 402 
+history 515 
+hkeh.hk 390 
+hlc 442 
+hoc 402 
+hold 401 545 
+holders 391 405 406 407 442 452 480 547 
+holding 373 419 441 
+holdings 383 390 393 441 476 496 
+holds 393 448 545 547 
+home 477 
+hong 390 429 
+hong-kong 390 429 
+hongkong 390 
+hope 525 
+hoped 419 
+hopes 458 477 
+hostages 386 
+hot 525 
+hotel 379 390 447 478 
+hotels 379 478 
+hour 432 446 
+hourly 432 
+hours 432 446 
+house 386 425 
+houses 411 467 
+houston 542 544 545 
+howard 386 
+howard-baker 386 
+howe 419 452 
+howen 452 
+howmedica 472 
+hsa 435 
+humanistic 489 502 
+huntsville 482 
+hurts 386 
+hutton 372 
+hyaluronic 472 
+hypertension 375 
+i.m.s 546 
+ibm 463 
+icch 425 
+ici 375 
+ico-coffee 402 
+idea 525 
+identified 488 504 525 
+idsal 372 
+ii 385 487 
+ilc 384 
+ilct 384 
+ill. 404 426 
+im 375 
+imf 419 428 458 
+immediately 389 463 518 544 
+imp 375 
+impact 489 502 525 
+imperial 375 
+implement 428 
+implementing 413 
+implicated 386 
+implicit 432 
+import 502 
+important 416 
+imports 413 489 502 516 525 
+improprer 384 
+improve 448 
+improvement 454 
+improvements 379 
+imsi 546 
+inattention 386 
+inception 469 
+include 382 393 479 487 490 503 530 
+included 428 447 
+includes 382 393 422 484 490 492 505 
+including 375 385 432 464 524 
+income 464 470 508 509 512 513 538 541 
+increase 374 393 404 417 432 434 448 462 474 480 489 491 495 502 
+increased 393 409 432 470 489 491 495 496 502 
+increases 390 491 495 
+increasing 393 448 452 480 489 502 
+incurred 435 
+incx 488 
+indefinite 458 
+indefinitely 419 
+independent 384 
+index 425 444 450 540 
+india 443 
+indiana 474 
+indianapolis 482 
+indirect 522 
+indirectly 475 
+inducing 419 
+industrial 390 437 450 
+industries 375 389 403 406 465 538 547 
+industry 489 491 495 502 525 549 
+inefficient 428 
+inevitably 540 
+inflation 419 432 
+influence 386 
+information 463 493 496 
+initial 405 407 410 458 460 472 473 
+injure 516 
+injured 516 
+injury 516 
+inland 481 
+inland/int'l 481 
+inspections 500 
+installation 476 
+instance 540 
+institute 444 489 502 
+institutional 382 
+institutions 419 549 
+insufficient 525 
+insurance 449 
+integrity 540 
+intelligence 386 
+intelligence-type 386 
+intent 477 507 
+interchange 531 
+interest 371 382 391 393 411 419 441 448 458 475 492 519 522 548 
+interested 390 
+interesting 382 
+interests 441 448 
+intermediate 543 
+internal 385 419 527 
+international 393 398 402 408 419 425 458 463 476 481 490 496 510 545 546 
+internchange 531 
+interpreted 458 
+interstate 372 471 
+intervention 395 
+introduce 375 471 
+introduced 385 403 463 476 487 
+introduces 487 
+introduction 526 
+inventory 454 
+invest 379 
+investcorp 435 
+investment 382 435 437 449 476 490 545 
+investments 494 524 
+investor 387 496 545 
+investors 382 394 464 
+invitation 518 
+invite 381 
+involve 419 
+involved 377 540 
+involving 419 
+ip 481 
+ipi 450 
+iran 386 443 
+iran-contra 386 
+iraq 443 
+iron-steel 525 
+irregularities 384 
+isbj 531 
+island 429 
+issam 545 
+issue 381 382 390 394 402 403 414 415 418 421 427 448 460 465 468 537 540 
+issued 382 386 479 
+issuers 382 
+issues 382 414 421 453 479 545 
+issuing 414 421 453 
+italian 497 
+italy 419 443 458 497 
+item 490 
+items 490 549 
+j.c. 493 
+james 458 
+james-baker 458 
+jan 420 422 430 434 483 528 530 533 
+january 371 382 386 422 434 435 444 450 481 498 518 
+japan 419 436 458 524 
+japanese 419 
+jardins 414 421 
+jcp 493 
+jenrette 540 
+jersey 447 457 
+jersey-based 372 
+jim 423 521 
+jobs 523 525 
+johannesburg 462 
+john 382 386 469 540 
+joining 545 
+joint 472 482 504 
+joint-bookrunner 414 421 
+joint-lead 453 
+jointly 477 478 
+jonathan 540 
+journalists 419 
+jpn 436 
+judge 457 
+july 429 
+july/june 395 
+jumped 481 
+june 374 377 381 389 454 462 480 
+jury 457 
+juster 435 
+jutland 468 
+jwc 423 521 
+k-tron 490 
+ka-shing 390 
+kansas 386 498 
+kapok 484 532 534 
+karachi 374 
+karl-heinz 525 
+keeping 372 
+kennedy 482 
+key 386 402 472 527 
+keystroke 487 
+killington 483 
+kilometer 448 
+kilos 374 
+kind 419 515 
+kingstown 387 
+kong 390 429 
+korea 429 
+kpk 484 532 534 
+kroner 454 
+ktii 490 
+kyriakides 469 
+l-cattle 443 
+la 387 
+label 474 
+labels 424 
+labor 432 
+laboratories 442 477 
+labour 518 
+ladder 473 
+ladder-making 473 
+lagging 372 
+lame 386 
+land 390 
+language 487 
+laporte 474 
+large 441 475 481 
+largely 372 
+larger 375 
+largest 419 448 450 515 549 
+laroche 387 
+late 375 382 417 
+latest 422 501 
+launched 415 427 
+launches 415 427 
+lausanne 394 
+law 525 
+lawmakers 386 
+lawn 405 
+laws 451 
+lawson 419 458 
+laxalt 386 
+lay 397 
+lbo 372 
+leaching 488 
+lead 415 427 458 468 485 
+leader 386 
+leadership 386 
+leading 389 
+leads 496 
+learned 487 
+lease 382 515 
+leases 382 
+leave 429 
+leaves 386 
+lebanese 545 
+lebanon 386 
+led 394 450 496 
+left 386 395 
+leftist 386 
+leg 458 
+legal 540 
+lehman 492 
+lehmand 382 
+leigh-pemberton 419 
+lenders 451 454 532 
+lending 376 411 419 
+leo 540 
+leroy 545 
+lethal 443 
+letter 382 477 507 
+levels 434 486 
+li 390 
+licences 501 
+license 373 463 
+licensed 373 
+lichtenberger 504 
+lichtenstein 501 
+liechtenstein 501 
+life 382 393 
+lifting 417 
+lifts 417 
+limited 417 429 496 510 
+limiting 429 
+limits 419 458 
+line 428 446 503 527 540 549 
+lines 419 500 
+link 504 
+linked 419 487 
+lion 386 
+liquidity 416 
+lire 497 
+list 540 
+listed 394 414 421 453 
+listing 410 473 
+livelihood 540 
+livestock 443 
+living 545 
+loan 389 452 454 475 
+loans 372 419 454 532 
+lobby 525 
+local 390 505 
+locate 523 
+located 448 
+locations 397 493 
+london 389 402 411 414 419 421 453 458 460 476 485 486 523 526 
+long 419 462 504 
+long-term 372 
+longer 382 
+los 385 391 397 420 435 537 539 543 
+losing 473 540 
+loss 388 409 410 420 435 454 473 484 490 505 534 538 539 540 
+losses 422 435 490 530 
+lost 372 505 
+lots 487 
+lotus 487 
+louisiana 543 
+louw 518 
+low 377 386 462 489 502 
+lower 471 525 544 
+lowered 543 
+lp 436 
+lse 526 
+lt. 386 
+lube 471 
+lube-and-oil-change 471 
+lubricating 472 
+lubrication 471 
+lucrative 540 
+ludwigshafen 377 
+lufkin 540 
+lumber 450 
+luxembourg 414 421 
+lynch 496 
+macgarvey 469 
+machines 463 474 
+macintosh 385 487 
+mack 382 
+made 381 393 397 412 419 424 429 465 496 499 540 543 549 
+mae 492 
+magazine 386 
+mail 412 503 515 
+mailed 442 
+mailing 515 
+main 429 
+maintain 540 
+maintenance 435 463 500 
+maintenence 426 
+maize 395 501 
+major 414 421 503 504 525 
+majority 372 441 
+make 376 424 477 523 524 540 549 
+makes 372 389 400 424 540 
+making 382 448 549 
+malacarne 401 
+manage 473 
+managed 470 
+management 372 393 396 404 414 421 436 441 453 486 496 498 503 510 545 
+manager 382 415 427 453 468 485 505 
+managers 372 449 510 
+managing 419 458 
+manifest 525 
+manila 541 
+manitoba 403 465 
+manner 391 
+manning 486 
+manufactured 454 
+manufacturers 389 451 
+manufactures 474 
+manufacturing 426 432 447 473 523 
+manufacturng 432 
+mapinduzi 428 
+mapping 386 
+mar 394 404 426 432 
+march 371 372 373 374 375 376 377 378 379 380 381 382 384 385 386 387 388 389 390 391 393 395 397 399 401 402 403 404 405 406 407 408 409 410 411 412 413 414 415 416 419 420 421 422 423 424 425 427 428 429 434 435 436 437 438 439 441 442 443 444 446 447 448 449 450 451 452 453 454 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 478 479 480 481 482 483 484 485 486 487 488 489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 506 507 508 509 510 511 512 513 514 515 516 517 518 520 521 522 523 524 525 526 527 528 529 530 531 532 533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 
+marine 386 
+mark 460 481 
+market 377 382 390 411 416 437 454 460 465 475 477 499 501 504 516 522 525 526 537 540 549 
+market-makers 526 
+marketing 482 499 
+markets 374 504 523 
+marks 505 
+marrel 435 
+marriott 379 478 
+marshall 457 
+mass. 463 477 487 496 
+massachusetts 464 
+massive 525 
+master 510 
+mateo 506 508 509 512 513 514 529 
+material 448 
+matter 458 
+matthews 437 
+matures 382 
+maturing 414 421 
+maturity 468 
+maximum 468 501 
+mc 407 
+mccs 407 
+mci 493 
+mcic 493 
+mclaughlin 386 
+mcry 539 
+mcv 383 393 496 
+md. 532 
+me. 482 
+means 419 458 
+meantime 454 
+measure 416 
+measured 371 
+measures 428 
+meat 450 
+meaty 386 
+mechanism 419 
+mechanisms 419 
+medco 407 
+medical 435 454 477 545 
+medium 419 
+medusa 463 
+medusa/pc 463 
+meet 386 393 402 518 525 540 
+meeting 381 386 401 402 419 442 443 458 
+melamed 540 
+melbourne 482 
+melilla 501 
+member 402 540 
+members 397 510 
+membership 540 
+mercantile 540 
+merchandising 499 
+mercury 539 
+merger 372 393 401 424 442 496 
+merrell 457 
+merrill 496 
+message 446 
+messages 446 
+messenger 372 
+met 458 462 
+metal 448 
+meto 474 
+mexico 542 
+mfs 470 
+mhc 451 
+mhs 379 478 
+miami-based 467 
+mich. 394 
+michael 473 505 540 
+michel 419 
+michigan 426 
+mid 372 375 489 502 
+mid-december 382 
+midcon 391 
+midl 451 
+midland 394 
+midlantic 451 
+midnight 547 
+milan 497 
+mileage 482 
+mill 486 499 
+miller 401 
+milling 488 
+million 500 
+mine 437 448 488 
+miners 462 
+mines 462 
+mineworkers 462 
+minicomputer 463 
+minimising 525 
+minimum 372 419 
+mining 418 437 448 462 
+minister 419 458 518 
+ministers 525 
+ministry 524 
+minn. 530 
+minneapolis 401 
+minutes 493 
+mission 429 
+mississippi 517 
+mitigate 489 502 
+mob 549 
+mobil 549 
+model 503 
+models 385 
+modules 487 
+monetary 419 458 
+money 386 397 411 416 
+money-fx 411 475 519 522 
+moni.mi 497 
+monmouth 457 
+montagu 453 
+montedison 497 
+month 401 409 419 434 446 450 458 462 473 493 516 
+month-long 496 
+monthly 419 437 462 463 
+months 382 386 409 412 419 437 444 450 454 473 483 530 540 
+montoya 384 
+montreal 403 
+moody 382 
+moratorium 458 
+morning 397 399 457 458 481 
+morristown 449 
+mortgage 376 447 492 
+mortgage-back 492 
+mortgage-backed 492 
+mortgages 492 
+motion 457 
+motor 450 491 495 515 
+motors 515 
+move 523 540 
+moves 489 502 520 
+mr. 386 
+ms-dos 385 
+mthly 508 509 512 513 514 
+mths 388 410 528 530 533 535 538 
+mulling 372 
+multi-step 410 473 
+multiple 385 
+muo 548 
+murray 532 
+mutual 548 
+myers 417 
+n't 386 419 504 
+n.c. 510 
+n.j. 405 407 424 449 451 457 490 528 531 
+n.j.-based 472 
+n.v. 408 
+n.y. 442 446 474 482 493 494 527 549 
+n.z 425 
+nabisco 510 
+named 401 487 499 
+narjes 525 
+nat-gas 544 
+natick 463 
+nation 471 502 
+national 383 386 393 401 416 428 462 471 492 496 503 
+nations 419 443 
+nationwide 386 493 515 
+natural 472 544 
+nature 540 
+nbc 386 
+ncr 373 503 
+ndi 454 
+nearer 523 
+neb. 548 
+neco 387 
+needed 428 443 525 
+negotiate 397 
+negotiated 507 
+negotiating 505 532 550 
+negotiations 397 412 458 462 497 505 
+nepal 443 
+nesp 533 
+net 378 388 399 403 420 422 436 438 439 449 456 466 483 484 490 494 528 530 533 534 535 538 539 541 
+netherlands 413 518 
+network 385 493 503 
+networks 397 
+neutrogena 537 
+nev.. 488 
+nevada 386 
+new-zealand 425 
+newly 487 496 499 
+newport 533 
+news 386 397 462 
+newsweek 386 
+newswriters 397 
+ngna 537 
+niaz 374 
+nicaraguan 386 
+nigel 419 458 
+nikko 485 
+nippon 524 
+nolex 371 
+nomination 386 
+non-callable 382 453 
+non-ec 501 
+non-farm 431 432 
+non-graphic 463 
+non-strategic 409 
+non-voting 381 
+north 382 386 387 478 528 
+note 382 388 410 420 438 439 449 484 490 494 530 531 538 541 
+noted 382 419 447 540 
+notes 382 394 403 422 475 
+noting 390 419 
+nov 539 
+november 386 408 449 454 516 
+novo 448 
+npt 387 
+nt 505 550 
+ntt 524 
+nuclear 454 
+nueutrogena 537 
+nugget 447 
+num 462 
+number 452 
+nunn 386 
+nursery 467 
+nv 453 
+nyse 520 
+nzfe 425 
+oak 404 
+oakland 424 
+oat 417 479 
+oats 417 479 
+obligations 441 
+obtain 454 
+obtaining 436 458 
+occidental 391 
+occurred 434 
+october 526 
+odds 386 
+offer 372 387 393 394 397 401 411 424 436 440 471 479 496 515 518 547 
+offered 393 411 474 496 
+offering 382 385 387 394 496 
+offers 393 496 515 
+office 386 467 476 523 
+officer 372 380 384 401 469 
+offices 526 
+official 374 419 429 458 
+officials 375 386 413 419 458 500 516 540 
+offset 454 
+offshore 542 
+ohio 482 503 507 
+oil 459 471 489 502 542 543 
+oilseed 486 
+okla. 467 
+oliver 386 451 
+olv 451 
+olvr 451 
+omaha 548 
+omit 381 
+omits 381 
+one-fifth 496 
+one-for-four 390 
+one-for-two 449 
+one-year 462 
+onex 372 
+onging 412 
+onic 395 
+onshore 542 
+ontario 516 
+open 385 419 537 
+opened 475 
+oper 388 392 420 422 449 490 538 
+operate 375 507 
+operates 448 549 
+operating 409 422 435 454 463 482 498 541 
+operation 437 505 507 525 
+operations 372 376 408 412 420 422 435 500 510 524 538 541 
+operator 496 
+operators 386 501 
+opinion 481 
+opportunity 540 
+opposed 419 
+option 408 415 426 427 446 448 502 
+optional 385 
+options 372 526 537 540 
+order 419 426 540 
+ordering 463 
+orders 378 525 540 
+ore 437 488 
+organisation 505 
+organization 402 435 443 456 518 
+oriented 549 
+original 397 
+orthopedic 472 
+oth 375 
+ottawa 450 
+ounce 448 488 
+ounces 448 
+outcome 516 
+outlays 434 
+outlook 481 
+output 374 432 491 495 523 525 
+outright 411 
+outstanding 391 403 408 420 424 496 537 545 547 
+over-the-road 471 
+overhaul 426 428 
+overnight 372 
+overseas 453 489 502 
+oversee 510 
+overseeing 510 
+owed 419 
+owes 419 
+owned 372 401 424 472 473 545 
+owner 372 
+owners 371 452 515 
+ownership 393 448 
+owns 380 387 441 448 467 547 
+oxy 391 
+pa 507 
+pa. 499 
+pac 527 
+pacific 527 
+package 428 
+packaging 549 
+pact 429 503 
+pai 482 
+paid 372 381 391 419 460 
+pair 482 
+pakistan 374 443 
+pallet 426 
+pan 500 532 
+panbaxy 477 
+panhandle 544 
+paper 382 403 425 465 481 491 495 
+papers 450 
+par 381 391 468 485 
+parcels 447 
+parent 378 499 
+paris 395 419 501 
+park 407 
+part 419 458 460 472 474 496 500 505 510 523 526 
+partial 419 496 
+participate 507 
+participation 381 507 
+parties 408 
+partner 504 
+partners 377 379 478 
+partnership 507 510 
+party 428 
+past 372 386 458 518 
+pasta 516 
+patent 490 
+paths 502 
+patti 372 
+paul 386 458 469 
+pay 382 390 391 420 461 473 506 508 509 512 513 514 517 521 529 531 536 546 548 
+payable 389 391 404 405 406 407 423 460 464 470 480 
+paying 372 453 544 
+payment 414 415 421 427 453 458 532 
+payments 382 419 458 492 525 
+payout 404 405 407 464 480 508 509 512 513 514 517 521 529 531 
+pays 414 421 453 
+paytable 391 
+pc 372 463 503 
+pc/at 463 
+pc6 503 
+pc8 503 
+pcc 372 
+pco 408 
+pct.e 432 
+pdo 494 
+peace 518 
+pel 544 
+penalized 500 
+penhale 473 
+penn 401 
+penney 493 
+percentage 382 415 427 
+perception 386 
+period 388 470 491 495 523 524 
+periods 490 
+perkins 426 
+permits 417 
+person 540 
+personal 385 503 
+persons 432 436 
+pesch 545 
+pesos 541 
+peter 386 417 532 
+petersburg 461 
+petition 451 540 
+petro-canada 511 
+petroleum 391 450 489 502 
+pf 472 
+pfe 472 
+pfizer 472 
+pharma 375 
+pharmaceuticals 375 450 457 497 
+phcc 535 
+philadelphia 482 
+philippines 541 
+physician 545 
+picinich 382 
+picketing 397 
+pictured 386 
+pierce 496 
+pipeline 507 544 
+pires 448 
+pit 540 
+pitman 490 
+pits 540 
+pittston 398 408 
+place 434 460 
+plains 494 
+plaintiffs 457 
+plan 474 482 505 524 525 
+planned 381 518 
+planning 503 
+plans 375 377 381 393 468 471 491 495 515 524 540 545 
+plant 377 486 523 525 549 
+planting 417 
+plantings 417 
+plants 525 549 
+plastic 549 
+plastics 504 
+platinum 448 
+played 419 
+plc 375 389 441 476 
+pledge 402 
+plow 504 
+pm-purolator 372 
+pm-reagan 386 
+pnf 401 
+poct 408 
+pogo 542 
+poindexter 386 
+point 415 419 427 458 460 
+pointed 382 458 
+points 382 520 
+police 384 
+policy 386 489 502 
+policy-type 386 
+political 419 458 525 
+poll 386 
+polystyrene 549 
+pool 382 492 
+poor 382 540 
+popularity 386 
+population 443 
+porex 405 
+poring 386 
+port 518 
+portion 496 544 
+portland 482 
+portrayed 386 
+ports 446 
+porx 405 
+position 478 
+possibility 545 
+post 380 469 524 
+posted 543 
+postponed 486 497 
+potential 377 448 
+pounds 374 549 
+power 498 
+ppp 542 
+practice 540 
+prairie 530 
+praise 386 
+pre-approved 515 
+pre-fixed 501 
+pre-split 480 
+pre-tax 389 
+precious 448 
+predecessor 371 
+predicted 372 489 502 
+preferred 393 452 496 515 530 535 
+prefixed 501 
+premdor 466 
+premdor-inc 466 
+premium 485 
+premiums 468 
+prepared 462 549 
+preparing 386 
+present 393 457 458 489 502 
+presentation 457 
+presented 525 
+presidency 386 
+president 372 380 384 386 401 419 458 469 504 540 
+presidential 482 494 
+press 386 462 497 
+pressure 475 
+pretax 490 
+prevailing 411 
+previous 393 395 425 450 491 495 496 501 
+previously 372 432 434 442 473 507 
+price 372 377 380 401 424 425 432 450 468 471 485 489 502 515 540 543 544 
+priced 382 385 414 415 421 427 453 485 
+prices 374 444 450 459 460 489 502 511 543 
+primarily 394 
+primary 451 503 
+prime 425 463 
+principal 382 391 408 492 
+principle 419 
+printed 385 454 
+printers 474 
+prior 397 409 420 423 460 461 464 470 480 484 506 508 509 512 513 514 517 521 529 531 536 546 548 
+priority 386 
+private 448 489 502 503 
+privatge 493 
+prm 463 
+probes 386 
+problem 419 429 
+problems 419 457 
+proceeding 505 
+proceeds 394 403 435 479 
+processing 486 
+procued 472 
+produce 373 437 448 545 549 
+produced 374 448 
+producer 424 549 
+producers 402 516 544 
+producing 525 542 
+product 446 450 477 487 549 
+production 374 397 448 491 495 523 525 549 
+productivity 431 432 
+products 373 409 410 450 454 467 472 473 481 499 503 525 549 
+profit 378 438 439 484 490 505 541 
+profitable 504 
+profitably 504 
+profits 386 389 390 524 
+program 386 403 417 419 435 458 471 472 503 515 525 
+programme 428 
+project 390 
+projected 375 454 524 549 
+projection 390 
+projects 390 413 
+promising 504 
+promote 503 
+promoting 419 458 
+promotion 397 
+prompted 386 
+property 379 390 448 484 494 
+proposal 390 402 436 
+proposals 397 525 
+propose 419 
+proposed 393 442 496 525 
+proprietary 472 
+prospects 402 412 
+prospectus 442 
+protect 419 489 502 
+protest 486 518 
+provide 372 493 496 
+provided 411 493 496 515 
+province 414 421 
+provision 422 490 
+prudential 481 
+public 382 410 434 448 473 498 510 
+publications 371 
+publicity 503 
+purchase 376 379 387 389 424 436 446 447 474 537 
+purchased 372 411 446 467 537 
+purchases 496 
+purolator 372 
+purpose 382 496 
+purposes 403 479 
+pursuant 547 
+put 397 419 434 
+qtly 396 420 423 461 464 517 521 529 531 536 546 548 
+qtr 392 399 420 422 423 431 432 449 455 456 464 466 483 490 491 495 528 530 533 534 535 538 
+quaker 479 
+qualified 371 
+quarter 408 422 432 435 441 449 490 491 495 530 
+quarterly 391 404 473 536 546 
+quartz 448 
+quebec 414 421 
+question 540 
+quickly 382 
+quota 402 525 
+quotas 402 525 
+quotes 526 
+r.i. 387 
+r.j 510 
+r.j. 510 
+r.j.r 510 
+raced 382 
+radiators 372 
+raise 489 496 502 549 
+raised 393 413 481 496 
+raises 480 
+raising 393 
+ramaphosa 462 
+ran 382 
+rand 462 
+range 462 474 
+rate 393 432 433 434 485 544 549 
+rated 382 
+rates 394 411 544 
+rating 382 
+ratio 442 
+raven 525 
+raymond 384 
+reach 419 451 
+reached 374 389 402 425 
+reaches 374 
+reaction 460 
+reactions 419 
+reagan 386 
+real 432 447 478 
+realize 441 
+realty 379 478 494 
+reasons 468 
+rebate 501 
+rebates 501 
+rebels 386 
+rebuff 458 
+rebuilding 386 
+receivables 382 
+receive 372 382 391 413 515 
+received 378 393 401 435 436 458 473 493 496 
+receives 393 492 
+recent 386 479 488 501 
+recently 372 411 475 
+recession 419 458 
+reclamation 390 
+recommendation 481 540 
+recommendations 540 
+recommended 443 
+reconvene 518 
+record 386 391 404 405 406 407 420 423 425 442 450 461 464 470 480 500 506 508 509 512 513 514 517 521 529 531 536 546 548 
+recorded 450 
+records 496 
+recoup 437 
+recover 384 
+red 525 
+redeem 391 
+redirection 454 
+redstone 496 
+reduce 435 525 537 
+reduced 485 516 530 
+reduces 544 
+reducing 525 544 
+reduction 409 411 544 
+redundancies 518 
+redundancy 525 
+referred 436 
+refinance 394 419 
+reflect 537 
+reflected 416 
+reflecting 420 432 
+reflects 526 544 
+reform 428 
+reformation 544 
+refusal 408 
+refused 386 397 545 
+regan 386 
+regency 469 
+region 543 
+regional 505 
+regions 419 444 
+registration 479 
+regular 391 423 
+regulations 389 
+regulatory 375 473 544 
+reiterated 481 
+rejected 419 458 545 
+rejects 540 
+related 382 
+reluctantly 525 
+remain 380 489 502 525 
+remainder 441 
+remaining 380 382 441 473 
+removed 384 
+rename 379 478 
+renegotiate 429 
+renewed 419 
+rented 446 
+reorganize 451 
+repay 479 
+repayment 451 
+repeat 417 
+replace 397 403 469 
+replaced 372 
+replacement 454 
+replaces 469 
+report 386 428 495 497 
+reported 390 419 435 454 
+reportedly 510 
+reporters 390 
+reporting 390 409 435 473 
+reports 491 495 
+represent 382 516 
+representation 419 
+representatives 401 516 
+representing 462 485 
+represents 397 491 495 
+republican 386 
+republicbank 382 
+repurchase 435 475 519 522 
+repurchased 380 
+repurchases 475 522 
+request 458 518 520 540 
+requested 501 
+requests 501 
+require 454 
+required 391 454 
+requirement 417 
+requirements 493 530 
+rescheduled 486 
+rescheduling 419 
+research 472 489 502 524 
+researchers 397 
+reserve 454 458 475 489 502 522 
+reserves 416 419 475 488 489 502 522 
+residential 434 
+resignation 386 
+resigned 380 386 469 
+resolution 518 
+resolve 458 
+resolving 458 
+resort 478 
+resources 498 504 
+respond 386 
+response 401 428 
+responsible 498 542 
+rest 372 
+restart 518 
+restaurant 532 
+restitution 501 
+restrict 540 
+restrictive 525 
+restructuring 422 435 451 505 526 545 
+restructurining 420 
+result 371 409 417 488 500 505 
+resulted 458 
+results 390 454 544 
+resume 402 
+retail 444 474 503 
+retain 525 
+retained 526 
+retaining 472 
+retains 372 
+retire 454 
+retired 468 
+retirement 420 473 
+retrieval 424 
+return 525 
+rev 483 494 
+revaluation 454 
+revealed 386 
+revenes 408 
+revenue 437 
+revenues 408 409 454 541 
+reverse 449 
+review 393 409 419 436 496 
+reviewed 500 
+reviewing 372 
+revised 393 430 431 432 434 496 
+revision 393 463 
+revive 386 
+revs 388 399 410 449 466 484 490 528 530 534 535 538 539 
+rex 547 
+rexnard 547 
+rexnord 547 
+reynolds 510 
+rich 390 
+richest 448 
+ridgefield 451 
+rights 381 387 448 
+rinderpest 443 
+ring 373 
+rise 374 416 432 444 450 462 489 502 524 549 
+rises 432 
+rising 432 
+risk 443 540 
+risks 489 502 
+risky 540 
+rivals 372 429 496 
+river 448 
+rjr 510 
+rm 382 391 403 411 414 415 416 419 430 431 432 433 434 441 444 445 450 453 458 460 468 475 476 485 492 505 515 519 522 526 
+rmj 441 
+robert 386 
+robin 419 
+roche 387 
+rochester 446 
+rogers 481 
+role 419 458 
+rolled 525 
+rome 443 
+ronald 386 
+rose 390 416 430 432 434 444 450 481 
+rospatch 400 424 
+rotterdam 373 518 
+roughly 381 
+round 475 
+rounded 515 
+routes 504 
+rpch 424 
+rpt 382 
+rtrs.l 476 
+rule 540 545 
+ruled 540 
+rules 419 457 500 540 
+ruling 428 516 526 
+run 386 507 
+runs 540 
+rutherford 472 
+rye 493 
+s-k-i 483 
+s/p 540 
+sa 435 497 505 550 
+sachs 382 479 
+sacrificing 417 
+saddle 531 
+safety 500 
+salaam 428 
+salaries 462 
+sald 549 
+sale 372 386 390 403 435 441 473 484 490 498 501 505 550 
+saleable 437 
+sales 372 375 378 382 386 399 420 422 435 438 439 454 456 467 501 524 533 
+salomon 382 401 479 
+sam 386 
+samples 477 
+samsung 438 
+samsung-co 438 
+samuel 453 
+san 380 506 508 509 512 513 514 529 
+sandy 419 
+santa 376 379 478 
+sarasota 482 
+satellite 493 503 
+satisfactory 428 436 
+satisfied 428 
+saturday 413 458 
+savannah 482 
+save 525 
+savings 452 
+sb 401 
+scale 490 
+scales 474 
+scandal 386 
+scathing 386 
+schade 540 
+schantz 469 
+schanz 469 
+schedule 491 495 
+scheduled 454 497 
+scope 525 
+scored 481 
+screens 526 
+sdc 388 409 
+se 385 487 
+seaforth 486 
+seaq 526 
+search 419 
+season 374 395 501 
+seasonally 432 434 
+seasons 379 478 
+sec 496 545 
+secondary 468 
+secret 496 
+secretary 386 417 419 458 462 
+section 448 
+sector 432 518 
+sectors 470 
+secure 412 
+secured 382 454 
+securites 479 
+securities 372 382 403 414 421 441 475 479 481 485 492 496 514 522 545 
+security 386 
+securties 545 
+seek 429 462 545 
+seeking 545 
+sees 390 
+seibel 505 
+selected 515 
+selikoff 457 
+sell 372 373 379 380 435 441 473 499 532 549 
+selling 414 421 453 515 545 
+sells 380 527 
+semi 506 
+semi-annual 470 
+sen 386 
+senate 386 
+senator 386 
+senior 389 393 510 540 
+seoul 438 439 
+separate 375 419 482 496 
+sept 484 
+sept/march 374 
+september 402 
+series 463 487 500 
+serum 477 
+serve 401 446 482 
+served 469 
+service 419 471 476 482 493 498 
+services 373 386 407 408 409 437 482 493 515 531 
+servicing 419 
+session 411 
+set 438 439 442 454 485 496 501 518 
+sets 403 405 407 468 509 517 519 521 523 529 536 546 
+settled 462 
+settlement 475 490 
+severely 429 
+shade 467 
+shafi 374 
+shaken 386 
+share 372 381 386 389 390 391 393 401 405 407 408 419 422 424 425 440 442 448 449 454 480 481 485 494 496 526 530 541 545 547 
+shareholder 448 473 
+shareholders 372 381 393 401 408 442 496 545 
+shares 371 372 380 387 391 393 401 408 418 420 424 435 448 452 473 480 481 496 537 545 547 548 
+sharp 489 502 
+sharply 419 481 549 
+shearson 382 492 
+shed 525 
+sheet 463 
+shelf 479 
+shell 459 
+shilling 428 
+ship 469 518 
+shipping 467 
+shop 422 
+short 417 454 479 488 
+shortage 411 
+shot 386 
+showing 457 
+shp 422 
+shr 388 392 399 410 420 422 449 455 456 466 483 484 490 494 528 530 533 534 535 538 539 
+shrs 399 422 449 456 530 534 
+shut 377 
+shy 525 
+sickness 457 
+sight 416 
+signal 411 
+signed 376 413 429 437 477 496 503 507 527 
+significantly 420 
+signs 373 503 
+silver 488 
+similar 382 443 516 
+simplified 477 
+single 382 448 487 
+skii 483 
+slapped 516 
+sleeper 488 
+slightly 375 386 
+slimming-down 525 
+slot 385 
+slots 385 
+smal.0 432 
+small 505 
+smallest 432 500 
+smell 386 
+smelter 377 
+smith 496 
+sne.t 523 
+so-called 372 382 
+social 518 525 
+society 393 
+soft 395 472 501 
+software 463 487 
+sold 372 380 382 394 435 475 503 510 
+sole 382 
+solution 419 
+sony 523 
+sought 462 
+sounder 419 
+sources 374 412 419 454 458 501 525 540 
+south 389 429 462 
+south-africa 462 
+south-korea 429 438 439 
+southeast 532 
+southern 542 
+soybean 417 
+spa 497 
+spain 497 501 
+spanish 497 
+special 393 401 442 496 500 501 515 540 
+specialty 499 504 
+specific 390 448 477 507 
+speculate 402 
+spelled 507 
+spend 478 
+spending 430 434 
+spent 419 
+split 375 390 396 404 449 480 537 
+splits 480 
+splitting 480 
+spokesman 372 377 393 458 465 486 497 518 522 523 
+spy 386 
+square 467 
+stability 390 
+staff 372 386 
+staffer 397 
+staffs 397 
+stake 448 496 545 547 
+stakes 418 448 
+stamford 408 
+standard 382 540 
+stansbury 437 
+stant 372 
+stanwell 376 
+start 420 482 
+started 419 428 518 
+starting 371 446 458 462 468 518 
+starts 387 482 
+state 444 448 
+state-owned 374 
+statement 428 443 525 541 
+states 393 429 489 502 
+statil 375 
+statistics 444 450 
+status 386 
+stay 419 
+stb 437 532 
+stby 437 
+steel 435 499 525 
+steelmakers 525 
+steels 499 
+steels-europe 499 
+steinfeld 532 
+step-up 414 421 
+sterling 436 453 
+stg 411 445 453 460 523 
+stimulate 390 
+sto 480 
+stock 372 381 390 391 393 394 396 398 404 406 408 424 445 447 452 460 464 480 496 520 526 537 540 545 
+stockholders 381 452 
+stone 480 
+stop 422 
+storage 385 
+store 422 446 
+stores 451 503 
+strategic 489 502 
+strategy 386 
+strb 456 
+street 386 
+stressed 545 
+strike 397 486 
+strikes 397 518 
+strip 435 
+stripped 492 
+strober 456 
+strong 390 
+strongly 502 
+struck 397 
+structure 419 
+struggle 462 
+stuart 375 
+studies 489 502 
+study 489 502 
+studying 540 
+subidiary 507 
+subject 372 408 424 436 473 525 547 
+submit 540 
+submitted 386 428 496 524 540 
+subordinated 391 496 
+subscribe 381 
+subscriber 476 
+subscription 381 
+subscriptions 415 427 
+subsidiary 372 377 391 408 426 474 496 507 544 549 
+subsidies 516 
+subsidy 518 
+substantial 390 441 458 
+substantially 397 435 549 
+substantive 419 
+succeed 386 
+successful 387 
+successive 434 
+successor 371 
+suggested 471 
+suggestions 540 
+suit 385 490 
+sum 389 
+summer 487 
+sumner 496 
+sunnyvale 384 
+superior 457 
+supermarkets 549 
+supply 417 475 522 
+support 386 458 481 525 
+supposed 525 
+surface 448 
+surge 390 419 
+surgery 472 
+surging 429 
+surplus 419 
+surrendering 391 
+susceptible 443 
+suspected 540 
+suspended 419 458 
+suspension 419 458 
+swap 416 492 
+sweden 474 
+sweet 543 
+sweeten 496 
+sweetened 496 545 
+swiss 378 381 394 415 416 427 468 
+switch 525 
+switzerland 378 381 394 415 416 419 427 458 468 501 545 
+sydney 388 409 
+syndicate 382 496 
+syndicated 386 
+system 402 411 446 463 475 503 507 522 525 526 540 
+systems 385 400 424 463 474 527 
+szekely 386 
+t-bill 433 
+ta 380 
+tabak 401 
+table 397 419 
+tabled 518 
+taggart 372 
+tahlequah 467 
+taipei 429 
+taiwan 429 
+takeover 372 496 545 
+takes 462 
+taking 460 
+talk 419 
+talking 419 458 
+talks 377 402 458 462 486 497 518 525 545 
+tampa 423 517 521 
+tanks 372 
+tanzania 428 
+tap 460 
+target 438 439 
+tarxien 473 
+task 386 
+tattered 386 
+tax 449 468 475 490 
+tax-free 408 437 508 512 513 
+techical 532 
+technical 532 
+techniques 488 489 502 
+technologies 405 472 
+technology 373 380 384 424 477 504 
+telecommunications 493 524 
+teleconferencing 493 
+telegraph 524 
+telephone 468 524 527 
+telephones 527 
+telephonics 527 
+teles 448 
+telesis 527 
+television 386 523 
+temple 481 
+temporary 397 475 522 
+ten 516 
+tender 372 401 424 496 547 
+tendered 372 547 
+tentatively 408 
+term 389 419 454 479 
+terminate 397 
+terminated 384 
+terms 376 403 454 467 478 507 527 
+test 477 
+testify 386 
+tex 482 
+texas 386 482 543 
+textile 429 
+tha 457 
+theater 496 
+theft 384 
+thhe 488 
+third-quarter 432 
+thirds 372 
+thomasville 406 
+thought 386 
+threaten 458 
+threatened 386 
+three-for-two 537 
+three-year 523 
+thursday 372 428 486 501 518 
+tic 435 
+tighten 540 
+tightening 540 
+time 372 402 462 479 537 545 
+times 504 525 
+tin 481 
+tissue 472 
+tne 436 
+tnz 536 
+tobacco 510 
+today 386 393 411 419 435 458 485 486 496 497 518 
+token 373 
+tokyo 524 
+told 390 419 458 462 497 504 
+tomorrow 442 
+ton 448 488 
+tonight 518 
+tonne 501 
+tonnes 377 395 501 525 
+tons 488 
+top 386 493 
+top-flight 382 
+toronto 379 410 448 466 473 478 
+total 390 411 434 501 523 524 544 545 
+totaled 408 
+totalling 371 
+totals 382 
+tour 458 
+tower 386 
+towns 444 
+tracks 491 495 
+trade 386 419 429 491 495 501 540 
+traded 425 475 526 
+trader 540 
+traders 374 481 501 540 
+trading 382 522 526 540 
+traffic 401 493 
+tranche 460 
+transaction 371 372 401 424 441 447 
+transactions 448 473 
+transfer 389 493 
+transfers 505 
+transmitted 493 
+transport 518 
+tranzonic 536 
+travel 419 
+travelers 435 
+travelling 458 
+trays 549 
+treasurer 469 
+treasuries 382 
+treasury 382 386 448 458 475 540 
+treatable 488 
+treated 419 
+treatment 375 
+trip 458 
+trouble 386 
+truck 471 
+trucks 382 471 491 495 
+truckstops 471 
+trunkline 544 
+trust 382 470 476 
+tues 399 
+tuesday 399 
+turkey 444 
+turkish 444 
+turning 372 
+turnover 389 
+tv 523 
+tvx 418 448 
+two-for-one 404 
+two-thirds 408 
+two-year 475 527 
+type= 383 392 396 398 400 417 418 430 431 433 440 445 455 459 511 519 
+typical 540 
+u.k 411 419 458 
+u.k. 411 419 486 523 
+u.s 372 382 430 431 432 434 448 454 474 491 495 503 516 522 
+u.s. 372 375 382 386 389 394 413 419 425 426 429 441 454 458 475 478 485 489 500 501 502 514 516 543 549 
+u.s.-made 499 
+ucl 471 543 
+ucu 498 
+uk 389 402 411 414 419 421 453 458 460 476 485 486 504 523 526 
+unable 454 
+unchanged 395 501 
+und 378 381 
+underlying 492 
+understandings 545 
+understood 419 
+undertook 525 
+underway 409 465 
+underwrite 496 
+underwriters 382 394 479 
+underwriting 414 421 453 496 
+undisclosed 376 379 412 467 478 
+undivided 382 
+unfair 429 
+union 394 397 415 427 462 468 504 518 543 
+unions 397 414 421 486 
+unit 372 375 376 382 391 424 432 441 453 457 472 473 474 499 503 510 515 527 543 549 
+united 393 429 489 498 502 
+units 372 375 505 550 
+unlike 382 487 
+unocal 471 543 
+unproc 417 
+unprofitable 409 
+unsolicited 436 
+untapped 460 
+unusual 490 
+unveiled 463 487 
+unveils 463 
+upcoming 382 462 
+ups 404 
+upward 475 
+urbana 532 
+urge 443 
+urges 489 502 
+usda 417 
+user 487 
+users 385 446 463 
+usual 391 462 
+utah 437 
+utilicorp 498 
+utilities 529 
+utility 498 
+va. 461 
+vaccinate 443 
+valley 533 
+valued 372 426 496 
+values 371 
+vancouver 388 409 
+variety 382 
+vboice 493 
+vehicle 382 
+vehicles 450 515 
+vein 448 
+venture 379 380 472 
+ventures 504 
+verdict 457 
+vermiculite 437 
+version 463 
+versus 388 
+viacom 383 393 496 
+vice 384 386 540 
+vice-president 505 
+victim 386 
+victims 386 
+video 493 
+view 419 458 
+views 390 
+village 426 
+violations 500 
+viral 477 
+virginia 498 
+virtually 419 
+visa 382 505 
+visit 419 458 
+visited 458 
+vms 379 478 
+voice 446 493 
+volcker 458 
+volume 425 
+volumes 425 
+voluntary 525 
+volvo 382 
+vote 386 442 540 
+voted 404 
+votes 396 404 
+vt. 483 
+vying 496 
+waf 408 
+wage 462 
+wages 462 
+wales 523 
+walked 486 518 
+wall 386 
+walter 423 521 
+war 496 
+warburg 414 421 
+ward 491 495 
+warfare 424 
+warrant 372 381 485 
+warrants 372 437 
+warren 372 
+warwick 449 
+washington 386 397 417 419 429 432 434 458 482 489 492 496 500 502 516 545 
+waste 396 404 406 
+water 406 472 
+wedge 545 
+wednesday 460 540 
+week 382 386 419 429 451 458 496 516 540 545 
+weekend 386 
+weekly 501 
+weeks 465 518 
+wellington 425 
+wells 469 
+welsh 523 
+west 377 419 498 499 505 543 
+west-germany 377 458 505 550 
+western 389 
+westminster 371 
+wheat 395 425 501 
+white 386 494 
+whittaker 392 420 435 
+whittar 435 
+wholesale 414 421 544 
+wholly 372 424 473 
+widely-popular 540 
+wider 523 
+wil 412 
+willemijn 373 
+william 372 380 386 469 
+wilmington 507 
+wilton 535 
+wimi 449 
+winnemucca 488 
+winnipeg 403 465 
+winston-salem 510 
+wishing 411 
+withdraw 518 
+withdrawal 387 
+withdrawn 372 
+wkr 420 435 
+wmx 404 
+wolff 540 
+won 386 438 439 
+wood 403 424 
+wool 425 
+work 437 
+worked 402 
+workers 462 486 
+workforce 518 523 
+working 525 
+works 442 
+world 377 408 419 443 500 549 
+worldbank 419 
+worldwide 477 505 510 
+worse 429 
+worth 372 394 419 504 
+wrecked 386 
+wright 437 
+writeoff 490 
+writers 397 
+wrongly 372 
+wtc 398 408 
+xerox 446 
+xrx 446 
+yarn 374 
+year 374 377 378 380 381 382 390 399 408 409 415 419 420 422 427 428 429 432 435 437 444 449 450 454 456 462 466 481 484 490 491 495 500 518 523 524 525 538 539 
+year-earlier 409 435 
+year-end 437 
+yearly 450 
+years 372 375 382 386 414 419 421 441 443 479 489 502 523 525 549 
+yemen 443 
+yemen-arab-republic 443 
+yemen-demo-republic 443 
+yen 414 421 485 524 
+yield 382 
+york 372 373 375 382 387 393 397 401 436 437 441 456 469 475 481 482 504 513 520 522 546 547 549 
+young 382 
+yuear 371 
+zealand 425 
+zestril 375 
+zurich 394 415 416 427 468 
