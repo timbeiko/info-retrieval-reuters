@@ -76,7 +76,7 @@ def merge_blocks():
     
     current_lines = {}
     merged_index = []
-    largest_doc_index = 0
+    num_docs_in_index = 0
 
     # Initialize all blocks to their first line 
     for b in blocks:
@@ -84,19 +84,22 @@ def merge_blocks():
         current_lines[b] = {line[0]: line[1:]}
 
     while(len(blocks) > 0): 
-        lowest_alphabetical_string = "~~~"
         # Find lowest alphabetical string 
+        lowest_alphabetical_string = "~~~"
         for block in blocks:
-            if current_lines[block].keys()[0] < lowest_alphabetical_string:
-                lowest_alphabetical_string = current_lines[block].keys()[0]
+            current_term = current_lines[block].keys()[0]
+            if current_term < lowest_alphabetical_string:
+                lowest_alphabetical_string = current_term
 
         # Add lowest string to dictionary
         merged_index.append({lowest_alphabetical_string: []})
+        lowest_string_postings = merged_index[-1].values()[0]
  
         for block in blocks:
+            current_term = current_lines[block].keys()[0]
             # Add postings lists if blocks have lowest_alphabetical_string
-            if current_lines[block].keys()[0] == lowest_alphabetical_string:
-                merged_index[-1].values()[0] += current_lines[block][lowest_alphabetical_string]
+            if current_term == lowest_alphabetical_string:
+                lowest_string_postings += current_lines[block][current_term]
                 line = nltk.word_tokenize(block.readline())
                 # nltk parser issue
                 if '.' in line: 
@@ -110,15 +113,15 @@ def merge_blocks():
                     current_lines.pop(block)
                 else:
                     current_lines[block] = {line[0]: line[1:]}
-                    if max(map(int, line[1:])) > largest_doc_index:
-                        largest_doc_index = max(map(int, line[1:]))
+                    if max(map(int, line[1:])) > num_docs_in_index:
+                        num_docs_in_index = max(map(int, line[1:]))
 
-        # Sort and remove duplicates in merged index for the last term
-        merged_index[-1].values()[0] = sorted(set(merged_index[-1].values()[0]))
+            # Sort and remove duplicates in merged index for the last term
+            merged_index[-1].values()[0]  = sorted(set(lowest_string_postings))
 
         # This is to flag words that appear in >25% of queries, in case we want to make them stopwords
-        if len(merged_index[-1].values()[0]) > largest_doc_index/4:
-            print "Term", merged_index[-1].keys()[0], "appears in >1/4 docs"
+        if len(lowest_string_postings ) > num_docs_in_index/4:
+            print "Term", lowest_alphabetical_string, "appears in >1/4 docs"
 
     # Write out merged index
     index_output = open("merged_index.dat", 'w')
@@ -128,6 +131,8 @@ def merge_blocks():
             s += doc + " "
         index_output.write(s)
         index_output.write('\n')
+
+    print "Blocks succesfully merged"
 
 def main():
     # Will need to iterate over all .sgm files eventually.
