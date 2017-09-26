@@ -13,11 +13,12 @@ def create_SPIMI_index(input_file):
     token_stream = []
     docID = 0 
     blockNumber = 0 
+    fileNumber = input_file.name[-7:-4]
 
     for line in input_file:
         # Memory full 
         if (sys.getsizeof(token_stream)/1024.0/1024) >= blockSizeLimitMB:
-            SPIMI_invert(token_stream, blockNumber)
+            SPIMI_invert(token_stream, blockNumber, fileNumber)
             token_stream = []
             blockNumber += 1
 
@@ -39,12 +40,12 @@ def create_SPIMI_index(input_file):
 
     # Output final block if not empty
     if token_stream != []:
-        SPIMI_invert(token_stream, blockNumber)
+        SPIMI_invert(token_stream, blockNumber, fileNumber)
 
     return token_stream
 
-def SPIMI_invert(token_stream, blockNumber):
-    output_file = "blocks/output_block_" + str(blockNumber) + ".dat"
+def SPIMI_invert(token_stream, blockNumber, fileNumber):
+    output_file = "blocks/output_block_" + str(fileNumber) + str(blockNumber) + ".dat"
     dictionary = {}
 
     # Build dictionary with tokens
@@ -66,17 +67,15 @@ def SPIMI_invert(token_stream, blockNumber):
         block_output.write(entry)
         block_output.write('\n')
 
-    print "Block #", blockNumber, "written to disk"
+    print "File #", fileNumber, "Block #", blockNumber, "written to disk"
         
 def merge_blocks():
     # Open all blocks 
     blocks = []
     for filename in os.listdir(os.getcwd()+ "/blocks"):
         blocks.append(open("blocks/" + filename, 'r'))
-    
     current_lines = {}
     merged_index = []
-    num_docs_in_index = 0
 
     # Initialize all blocks to their first line 
     for b in blocks:
@@ -123,30 +122,30 @@ def merge_blocks():
                 else:
                     current_lines[block] = {line[0]: line[1:]}
 
-                    # Get largest docID encountered at this point, used to remove stopwords
-                    if max(map(int, line[1:])) > num_docs_in_index:
-                        num_docs_in_index = max(map(int, line[1:]))
-
-        # This is to flag words that appear in >25% of queries, in case we want to make them stopwords
-        if len(lowest_string_postings ) > num_docs_in_index/4:
-            print "Term", lowest_alphabetical_string, "appears in >1/4 docs"
-
     # Write out merged index
     index_output = open("merged_index.dat", 'w')
     for term in merged_index:
         s = term.keys()[0] + " "
-        sorted_values = sorted(set(term.values()[0]))
-        for doc in sorted_values:
-            s += doc + " "
+
+        # Handle nltk tokenization issue
+        try:
+            map(int,term.values()[0])
+        except ValueError, e:
+            term.values()[0].remove("'s")
+
+        # Sort posting list for term 
+        sorted_values = sorted(set(map(int,term.values()[0])))
+        for docID in sorted_values:
+            s += str(docID) + " "
         index_output.write(s)
         index_output.write('\n')
 
     print "Blocks succesfully merged"
 
 def main():
-    # Will need to iterate over all .sgm files eventually.
-    current_file = open('reuters/reut2-000.sgm', 'r')
-    create_SPIMI_index(current_file)
+    for filename in os.listdir(os.getcwd()+ "/reuters"):
+        if "reut" in filename:
+            create_SPIMI_index(open("reuters/" + filename, 'r'))
     merge_blocks()
 
 if __name__ == '__main__':
