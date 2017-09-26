@@ -16,9 +16,7 @@ def checkIfIndex():
 def loadIndexToMemory():
     disk_index = open('merged_index.dat', 'r')
     memory_index = {}
-    i = 0 
     for line in disk_index:
-        i += 1
         nltk_line = nltk.word_tokenize(line)
         # nltk parser issue
         if '.' in nltk_line: 
@@ -29,12 +27,11 @@ def loadIndexToMemory():
                 
         # Add entry to memory index
         memory_index[nltk_line[0]] = nltk_line[1:]
-
     return memory_index
 
-
+# Implement this next
 def searchForDocuments(index):
-    None
+    None 
 
 def main():
     displayWelcomePrompt()
