@@ -25,7 +25,7 @@ def create_SPIMI_index(input_file):
         # Tokenize line of document 
         token_line = nltk.word_tokenize(line)
         token_line = [token.lower() for token in token_line] # Make tokens lowercase
-
+	
         # First line of each file
         if "doctype" in token_line:
             continue
@@ -35,8 +35,12 @@ def create_SPIMI_index(input_file):
 
         # Add tokens to token_stream if they are not a stop word 
         for token in token_line:
-            if token not in stop_words:
-                token_stream.append([token, docID])
+	    if token.endswith("'"):
+		token = token[:-1]
+	    elif token.endswith("'s"):
+		token = token[:-2]
+            if len(token) > 1 and token not in stop_words: 
+		token_stream.append([token, docID])
 
     # Output final block if not empty
     if token_stream != []:
