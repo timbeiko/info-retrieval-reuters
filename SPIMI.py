@@ -16,7 +16,7 @@ def create_SPIMI_index(input_file):
     fileNumber = input_file.name[-7:-4]
 
     for line in input_file:
-        # Memory full 
+        # Memory full - use SPIMI to write block to disk
         if (sys.getsizeof(token_stream)/1024.0/1024) >= blockSizeLimitMB:
             SPIMI_invert(token_stream, blockNumber, fileNumber)
             token_stream = []
@@ -41,7 +41,6 @@ def create_SPIMI_index(input_file):
     # Output final block if not empty
     if token_stream != []:
         SPIMI_invert(token_stream, blockNumber, fileNumber)
-
     return token_stream
 
 def SPIMI_invert(token_stream, blockNumber, fileNumber):
@@ -66,7 +65,6 @@ def SPIMI_invert(token_stream, blockNumber, fileNumber):
             entry += " "
         block_output.write(entry)
         block_output.write('\n')
-
     print "File #", fileNumber, "Block #", blockNumber, "written to disk"
         
 def merge_blocks():
@@ -79,7 +77,7 @@ def merge_blocks():
 
     # Initialize all blocks to their first line 
     for b in blocks:
-        line = nltk.word_tokenize(b.readline())
+        line = b.readline().split(" ")[0:-1] # Stop at -1 to remove the "\n" token 
         current_lines[b] = {line[0]: line[1:]}
 
     # Merge blocks and remove blocks when we are at the end of one
@@ -94,52 +92,36 @@ def merge_blocks():
         # Add lowest string to dictionary
         merged_index.append({lowest_alphabetical_string: []})
 
-        # Check edge case where some keys get inserted twice on the last block
+        # Check edge case where some last keys from blocks get inserted twice
         if len(merged_index) > 2 and merged_index[-1].keys() == merged_index[-2].keys():
             merged_index[-2].values()[0] += merged_index[-1].values()[0]
             merged_index.pop(-1)
-
-        lowest_string_postings = merged_index[-1].values()[0]
  
-        # Try to find lowest_alphabetical_string across blocks' current strings 
+        # Try to match lowest_alphabetical_string across blocks' current strings 
         for block in blocks:
             current_term = current_lines[block].keys()[0]
-            if current_term == lowest_alphabetical_string: 
-                lowest_string_postings += current_lines[block][current_term]
-                line = nltk.word_tokenize(block.readline())
+            if current_term == lowest_alphabetical_string:
+                # Concatenate postings lists if there is a match 
+                merged_index[-1].values()[0] += current_lines[block][current_term]
 
-                # Handle nltk parser issue
-                if '.' in line: 
-                    if line[1] == '.':
-                        line[0] = line[0] + line[1]
-                    while '.' in line:
-                        line.remove('.')
-
-                # Remove blocks when we reach the end of it
-                if len(line) <= 1:
+                # Try to move to next string of the block, remove block if we are at the end of it
+                try: 
+                    line = block.next().split(" ")[0:-1]
+                    current_lines[block] = {line[0]: line[1:]}
+                except StopIteration:
                     blocks.remove(block)
                     current_lines.pop(block)
-                else:
-                    current_lines[block] = {line[0]: line[1:]}
 
     # Write out merged index
     index_output = open("merged_index.dat", 'w')
     for term in merged_index:
         s = term.keys()[0] + " "
-
-        # Handle nltk tokenization issue
-        try:
-            map(int,term.values()[0])
-        except ValueError, e:
-            term.values()[0].remove("'s")
-
         # Sort posting list for term 
         sorted_values = sorted(set(map(int,term.values()[0])))
         for docID in sorted_values:
             s += str(docID) + " "
         index_output.write(s)
         index_output.write('\n')
-
     print "Blocks succesfully merged"
 
 def main():

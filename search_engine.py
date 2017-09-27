@@ -17,16 +17,9 @@ def loadIndexToMemory():
     disk_index = open('merged_index.dat', 'r')
     memory_index = {}
     for line in disk_index:
-        nltk_line = nltk.word_tokenize(line)
-        # nltk parser issue
-        if '.' in nltk_line: 
-            if nltk_line[1] == '.':
-                nltk_line[0] = nltk_line[0] + nltk_line[1]
-            while '.' in nltk_line:
-                nltk_line.remove('.')
-                
-        # Add entry to memory index
-        memory_index[nltk_line[0]] = nltk_line[1:]
+        term = line.split(" ")[0]
+        postings = line.split()[1:]
+        memory_index[term] = postings
     return memory_index
 
 # Implement this next
