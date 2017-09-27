@@ -1,7 +1,6 @@
 '87 6816 
 '87/88 6935 
 're 6844 6922 
-'ve 6876 
 ****** 6805 6808 6822 6831 6834 6835 6847 6868 6871 6904 6919 6942 
 -3rd 6840 
 -3rd-q 6850 
@@ -1125,6 +1124,7 @@ alleged 6957
 allegedly 6899 
 alleging 6878 
 allen-bradley 6916 6956 
+allen-bradley's 6956 
 allen-bradley/tdk 6916 6956 
 allende 6927 
 allied 6933 
@@ -1492,8 +1492,10 @@ bradley 6896
 branch 6816 
 brand 6836 
 brascan 6883 
+brascan's 6883 
 brasilia 6912 6937 
 brazil 6804 6896 6909 6912 6920 6937 
+brazil's 6937 
 brazilian 6804 6896 6909 6912 6920 
 breach 6878 6885 
 break 6922 
@@ -2042,6 +2044,7 @@ dividing 6858
 division 6811 6820 6833 6855 6857 6876 6918 6928 6956 
 divisions 6918 6928 
 djibouti 6838 
+djibouti's 6838 
 dlr 6815 6828 6833 6834 6835 6844 6854 6857 6880 6887 6895 6902 6910 6914 6921 6922 6926 6928 6936 6952 
 dlrs-equivalent 6948 
 dog 6886 
@@ -2109,6 +2112,7 @@ effects 6877 6954
 effort 6807 6823 6854 6857 
 efforts 6823 
 egypt 6898 
+egypt's 6898 
 eia 6871 6893 
 elders 6949 
 elect 6927 
@@ -2568,6 +2572,7 @@ geared 6818
 gec 6844 
 gelco 6844 
 gencorp 6805 6815 6819 6928 
+gencorp's 6928 
 general 6812 6815 6816 6819 6866 6883 6892 6899 6925 6928 6941 6945 6957 
 generally 6890 6949 
 generate 6839 6844 
@@ -2743,6 +2748,7 @@ improvements 6811
 improving 6807 
 in-city 6844 
 inadequate 6890 
+inc's 6810 
 inc. 6867 
 incentives 6876 
 include 6823 6836 6899 6908 6924 6935 6950 
@@ -2774,6 +2780,7 @@ indonesia 6949 6954
 industrial 6811 6841 6884 6888 6928 
 industries 6815 6819 6820 6823 6833 6843 6926 6928 6954 
 industry 6823 6829 6844 6846 6876 6891 6926 6927 
+industry's 6823 
 inevitable 6876 
 inflation 6920 
 inflation-free 6896 
@@ -3273,6 +3280,7 @@ nat-gas 6876 6905
 natalie 6849 
 nation 6838 6876 
 national 6817 6863 6882 6914 6919 6921 6926 6927 6940 6945 6957 
+national's 6817 
 nations 6896 6925 
 natural 6876 6905 
 nature 6844 6891 
@@ -3689,7 +3697,8 @@ qtly 6825 6827 6861 6875 6881 6917 6931
 qtr 6809 6830 6831 6837 6840 6848 6850 6859 6861 6880 6942 
 quantify 6907 
 quantity 6939 
-quarter 6823 6892 6907 6943 
+quarter 6892 6907 6943 
+quarter's 6823 
 quarterly 6821 6823 6867 6877 6881 6931 
 quell 6823 
 questions 6896 
@@ -3784,6 +3793,7 @@ refuse 6926
 refused 6937 
 regarded 6866 6896 
 region 6949 
+region's 6949 
 regional 6876 6914 
 registration 6845 
 regular 6891 
@@ -3995,6 +4005,7 @@ sectors 6949
 secure 6807 6901 
 secured 6895 6928 
 securities 6806 6815 6823 6845 6849 6856 6886 6887 6891 6911 6914 6922 6928 6933 6944 6948 
+securities' 6887 
 securitization 6914 
 security 6843 6914 6926 
 seek 6815 6829 6841 6849 6884 6908 6923 6928 
@@ -4482,6 +4493,7 @@ unfair 6926
 unfairly 6926 
 unicorp 6844 
 union 6882 6899 6903 6927 6934 6957 
+union's 6927 
 unions 6899 
 unique 6846 
 unissued 6818 6914 
@@ -4658,6 +4670,7 @@ xtr 6853
 xtra 6853 
 yacimientos 6905 
 yasuda 6832 
+year's 6939 6949 
 year-ago 6837 6840 
 year-earlier 6943 6955 
 year-end 6844 
@@ -4676,6 +4689,7 @@ york 6807 6814 6815 6823 6845 6852 6862 6864 6867 6876 6878 6891 6896 6902 6914 
 york-area 6928 
 young 6844 
 ypf 6905 
+ypf's 6905 
 ypfb 6923 
 yr 6814 
 yugoslavia 6935 

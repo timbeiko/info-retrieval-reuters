@@ -583,7 +583,8 @@ aluminium 938
 alvarez 951 
 ambition 965 
 amend 925 
-america 939 950 965 
+america 939 950 
+america's 965 
 american 933 979 984 
 amount 926 942 966 987 1000 
 amounted 922 
@@ -697,6 +698,7 @@ bank 923 924 926 927 937 942 943 947 950 953 955 956 962 965 975 989 997 999
 banker 927 950 
 banking 927 946 948 950 965 
 banks 926 927 942 946 950 957 975 982 
+banks' 946 
 banque 928 931 935 
 banques 935 
 barrels 952 
@@ -1048,7 +1050,8 @@ counsellor 925
 countermoves 960 
 counterpart 950 
 countries 925 
-country 925 950 955 975 991 
+country 925 950 955 991 
+country's 975 
 county 995 
 coupled 922 
 coupon 928 954 
@@ -1089,6 +1092,7 @@ czechoslovakia 925
 daig.f 959 
 daily 930 945 
 daimler 959 
+daimler's 959 
 daimler-benz 959 
 dalian 925 
 dallas/fort 970 
@@ -1196,6 +1200,7 @@ distribute 951
 distribution 922 
 div 958 
 dividend 922 938 993 
+dividends 922 
 division 982 
 dlr 922 923 927 933 938 954 962 970 983 989 
 dollar 938 956 965 
@@ -1266,6 +1271,7 @@ energy 947 952
 engine 933 970 
 engines 933 970 979 
 england 937 943 953 999 
+england's 937 
 enhance 925 984 
 ensure 965 991 
 enter 933 
@@ -1750,7 +1756,7 @@ joining 925
 joint 980 
 juan 979 
 judgement 961 
-july 925 938 948 974 989 997 
+july 922 925 938 948 974 989 997 
 june 922 979 989 
 kadoorie 960 
 kaohsiung 927 
@@ -2182,6 +2188,7 @@ practice 971
 pratt 984 
 pre-eminent 965 
 pre-paid 967 
+pre-paid's 967 
 pre-tax 949 958 971 
 precedent 925 
 preceding 936 
@@ -2290,6 +2297,7 @@ reached 939
 reacting 982 
 reaction 977 
 reagan 964 965 991 
+reagan's 964 
 real 922 
 reality 977 
 reallocated 977 
@@ -2689,6 +2697,7 @@ tariff 925
 tariffs 925 
 tate 968 996 
 tax 922 926 942 955 958 995 
+tax-free 922 
 tcsf.pa 980 
 team 960 
 technical 977 983 
@@ -2719,7 +2728,8 @@ today 925 926 933 937 941 942 943 944 950 955 957 960 970 984 1000
 todmpb 989 
 tokyo 954 955 957 991 
 told 950 951 952 955 960 961 969 987 991 
-tomorrow 926 942 944 950 
+tomorrow 944 950 
+tomorrow's 926 942 
 tonnes 927 934 944 
 tony 982 
 top 926 942 982 
@@ -2826,6 +2836,7 @@ visit 925
 visiting 991 
 volatility 922 
 volcker 965 
+volcker's 965 
 voluntarily 925 951 
 voluntary 925 
 vries 977 
@@ -2899,6 +2910,7 @@ year-on-year 929 940
 years 922 925 934 955 965 971 988 991 
 yen 922 954 955 957 
 yesterday 926 942 950 957 960 969 971 990 991 1000 
+yesterday's 990 
 yield 957 989 
 york 933 964 965 970 979 986 992 1000 
 young 965 

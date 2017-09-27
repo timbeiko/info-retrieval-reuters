@@ -1391,6 +1391,7 @@ blame 5258
 blast 5275 
 bloch 5345 
 block 5332 5335 5345 
+block's 5345 
 blocked 5278 5376 
 blue 5295 
 bluefield 5296 
@@ -1643,6 +1644,7 @@ communications 5302
 communist 5262 5263 5289 
 community 5258 5285 5371 
 company 5250 5252 5272 5276 5281 5286 5291 5295 5296 5298 5299 5305 5306 5311 5318 5319 5322 5330 5340 5347 5348 5352 5353 5357 5366 5374 5377 
+company's 5286 
 comparable 5358 
 compare 5345 
 compared 5274 5279 5283 5334 5371 
@@ -1769,7 +1771,8 @@ costs 5295 5298 5345 5366
 council 5258 5279 
 countenance 5285 
 counter-proposal 5294 
-countries 5255 5258 5271 5273 5274 5290 5318 5323 5371 5376 
+countries 5258 5271 5273 5274 5290 5318 5371 5376 
+countries' 5255 5323 
 country 5255 5258 5265 5266 5270 5273 5279 5294 5323 5343 5371 
 county 5335 
 coup 5265 
@@ -2024,6 +2027,7 @@ earthquake 5268 5270
 ease 5318 
 east 5250 5272 5299 
 eastern 5298 
+eastern's 5298 
 easy 5265 
 easy-to-use 5302 
 ec 5258 5285 
@@ -2033,6 +2037,7 @@ economist 5318
 economists 5318 
 economy 5265 5271 5278 5279 5318 5376 
 ecuador 5268 5270 
+ecuador's 5270 
 ecuadorean 5268 
 ed 5376 
 edible 5285 
@@ -2450,6 +2455,7 @@ french 5270 5318 5375
 frenzel 5376 
 frenzy 5298 
 friday 5258 5261 5268 5270 5271 5276 5280 5283 5286 5294 5306 5311 5352 5376 
+friday's 5311 
 friendly 5304 5352 
 froday 5299 
 front 5341 
@@ -2508,7 +2514,8 @@ goods 5268 5278 5279 5318
 goodstein 5302 
 goodwill 5342 
 gordon 5334 
-government 5252 5258 5259 5261 5265 5266 5268 5270 5271 5279 5294 5318 5330 5338 
+government 5252 5258 5259 5261 5265 5266 5268 5270 5271 5279 5294 5318 5338 
+government's 5330 
 government-approved 5294 
 government-owned 5252 
 governments 5258 
@@ -2876,7 +2883,7 @@ large 5258 5259 5265 5319 5371 5376
 largely 5318 
 larger 5345 
 largest 5273 5291 5302 5345 
-larive 5291 
+larive's 5291 
 laser 5302 
 laszlo 5267 
 late 5294 5360 5363 5376 
@@ -3156,7 +3163,7 @@ multnomah 5335
 mustapha 5278 
 mutual 5356 
 mylrea 5285 
-n't 5273 5288 5376 
+n't 5273 5288 
 n.j. 5300 5327 
 na 5354 
 nabisco 5311 
@@ -3210,6 +3217,7 @@ normal 5261 5270 5343
 norsk 5295 
 northeast 5275 
 northern 5252 5273 5292 5304 5343 
+northern's 5304 
 northwest 5330 
 norway 5273 5285 
 note 5264 5308 5312 5317 5321 5327 5339 5342 5354 5356 5358 5359 5377 
@@ -3427,7 +3435,7 @@ plantations 5292
 plants 5278 
 played 5273 
 playing 5273 
-plc 5257 5264 5299 5341 
+plc 5250 5257 5264 5299 5341 
 pleased 5259 
 pledge 5271 
 plight 5270 
@@ -3587,6 +3595,7 @@ provision 5290 5321 5339 5342 5359 5363 5366
 provisional 5253 5254 5256 5371 
 provisions 5293 5322 5376 
 pruned 5318 
+pson.l 5250 
 public 5290 5357 
 publicly 5357 
 published 5256 5325 
@@ -3686,6 +3695,7 @@ reducing 5294
 reduction 5255 5273 5295 5298 5318 5323 
 redundant 5318 
 reebok 5335 
+reebok's 5335 
 referring 5265 5311 
 refining 5349 
 reflected 5299 5311 5351 
@@ -4101,6 +4111,7 @@ started 5259 5262 5293
 starting 5294 
 starts 5262 5293 
 state 5261 5274 5287 5318 
+state's 5318 
 state-controlled 5318 
 state-oil 5281 
 state-owned 5318 5330 
@@ -4160,6 +4171,7 @@ study 5286
 studying 5295 
 subclauses 5258 
 subcommittee 5376 
+subcommittee's 5376 
 subject 5250 5291 5331 5341 5349 5350 5366 
 submission 5319 5352 
 subordinated 5347 5357 5366 5374 
@@ -4234,6 +4246,7 @@ tadzkhikistan 5289
 tainted 5311 
 taipei 5280 
 taiwan 5280 5288 5376 
+taiwan's 5280 
 takeover 5286 
 takes 5272 5360 
 taking 5269 

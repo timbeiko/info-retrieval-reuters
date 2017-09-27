@@ -1358,6 +1358,7 @@ attributed 3852
 auction 3816 3842 
 austin 3805 
 austria 3792 3800 3838 
+austria's 3838 
 austrian 3800 3838 
 authenticity 3781 
 author 3762 3798 3869 
@@ -1396,6 +1397,7 @@ balanced 3902
 bancshares 3858 
 band 3773 
 bank 3745 3762 3767 3779 3800 3816 3825 3835 3838 3857 3869 3876 3878 3891 
+bank's 3876 
 bank-of-china 3835 
 bankasi 3745 
 banker 3803 
@@ -1648,6 +1650,7 @@ brackets 3792 3901
 braintree 3775 
 branco 3892 
 brazil 3869 3892 3901 
+brazil's 3869 
 brazilian 3869 3892 
 breakup 3864 
 brian 3767 
@@ -1780,6 +1783,7 @@ challenge 3796 3864 3869
 challenges 3885 
 chamber 3871 
 champlin 3906 
+champlin's 3906 
 chance 3796 3815 
 chancellor 3762 3800 3838 
 chances 3792 
@@ -1839,6 +1843,7 @@ closing 3861
 clumsy 3888 
 cms 3752 
 cng 3787 
+co's 3827 
 coalition 3779 
 coast 3873 
 coca-cola 3911 
@@ -1868,7 +1873,8 @@ commented 3861
 commerce 3892 
 commercial 3869 
 commerical 3820 
-commission 3752 3770 3797 3813 3815 3832 3833 3837 3839 3842 3877 3881 3883 3888 
+commission 3752 3770 3797 3813 3815 3832 3833 3837 3839 3842 3877 3881 3883 
+commission's 3888 
 commissioner 3770 3891 
 commisssioner 3891 
 commitment 3745 3868 3885 
@@ -1993,7 +1999,7 @@ court 3778 3796 3877 3885
 cover 3904 
 coverage 3852 
 covers 3849 
-cows 3756 
+cows' 3756 
 create 3804 3864 3868 
 created 3815 
 credence 3864 
@@ -2169,7 +2175,8 @@ divested 3790 3910
 divided 3748 
 dividend 3743 3760 3763 3774 3841 3857 3860 3875 3890 3907 
 dividends 3822 3853 3857 3868 
-division 3780 3790 3823 3882 3910 
+division 3790 3823 3882 3910 
+division's 3780 
 divs 3750 
 dlr 3742 3744 3745 3759 3767 3768 3795 3814 3817 3822 3829 3843 3849 3853 3861 3864 3868 3872 3882 3893 3902 
 dmisc 3802 
@@ -2268,6 +2275,7 @@ empie 3891
 empire 3908 
 employees 3869 3886 
 employers 3796 
+employers' 3796 
 employs 3790 
 emr 3834 
 emulsion 3780 
@@ -2331,6 +2339,7 @@ exacerbated 3885
 exceed 3745 3762 3852 3878 
 excess 3813 3864 
 exchange 3769 3797 3799 3815 3832 3833 3839 3842 3869 3873 3877 3880 3881 3883 
+exchange's 3881 
 exchequer 3762 
 excise 3855 
 exclude 3806 3867 
@@ -2571,6 +2580,7 @@ family 3882
 farah 3841 
 farm 3767 3847 3864 
 farmers 3767 3869 
+farmers' 3767 
 fashion 3844 
 fats 3888 
 favor 3798 
@@ -2733,6 +2743,7 @@ golden 3815
 good 3743 3795 3798 3815 
 goods 3902 
 government 3750 3762 3779 3800 3832 3843 3869 3878 3882 3883 3892 3898 3906 
+government's 3869 
 governments 3829 3846 3861 
 governor 3891 
 governors 3855 
@@ -2777,6 +2788,7 @@ ha 3792
 haecke 3888 
 haft 3912 
 hafts 3912 
+hafts' 3912 
 half 3762 3767 3793 3825 3862 3906 
 half-point 3762 
 han 3791 
@@ -2864,6 +2876,7 @@ house 3795 3829 3863 3871 3887
 houses 3798 3861 
 housing 3898 
 houston 3798 3805 3807 3808 3822 
+houston's 3805 
 houston-based 3798 3864 
 howard 3864 3885 
 huge 3779 
@@ -2904,6 +2917,7 @@ improve 3847
 improved 3841 
 improvement 3846 
 improving 3846 
+inc's 3856 
 incident 3837 
 include 3751 3771 3801 3886 3902 
 included 3797 3813 3832 3901 
@@ -3028,7 +3042,8 @@ jan. 3867
 jan/dec 3901 
 janeiro 3869 3892 
 january 3742 3755 3758 3775 3796 3813 3841 3890 3898 3903 
-japan 3798 3876 3889 3902 
+japan 3876 3889 3902 
+japan's 3798 
 japanese 3798 3830 3876 3889 
 jerome 3803 
 jim 3828 3829 3871 3887 
@@ -3082,6 +3097,7 @@ kurzweil 3874 3886
 ky 3893 
 kyc 3844 
 l.a. 3819 
+l.a.'s 3819 
 l.m 3849 
 label 3749 3781 
 labels 3781 
@@ -3266,7 +3282,8 @@ massive 3877
 master 3884 
 masterminding 3877 
 mateo 3835 
-material 3818 3827 3828 
+material 3818 3827 
+material's 3828 
 materialises 3762 
 materials 3778 3828 
 mathews 3790 3910 
@@ -3395,7 +3412,8 @@ naperville 3763
 nasd 3810 
 nasdaq 3810 
 nat-gas 3758 3798 
-nation 3820 3885 3902 
+nation 3885 3902 
+nation's 3820 
 national 3750 3762 3779 3794 3800 3803 3810 3825 3838 3847 3855 3869 3885 3901 
 nations 3748 
 nationwide 3819 
@@ -4104,9 +4122,10 @@ santa 3806
 santos 3869 
 sao 3892 
 sarney 3869 
+sarney's 3869 
 satellite 3835 
 save 3754 
-saving 3762 
+saving's 3762 
 savings 3762 3779 3813 
 sbm 3771 
 scandal 3829 
@@ -4119,6 +4138,7 @@ science 3782
 scope 3762 
 scoring 3767 
 seamen 3869 
+seamen's 3869 
 search 3843 
 searching 3798 
 sears 3803 
@@ -4137,6 +4157,7 @@ seeking 3745 3813 3899
 seeks 3745 3778 3912 
 sees 3777 3792 3795 3846 3852 3865 
 seizer 3759 
+seizer's 3759 
 selected 3809 
 selection 3847 
 selective 3759 
@@ -4646,6 +4667,7 @@ ventures 3756 3798 3906
 verda 3813 
 verde 3813 
 verhofstadt 3779 
+verhofstadt's 3779 
 versar 3821 
 versus 3884 3900 
 veto 3871 

@@ -1311,6 +1311,7 @@ amounts 74 141
 analysis 136 144 
 analyst 4 16 28 45 110 144 
 analysts 4 16 18 28 79 110 130 144 
+analysts' 110 
 analytical 110 
 anchorage 43 
 angeles 4 16 28 65 142 153 165 
@@ -1690,7 +1691,8 @@ bpd 144
 brackets 6 
 brain 28 
 branchville 120 
-brazil 4 16 18 26 47 60 105 137 
+brazil 4 16 18 26 47 60 105 
+brazil's 137 
 brazilian 1 4 16 
 bread 6 
 breakthrough 26 
@@ -1982,6 +1984,7 @@ copper 22
 coradian 98 
 corn 5 6 57 97 
 corn/sorghum 5 
+corp's 158 
 corporate 23 170 
 corporation 19 57 97 
 corps 107 
@@ -2097,6 +2100,7 @@ debtor 60
 debtors 26 137 
 dec 1 101 145 
 december 18 28 29 46 48 54 83 100 105 113 130 142 144 
+december's 54 
 decided 79 
 decision 79 137 
 declaration 82 
@@ -2218,6 +2222,7 @@ dominion 66
 domm 110 
 donald 28 54 
 donohue 79 
+donohue's 79 
 dot 10 
 doubt 1 
 doubts 1 
@@ -3376,6 +3381,7 @@ nov 101
 nova 157 
 novebmer 83 
 november 28 29 43 54 113 122 
+november's 28 
 nspa 69 
 nt 146 
 nuclear 155 
@@ -4182,6 +4188,7 @@ stephens 34
 sterling 116 
 stiffer 39 
 stock 4 8 9 10 12 16 23 33 34 45 61 79 96 103 110 116 117 119 120 122 125 128 129 146 147 148 149 150 153 157 
+stock's 10 
 stockholders 24 33 88 
 stockpile 136 
 stocks 4 16 97 
@@ -4453,6 +4460,7 @@ veg-oil 6 69
 vegetable 6 18 
 vehicles 107 
 venezuela 26 137 
+venezuela's 137 
 venezuelan 26 137 
 venture 2 79 114 155 
 ventures 79 
@@ -4499,6 +4507,7 @@ wealthy 61
 weather 109 
 wedndsday 109 
 wednesday 81 103 109 
+wednesday's 109 
 week 1 4 16 28 30 44 46 58 59 60 69 76 77 78 79 80 81 92 94 99 101 102 103 104 109 111 124 133 137 
 week-long 43 
 weekly 1 46 48 69 79 99 100 102 103 132 133 

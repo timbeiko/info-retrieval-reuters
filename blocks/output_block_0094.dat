@@ -2,7 +2,7 @@
 'll 9660 
 'no 9660 
 're 9679 9687 9697 
-'ve 9694 9717 
+'ve 9694 
 ****** 9686 9698 9699 9723 9727 9731 9735 9737 
 -198 9707 
 -ambrit 9661 
@@ -828,6 +828,7 @@ affirmative 9716
 afford 9717 
 afg 9638 
 africa 9721 
+africa's 9721 
 aftermath 9679 9722 
 aftershocks 9722 
 ag 9706 9707 9723 9728 9734 
@@ -1165,6 +1166,7 @@ benefit 9712
 benefits 9637 9697 9733 
 benefitting 9733 
 bhp 9736 
+bhp's 9736 
 bid 9638 9642 9703 9711 
 bieszk 9646 
 big 9684 9722 9732 
@@ -1210,6 +1212,7 @@ bought 9733
 bound 9722 
 bow 9704 
 bp 9731 9733 9737 9742 
+bp's 9733 
 bp.l 9733 9742 
 bpd 9639 
 brand 9708 
@@ -1417,6 +1420,7 @@ comments 9638 9690 9701
 commerce 9637 9663 9738 
 commercial 9665 9684 9687 9714 9732 9733 9742 
 commission 9637 9638 9640 9643 9685 
+commission's 9637 
 commissioned 9708 
 commissioner 9704 
 commissions 9711 9717 
@@ -1665,11 +1669,13 @@ demise 9687
 democrat 9703 
 democratic 9688 9703 
 democrats 9688 
+democrats' 9688 
 demonstrators 9713 
 denied 9653 
 denominations 9724 9740 
 denver 9637 9651 
 department 9645 9663 9667 9695 9717 9722 
+department's 9667 
 departments 9732 
 departure 9695 
 depend 9733 
@@ -1818,6 +1824,7 @@ economies 9717
 economists 9722 
 economy 9655 9683 9692 9698 9701 9712 9717 9722 
 ecuador 9648 9674 9713 
+ecuador's 9713 
 ecuadorean 9713 
 edge 9679 
 edison 9685 
@@ -2249,6 +2256,7 @@ gdp 9649 9655 9692
 gearing 9733 
 gen. 9658 
 gencorp 9638 
+gencorp's 9638 
 gender 9716 
 general 9638 9658 9667 9704 9713 9719 9732 
 generally 9646 9717 
@@ -2297,6 +2305,7 @@ gros 9673
 gross 9722 
 ground 9679 
 group 9638 9643 9657 9674 9679 9685 9692 9706 9707 9722 9723 9728 9733 9734 9736 9739 
+group's 9733 
 grow 9638 9689 9705 
 growing 9659 9717 
 growmark 9687 
@@ -2400,6 +2409,7 @@ hundreds 9722
 hurt 9701 
 hydraulic 9706 
 iadb 9648 9649 9655 9673 9692 
+iadb's 9648 
 ibc 9654 9680 
 icc 9637 
 ico 9654 9680 
@@ -3852,6 +3862,7 @@ statistics 9702 9729
 status 9653 9670 9742 
 steakhouse 9669 
 steel 9666 9732 9736 
+steel's 9666 
 steep 9691 
 steering 9676 
 stemming 9701 
@@ -4304,6 +4315,7 @@ wrong 9679
 wrongdoing 9679 
 yard 9716 
 yards 9646 
+year's 9641 
 year-ago 9647 
 year-earlier 9641 
 year-on-year 9700 9702 
@@ -4311,7 +4323,8 @@ year-to-date 9669
 years 9643 9655 9663 9670 9672 9673 9690 9692 9708 9717 9719 9722 9725 9732 9742 
 yen 9698 9701 9710 9720 9722 9725 
 yen/dollar 9689 
-yesterday 9651 9673 9675 9696 9703 9715 9716 9721 9730 
+yesterday 9651 9673 9696 9703 9715 9716 9721 9730 
+yesterday's 9675 
 yeung 9717 
 yeutter 9704 
 yield 9675 9714 9740 

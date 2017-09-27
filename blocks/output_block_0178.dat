@@ -342,6 +342,7 @@ adb 17991
 adb-africa 17991 
 added 17966 17980 17991 
 adding 17980 17983 17986 
+addition 17961 
 additionally 17993 
 adds 17976 
 adjusted 17999 
@@ -441,6 +442,7 @@ balanced 17963
 ban 17962 
 bancorp 17969 17987 
 bank 17962 17966 17969 17970 17976 17980 17982 17991 17993 
+bank's 17991 
 bankers 17980 
 banks 17970 17973 17976 17980 17991 
 barber 17976 
@@ -1024,6 +1026,7 @@ gnp 17970
 gold 17966 
 goods 17964 17980 
 government 17962 17966 17970 
+government's 17970 
 governors 17991 
 gra 17984 
 grace 17984 
@@ -1134,7 +1137,7 @@ initially 17966
 initiative 17976 
 initiatives 17980 
 instability 17976 
-institution 17991 
+institution's 17991 
 institutions 17986 
 insurance 17968 
 intend 17976 
@@ -1294,6 +1297,7 @@ monetary 17966 17976
 money 17966 17970 17976 
 money-fx 17980 
 monier 17986 
+monier's 17986 
 montagu 17966 
 month 17963 17971 17976 
 months 17964 17966 17971 17986 17991 
@@ -1576,7 +1580,7 @@ represents 17961
 rescheduling 17980 
 resdel 17978 
 reserve 17961 17976 
-reserves 17966 17976 17980 
+reserves 17961 17966 17976 17980 
 resistance 17976 
 resolved 18000 
 respect 17980 
@@ -1723,7 +1727,7 @@ soviet 18000
 soviets 18000 
 spa 17968 
 spc 17961 
-special 17969 
+special 17961 17969 
 specific 17980 
 spending 17970 17976 
 spiralled 17970 
@@ -1845,7 +1849,8 @@ time 17973 17976 17991 17992
 times 17986 
 timoci 17962 
 tit 17976 
-today 17962 17966 17979 17980 17986 17990 17994 
+today 17962 17966 17979 17980 17986 17994 
+today's 17990 
 tokyo 17980 17994 
 told 17963 17979 17980 17986 17991 18000 
 toll 17973 17995 
@@ -1869,6 +1874,7 @@ treaty 18000
 trespass 17979 
 triggered 17970 
 trust 17964 17969 
+trust's 17969 
 turned 17962 
 two-for-one 17987 
 type= 17985 17996 17997 17998 
@@ -1931,6 +1937,7 @@ wdt 17992
 wealthy 17976 
 webb 17972 
 wedtech 17985 17992 
+wedtech's 17992 
 week 17980 17990 
 weeks 17976 
 weight 17966 

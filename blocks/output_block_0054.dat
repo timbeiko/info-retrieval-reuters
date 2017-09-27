@@ -1188,6 +1188,7 @@ affiliated 5662
 afl-cio 5561 
 afp 5662 
 africa 5542 5570 
+africa's 5570 
 african 5542 5570 
 agency 5589 5599 5625 5631 
 agenda 5598 
@@ -1198,7 +1199,7 @@ agree 5570 5589
 agreed 5559 5560 5561 5597 5622 5675 
 agreeing 5598 
 agreement 5524 5550 5562 5574 5591 5597 5598 5622 5636 5643 5646 5667 5670 5686 5690 5691 
-agreements 5561 5570 5589 5614 5672 
+agreements 5524 5561 5570 5589 5614 5672 
 agrees 5597 5672 
 agricultural 5635 5636 
 agriculture 5577 5610 5611 5635 5636 5639 5640 5648 5655 
@@ -1374,6 +1375,7 @@ banco 5684 5692
 bancorp 5594 5661 5687 
 bancshares 5694 
 bank 5529 5534 5551 5588 5590 5599 5608 5609 5613 5622 5626 5631 5661 5670 5672 
+bank's 5613 
 banking 5534 5551 5608 5672 
 banks 5527 5534 5597 5599 5672 5697 
 banner 5673 
@@ -1597,6 +1599,7 @@ bnr 5673
 board 5534 5537 5578 5585 5622 5642 5667 5674 5683 
 bodies 5609 
 boesky 5584 5589 
+boesky's 5589 
 bolster 5599 
 bond 5529 5631 5639 
 bond/equity 5631 
@@ -1799,6 +1802,7 @@ closer 5646
 closing 5529 5559 5597 5622 
 closings 5573 
 clough 5631 
+clrx 5524 
 club 5628 
 cma 5593 
 cme 5622 5642 
@@ -1907,6 +1911,7 @@ construction 5541 5547 5558 5599 5601 5605
 consultants 5601 
 consumer 5587 5598 5670 
 consumers 5587 5598 
+consumers' 5587 
 consumption 5561 5683 
 contamination 5601 
 contempo 5525 
@@ -2631,7 +2636,7 @@ fourth 5579 5627 5643 5660
 fra 5685 
 fracture 5645 
 france 5527 5659 5693 
-francisco 5578 5701 
+francisco 5578 
 frank 5561 
 frankfurt 5534 
 franklin 5663 
@@ -2705,6 +2710,7 @@ gotaas-larsen 5553
 gotlf 5553 
 gov 5666 
 government 5542 5548 5554 5574 5599 5616 5638 5643 5684 5690 5692 5695 
+government's 5690 5692 
 governor 5577 5599 5666 
 gr125 5536 
 grade 5598 
@@ -3610,6 +3616,7 @@ politics 5666
 pollution 5601 
 pool 5589 
 poor 5554 5570 
+poor's 5554 
 port 5542 
 portfolio 5631 
 portfolios 5631 
@@ -3715,6 +3722,7 @@ proposed 5542 5548 5557 5587 5643 5646 5683
 proposing 5690 
 proprietary 5578 
 prosecutor 5534 
+prosecutor's 5534 
 prosecutors 5534 
 prospects 5631 
 prospectus 5557 5560 
@@ -3722,6 +3730,7 @@ protect 5561 5584 5587 5589
 protected 5587 
 protecting 5589 
 protection 5587 5597 
+protection's 5597 
 protectionism 5570 
 protectionist 5561 
 protectionists 5561 
@@ -4008,7 +4017,7 @@ salemme 5587
 sales 5555 5556 5563 5573 5587 5596 5600 5615 5631 5635 5636 5647 5648 5653 5654 5679 5680 5686 
 salomon 5548 
 salt 5667 
-san 5578 5609 5654 5663 5701 
+san 5578 5609 5654 5663 
 sanctions 5542 
 sandner 5622 
 santa 5580 5676 5694 
@@ -4038,7 +4047,8 @@ sears 5686
 seasonal 5539 
 seat 5577 5674 
 seats 5674 
-sec 5584 5589 5616 5698 
+sec 5584 5589 5698 
+sec's 5616 
 secondary 5557 5562 
 secretary 5570 5574 5643 5690 
 section 5526 
@@ -4125,6 +4135,7 @@ shultz 5574
 side 5612 
 sides 5598 
 sigman 5551 
+sigman's 5551 
 sign 5561 5574 
 signaled 5690 
 signals 5631 
@@ -4134,7 +4145,7 @@ significance 5690
 significant 5589 5616 
 significantly 5613 
 signore 5681 
-signs 5599 5667 
+signs 5524 5599 5667 
 signup 5610 
 silencer 5605 
 silicon 5694 
@@ -4429,6 +4440,7 @@ trade 5525 5531 5542 5561 5570 5599 5622 5644 5655 5684 5689 5690 5692
 traded 5673 
 trader 5561 5589 
 traders 5531 5561 5636 
+traders' 5531 
 trades 5542 
 trading 5567 5589 5612 5616 5622 5642 
 traditional 5684 5692 

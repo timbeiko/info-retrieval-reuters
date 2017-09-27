@@ -820,6 +820,7 @@ alexandria 4914
 allan 4944 4984 
 alleged 4923 
 allegheny 4904 4910 
+allegheny's 4910 
 allen 4906 4951 
 allied 4966 
 allnet 4958 
@@ -875,6 +876,7 @@ arco 4963 4981
 area 4951 
 areas 4903 4951 4989 
 argentina 4969 4971 4988 
+argentina's 4971 
 argentine 4971 4988 
 argyll 4920 
 aries 4931 
@@ -1113,7 +1115,8 @@ brazilian 4916 4953 4969 4993
 brazilians 4969 
 break 4936 4940 
 breweries 4935 
-britain 4933 4941 4995 
+britain 4941 4995 
+britain's 4933 
 british 4995 
 broadening 4984 
 broader 4976 
@@ -1258,11 +1261,12 @@ cohn 4969
 cold 4897 
 collateralized 4957 
 colombia 4983 
+colombia's 4983 
 colombian 4983 
 colon 4983 
 columbus 4970 
 combine 4951 
-combined 4940 4949 4966 
+combined 4893 4940 4949 4966 
 comecon 4898 
 comment 4919 4923 
 comments 4958 4982 
@@ -1398,6 +1402,7 @@ customers 4923 4935 4936 4967 4976 4992
 cut 4918 4926 4942 4951 4966 4969 4988 
 cuts 4925 4937 4951 
 cyacq 4933 
+cyacq's 4933 
 cycle 4896 
 cyclops 4918 4933 
 cyl 4918 4933 
@@ -1451,7 +1456,8 @@ delivery 4965 4988
 demand 4897 4944 4965 4983 
 dennis 4919 
 dep't 4982 
-department 4897 4944 4958 4982 4984 4988 
+department 4897 4944 4958 4982 4988 
+department's 4984 
 deposit 4938 
 deposits 4938 4966 
 depressed 4966 
@@ -1516,6 +1522,7 @@ dividend 4956 4990 4998
 dividends 4974 
 division 4955 
 dixons 4933 
+dixons' 4933 
 dlr 4910 4914 4920 4930 4931 4943 4957 4964 4970 4971 4972 
 documents 4919 
 dodge 4931 4986 
@@ -1612,7 +1619,7 @@ environment 4982
 envisaged 4916 
 equal 4995 
 equip 4967 
-equipment 4944 4967 4982 
+equipment 4893 4944 4967 4982 
 equity 4902 4919 
 equivalent 4906 
 es 4895 
@@ -2498,7 +2505,7 @@ onstream 4962
 opened 4916 
 oper 4914 4930 4960 4974 
 operates 4935 
-operating 4989 
+operating 4893 4989 
 operation 4902 4962 4989 
 operations 4901 4902 4906 4926 4930 4942 4943 4951 4963 4974 4975 4981 4989 
 opinion 4969 
@@ -2647,6 +2654,7 @@ positively 4944
 possibilities 4951 
 possibility 4944 
 possibly 4897 4927 
+post 4893 
 post-big 4902 
 postpone 4947 
 posturing 4969 
@@ -3037,6 +3045,7 @@ shipped 4939 4983
 shipping 4939 
 ships 4953 
 shopping 4997 
+shopping's 4997 
 shorey 4996 
 short 4938 4969 
 shortly 4948 
@@ -3356,7 +3365,7 @@ undisclosed 4955 4963 4981
 unfortunate 4919 
 unilateral 4969 
 union 4897 4907 4939 4953 4965 4988 
-unit 4902 4917 4936 4944 4955 4963 4979 4981 4986 4989 4992 
+unit 4893 4902 4917 4936 4944 4955 4963 4979 4981 4986 4989 4992 
 united 4907 4957 
 units 4944 4951 4966 
 unm 4909 
@@ -3454,6 +3463,7 @@ writedown 4920 4972
 wrong 4917 
 wyss 4944 
 xuto 4941 
+year's 4962 
 year-earlier 4922 
 year-to-date 4899 4973 
 years 4893 4895 4905 4906 4912 4916 4946 4948 4966 4969 4973 4979 4989 4994 

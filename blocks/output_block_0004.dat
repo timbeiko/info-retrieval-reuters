@@ -1581,6 +1581,7 @@ brains 635
 branch 654 
 branches 762 
 brazil 684 740 754 759 765 
+brazil's 740 
 brazilian 740 754 765 
 brazilians 628 
 brazils 740 
@@ -1767,6 +1768,7 @@ closes 704
 closing 595 674 712 720 723 
 closings 674 
 club 624 
+co's 635 
 co-managed 678 
 co-operation 668 
 co-ordination 668 
@@ -1809,7 +1811,9 @@ common 599 602 609 618 657 683 706 714 732 748 749 752 767
 communications 589 669 714 
 community 622 672 
 compact 627 629 
+companies' 717 
 company 585 587 591 599 604 609 612 626 627 630 631 633 635 637 639 641 643 650 651 652 653 660 670 674 677 679 681 682 683 685 696 705 706 714 720 721 724 727 729 730 732 733 736 737 741 747 748 752 753 755 757 761 762 763 764 766 768 
+company's 637 730 748 752 
 companys 703 
 comparable 660 678 
 compared 629 635 705 706 711 748 
@@ -1911,6 +1915,7 @@ copy 635
 coral 724 
 core 645 762 
 corn 694 
+corp's 645 
 corporate 723 
 corporation 587 733 
 corrected 615 
@@ -2621,6 +2626,7 @@ finish 748
 fire 751 
 fires 659 
 firm 589 635 645 654 671 697 712 714 748 
+firm's 714 
 firmed 597 
 firms 654 656 671 688 717 749 
 fiscal 743 748 
@@ -2719,6 +2725,7 @@ gave 668
 gcc 668 
 gel 743 
 gelco 743 
+gelco's 743 
 general 634 727 729 747 762 
 generate 651 677 762 
 generator 590 
@@ -3246,6 +3253,7 @@ matching 582
 mateo 690 691 692 693 695 700 701 702 
 material 714 
 matsushita 753 
+matsushita's 753 
 matter 660 
 maturities 716 
 maturity 716 
@@ -3265,6 +3273,7 @@ means 660 740 759
 meant 740 
 measures 645 
 medical 696 748 
+medical's 748 
 medium 604 759 
 meet 672 677 684 705 740 754 
 meeting 591 628 668 714 730 740 754 759 
@@ -3633,6 +3642,7 @@ person 677 732
 personal 661 724 746 
 personnel 744 
 pesch 748 
+pesch's 748 
 pessimistic 754 
 peter 634 
 petroleum 597 
@@ -4402,7 +4412,8 @@ syndicate 736
 syne 734 
 syntech 734 
 syria 684 
-system 582 604 623 635 672 705 763 
+system 582 604 623 635 672 763 
+system's 705 
 systems 582 590 605 609 639 640 659 706 709 733 746 751 753 755 761 
 tahlequah 658 
 takeover 732 748 
@@ -4411,6 +4422,7 @@ taking 654
 talk 668 748 
 talking 714 740 759 765 
 talks 600 628 660 668 679 718 737 740 754 
+talks' 660 
 tamarac 751 
 tandem 623 
 tape 661 
@@ -4716,7 +4728,8 @@ workers 660 674 685 737
 working 635 660 710 711 
 workstation 746 
 workstations 746 
-world 627 634 635 656 677 684 688 704 718 720 736 740 742 754 765 
+world 634 635 656 677 684 688 704 718 720 736 740 742 754 765 
+world's 627 
 worldwide 635 704 711 730 736 766 
 worry 684 
 worrying 697 

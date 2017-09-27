@@ -936,6 +936,7 @@ a/s 9279
 ab 9199 9200 
 abandoning 9206 
 abbey 9168 
+abbey's 9168 
 ability 9203 
 abroad 9176 9184 9194 9220 
 absolute 9292 
@@ -1503,6 +1504,7 @@ casey 9247
 cash 9182 9203 9230 9232 9275 9277 9283 9296 9298 
 casualty 9209 
 cathay 9206 9223 
+cathay's 9206 
 cattle 9290 
 cattle/calf 9201 
 caused 9183 
@@ -1604,6 +1606,7 @@ community 9195 9257
 compagnie 9208 
 companmy 9246 
 company 9172 9175 9181 9185 9196 9197 9202 9205 9206 9210 9223 9228 9229 9230 9232 9236 9241 9242 9246 9247 9258 9259 9262 9269 9277 9279 9281 9283 9286 9289 9296 9297 9298 
+company's 9172 
 comparable 9281 9291 
 compared 9174 9191 9196 9201 9206 9283 
 compares 9181 
@@ -2751,6 +2754,7 @@ km 9190 9209
 knight 9275 
 know-how 9205 
 kong 9186 9206 9223 9234 9300 
+kong's 9186 
 korat 9227 
 korea 9205 
 korean 9205 
@@ -2873,6 +2877,7 @@ low-yield 9211
 lower 9171 9194 9202 9254 9281 9294 
 lowered 9211 
 lp 9268 
+ltd's 9197 
 ltd. 9200 
 ludwigshafen 9175 
 lufkin 9244 
@@ -3234,6 +3239,7 @@ package 9281 9283
 packaging 9232 
 packet-switching 9283 
 pact 9168 9203 9216 9220 9295 
+pact's 9203 
 pads 9208 
 paid 9172 9290 
 paint 9175 
@@ -3283,6 +3289,7 @@ peg 9170
 peking 9180 9183 9194 9226 9254 9256 
 pence 9182 
 pending 9283 
+people's 9180 9256 
 perceived 9224 
 perception 9280 
 perfectly 9283 
@@ -3326,7 +3333,8 @@ plants 9175 9184 9259
 plastics 9232 
 plateau 9293 
 platform 9208 
-plc 9172 9177 9182 9187 9192 9228 9229 9244 9246 9275 9279 9283 
+plc 9172 9177 9182 9187 9192 9228 9229 9244 9246 9275 9283 
+plc's 9279 
 pm-chad-casualties 9209 
 pm-debt 9225 
 png 9253 
@@ -3342,7 +3350,8 @@ polyphenylene 9204
 polytetrahydrofuran 9175 
 pont 9279 
 pooling 9180 
-poor 9181 9291 
+poor 9181 
+poor's 9291 
 popular 9292 
 populous 9294 
 port 9186 9223 
@@ -4350,6 +4359,7 @@ workforce 9205
 working 9208 9225 9232 9251 
 works 9205 
 world 9170 9180 9181 9182 9203 9256 9293 
+world's 9203 
 worried 9275 
 worse 9227 
 worsen 9211 
@@ -4363,6 +4373,7 @@ wu 9186
 xon.n 9279 
 yaik 9203 
 yamaichi 9245 
+year's 9174 
 year-ago 9265 9294 
 year-on-year 9165 9294 
 years 9169 9174 9180 9244 9253 9275 9276 9291 
@@ -4376,6 +4387,7 @@ yielded 9190
 yielding 9291 
 york 9169 9203 9244 9246 9252 9262 9271 9272 9275 9276 9280 9291 9296 9298 
 yugoslavia 9257 
+yugoslavia's 9257 
 zain 9174 
 zainuddin 9174 
 zealand 9210 

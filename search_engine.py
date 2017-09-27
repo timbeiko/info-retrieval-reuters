@@ -16,10 +16,14 @@ def checkIfIndex():
 def loadIndexToMemory():
     disk_index = open('merged_index.dat', 'r')
     memory_index = {}
+    i = 0
     for line in disk_index:
         term = line.split(" ")[0]
         postings = line.split()[1:]
         memory_index[term] = postings
+	i += 1
+    print i
+    print len(memory_index)
     return memory_index
 
 # Implement this next
