@@ -36,6 +36,9 @@ def loadIndexToMemory():
         memory_index[term] = postings
     return memory_index
 
+def addToResults(matching_docs, terms):
+    None
+
 def searchForDocuments(index):
     while(True):
         query =  raw_input("ENTER QUERY OR TYPE 'EXIT' TO QUIT: ")
@@ -61,7 +64,10 @@ def searchForDocuments(index):
                 or_subquery = True
             elif term == ")": # Close and merge OR subquery
                 or_subquery = False
-                matching_docs = set(matching_docs) | set(or_postings)
+                if matching_docs == []:
+                    matching_docs = set(matching_docs) | set(or_postings)
+                else:
+                    matching_docs = set(matching_docs) & set(or_postings)
                 or_postings = []
             elif term not in index:
                 break
