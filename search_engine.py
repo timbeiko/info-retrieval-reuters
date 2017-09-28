@@ -2,16 +2,20 @@ import SPIMI as spimi
 import os
 import nltk
 
+stop_word_file = open('stop_words.txt', 'r')
+stop_words = stop_word_file.read().split()
+
 def displayWelcomePrompt():
-    print "======================================="
+    print "\n==============================================="
     print "Welcome to Tim's Reuters Search Engine"
-    print "======================================="
+    print "===============================================\n"
 
 def checkIfIndex():
     if 'merged_index.dat' not in os.listdir(os.getcwd()):
         print "No index found. Creating one, please wait."
         spimi.main()
         print "Index successfully created."
+        print "==============================================="
 
 def loadIndexToMemory():
     disk_index = open('merged_index.dat', 'r')
@@ -22,15 +26,42 @@ def loadIndexToMemory():
         memory_index[term] = postings
     return memory_index
 
-# Implement this next
 def searchForDocuments(index):
-    None 
+    while(True):
+        query =  raw_input("ENTER QUERY OR TYPE 'EXIT' TO QUIT: ")
+        
+        if query == "EXIT":
+            break
+
+        # Process query
+        query = nltk.word_tokenize(query.lower())
+        processed_query = []
+        for term in query:
+            if term not in stop_words:
+                processed_query.append(term)
+
+        # Get matching docIDs
+        matching_docs = []
+        for term in processed_query:
+            if matching_docs == [] and term in index:
+                matching_docs = set(index[term])
+            elif term in index:
+                matching_docs = set(matching_docs) & set(index[term])
+        matching_docs = sorted(set(map(int, matching_docs)))
+        
+        if matching_docs == []:
+            print "No results.\n"
+        else:
+            print len(matching_docs), "matching documents:", matching_docs, "\n"
 
 def main():
     displayWelcomePrompt()
     checkIfIndex()
     index = loadIndexToMemory()
     searchForDocuments(index)
+    print "\n==============================================="
+    print "Thank you for using Tim's Reuters Search Engine"
+    print "==============================================="
 
 if __name__ == '__main__':
     main()
