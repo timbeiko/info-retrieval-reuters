@@ -1,0 +1,8 @@
+Size of:                Word Types (Terms)            Non-positional postings
+
+Unfiltered             
+No numbers              change, cumul change            change, cumul change
+Case Folding            change, cumul change            change, cumul change
+30 stop words           change, cumul change            change, cumul change
+150 stop words          change, cumul change            change, cumul change
+

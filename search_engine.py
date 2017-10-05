@@ -2,9 +2,6 @@ import SPIMI as spimi
 import os
 import nltk
 
-stop_word_file = open('stop_words.txt', 'r')
-stop_words = stop_word_file.read().split()
-
 def displayWelcomePrompt():
     print "\n==================================================="
     print "Welcome to Tim's Reuters Search Engine"
@@ -19,7 +16,6 @@ def displayWelcomePrompt():
     print "(one (two three)) ((four five) six)"
     print "===================================================\n\n"
 
-
 def checkIfIndex():
     if 'merged_index.dat' not in os.listdir(os.getcwd()):
         print "No index found. Creating one, please wait."
@@ -28,7 +24,7 @@ def checkIfIndex():
         print "==================================================="
 
 def loadIndexToMemory():
-    disk_index = open('merged_index.dat', 'r')
+    disk_index = open('compressed_index.dat', 'r')
     memory_index = {}
     for line in disk_index:
         term = line.split(" ")[0]
@@ -53,10 +49,11 @@ def searchForDocuments(index):
         # Process query
         query = nltk.word_tokenize(query.lower())
         processed_query = []
+        stop_words = [] # temporary
         for term in query:
             if term == "(" or term == ")":
                 processed_query.append(term)
-            elif term not in stop_words:
+            elif term not in stop_words: # Need to be sure we remove all numbers 
                 processed_query.append(term)
 
         # Get matching docIDs
@@ -87,7 +84,7 @@ def searchForDocuments(index):
 def main():
     displayWelcomePrompt()
     checkIfIndex()
-    index = loadIndexToMemory()
+    index = spimi.loadIndexToMemory()
     searchForDocuments(index)
     print "\n==================================================="
     print "Thank you for using Tim's Reuters Search Engine"

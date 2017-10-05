@@ -4,10 +4,12 @@ import os
 import sys 
 import json
 import itertools
+from operator import itemgetter
 
+# Global variables
 blockSizeLimitMB = 0.1
-stop_word_file = open('stop_words.txt', 'r')
-stop_words = stop_word_file.read().split()
+merged_index_file = "merged_index.dat"
+compressed_index_file = "compressed_index.dat"
 
 def create_SPIMI_index(input_file):
     token_stream = []
@@ -24,31 +26,31 @@ def create_SPIMI_index(input_file):
 
         # Tokenize line of document 
         token_line = nltk.word_tokenize(line)
-        token_line = [token.lower() for token in token_line] # Make tokens lowercase
+        # token_line = [token for token in token_line] # Not entirely sure why this line was here
 	
         # First line of each file
-        if "doctype" in token_line:
+        if "DOCTYPE" in token_line:
             continue
 
-        if "newid=" in token_line: # value of newid is 2 tokens past the "newid=" tag 
-            docID = int(token_line[token_line.index("newid=")+2]) 
+        if "NEWID=" in token_line: # value of newid is 2 tokens past the "newid=" tag 
+            docID = int(token_line[token_line.index("NEWID=")+2]) 
 
         # Add tokens to token_stream if they are not a stop word 
         for token in token_line:
-	    if token.endswith("'"):
-		token = token[:-1]
-	    elif token.endswith("'s"):
-		token = token[:-2]
-            if len(token) > 1 and token not in stop_words: 
-		token_stream.append([token, docID])
+    	    if token.endswith("'"):
+    		token = token[:-1]
+    	    elif token.endswith("'s"):
+    		token = token[:-2]
+            if len(token) > 1: 
+                token_stream.append([token, docID])
 
     # Output final block if not empty
     if token_stream != []:
         SPIMI_invert(token_stream, blockNumber, fileNumber)
-    return token_stream
+    return token_stream    
 
 def SPIMI_invert(token_stream, blockNumber, fileNumber):
-    output_file = "blocks/output_block_" + str(fileNumber) + str(blockNumber) + ".dat"
+    output_file = "blocks/output_block_" + str(fileNumber) + "_" + str(blockNumber) + ".dat"
     dictionary = {}
 
     # Build dictionary with tokens
@@ -117,7 +119,7 @@ def merge_blocks():
                     current_lines.pop(block)
 
     # Write out merged index
-    index_output = open("merged_index.dat", 'w')
+    index_output = open(merged_index_file, 'w')
     for term in merged_index:
         s = term.keys()[0] + " "
         # Sort posting list for term 
@@ -128,11 +130,130 @@ def merge_blocks():
         index_output.write('\n')
     print "Blocks succesfully merged"
 
+def loadIndexToMemory():
+    disk_index = open('merged_index.dat', 'r')
+    memory_index = {}
+    for line in disk_index:
+        term = line.split(" ")[0]
+        postings = line.split()[1:]
+        memory_index[term] = postings
+    return memory_index
+
+def writeCorpusStats(index_stage, terms, postings):
+    corpus_stats_file = open('corpus_stats.txt', 'a')
+    tabs = "\t\t\t\t\t\t\t\t\t\t"
+    entry = index_stage + tabs + str(terms) + tabs + str(postings) + "\n"
+    corpus_stats_file.write(entry)
+
+def compress_SPIMI_index():
+    # Clear corpus stats
+    corpus_stats_file = open('corpus_stats.txt', 'w')
+    corpus_stats_file.write("Size of:\t\t\t\t\t\t\t\t\t\tTerms\t\t\t\t\t\t\t\t\t\tPostings\n")
+    uncompressed_index = loadIndexToMemory()
+
+    # Get number of terms and postings of uncompressed index
+    term_count = 0
+    postings_count = 0
+    for term, postings in uncompressed_index.iteritems():
+        term_count += 1
+        postings_count += len(postings)
+    corpus_stats_file.write("Uncompressed\t\t\t\t\t\t\t\t\t\t" + str(term_count) + "\t\t\t\t\t\t\t\t\t\t" + str(postings_count) + "\n")
+
+    # Remove numbers 
+    index_no_numbers = {}
+    no_number_term_count = 0 
+    no_number_postings_count = 0
+    for term, postings in uncompressed_index.iteritems():
+        try:
+            float(term)
+        except:
+            index_no_numbers[term] = postings 
+            no_number_term_count += 1
+            no_number_postings_count += len(postings)
+    corpus_stats_file.write("No numbers\t\t\t\t\t\t\t\t\t\t" + str(no_number_term_count) + "\t\t\t\t\t\t\t\t\t\t" + str(no_number_postings_count) + "\n")
+
+    # Case Folding
+    lowercase_index = {}
+    lowercase_term_count = 0
+    lowercase_postings_count = 0 
+
+    for term, postings in index_no_numbers.iteritems():
+        if term.lower() not in lowercase_index:
+            lowercase_index[term.lower()] = postings 
+            lowercase_term_count += 1
+            lowercase_postings_count += len(postings)
+        else:
+            lowercase_index[term.lower()] += postings
+            lowercase_postings_count += len(postings)
+    corpus_stats_file.write("Case Folded\t\t\t\t\t\t\t\t\t\t" + str(lowercase_term_count) + "\t\t\t\t\t\t\t\t\t\t" + str(lowercase_postings_count) + "\n")
+
+    # Determine term frequency after case folding
+    term_frequency = {}
+    for term, postings in lowercase_index.iteritems():
+        if term in term_frequency:
+            term_frequency[term] += len(postings)
+        else:
+            term_frequency[term] = len(postings)
+    term_frequency_list = sorted(term_frequency.items(), key=itemgetter(1), reverse=True)
+    
+    thirty_most_frequent = []
+    thirty_one_to_one_fifty_most_frequent = []
+    for tuples in term_frequency_list[:30]:
+        thirty_most_frequent.append(tuples[0])
+
+    for tuples in term_frequency_list[30:150]:
+        thirty_one_to_one_fifty_most_frequent.append(tuples[0])
+
+    # Remove 30 stop words
+    index_minus_30_stop_words = {}
+    minus_30_term_count = 0
+    minus_30_postings_count = 0
+    for term, postings in lowercase_index.iteritems():
+        if term not in thirty_most_frequent:
+            index_minus_30_stop_words[term] = postings
+            minus_30_term_count += 1
+            minus_30_postings_count += len(postings)
+    corpus_stats_file.write("30 stop words\t\t\t\t\t\t\t\t\t\t" + str(minus_30_term_count) + "\t\t\t\t\t\t\t\t\t\t" + str(minus_30_postings_count) + "\n")
+
+    # Remove 150 stop words 
+    index_minus_150_stop_words = {}
+    minus_150_term_count = 0
+    minus_150_postings_count = 0
+    for term, postings in lowercase_index.iteritems():
+        if term not in thirty_one_to_one_fifty_most_frequent:
+            index_minus_150_stop_words[term] = postings
+            minus_150_term_count += 1
+            minus_150_postings_count += len(postings)
+    corpus_stats_file.write("150 stop words\t\t\t\t\t\t\t\t\t\t" + str(minus_150_term_count) + "\t\t\t\t\t\t\t\t\t\t" + str(minus_150_postings_count) + "\n")
+
+    # Write out compressed index 
+    compressed_index_output = open(compressed_index_file, 'w')
+    for term in sorted(lowercase_index.keys()):
+        s = term + " "
+        # Sort posting list for term 
+        sorted_values = sorted(set(map(int,lowercase_index[term])))
+        for docID in sorted_values:
+            s += str(docID) + " "
+        compressed_index_output.write(s)
+        compressed_index_output.write('\n')
+
 def main():
-    for filename in os.listdir(os.getcwd()+ "/reuters"):
-        if "reut" in filename:
-            create_SPIMI_index(open("reuters/" + filename, 'r'))
-    merge_blocks()
+    # Only create SPIMI index if not aleady done 
+    if len(os.listdir(os.getcwd()+ "/blocks")) == 0: 
+        for filename in os.listdir(os.getcwd()+ "/reuters"):
+            if "reut" in filename:
+                create_SPIMI_index(open("reuters/" + filename, 'r'))
+        merge_blocks()
+        compress_SPIMI_index()
+
+    # Only merge blocks into index if not already done
+    if merged_index_file not in os.listdir(os.getcwd()):
+        merge_blocks()
+        compress_SPIMI_index()
+
+    # Only compress index if not already done 
+    if compressed_index_file not in os.listdir(os.getcwd()):
+        compress_SPIMI_index()
 
 if __name__ == '__main__':
     main()
