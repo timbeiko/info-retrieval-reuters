@@ -2,6 +2,9 @@ import SPIMI as spimi
 import os
 import nltk
 
+stop_word_file = open('stop_words.txt', 'r')
+stop_words = stop_word_file.read().split()
+
 def displayWelcomePrompt():
     print "\n==================================================="
     print "Welcome to Tim's Reuters Search Engine"
@@ -39,22 +42,38 @@ def addToResults(results, terms):
         results = set(results) & set(terms)
     return results
 
+def preprocessQuery(query):
+    query = nltk.word_tokenize(query)
+
+    # Remove numbers
+    query_no_numbers = []
+    for term in query:
+        try:
+            float(query)
+        except:
+            query_no_numbers.append(term)
+
+    # Case Folding
+    query_lowercase = []
+    for term in query_no_numbers:
+        query_lowercase.append(term.lower())
+
+    # Remove Stop words
+    processed_query = []
+    for term in query_lowercase:
+        if term not in stop_words:
+            processed_query.append(term)
+
+    return processed_query
+
 def searchForDocuments(index):
     while(True):
         query =  raw_input("ENTER QUERY OR TYPE 'EXIT' TO QUIT: ")
         
         if query == "EXIT":
             break
-
-        # Process query
-        query = nltk.word_tokenize(query.lower())
-        processed_query = []
-        stop_words = [] # temporary
-        for term in query:
-            if term == "(" or term == ")":
-                processed_query.append(term)
-            elif term not in stop_words: # Need to be sure we remove all numbers 
-                processed_query.append(term)
+            
+        processed_query = preprocessQuery(query)
 
         # Get matching docIDs
         matching_docs = []
