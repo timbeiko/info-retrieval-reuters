@@ -226,6 +226,11 @@ def compress_SPIMI_index():
             minus_150_postings_count += len(postings)
     corpus_stats_file.write("150 stop words\t\t\t\t\t\t\t\t\t\t" + str(minus_150_term_count) + "\t\t\t\t\t\t\t\t\t\t" + str(minus_150_postings_count) + "\n")
 
+    # Write 150 most common stop words to disk
+    stop_words_file = open('stop_words.txt', 'w')
+    for tuples in term_frequency_list[:150]:
+        stop_words_file.write(tuples[0] + "\n")
+
     # Write out compressed index 
     compressed_index_output = open(compressed_index_file, 'w')
     for term in sorted(lowercase_index.keys()):
@@ -257,3 +262,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+    compress_SPIMI_index()
