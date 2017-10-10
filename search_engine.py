@@ -35,13 +35,6 @@ def loadIndexToMemory():
         memory_index[term] = postings
     return memory_index
 
-def addToResults(results, terms):
-    if results == []:
-        results = set(results) | set(terms)
-    else:
-        results = set(results) & set(terms)
-    return results
-
 def preprocessQuery(query):
     query = nltk.word_tokenize(query)
 
@@ -66,6 +59,30 @@ def preprocessQuery(query):
 
     return processed_query
 
+def addToResults(results, terms):
+    if results == []:
+        results = set(results) | set(terms)
+    else:
+        results = set(results) & set(terms)
+    return results
+
+def orderByNumberOfMatchingTerms(terms, matching_docs, index):
+    term_count = {}
+    for doc in matching_docs:
+        term_count[doc] = 0
+
+        for term in terms:
+            if str(doc) in index[term]:
+                term_count[doc] += 1
+
+    doc_term_count_sorted = sorted(term_count.items(), key=lambda x: x[1], reverse=True)
+
+    sorted_matching_docs = []
+    for doc in doc_term_count_sorted:
+        sorted_matching_docs.append(doc[0])
+        
+    return sorted_matching_docs
+
 def searchForDocuments(index):
     while(True):
         query =  raw_input("ENTER QUERY OR TYPE 'EXIT' TO QUIT: ")
@@ -79,9 +96,13 @@ def searchForDocuments(index):
         matching_docs = []
         or_subquery = False 
         or_postings = []
+        or_query = False
+        or_terms = []
+
         for term in processed_query:
             if term == "(": 
                 or_subquery = True
+                or_query = True
             elif term == ")": # Close and merge OR subquery
                 or_subquery = False
                 matching_docs = addToResults(matching_docs, or_postings)
@@ -90,10 +111,14 @@ def searchForDocuments(index):
                 break
             elif or_subquery: # Process interior of OR subquery
                 or_postings = set(or_postings) | set(index[term])
+                or_terms.append(term)
             else: # Process AND query
                 matching_docs = addToResults(matching_docs, index[term])
         
         matching_docs = sorted(map(int,matching_docs))
+
+        if or_query:
+            matching_docs = orderByNumberOfMatchingTerms(or_terms, matching_docs, index)
         
         if matching_docs == []:
             print "No results.\n"
