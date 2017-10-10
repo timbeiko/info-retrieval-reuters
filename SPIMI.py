@@ -262,4 +262,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-    compress_SPIMI_index()
