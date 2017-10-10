@@ -79,8 +79,11 @@ def orderByNumberOfMatchingTerms(terms, matching_docs, index):
 
     sorted_matching_docs = []
     for doc in doc_term_count_sorted:
+        # Uncomment this to see that OR documents are indeed ordered by nubmer of terms present
+        # if doc[1] > 1:
+        #     print doc 
         sorted_matching_docs.append(doc[0])
-        
+
     return sorted_matching_docs
 
 def searchForDocuments(index):
