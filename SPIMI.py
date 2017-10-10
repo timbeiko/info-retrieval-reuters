@@ -35,7 +35,7 @@ def create_SPIMI_index(input_file):
         if "NEWID=" in token_line: # value of newid is 2 tokens past the "newid=" tag 
             docID = int(token_line[token_line.index("NEWID=")+2]) 
 
-        # Add tokens to token_stream if they are not a stop word 
+        # Extra processing to handle NLTK issues.
         for token in token_line:
     	    if token.endswith("'"):
     		token = token[:-1]
