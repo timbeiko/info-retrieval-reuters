@@ -1,7 +1,7 @@
 # info-retrieval-reuters
 
-## Questions
-1. What is the difference between tasks 1 & 2? 
+## Report
+See "Report.pdf" for the full report. 
 
 Objectives: Implement SPIMI. Implement rudimentary information retrieval using your SPIMI indexer. Test and
 analyze your system, discuss how your design decisions influence the results.
