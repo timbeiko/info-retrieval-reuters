@@ -20,7 +20,7 @@ def displayWelcomePrompt():
     print "===================================================\n\n"
 
 def checkIfIndex():
-    if 'merged_index.dat' not in os.listdir(os.getcwd()):
+    if 'compressed_index.dat' not in os.listdir(os.getcwd()):
         print "No index found. Creating one, please wait."
         spimi.main()
         print "Index successfully created."

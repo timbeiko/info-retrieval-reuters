@@ -59,12 +59,12 @@ def SPIMI_invert(token_stream, blockNumber, fileNumber):
             dictionary[token[0]] = [token[1]]
         else:
             dictionary[token[0]].append(token[1])
-            dictionary[token[0]] = sorted(set(dictionary[token[0]]))
+            # dictionary[token[0]] = sorted(set(dictionary[token[0]]))
 
     # Write dictionary to disk 
     block_output = open(output_file, 'w')
     for word in sorted(dictionary):
-        posting_list = dictionary[word]
+        posting_list = sorted(set(dictionary[word]))
         entry = word + " "
         for p in posting_list:
             entry += str(p) 
