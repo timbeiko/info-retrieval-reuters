@@ -131,7 +131,7 @@ def searchForDocuments(index):
 def main():
     displayWelcomePrompt()
     checkIfIndex()
-    index = spimi.loadIndexToMemory()
+    index = loadIndexToMemory()
     searchForDocuments(index)
     print "\n==================================================="
     print "Thank you for using Tim's Reuters Search Engine"
