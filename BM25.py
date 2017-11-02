@@ -1,6 +1,6 @@
 # Copy of search_engine.py modified to implement the BM25 algorithm
 
-import SPIMI as spimi
+import SPIMI_BM25 as spimibm25
 import os
 import nltk
 from math import log
@@ -23,7 +23,6 @@ def BM25(matching_docs, index, query):
             # Need term frequency for doc
 
 
-
 def displayWelcomePrompt():
     print "\n==================================================="
     print "Welcome to Tim's Reuters Search Engine"
@@ -39,14 +38,14 @@ def displayWelcomePrompt():
     print "===================================================\n\n"
 
 def checkIfIndex():
-    if 'compressed_index.dat' not in os.listdir(os.getcwd()):
+    if 'bm25_index.dat' not in os.listdir(os.getcwd()):
         print "No index found. Creating one, please wait."
-        spimi.main()
+        spimibm25.main()
         print "Index successfully created."
         print "==================================================="
 
 def loadIndexToMemory():
-    disk_index = open('compressed_index.dat', 'r')
+    disk_index = open('bm25_index.dat', 'r')
     memory_index = {}
     for line in disk_index:
         term = line.split(" ")[0]
