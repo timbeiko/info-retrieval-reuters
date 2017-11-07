@@ -10,12 +10,14 @@ from operator import itemgetter
 blockSizeLimitMB = 1
 merged_index_file = "merged_bm25_index.dat"
 BM25_index_file = "bm25_index.dat"
+length_of_docs = []
 
 def create_SPIMI_index(input_file):
     token_stream = []
     docID = 0 
     blockNumber = 0 
     fileNumber = input_file.name[-7:-4]
+    current_doc_length = 0 
 
     for line in input_file:
         # Memory full - use SPIMI to write block to disk
@@ -26,13 +28,19 @@ def create_SPIMI_index(input_file):
 
         # Tokenize line of document 
         token_line = nltk.word_tokenize(line)
+        current_doc_length += len(token_line)
 	
         # First line of each file
         if "DOCTYPE" in token_line:
             continue
 
-        if "NEWID=" in token_line: # value of newid is 2 tokens past the "newid=" tag 
-            docID = int(token_line[token_line.index("NEWID=")+2]) 
+        if "NEWID=" in token_line: 
+            docID = int(token_line[token_line.index("NEWID=")+2]) # value of newid is 2 tokens past the "newid=" tag 
+
+            # Save & reset document length
+            if docID != 1:
+                length_of_docs.append(current_doc_length)
+                current_doc_length = 0
 
         # Extra processing to handle NLTK issues.
         for token in token_line:
@@ -161,6 +169,12 @@ def writeCorpusStats(index_stage, terms, postings):
 def compress_SPIMI_index():
     # Clear corpus stats
     corpus_stats_file = open('corpus_stats.txt', 'w')
+    if length_of_docs != 0: 
+        average_doc_length = float(sum(length_of_docs)) / len(length_of_docs)
+        corpus_stats_file.write("Average doc length: ")
+        print average_doc_length
+        corpus_stats_file.write(str(average_doc_length) + "\n")
+
     corpus_stats_file.write("Size of:\t\t\t\t\t\t\t\t\t\tTerms\t\t\t\t\t\t\t\t\t\tPostings\n")
     uncompressed_index = loadIndexToMemory()
 
@@ -247,11 +261,6 @@ def compress_SPIMI_index():
     # Write out compressed index 
     compressed_index_output = open(BM25_index_file, 'w')
     for entry in lowercase_index:
-        # print entry 
-        # print lowercase_index[entry]
-        # term = entry.keys()[0]
-        # postings = entry[term]
-        # sorted_postings = sorted(postings.items())
         s = str(entry) + " "
         s += str(lowercase_index[entry])
         compressed_index_output.write(s)
@@ -272,8 +281,8 @@ def main():
         compress_SPIMI_index()
 
     # Only compress index if not already done 
-    if BM25_index_file not in os.listdir(os.getcwd()):
-        compress_SPIMI_index()
+    # if BM25_index_file not in os.listdir(os.getcwd()):
+    #     compress_SPIMI_index()
 
 if __name__ == '__main__':
     main()

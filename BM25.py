@@ -7,8 +7,10 @@ from math import log
 
 stop_word_file = open('stop_words.txt', 'r')
 stop_words = stop_word_file.read().split()
-DOCUMENT_COUNT = 21578    # Add this to corpus_stats.txt 
-AVERAGE_DOC_LENGTH = 2000 # Placeholder -- need to calculate it, and add to corpus_stats.txt 
+DOCUMENT_COUNT = 21578   
+AVERAGE_DOC_LENGTH = 307.88844603 
+
+DOC_LENGTH = 307.88844603 # NEED TO TRACK THIS
 
 # Should this handle long query BM25? 
 def BM25(matching_docs, index, query):
@@ -17,10 +19,26 @@ def BM25(matching_docs, index, query):
     b  = 0.75
     doc_scores = {}
     for doc in matching_docs:
-        doc_scores[doc] = 0
+        doc_scores[doc] = 0.0
         for term in query: 
-            idf = log(DOCUMENT_COUNT/len(index[doc]))
-            # Need term frequency for doc
+            # Filter parentheses and bad OR terms
+            try: 
+                index[term]
+                index[term][doc]
+            except:
+                continue 
+            idf = log(DOCUMENT_COUNT/len(index[term]))
+            tf = index[term][doc]
+
+            top_term = (k1 + 1.0) * tf 
+            bottom_term = k1 * ((1-b) + b * (DOC_LENGTH/AVERAGE_DOC_LENGTH)) + tf
+           
+            doc_scores[doc] += (idf * (top_term/bottom_term))
+
+    print "Results:"
+    for doc in sorted(doc_scores, key=doc_scores.get, reverse=True):
+        print "Doc: " + str(doc) + " Score: " + str(doc_scores[doc])
+    print "\n"
 
 
 def displayWelcomePrompt():
