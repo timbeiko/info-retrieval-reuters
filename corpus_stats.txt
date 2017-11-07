@@ -1,7 +1,1 @@
 Average doc length: 307.88844603
-Size of:										Terms										Postings
-Uncompressed										163508										5671192
-No numbers										131264										5246356
-Case Folded										113534										5246356
-30 stop words										113504										3938098
-150 stop words										113414										3829560

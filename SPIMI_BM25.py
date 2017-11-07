@@ -175,6 +175,12 @@ def compress_SPIMI_index():
         print average_doc_length
         corpus_stats_file.write(str(average_doc_length) + "\n")
 
+        doc_length_file = open('doc_lengths.txt', 'w')
+        i = 0
+        while i < len(length_of_docs):
+            doc_length_file.write(str(i+1) + " " + str(length_of_docs[i]) + "\n")
+            i += 1 
+
     corpus_stats_file.write("Size of:\t\t\t\t\t\t\t\t\t\tTerms\t\t\t\t\t\t\t\t\t\tPostings\n")
     uncompressed_index = loadIndexToMemory()
 

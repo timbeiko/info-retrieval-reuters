@@ -10,10 +10,8 @@ stop_words = stop_word_file.read().split()
 DOCUMENT_COUNT = 21578   
 AVERAGE_DOC_LENGTH = 307.88844603 
 
-DOC_LENGTH = 307.88844603 # NEED TO TRACK THIS
-
 # Should this handle long query BM25? 
-def BM25(matching_docs, index, query):
+def BM25(matching_docs, index, query, doc_lengths):
     k1 = 1.5
     k3 = 1.5
     b  = 0.75
@@ -27,15 +25,23 @@ def BM25(matching_docs, index, query):
                 index[term][doc]
             except:
                 continue 
+
+            # Get doc length, with fallback 
+            try: 
+                doc_lengths[doc]
+                doc_length = doc_lengths[doc]
+            except: 
+                doc_length = AVERAGE_DOC_LENGTH
+
             idf = log(DOCUMENT_COUNT/len(index[term]))
             tf = index[term][doc]
 
             top_term = (k1 + 1.0) * tf 
-            bottom_term = k1 * ((1-b) + b * (DOC_LENGTH/AVERAGE_DOC_LENGTH)) + tf
+            bottom_term = k1 * ((1-b) + b * (doc_length/AVERAGE_DOC_LENGTH)) + tf
            
             doc_scores[doc] += (idf * (top_term/bottom_term))
 
-    print "Results:"
+    print str(len(doc_scores)) + " results:"
     for doc in sorted(doc_scores, key=doc_scores.get, reverse=True):
         print "Doc: " + str(doc) + " Score: " + str(doc_scores[doc])
     print "\n"
@@ -130,7 +136,16 @@ def orderByNumberOfMatchingTerms(terms, matching_docs, index):
 
     return sorted_matching_docs
 
+def loadDocLengthsToMemory():
+    docs = {}
+    with open('doc_lengths.txt', 'r') as doc_file:
+        for line in doc_file:
+            doc_lengths = line.split(" ")
+            docs[int(doc_lengths[0])] = int(doc_lengths[1])
+    return docs 
+
 def searchForDocuments(index):
+    doc_lengths = loadDocLengthsToMemory()
     while(True):
         query =  raw_input("ENTER QUERY OR TYPE 'EXIT' TO QUIT: ")
         
@@ -170,7 +185,7 @@ def searchForDocuments(index):
         if matching_docs == []:
             print "No results.\n"
         else:
-            BM25(matching_docs, index, processed_query)
+            BM25(matching_docs, index, processed_query, doc_lengths)
 
 def main():
     displayWelcomePrompt()
