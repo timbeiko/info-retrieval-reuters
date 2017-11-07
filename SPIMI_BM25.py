@@ -77,12 +77,11 @@ def SPIMI_invert(token_stream, blockNumber, fileNumber):
         block_output.write(entry)
     print "File #", fileNumber, "Block #", blockNumber, "written to disk"
 
-### TODO FOR BM25 
 def merge_blocks():
     # Open all blocks 
     blocks = []
     for filename in os.listdir(os.getcwd()+ "/bm25_blocks"):
-        blocks.append(open("blocks/" + filename, 'r'))
+        blocks.append(open("bm25_blocks/" + filename, 'r'))
     current_lines = {}
     merged_index = []
 
@@ -101,19 +100,28 @@ def merge_blocks():
                 lowest_alphabetical_string = current_term   
 
         # Add lowest string to dictionary
-        merged_index.append({lowest_alphabetical_string: []})
+        merged_index.append({lowest_alphabetical_string: {}})
 
-        # Check edge case where some last keys from blocks get inserted twice
-        if len(merged_index) > 2 and merged_index[-1].keys() == merged_index[-2].keys():
-            merged_index[-2].values()[0] += merged_index[-1].values()[0]
-            merged_index.pop(-1)
- 
         # Try to match lowest_alphabetical_string across blocks' current strings 
         for block in blocks:
             current_term = current_lines[block].keys()[0]
             if current_term == lowest_alphabetical_string:
-                # Concatenate postings lists if there is a match 
-                merged_index[-1].values()[0] += current_lines[block][current_term]
+                term_frequency_map = merged_index[-1][current_term]
+                docs_and_freqs = current_lines[block][current_term]
+
+                # Remove bracket from docID
+                docs_and_freqs[0] = docs_and_freqs[0][1:]
+                
+                i = 0 
+                while (i < len(docs_and_freqs)):
+                    if docs_and_freqs[i] == "}":
+                        break
+                    docID = int(docs_and_freqs[i])
+                    if docID not in term_frequency_map:
+                        term_frequency_map[docID] = docs_and_freqs[i+2]
+                    else:
+                        term_frequency_map[docID] =  term_frequency_map[docID] + docs_and_freqs[i+2]
+                    i += 4
 
                 # Try to move to next string of the block, remove block if we are at the end of it
                 try: 
@@ -125,18 +133,18 @@ def merge_blocks():
 
     # Write out merged index
     index_output = open(merged_index_file, 'w')
-    for term in merged_index:
-        s = term.keys()[0] + " "
-        # Sort posting list for term 
-        sorted_values = sorted(set(map(int,term.values()[0])))
-        for docID in sorted_values:
-            s += str(docID) + " "
+    for entry in merged_index:
+        term = entry.keys()[0]
+        postings = entry[term]
+        sorted_postings = sorted(postings.items())
+        s = str(term) + " "
+        s += str(sorted_postings)
         index_output.write(s)
         index_output.write('\n')
     print "Blocks succesfully merged"
 
 def loadIndexToMemory():
-    disk_index = open('merged_index.dat', 'r')
+    disk_index = open('merged_bm25_index.dat', 'r')
     memory_index = {}
     for line in disk_index:
         term = line.split(" ")[0]
@@ -238,12 +246,14 @@ def compress_SPIMI_index():
 
     # Write out compressed index 
     compressed_index_output = open(BM25_index_file, 'w')
-    for term in sorted(lowercase_index.keys()):
-        s = term + " "
-        # Sort posting list for term 
-        sorted_values = sorted(set(map(int,lowercase_index[term])))
-        for docID in sorted_values:
-            s += str(docID) + " "
+    for entry in lowercase_index:
+        # print entry 
+        # print lowercase_index[entry]
+        # term = entry.keys()[0]
+        # postings = entry[term]
+        # sorted_postings = sorted(postings.items())
+        s = str(entry) + " "
+        s += str(lowercase_index[entry])
         compressed_index_output.write(s)
         compressed_index_output.write('\n')
 

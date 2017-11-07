@@ -1,6 +1,6 @@
 Size of:										Terms										Postings
-Uncompressed										163508										2835869
-No numbers										131264										2623451
-Case Folded										113534										2623451
-30 stop words										113504										1969322
-150 stop words										113414										1915053
+Uncompressed										163508										5671192
+No numbers										131264										5246356
+Case Folded										113534										5246356
+30 stop words										113504										3938098
+150 stop words										113414										3829560

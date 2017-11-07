@@ -49,7 +49,15 @@ def loadIndexToMemory():
     memory_index = {}
     for line in disk_index:
         term = line.split(" ")[0]
-        postings = line.split()[1:]
+        postings = {}
+        raw_text_postings = line[len(term)+1:-2]
+        processed_postings = raw_text_postings.translate(None, "[]'\\/,\"()").split(" ")
+        i = 1
+        while (i < len(processed_postings)):
+            docID = int(processed_postings[i-1])
+            count = int(processed_postings[i])
+            postings[docID] = count
+            i += 2
         memory_index[term] = postings
     return memory_index
 
