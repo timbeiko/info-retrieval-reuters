@@ -5,8 +5,8 @@ There are three main python files in this project: `SPIMI.py`, `search_engine.py
 To run the project, you will need to create a `blocks` and `reuters` directory under the main project folder (`info-retrieval-reuters`). The `blocks` folder can be left empty -- it will be populated by `SPIMI.py`, and the `reuters` directory should contain the Reuters files, in the `reut2-XXX.sgm` format, where `XXX` is the number of the file. 
 
 ## Reports
-The report for the first part of the project can be found here:
-The report for the second part of the project can be found here: 
+The report for the first part of the project can be found here: https://www.overleaf.com/read/ggwqpnyqfxkm
+The report for the second part of the project can be found here:  https://www.overleaf.com/read/hhvngvgrbyyh
 
 ### Test Queries
 
