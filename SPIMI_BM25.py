@@ -54,6 +54,8 @@ def create_SPIMI_index(input_file):
     # Output final block if not empty
     if token_stream != []:
         SPIMI_invert(token_stream, blockNumber, fileNumber)
+    # Save final doc length
+    length_of_docs.append(current_doc_length)
     return token_stream    
 
 def SPIMI_invert(token_stream, blockNumber, fileNumber):
@@ -285,10 +287,6 @@ def main():
     if merged_index_file not in os.listdir(os.getcwd()):
         merge_blocks()
         compress_SPIMI_index()
-
-    # Only compress index if not already done 
-    # if BM25_index_file not in os.listdir(os.getcwd()):
-    #     compress_SPIMI_index()
 
 if __name__ == '__main__':
     main()
