@@ -4,6 +4,18 @@
 There are three main python files in this project: `SPIMI.py`, `search_engine.py`, `BM25.py` and `SPIMI_BM25.py`. The dependencies for these files can be found at the begining of each of them. 
 To run the project, you will need to create a `blocks` and `reuters` directory under the main project folder (`info-retrieval-reuters`). The `blocks` folder can be left empty -- it will be populated by `SPIMI.py`, and the `reuters` directory should contain the Reuters files, in the `reut2-XXX.sgm` format, where `XXX` is the number of the file. 
 
+## Reports
+The report for the first part of the project can be found here:
+The report for the second part of the project can be found here: 
+
+### Test Queries
+
+```
+1. Democrats’ welfare and healthcare reform policies
+2. Drug company bankruptcies
+3. George Bush
+```
+
 ### SPIMI.py
 `SPIMI.py` is the file that builds the index from the Reuters collection. In order to make testing quicker, it will only create blocks if the `blocks` directory is empty, then it will only merge them into `merged_index.dat` if that file does not exist, and finally it will only compress the index into `compressed_index.dat` if again no such file exists. Therefore, if you want to re-generate the index, you will need to delete those files (or update the SPIMI `main()` method). 
 

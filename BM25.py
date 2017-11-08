@@ -170,7 +170,7 @@ def searchForDocuments(index):
                 matching_docs = addToResults(matching_docs, or_postings)
                 or_postings = []
             elif term not in index:
-                break
+                continue
             elif or_subquery: # Process interior of OR subquery
                 or_postings = set(or_postings) | set(index[term])
                 or_terms.append(term)
